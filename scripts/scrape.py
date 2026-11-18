@@ -119,6 +119,20 @@ def clean_title(t):
     return t
 
 
+def tidy_location(raw, fallback):
+    """'Gristmill River Restaurant & Bar, 1287 Gruene Rd, New Braunfels, TX, 78130, United States'
+    becomes 'Gristmill River Restaurant & Bar, 1287 Gruene Rd'. Only trailing city/state/ZIP/country
+    parts are trimmed. Vague values ('TX') use the venue's own name instead."""
+    loc = (raw or "").split("\n")[0].strip()
+    parts = [p.strip() for p in loc.split(",") if p.strip()]
+    tail = re.compile(r"^(new braunfels|tx|texas|united states|usa|\d{5}(-\d{4})?)$", re.I)
+    while parts and tail.match(parts[-1]):
+        parts.pop()
+    if not parts or len(" ".join(parts)) < 6:
+        return fallback
+    return ", ".join(parts)[:90]
+
+
 def main(path, apply=False):
     feed = json.load(open(path, encoding="utf-8"))
     today = date.today().isoformat()
@@ -164,8 +178,7 @@ def main(path, apply=False):
                 last = (date.fromisoformat(end_day) - timedelta(days=1)).isoformat()
                 if last > day:
                     e["endDate"] = last
-            loc = (v.get("LOCATION") or "").split("\n")[0].strip() or src["location"]
-            e["location"] = loc[:90]
+            e["location"] = tidy_location(v.get("LOCATION"), src["location"])
             desc = re.sub(r"\s+", " ", v.get("DESCRIPTION", "")).strip()
             if desc:
                 e["description"] = (desc[:217] + "…") if len(desc) > 220 else desc
