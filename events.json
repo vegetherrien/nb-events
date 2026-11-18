@@ -4,7 +4,7 @@
  "timeZone": "America/Chicago",
  "title": "New Braunfels Event Calendar",
  "rangeStart": "2026-10-10",
- "rangeEnd": "2026-12-31",
+ "rangeEnd": "2027-02-28",
  "categories": [
   {
    "id": "hood",
@@ -99,6 +99,20 @@
   }
  ],
  "seasons": [
+  {
+   "month": 1,
+   "key": "jan",
+   "de": "Januar",
+   "title": "A quiet new year on the Comal",
+   "tagline": "Antiques at the Civic Center, two half marathons through the Hill Country, and Spurs basketball all month."
+  },
+  {
+   "month": 2,
+   "key": "feb",
+   "de": "Februar",
+   "title": "Market Days come back to Gruene",
+   "tagline": "Gruene Market Days return the third weekend, Brauntex fills up with shows, and the Spurs play two games in Austin."
+  },
   {
    "month": 10,
    "key": "oct",
@@ -1714,6 +1728,549 @@
    "description": "Pat Green rings in 2027 at Gruene Hall with an early show and a late countdown show. Separate tickets for each; last year's were $95.",
    "featured": true,
    "sourceURL": "https://www.prekindle.com/events/gruene-hall-presents"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Wizards",
+   "startDate": "2027-01-01",
+   "startTime": "16:00",
+   "location": "Away in Washington",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-01-spurs-at-wizards"
+  },
+  {
+   "id": "2027-01-02-new-braunfels-farmers-market",
+   "category": "market",
+   "title": "New Braunfels Farmers Market",
+   "shortTitle": "Farmers market",
+   "startDate": "2027-01-02",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "New Braunfels Farmers Market, 186 S Castell Ave",
+   "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
+   "outdoor": true,
+   "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
+  },
+  {
+   "category": "music",
+   "title": "David Lewis",
+   "startDate": "2027-01-02",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "sourceURL": "https://gruenehall.com/calendar/",
+   "startTime": "21:00",
+   "id": "2027-01-02-david-lewis"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Timberwolves",
+   "startDate": "2027-01-03",
+   "startTime": "18:00",
+   "location": "Away in Minneapolis",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-03-spurs-at-timberwolves"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Pacers",
+   "startDate": "2027-01-06",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-06-spurs-vs-pacers"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Grizzlies",
+   "startDate": "2027-01-08",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-08-spurs-vs-grizzlies"
+  },
+  {
+   "category": "market",
+   "title": "New Braunfels Antiques Extravaganza",
+   "shortTitle": "Antiques Extravaganza",
+   "startDate": "2027-01-08",
+   "endDate": "2027-01-10",
+   "timeNote": "Fri 10–5, Sat 9–5, Sun 10–4",
+   "location": "NB Civic & Convention Center, 375 S Castell Ave",
+   "price": "$8–12",
+   "description": "Dealers from across Texas fill the Civic Center with antiques and collectibles for the weekend.",
+   "featured": true,
+   "sourceURL": "https://www.heritageeventcompany.com/new-braunfels-antique-show-2027.html",
+   "id": "2027-01-08-new-braunfels-antiques-extravaganza"
+  },
+  {
+   "category": "music",
+   "title": "Huser Brothers",
+   "startDate": "2027-01-08",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "sourceURL": "https://gruenehall.com/calendar/",
+   "timeTBA": true,
+   "id": "2027-01-08-huser-brothers"
+  },
+  {
+   "id": "2027-01-09-new-braunfels-farmers-market",
+   "category": "market",
+   "title": "New Braunfels Farmers Market",
+   "shortTitle": "Farmers market",
+   "startDate": "2027-01-09",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "New Braunfels Farmers Market, 186 S Castell Ave",
+   "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
+   "outdoor": true,
+   "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
+  },
+  {
+   "category": "music",
+   "title": "Sammy Arriaga",
+   "startDate": "2027-01-09",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "sourceURL": "https://gruenehall.com/calendar/",
+   "timeTBA": true,
+   "id": "2027-01-09-sammy-arriaga"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Hawks",
+   "startDate": "2027-01-10",
+   "startTime": "14:00",
+   "location": "Away in Atlanta",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-10-spurs-at-hawks"
+  },
+  {
+   "category": "fest",
+   "title": "Time Travel Half Marathon",
+   "startDate": "2027-01-10",
+   "timeNote": "Morning start; see listing",
+   "location": "New Braunfels",
+   "description": "Half marathon and shorter distances through the Hill Country. Register ahead.",
+   "outdoor": true,
+   "sourceURL": "https://www.runningintheusa.com/classic/list/map/table/new%20braunfels-tx/half-marathon/sort-by-name/upcoming",
+   "id": "2027-01-10-time-travel-half-marathon"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Pelicans (NBA Paris Game)",
+   "startDate": "2027-01-14",
+   "startTime": "13:00",
+   "location": "Away in Paris, France",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "description": "Spurs home game played at the NBA Paris Game. Early afternoon tip in Texas.",
+   "id": "2027-01-14-spurs-vs-pelicans-nba-paris-game"
+  },
+  {
+   "category": "music",
+   "title": "Kruse Brothers",
+   "startDate": "2027-01-15",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "sourceURL": "https://gruenehall.com/calendar/",
+   "startTime": "20:00",
+   "id": "2027-01-15-kruse-brothers"
+  },
+  {
+   "id": "2027-01-16-new-braunfels-farmers-market",
+   "category": "market",
+   "title": "New Braunfels Farmers Market",
+   "shortTitle": "Farmers market",
+   "startDate": "2027-01-16",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "New Braunfels Farmers Market, 186 S Castell Ave",
+   "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
+   "outdoor": true,
+   "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
+  },
+  {
+   "category": "fest",
+   "title": "Retromania Comic-Con",
+   "shortTitle": "Retromania",
+   "startDate": "2027-01-16",
+   "endDate": "2027-01-17",
+   "location": "NB Civic & Convention Center, 375 S Castell Ave",
+   "price": "$35",
+   "description": "Comics, toys, retro games and guests at the Civic Center. Kids 11 and under free.",
+   "sourceURL": "https://www.heritageeventcompany.com/new-braunfels-retromania-comiccon-2027.html",
+   "id": "2027-01-16-retromania-comic-con"
+  },
+  {
+   "category": "music",
+   "title": "Gary P. Nunn",
+   "startDate": "2027-01-16",
+   "startTime": "19:30",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "timeNote": "Dates from ticket listings; confirm at brauntex.org",
+   "sourceURL": "https://brauntex.org/",
+   "id": "2027-01-16-gary-p-nunn"
+  },
+  {
+   "category": "music",
+   "title": "Cole Phillips",
+   "startDate": "2027-01-16",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "sourceURL": "https://gruenehall.com/calendar/",
+   "startTime": "21:00",
+   "id": "2027-01-16-cole-phillips"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Pelicans (NBA Manchester Game)",
+   "startDate": "2027-01-17",
+   "startTime": "09:30",
+   "location": "Away in Manchester, England",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "description": "Sunday morning tip in Texas for the NBA Manchester Game.",
+   "id": "2027-01-17-spurs-at-pelicans-nba-manchester-game"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Heat",
+   "startDate": "2027-01-20",
+   "startTime": "20:30",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-20-spurs-vs-heat"
+  },
+  {
+   "category": "music",
+   "title": "The Zmed Brothers: Everly Brothers Experience",
+   "startDate": "2027-01-21",
+   "startTime": "19:30",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "timeNote": "Dates from ticket listings; confirm at brauntex.org",
+   "sourceURL": "https://brauntex.org/",
+   "id": "2027-01-21-the-zmed-brothers-everly-brothers-experience"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Timberwolves",
+   "startDate": "2027-01-22",
+   "startTime": "20:30",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-22-spurs-vs-timberwolves"
+  },
+  {
+   "id": "2027-01-23-new-braunfels-farmers-market",
+   "category": "market",
+   "title": "New Braunfels Farmers Market",
+   "shortTitle": "Farmers market",
+   "startDate": "2027-01-23",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "New Braunfels Farmers Market, 186 S Castell Ave",
+   "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
+   "outdoor": true,
+   "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
+  },
+  {
+   "category": "music",
+   "title": "Buckets N Boards",
+   "startDate": "2027-01-23",
+   "startTime": "15:00",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "timeNote": "Dates from ticket listings; confirm at brauntex.org",
+   "sourceURL": "https://brauntex.org/",
+   "id": "2027-01-23-buckets-n-boards"
+  },
+  {
+   "category": "music",
+   "title": "Pecos & the Rooftops",
+   "startDate": "2027-01-23",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "sourceURL": "https://gruenehall.com/calendar/",
+   "startTime": "21:00",
+   "id": "2027-01-23-pecos-the-rooftops"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Trail Blazers",
+   "startDate": "2027-01-24",
+   "startTime": "14:30",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-24-spurs-vs-trail-blazers"
+  },
+  {
+   "category": "fest",
+   "title": "Das Dreizehn.Eins Half Marathon",
+   "shortTitle": "Dreizehn.Eins Half",
+   "startDate": "2027-01-24",
+   "timeNote": "Morning start; see listing",
+   "location": "New Braunfels",
+   "description": "\"Thirteen point one\" in German: New Braunfels' own half marathon.",
+   "outdoor": true,
+   "sourceURL": "https://www.runningintheusa.com/classic/list/map/table/new%20braunfels-tx/half-marathon/sort-by-name/upcoming",
+   "id": "2027-01-24-das-dreizehn-eins-half-marathon"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Rockets",
+   "startDate": "2027-01-26",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-26-spurs-vs-rockets"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Hornets",
+   "startDate": "2027-01-27",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-27-spurs-vs-hornets"
+  },
+  {
+   "category": "music",
+   "title": "Liverpool Legends: The Complete Beatles Experience",
+   "startDate": "2027-01-28",
+   "startTime": "19:30",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "timeNote": "Dates from ticket listings; confirm at brauntex.org",
+   "sourceURL": "https://brauntex.org/",
+   "id": "2027-01-28-liverpool-legends-the-complete-beatles-experience"
+  },
+  {
+   "category": "music",
+   "title": "Bill Murray & His Blood Brothers",
+   "startDate": "2027-01-28",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "sourceURL": "https://gruenehall.com/calendar/",
+   "startTime": "19:00",
+   "id": "2027-01-28-bill-murray-his-blood-brothers"
+  },
+  {
+   "category": "music",
+   "title": "The Bellamy Brothers",
+   "startDate": "2027-01-29",
+   "startTime": "19:30",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "timeNote": "Dates from ticket listings; confirm at brauntex.org",
+   "sourceURL": "https://brauntex.org/",
+   "id": "2027-01-29-the-bellamy-brothers"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Warriors",
+   "startDate": "2027-01-30",
+   "startTime": "16:30",
+   "location": "Away in San Francisco",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-30-spurs-at-warriors"
+  },
+  {
+   "id": "2027-01-30-new-braunfels-farmers-market",
+   "category": "market",
+   "title": "New Braunfels Farmers Market",
+   "shortTitle": "Farmers market",
+   "startDate": "2027-01-30",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "New Braunfels Farmers Market, 186 S Castell Ave",
+   "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
+   "outdoor": true,
+   "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
+  },
+  {
+   "category": "music",
+   "title": "A Tribute to Tony Bennett with Steve Leeds",
+   "startDate": "2027-01-30",
+   "startTime": "19:30",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "timeNote": "Dates from ticket listings; confirm at brauntex.org",
+   "sourceURL": "https://brauntex.org/",
+   "id": "2027-01-30-a-tribute-to-tony-bennett-with-steve-leeds"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Warriors",
+   "startDate": "2027-02-01",
+   "startTime": "21:00",
+   "location": "Away in San Francisco",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-02-01-spurs-at-warriors"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Clippers",
+   "startDate": "2027-02-02",
+   "startTime": "21:30",
+   "location": "Away in Los Angeles",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-02-02-spurs-at-clippers"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Magic",
+   "startDate": "2027-02-04",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-02-04-spurs-vs-magic"
+  },
+  {
+   "category": "music",
+   "title": "Sons of the Pioneers",
+   "startDate": "2027-02-05",
+   "startTime": "19:30",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "timeNote": "Dates from ticket listings; confirm at brauntex.org",
+   "sourceURL": "https://brauntex.org/",
+   "id": "2027-02-05-sons-of-the-pioneers"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Lakers",
+   "startDate": "2027-02-06",
+   "startTime": "19:30",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-02-06-spurs-vs-lakers"
+  },
+  {
+   "id": "2027-02-06-new-braunfels-farmers-market",
+   "category": "market",
+   "title": "New Braunfels Farmers Market",
+   "shortTitle": "Farmers market",
+   "startDate": "2027-02-06",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "New Braunfels Farmers Market, 186 S Castell Ave",
+   "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
+   "outdoor": true,
+   "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Mavericks",
+   "startDate": "2027-02-09",
+   "startTime": "19:00",
+   "location": "Away in Dallas",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-02-09-spurs-at-mavericks"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Thunder",
+   "startDate": "2027-02-11",
+   "startTime": "20:30",
+   "location": "Away in Oklahoma City",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-02-11-spurs-at-thunder"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Magic",
+   "startDate": "2027-02-13",
+   "startTime": "18:00",
+   "location": "Away in Orlando",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-02-13-spurs-at-magic"
+  },
+  {
+   "id": "2027-02-13-new-braunfels-farmers-market",
+   "category": "market",
+   "title": "New Braunfels Farmers Market",
+   "shortTitle": "Farmers market",
+   "startDate": "2027-02-13",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "New Braunfels Farmers Market, 186 S Castell Ave",
+   "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
+   "outdoor": true,
+   "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Heat",
+   "startDate": "2027-02-15",
+   "startTime": "16:00",
+   "location": "Away in Miami",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-02-15-spurs-at-heat"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Grizzlies",
+   "startDate": "2027-02-17",
+   "startTime": "19:00",
+   "location": "Away in Memphis",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-02-17-spurs-at-grizzlies"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Timberwolves",
+   "startDate": "2027-02-18",
+   "startTime": "18:30",
+   "location": "Away in Minneapolis",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-02-18-spurs-at-timberwolves"
+  },
+  {
+   "id": "2027-02-20-new-braunfels-farmers-market",
+   "category": "market",
+   "title": "New Braunfels Farmers Market",
+   "shortTitle": "Farmers market",
+   "startDate": "2027-02-20",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "New Braunfels Farmers Market, 186 S Castell Ave",
+   "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
+   "outdoor": true,
+   "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
+  },
+  {
+   "category": "market",
+   "title": "Gruene Market Days",
+   "shortTitle": "Gruene Market Days",
+   "startDate": "2027-02-20",
+   "endDate": "2027-02-21",
+   "startTime": "10:00",
+   "endTime": "17:00",
+   "location": "Gruene Historic District",
+   "description": "Market Days return for the year: about 100 artisans with handmade goods and packaged Texas foods. Free admission and parking. Dates follow the usual third-weekend pattern; confirm before you go.",
+   "outdoor": true,
+   "featured": true,
+   "sourceURL": "https://www.gruenetexas.com/market-days/",
+   "id": "2027-02-20-gruene-market-days"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Grizzlies (Austin)",
+   "startDate": "2027-02-26",
+   "startTime": "19:00",
+   "location": "Moody Center, Austin",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "description": "One of the Spurs' annual Austin home games, about 45 minutes up I-35.",
+   "id": "2027-02-26-spurs-vs-grizzlies-austin"
+  },
+  {
+   "id": "2027-02-27-new-braunfels-farmers-market",
+   "category": "market",
+   "title": "New Braunfels Farmers Market",
+   "shortTitle": "Farmers market",
+   "startDate": "2027-02-27",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "New Braunfels Farmers Market, 186 S Castell Ave",
+   "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
+   "outdoor": true,
+   "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Nuggets (Austin)",
+   "startDate": "2027-02-28",
+   "startTime": "12:00",
+   "location": "Moody Center, Austin",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "description": "Sunday matinee at the Moody Center, the second of the Austin games.",
+   "id": "2027-02-28-spurs-vs-nuggets-austin"
   }
  ],
  "notDated": [
@@ -1770,6 +2327,12 @@
    "title": "Hometown Holiday Parade",
    "detail": "Evening parade downtown with floats, live music and Santa, starting from Market Plaza on Napoleon St. Held in early December; the 2026 date isn't posted yet.",
    "sourceURL": "https://communityimpact.com/new-braunfels/arts-entertainment/new-braunfels-hometown-holiday-christmas-parade-announces-new-route/"
+  },
+  {
+   "category": "fest",
+   "title": "Spring and summer dates",
+   "detail": "Gruene Market Days run the third weekend each month through November. Wein & Saengerfest (May), the Comal County Fair (September) and Wurstfest (November) post dates in the new year.",
+   "sourceURL": "https://www.visitnbtx.com/events"
   }
  ],
  "weekly": [
