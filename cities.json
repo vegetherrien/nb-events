@@ -1,0 +1,8 @@
+[
+ {"id": "new-braunfels", "name": "New Braunfels", "state": "Texas", "latitude": 29.703, "longitude": -98.1245,
+  "feed": "https://raw.githubusercontent.com/vegetherrien/nb-events/main/events.json",
+  "calendar": "https://vegetherrien.github.io/nb-events/nb-events.ics"},
+ {"id": "boerne", "name": "Boerne", "state": "Texas", "latitude": 29.7947, "longitude": -98.7320,
+  "feed": "https://raw.githubusercontent.com/vegetherrien/nb-events/main/boerne/events.json",
+  "calendar": "https://vegetherrien.github.io/nb-events/boerne/events.ics"}
+]
