@@ -1,0 +1,197 @@
+"""Finds new events from local venues' public calendar feeds.
+
+    python3 scripts/scrape.py events.json            # list what's new, change nothing
+    python3 scripts/scrape.py events.json --apply    # add them to events.json
+
+Each source below publishes an iCalendar (.ics) feed. Events already in events.json
+(same day, similar title) are skipped, so it's safe to run any time.
+"""
+import json
+import re
+import sys
+import urllib.request
+from datetime import date, datetime, timedelta
+
+UA = "Mozilla/5.0 (compatible; nb-events-feed-bot)"
+
+# id, url, category, location fallback, keep (regex: only matching titles), drop (regex: skip matching titles)
+SOURCES = [
+    # Gruene Hall plays free daytime sets every day (covered by a weekly note), so only evening shows.
+    dict(name="Gruene Hall", url="https://gruenehall.com/events/?ical=1", category="music",
+         location="Gruene Hall, 1281 Gruene Rd", after="17:00",
+         drop=r"\b(closed|private|rehearsal|dance lessons?)\b"),
+    dict(name="Brauntex Theatre", url="https://brauntex.org/events/?ical=1", category="music",
+         location="Brauntex Theatre, 290 W San Antonio St", drop=r"\b(subscription|gift card|rental)\b"),
+    # Gruene's town calendar is mostly patio music at local restaurants; evenings only.
+    dict(name="Gruene", url="https://www.gruenetexas.com/events/?ical=1", category="music",
+         location="Gruene Historic District", after="17:00", drop=r"\b(gruene hall|dance lessons?)\b"),
+    dict(name="Castell St. Market", url="https://firstprotestant.com/events/?ical=1", category="market",
+         location="First Protestant Church, 296 S Seguin Ave", keep=r"\bmarket\b"),
+    dict(name="Veramendi", url="https://lifeatveramendi.org/events/?ical=1", category="hood",
+         location="Veramendi", drop=r"\b(closed|closure)\b"),
+]
+
+# Title words that mean the event belongs in another category.
+CATEGORY_HINTS = [
+    (r"market days|vendor|craft fair|antique", "market"),
+    (r"christmas|holiday|santa|wassail|lighting|nutcracker|polar express|new year", "holiday"),
+    (r"ladies night|shopping|sale\b|5k|fun run|festival|blood drive", "fest"),
+]
+
+
+def fetch(url):
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return r.read().decode("utf-8", "replace")
+
+
+def unfold(text):
+    return re.sub(r"\r?\n[ \t]", "", text).splitlines()
+
+
+def unescape(s):
+    return (s.replace("\\n", "\n").replace("\\N", "\n").replace("\\,", ",")
+             .replace("\\;", ";").replace("\\\\", "\\")).strip()
+
+
+def parse_dt(prop, value):
+    """Returns (date 'YYYY-MM-DD', time 'HH:MM' or None). Times are left as local (Central)."""
+    v = value.strip()
+    if "VALUE=DATE" in prop or re.fullmatch(r"\d{8}", v):
+        return f"{v[:4]}-{v[4:6]}-{v[6:8]}", None
+    m = re.match(r"(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})", v)
+    if not m:
+        return None, None
+    y, mo, d, h, mi = map(int, m.groups())
+    dt = datetime(y, mo, d, h, mi)
+    if v.endswith("Z"):  # UTC: convert to Central (CST in winter, CDT in summer, close enough by month)
+        dt -= timedelta(hours=5 if 3 < mo < 11 else 6)
+    return dt.strftime("%Y-%m-%d"), dt.strftime("%H:%M")
+
+
+def parse_ics(text):
+    events, cur = [], None
+    for line in unfold(text):
+        if line == "BEGIN:VEVENT":
+            cur = {}
+        elif line == "END:VEVENT":
+            if cur: events.append(cur)
+            cur = None
+        elif cur is not None and ":" in line:
+            prop, _, value = line.partition(":")
+            key = prop.split(";")[0]
+            if key in ("DTSTART", "DTEND"):
+                cur[key] = parse_dt(prop, value)
+            elif key in ("SUMMARY", "LOCATION", "DESCRIPTION", "URL", "UID"):
+                cur[key] = unescape(value)
+    return events
+
+
+def slug(s):
+    return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")[:60]
+
+
+def norm(title):
+    t = re.sub(r"[^a-z0-9 ]", " ", title.lower())
+    stop = {"the", "a", "an", "and", "with", "at", "in", "of", "live", "presents"}
+    return [w for w in t.split() if w not in stop][:3]
+
+
+def is_duplicate(feed_events, day, title):
+    key = norm(title)
+    for e in feed_events:
+        if e["startDate"] <= day <= e.get("endDate", e["startDate"]):
+            other = norm(e["title"])
+            if key and other and (key[0] == other[0] or set(key[:2]) & set(other[:2])):
+                return True
+    return False
+
+
+def clean_title(t):
+    t = re.sub(r"\s+", " ", t).strip()
+    # Some venues shout their titles; turn "THE POLAR EXPRESS EXPERIENCE" into "The Polar Express Experience".
+    letters = [c for c in t if c.isalpha()]
+    if letters and sum(c.isupper() for c in letters) / len(letters) > 0.8:
+        small = {"a", "an", "and", "at", "by", "for", "in", "of", "on", "the", "to", "with", "w"}
+        words = t.lower().split(" ")
+        t = " ".join(w if (i and w in small) else w[:1].upper() + w[1:] for i, w in enumerate(words))
+    t = re.sub(r"\s*[-–|]\s*(Gruene Hall|Brauntex.*)$", "", t, flags=re.I)
+    return t
+
+
+def main(path, apply=False):
+    feed = json.load(open(path, encoding="utf-8"))
+    today = date.today().isoformat()
+    until = feed.get("rangeEnd", (date.today() + timedelta(days=90)).isoformat())
+    have_ids = {e["id"] for e in feed["events"]}
+    found = []
+
+    for src in SOURCES:
+        try:
+            raw = parse_ics(fetch(src["url"]))
+        except Exception as ex:  # one bad source shouldn't stop the rest
+            print(f"! {src['name']}: {ex}")
+            continue
+        for v in raw:
+            if "DTSTART" not in v or not v.get("SUMMARY"):
+                continue
+            day, start = v["DTSTART"]
+            if not day or day < today or day > until:
+                continue
+            title = clean_title(v["SUMMARY"])
+            if src.get("keep") and not re.search(src["keep"], title, re.I):
+                continue
+            if src.get("drop") and re.search(src["drop"], title, re.I):
+                continue
+            if src.get("after") and (start is None or start < src["after"]):
+                continue
+            if is_duplicate(feed["events"] + found, day, title):
+                continue
+            end_day, end = v.get("DTEND", (None, None))
+            cat = src["category"]
+            if cat != "hood":
+                for pat, c in CATEGORY_HINTS:
+                    if re.search(pat, title, re.I):
+                        cat = c
+                        break
+            e = {"id": f"{day}-{slug(title)}", "category": cat, "title": title, "startDate": day}
+            if start and start != "00:00":
+                e["startTime"] = start
+                if end and end_day == day and end > start:
+                    e["endTime"] = end
+            elif end_day and start is None:
+                # All-day events: DTEND is exclusive.
+                last = (date.fromisoformat(end_day) - timedelta(days=1)).isoformat()
+                if last > day:
+                    e["endDate"] = last
+            loc = (v.get("LOCATION") or "").split("\n")[0].strip() or src["location"]
+            e["location"] = loc[:90]
+            desc = re.sub(r"\s+", " ", v.get("DESCRIPTION", "")).strip()
+            if desc:
+                e["description"] = (desc[:217] + "…") if len(desc) > 220 else desc
+            e["sourceURL"] = v.get("URL") or src["url"].split("?")[0]
+            e["source"] = src["name"]  # shown in the report only, removed before saving
+            if e["id"] in have_ids:
+                continue
+            found.append(e)
+
+    found.sort(key=lambda e: (e["startDate"], e.get("startTime", "")))
+    print(f"{len(found)} new event(s) between {today} and {until}:\n")
+    for e in found:
+        print(f"  {e['startDate']} {e.get('startTime', '     ')}  [{e['category']:<7}] {e['title']}  ({e['source']})")
+
+    if apply and found:
+        for e in found:
+            e.pop("source", None)
+        feed["events"].extend(found)
+        feed["events"].sort(key=lambda e: e["startDate"])
+        feed["updated"] = date.today().isoformat()
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(json.dumps(feed, indent=1, ensure_ascii=False) + "\n")
+        print(f"\nAdded {len(found)} event(s) to {path}.")
+    return found
+
+
+if __name__ == "__main__":
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    main(args[0] if args else "events.json", apply="--apply" in sys.argv)
