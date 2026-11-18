@@ -14,8 +14,10 @@ from datetime import date, datetime, timedelta
 
 UA = "Mozilla/5.0 (compatible; nb-events-feed-bot)"
 
-# id, url, category, location fallback, keep (regex: only matching titles), drop (regex: skip matching titles)
-SOURCES = [
+# Sources per city (the feed's city.id picks the list).
+# ics sources: url, category, location fallback, keep/drop regexes on titles, after (earliest start time).
+# api sources (WordPress "The Events Calendar" JSON): category_map from their categories to ours.
+NB_SOURCES = [
     # Gruene Hall plays free daytime sets every day (covered by a weekly note), so only evening shows.
     dict(name="Gruene Hall", url="https://gruenehall.com/events/?ical=1", category="music",
          location="Gruene Hall, 1281 Gruene Rd", after="17:00",
@@ -31,6 +33,24 @@ SOURCES = [
          location="Veramendi", drop=r"\b(closed|closure)\b"),
 ]
 
+BOERNE_SOURCES = [
+    dict(name="The Boerne Life", api="https://theboernelife.com/wp-json/tribe/events/v1/events",
+         location="Boerne",
+         # Their categories → ours, first match wins. Events in none of these are skipped.
+         category_map=[("Holiday", "holiday"), ("Music", "music"), ("Shopping", "market"),
+                       ("Arts and Culture", "market"), ("Outdoors", "nature"), ("Sports", "fest"),
+                       ("Kids and Family", "fest"), ("Fundraiser", "fest"), ("General", "fest")],
+         drop=r"library|storytime|story time|trivia|karaoke|happy hour|networking|mastermind|meeting|book ?club|"
+              r"mahjong|yoga|tech (time|help)|game on|pok[eé]mon|open play|class\b|lessons?\b|run club|bingo|singo|"
+              r"burger night|ladies night|crafternoon|bookworms|memory lab|drawing group|potpourri|toastmasters|"
+              r"support group|workshop|webinar|cigar|wing bar|mixer|downtown diy|crafts & corks|clay earrings|"
+              r"ornament painting|bangle|dis-carded|lobby stop|burger king|watercolor|volunteer|clean-?up|trailblazers|"
+              r"nature makers|author alley|drop-off|dinner|singer/songwriter|live music with",
+         recurring=2),
+]
+
+SOURCES = {"new-braunfels": NB_SOURCES, "boerne": BOERNE_SOURCES}
+
 # Title words that mean the event belongs in another category.
 CATEGORY_HINTS = [
     (r"market days|vendor|craft fair|antique", "market"),
@@ -43,6 +63,43 @@ def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     with urllib.request.urlopen(req, timeout=30) as r:
         return r.read().decode("utf-8", "replace")
+
+
+def fetch_api(src, start, end):
+    """All events from a The Events Calendar REST API between two dates, normalized like parse_ics()."""
+    out, page = [], 1
+    while True:
+        url = f"{src['api']}?start_date={start}&end_date={end}&per_page=50&page={page}"
+        try:
+            data = json.loads(fetch(url))
+        except Exception:
+            break
+        for e in data.get("events", []):
+            sd, ed = e.get("start_date", ""), e.get("end_date", "")
+            venue = e.get("venue") or {}
+            loc = ", ".join(x for x in [venue.get("venue"), venue.get("address")] if x) if isinstance(venue, dict) else ""
+            out.append({
+                "SUMMARY": unescape_html(e.get("title", "")),
+                "DTSTART": (sd[:10], None if e.get("all_day") else sd[11:16]),
+                "DTEND": (ed[:10], None if e.get("all_day") else ed[11:16]),
+                "LOCATION": unescape_html(loc),
+                "DESCRIPTION": strip_html(e.get("description", "")),
+                "URL": e.get("url"),
+                "CATEGORIES": [c.get("name", "") for c in e.get("categories", [])],
+            })
+        if page >= int(data.get("total_pages") or 1):
+            break
+        page += 1
+    return out
+
+
+def strip_html(s):
+    return unescape_html(re.sub(r"<[^>]+>", " ", s or ""))
+
+
+def unescape_html(s):
+    import html
+    return re.sub(r"\s+", " ", html.unescape(s or "")).strip()
 
 
 def unfold(text):
@@ -139,13 +196,19 @@ def main(path, apply=False):
     until = feed.get("rangeEnd", (date.today() + timedelta(days=90)).isoformat())
     have_ids = {e["id"] for e in feed["events"]}
     found = []
+    city = (feed.get("city") or {}).get("id", "new-braunfels")
 
-    for src in SOURCES:
+    for src in SOURCES.get(city, []):
         try:
-            raw = parse_ics(fetch(src["url"]))
+            raw = fetch_api(src, today, until) if src.get("api") else parse_ics(fetch(src["url"]))
         except Exception as ex:  # one bad source shouldn't stop the rest
             print(f"! {src['name']}: {ex}")
             continue
+        if src.get("recurring"):
+            # Weekly regulars (trivia, wine-bar gigs) belong in "Every week" notes, not the calendar.
+            from collections import Counter
+            counts = Counter(clean_title(v.get("SUMMARY", "")).lower() for v in raw)
+            raw = [v for v in raw if counts[clean_title(v.get("SUMMARY", "")).lower()] <= src["recurring"]]
         for v in raw:
             if "DTSTART" not in v or not v.get("SUMMARY"):
                 continue
@@ -162,8 +225,14 @@ def main(path, apply=False):
             if is_duplicate(feed["events"] + found, day, title):
                 continue
             end_day, end = v.get("DTEND", (None, None))
-            cat = src["category"]
-            if cat != "hood":
+            if src.get("category_map"):
+                cats = v.get("CATEGORIES") or []
+                cat = next((ours for theirs, ours in src["category_map"] if theirs in cats), None)
+                if not cat:
+                    continue
+            else:
+                cat = src["category"]
+            if cat not in ("hood", "nature"):
                 for pat, c in CATEGORY_HINTS:
                     if re.search(pat, title, re.I):
                         cat = c
@@ -174,8 +243,8 @@ def main(path, apply=False):
                 if end and end_day == day and end > start:
                     e["endTime"] = end
             elif end_day and start is None:
-                # All-day events: DTEND is exclusive.
-                last = (date.fromisoformat(end_day) - timedelta(days=1)).isoformat()
+                # All-day events: DTEND is exclusive in .ics, inclusive in the JSON API.
+                last = end_day if src.get("api") else (date.fromisoformat(end_day) - timedelta(days=1)).isoformat()
                 if last > day:
                     e["endDate"] = last
             e["location"] = tidy_location(v.get("LOCATION"), src["location"])
