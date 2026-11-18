@@ -974,6 +974,16 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
+   "id": "2026-11-18-the-georges",
+   "category": "music",
+   "title": "The Georges",
+   "startDate": "2026-11-18",
+   "startTime": "19:00",
+   "endTime": "22:00",
+   "location": "Gruene Hall, 1281 Gruene Rd, New Braunfels, 78130",
+   "sourceURL": "https://gruenehall.com/event/the-georges-110/"
+  },
+  {
    "id": "2026-11-19-sweet-treat-thursday-cori-jean-ice-cream",
    "category": "hood",
    "title": "Sweet Treat Thursday: Cori Jean Ice Cream",
@@ -1018,6 +1028,47 @@
    "tag": "UIL area round",
    "sourceURL": "https://tylerpaper.com/2026/11/17/state-high-school-football-pairings-4/",
    "outdoor": false
+  },
+  {
+   "id": "2026-11-19-h-d-gruene-mercantile-ladies-night-out",
+   "category": "fest",
+   "title": "H.D. Gruene Mercantile Ladies Night Out",
+   "startDate": "2026-11-19",
+   "startTime": "17:00",
+   "endTime": "19:00",
+   "location": "H.D. Gruene Mercantile",
+   "sourceURL": "https://www.gruenetexas.com/event/h-d-gruene-mercantile-ladies-night-out/"
+  },
+  {
+   "id": "2026-11-19-isaac-jacob-band",
+   "category": "music",
+   "title": "Isaac Jacob Band",
+   "startDate": "2026-11-19",
+   "startTime": "19:00",
+   "endTime": "20:00",
+   "location": "Gruene Hall, 1281 Gruene Rd, New Braunfels, 78130",
+   "sourceURL": "https://gruenehall.com/event/isaac-jacob-band/"
+  },
+  {
+   "id": "2026-11-19-choir-choir-choir-presents-landslide-an-epic-fleetwood-mac-s",
+   "category": "music",
+   "title": "Choir! Choir! Choir! Presents: Landslide: an Epic Fleetwood Mac Sing-along!",
+   "startDate": "2026-11-19",
+   "startTime": "19:30",
+   "endTime": "21:30",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "description": "This is a fully interactive, participatory show where the audience becomes the performer—no experience is necessary and all voices are welcome. Directors Daveed Goldman and Nobu Adilman have traveled the world collabo…",
+   "sourceURL": "https://brauntex.org/event/choir-choir-choir-presents-landslide-an-epic-fleetwood-mac-sing-along/"
+  },
+  {
+   "id": "2026-11-19-chuck-briseno",
+   "category": "music",
+   "title": "Chuck Briseno",
+   "startDate": "2026-11-19",
+   "startTime": "20:30",
+   "endTime": "22:30",
+   "location": "Gruene Hall, 1281 Gruene Rd, New Braunfels, 78130",
+   "sourceURL": "https://gruenehall.com/event/chuck-briseno-3/"
   },
   {
    "id": "2026-11-20-visitor-center-at-the-hinman-house-grand-opening",
@@ -1129,6 +1180,16 @@
    "sourceURL": "https://sophienburg.com/weihnachtsmarkt/"
   },
   {
+   "id": "2026-11-20-clayton-chapin",
+   "category": "music",
+   "title": "Clayton Chapin",
+   "startDate": "2026-11-20",
+   "startTime": "17:00",
+   "endTime": "20:00",
+   "location": "TX",
+   "sourceURL": "https://www.gruenetexas.com/event/clayton-chapin-22/"
+  },
+  {
    "id": "2026-11-21-gruene-market-days",
    "category": "market",
    "title": "Gruene Market Days",
@@ -1207,6 +1268,58 @@
    "sourceURL": "https://txst.com/sports/football/schedule/2026"
   },
   {
+   "id": "2026-11-21-castell-st-market",
+   "category": "market",
+   "title": "Castell St. Market",
+   "startDate": "2026-11-21",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "First Protestant Church, 296 S Seguin Ave",
+   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
+   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2026-11-21/"
+  },
+  {
+   "id": "2026-11-21-south-tx-blood-drive",
+   "category": "hood",
+   "title": "South TX Blood Drive",
+   "startDate": "2026-11-21",
+   "startTime": "09:00",
+   "endTime": "14:00",
+   "location": "Winslet Provisions, TX, United States",
+   "description": "Join us for the Veramendi Blood Drive on Saturday, Nov. 21, from 9 a.m. – 2 p.m. in front of Winslet Provisions and help make a lifesaving difference in our community. As a thank-you, every blood donor will receive a …",
+   "sourceURL": "https://lifeatveramendi.org/event/south-tx-blood-drive/"
+  },
+  {
+   "id": "2026-11-21-reagan-hicks-band",
+   "category": "music",
+   "title": "Reagan Hicks Band",
+   "startDate": "2026-11-21",
+   "startTime": "17:00",
+   "endTime": "20:00",
+   "location": "TX",
+   "sourceURL": "https://www.gruenetexas.com/event/reagan-hicks-band-2/"
+  },
+  {
+   "id": "2026-11-21-owen-stroud",
+   "category": "music",
+   "title": "Owen Stroud",
+   "startDate": "2026-11-21",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Gristmill River Restaurant & Bar, 1287 Gruene Rd, New Braunfels, TX, 78130, United States",
+   "sourceURL": "https://www.gruenetexas.com/event/owen-stroud-15/"
+  },
+  {
+   "id": "2026-11-21-giovannie-the-hired-guns",
+   "category": "music",
+   "title": "Giovannie & The Hired Guns",
+   "startDate": "2026-11-21",
+   "startTime": "21:00",
+   "location": "Gruene Hall, 1281 Gruene Rd, New Braunfels, 78130",
+   "description": "Doors: 8pm Opener: Keaton Adams 9pm Giovannie & The Hired Guns: 10:30pm",
+   "sourceURL": "https://gruenehall.com/event/giovannie-the-hired-guns-6/"
+  },
+  {
    "id": "2026-11-22-cowboys-vs-titans",
    "category": "cowboys",
    "title": "Cowboys vs. Titans",
@@ -1217,6 +1330,47 @@
    "outdoor": false
   },
   {
+   "id": "2026-11-22-the-polar-express-experience",
+   "category": "holiday",
+   "title": "The Polar Express Experience",
+   "startDate": "2026-11-22",
+   "startTime": "15:30",
+   "endTime": "17:30",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "description": "All Aboard The Polar Express Experience! Get ready to embark on a magical holiday journey with the whole family! Presented by Santa’s Sleigh Christmas Shoppe Featuring Popbelly’s Popcorn! Pictures with Santa at the Tr…",
+   "sourceURL": "https://brauntex.org/event/the-polar-express-experience-2/"
+  },
+  {
+   "id": "2026-11-22-matt-kirk",
+   "category": "music",
+   "title": "Matt Kirk",
+   "startDate": "2026-11-22",
+   "startTime": "17:00",
+   "endTime": "20:00",
+   "location": "Gristmill River Restaurant & Bar, 1287 Gruene Rd, New Braunfels, TX, 78130, United States",
+   "sourceURL": "https://www.gruenetexas.com/event/matt-kirk-50/"
+  },
+  {
+   "id": "2026-11-22-b3",
+   "category": "music",
+   "title": "B3",
+   "startDate": "2026-11-22",
+   "startTime": "19:00",
+   "endTime": "20:30",
+   "location": "Gruene Hall, 1281 Gruene Rd, New Braunfels, 78130",
+   "sourceURL": "https://gruenehall.com/event/b3/"
+  },
+  {
+   "id": "2026-11-22-lowland-revelry",
+   "category": "music",
+   "title": "Lowland Revelry",
+   "startDate": "2026-11-22",
+   "startTime": "21:00",
+   "endTime": "22:30",
+   "location": "Gruene Hall, 1281 Gruene Rd, New Braunfels, 78130",
+   "sourceURL": "https://gruenehall.com/event/lowland-revelry-5/"
+  },
+  {
    "id": "2026-11-23-spurs-at-kings",
    "category": "spurs",
    "title": "Spurs at Kings",
@@ -1224,6 +1378,16 @@
    "startTime": "21:00",
    "location": "Away in Sacramento",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-11-23-lee-mathis-duo",
+   "category": "music",
+   "title": "Lee Mathis Duo",
+   "startDate": "2026-11-23",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Gruene Hall, 1281 Gruene Rd, New Braunfels, 78130",
+   "sourceURL": "https://gruenehall.com/event/lee-mathis-duo-5/"
   },
   {
    "id": "2026-11-24-two-ton-tuesday-thanksgiving-show",
@@ -1246,6 +1410,16 @@
    "location": "Away in Portland",
    "tv": "ESPN",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-11-25-shinyribs",
+   "category": "music",
+   "title": "Shinyribs",
+   "startDate": "2026-11-25",
+   "startTime": "20:00",
+   "location": "Gruene Hall, 1281 Gruene Rd, New Braunfels, 78130",
+   "description": "Doors: 7pm Opener: Scott Strickland 8pm Shinyribs: 9pm",
+   "sourceURL": "https://gruenehall.com/event/shinyribs-6/"
   },
   {
    "id": "2026-11-26-gruene-turkey-trot-5k-kids-turkey-chase",
@@ -1319,6 +1493,16 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
+   "id": "2026-11-27-aaron-watson-horse-named-texas-tour-w-special-guest-jake-wat",
+   "category": "music",
+   "title": "Aaron Watson: Horse Named Texas Tour w/ special guest Jake Watson",
+   "startDate": "2026-11-27",
+   "startTime": "20:00",
+   "location": "Gruene Hall, 1281 Gruene Rd, New Braunfels, 78130",
+   "description": "Doors: 7pm Special Guest: Jake Watson 8pm Aaron Watson: 9:30pm",
+   "sourceURL": "https://gruenehall.com/event/aaron-watson-horse-named-texas-tour-w-special-guest-jake-watson/"
+  },
+  {
    "id": "2026-11-28-new-braunfels-farmers-market",
    "category": "market",
    "title": "New Braunfels Farmers Market",
@@ -1343,6 +1527,27 @@
    "description": "Regular-season finale. The schedule lists a road \"flex\" game; the opponent is set late in the season.",
    "outdoor": false,
    "sourceURL": "https://txst.com/sports/football/schedule/2026"
+  },
+  {
+   "id": "2026-11-28-castell-st-market",
+   "category": "market",
+   "title": "Castell St. Market",
+   "startDate": "2026-11-28",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "First Protestant Church, 296 S Seguin Ave",
+   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
+   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2026-11-28/"
+  },
+  {
+   "id": "2026-11-28-aaron-watson-horse-named-texas-tour-w-special-guest-jake-wat",
+   "category": "music",
+   "title": "Aaron Watson: Horse Named Texas Tour w/ special guest Jake Watson",
+   "startDate": "2026-11-28",
+   "startTime": "21:00",
+   "location": "Gruene Hall, 1281 Gruene Rd, New Braunfels, 78130",
+   "description": "Doors: 8pm Special Guest: Jake Watson 9pm Aaron Watson: 10:30pm",
+   "sourceURL": "https://gruenehall.com/event/aaron-watson-horse-named-texas-tour-w-special-guest-jake-watson-2/"
   },
   {
    "id": "2026-11-29-spurs-vs-celtics",
@@ -1580,6 +1785,17 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
+   "id": "2026-12-17-ballet-texas-presents-the-nutcracker",
+   "category": "holiday",
+   "title": "Ballet Texas Presents the Nutcracker",
+   "startDate": "2026-12-17",
+   "startTime": "19:00",
+   "endTime": "21:00",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "description": "Nothing captures the holiday magic better than Ballet Texas’ production of The Nutcracker! Enjoy the magic as Clara dreams that her beloved nutcracker toy has come to life. Swords clash as her nutcracker prince leads …",
+   "sourceURL": "https://brauntex.org/event/ballet-texas-presents-the-nutcracker-11/"
+  },
+  {
    "id": "2026-12-18-food-truck-friday-cousins-maine-lobster",
    "category": "hood",
    "title": "Food Truck Friday: Cousins Maine Lobster",
@@ -1602,6 +1818,17 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
+   "id": "2026-12-18-ballet-texas-presents-the-nutcracker",
+   "category": "holiday",
+   "title": "Ballet Texas Presents the Nutcracker",
+   "startDate": "2026-12-18",
+   "startTime": "19:00",
+   "endTime": "21:00",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "description": "Nothing captures the holiday magic better than Ballet Texas’ production of The Nutcracker! Enjoy the magic as Clara dreams that her beloved nutcracker toy has come to life. Swords clash as her nutcracker prince leads …",
+   "sourceURL": "https://brauntex.org/event/ballet-texas-presents-the-nutcracker-10/"
+  },
+  {
    "id": "2026-12-19-new-braunfels-farmers-market",
    "category": "market",
    "title": "New Braunfels Farmers Market",
@@ -1613,6 +1840,17 @@
    "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
    "outdoor": true,
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
+  },
+  {
+   "id": "2026-12-19-ballet-texas-presents-the-nutcracker",
+   "category": "holiday",
+   "title": "Ballet Texas Presents the Nutcracker",
+   "startDate": "2026-12-19",
+   "startTime": "14:00",
+   "endTime": "16:00",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "description": "Nothing captures the holiday magic better than Ballet Texas’ production of The Nutcracker! Enjoy the magic as Clara dreams that her beloved nutcracker toy has come to life. Swords clash as her nutcracker prince leads …",
+   "sourceURL": "https://brauntex.org/event/ballet-texas-presents-the-nutcracker-9/"
   },
   {
    "id": "2026-12-20-cowboys-at-rams",
@@ -1632,6 +1870,17 @@
    "startTime": "18:00",
    "location": "Away in New Orleans",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-12-20-ballet-texas-presents-the-nutcracker",
+   "category": "holiday",
+   "title": "Ballet Texas Presents the Nutcracker",
+   "startDate": "2026-12-20",
+   "startTime": "14:00",
+   "endTime": "16:00",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "description": "Nothing captures the holiday magic better than Ballet Texas’ production of The Nutcracker! Enjoy the magic as Clara dreams that her beloved nutcracker toy has come to life. Swords clash as her nutcracker prince leads …",
+   "sourceURL": "https://brauntex.org/event/ballet-texas-presents-the-nutcracker-7/"
   },
   {
    "id": "2026-12-21-spurs-vs-bucks",
@@ -2076,14 +2325,15 @@
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
   },
   {
+   "id": "2027-01-30-a-tribute-to-the-piano-men-jerry-lee-elton-joel-and-more",
    "category": "music",
-   "title": "A Tribute to Tony Bennett with Steve Leeds",
+   "title": "A Tribute to the Piano-Men: Jerry Lee, Elton, Joel and More!",
    "startDate": "2027-01-30",
    "startTime": "19:30",
+   "endTime": "21:30",
    "location": "Brauntex Theatre, 290 W San Antonio St",
-   "timeNote": "Dates from ticket listings; confirm at brauntex.org",
-   "sourceURL": "https://brauntex.org/",
-   "id": "2027-01-30-a-tribute-to-tony-bennett-with-steve-leeds"
+   "description": "Sponsored by Karen & Don Wagoner and CeCe & Robert Jenkins Get ready for an electric, high-octane celebration of rock ’n’ roll’s greatest keyboard icons. Fronted by rockabilly phenom Josh Christina and backed by a dyn…",
+   "sourceURL": "https://brauntex.org/event/a-tribute-to-the-piano-men-jerry-lee-elton-joel-and-more/"
   },
   {
    "category": "spurs",
@@ -2111,6 +2361,17 @@
    "location": "Frost Bank Center, San Antonio",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
    "id": "2027-02-04-spurs-vs-magic"
+  },
+  {
+   "id": "2027-02-04-a-tribute-to-the-music-memories-of-tony-bennett-starring-ste",
+   "category": "music",
+   "title": "A Tribute to the Music & Memories of Tony Bennett starring Steve Leeds",
+   "startDate": "2027-02-04",
+   "startTime": "19:30",
+   "endTime": "21:30",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "description": "Sponsored by Melissa & Craig Wilson Join us for a special, unforgettable evening as Steve Leeds sweeps you away with a timeless songbook of standards spanning three generations. From the romantic crooning of “I Left M…",
+   "sourceURL": "https://brauntex.org/event/a-tribute-to-the-music-memories-of-tony-bennett-starring-steve-leeds/"
   },
   {
    "category": "music",
@@ -2145,6 +2406,17 @@
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
   },
   {
+   "id": "2027-02-06-uptown-a-celebration-of-motown-soul",
+   "category": "music",
+   "title": "Uptown: A Celebration of Motown & Soul",
+   "startDate": "2027-02-06",
+   "startTime": "19:30",
+   "endTime": "21:30",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "description": "Sponsored by Leslie Lammers & Tom Tumlinson Fusing top-tier vocals with wall-to-wall choreography, UPTOWN combines smooth R&B stylings with the fresh radio hits of today. Born in the epicenter of soul, New York City, …",
+   "sourceURL": "https://brauntex.org/event/uptown-a-celebration-of-motown-soul/"
+  },
+  {
    "category": "spurs",
    "title": "Spurs at Mavericks",
    "startDate": "2027-02-09",
@@ -2161,6 +2433,17 @@
    "location": "Away in Oklahoma City",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
    "id": "2027-02-11-spurs-at-thunder"
+  },
+  {
+   "id": "2027-02-12-the-fabulous-equinox-orchestra",
+   "category": "music",
+   "title": "The Fabulous Equinox Orchestra",
+   "startDate": "2027-02-12",
+   "startTime": "19:30",
+   "endTime": "21:30",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "description": "Sponsored by Spotlight Concessions Led by Jeremy Davis and Clay Johnson, this sophisticated big band show is unlike any other, featuring original arrangements that range from Motown to Texas Swing. Inspired by the swa…",
+   "sourceURL": "https://brauntex.org/event/the-fabulous-equinox-orchestra/"
   },
   {
    "category": "spurs",
@@ -2183,6 +2466,17 @@
    "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
    "outdoor": true,
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
+  },
+  {
+   "id": "2027-02-13-gino-vannelli",
+   "category": "music",
+   "title": "Gino Vannelli",
+   "startDate": "2027-02-13",
+   "startTime": "19:30",
+   "endTime": "21:30",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "description": "Grammy-nominated composer, vocalist, and arranger Gino Vannelli brings his captivating live performance and genre-blending artistry to our stage. Known for passionate vocals and enduring hits like “I Just Wanna Stop” …",
+   "sourceURL": "https://brauntex.org/event/gino-vannelli/"
   },
   {
    "category": "spurs",
@@ -2212,6 +2506,28 @@
    "id": "2027-02-18-spurs-at-timberwolves"
   },
   {
+   "id": "2027-02-18-3-decades-rewind",
+   "category": "music",
+   "title": "3 Decades Rewind",
+   "startDate": "2027-02-18",
+   "startTime": "19:30",
+   "endTime": "21:30",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "description": "Take a ride through the golden era of rock, pop, and dance with 3 Decades Rewind. Billed as the ultimate rock ’n’ roll time machine, this powerhouse ensemble channels the finest anthems of the ’60s, ’70s, and ’80s wit…",
+   "sourceURL": "https://brauntex.org/event/3-decades-rewind/"
+  },
+  {
+   "id": "2027-02-19-the-ultimate-waylon-tribute",
+   "category": "music",
+   "title": "The Ultimate Waylon Tribute",
+   "startDate": "2027-02-19",
+   "startTime": "19:30",
+   "endTime": "21:30",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "description": "Sponsored by Janie & Bill Sneed Experience the authentic pulse of Outlaw Country with The Ultimate Waylon Tribute. Fronted by Tommy Townsend and featuring original members of Waylon Jennings’ own band, this powerhouse…",
+   "sourceURL": "https://brauntex.org/event/the-ultimate-waylon-tribute/"
+  },
+  {
    "id": "2027-02-20-new-braunfels-farmers-market",
    "category": "market",
    "title": "New Braunfels Farmers Market",
@@ -2238,6 +2554,17 @@
    "featured": true,
    "sourceURL": "https://www.gruenetexas.com/market-days/",
    "id": "2027-02-20-gruene-market-days"
+  },
+  {
+   "id": "2027-02-20-paul-thorn",
+   "category": "music",
+   "title": "Paul Thorn",
+   "startDate": "2027-02-20",
+   "startTime": "19:30",
+   "endTime": "21:30",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "description": "Raised in Tupelo, Mississippi, as the son of a preacher and a former professional boxer, Paul Thorn brings an earthy, one-of-a-kind blend of Southern rock, gritty blues, and Americana. His live shows are famous for sh…",
+   "sourceURL": "https://brauntex.org/event/paul-thorn-2/"
   },
   {
    "category": "spurs",
