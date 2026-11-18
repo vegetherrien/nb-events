@@ -21,3 +21,15 @@ After editing `events.json`, rebuild the calendar file so it stays in sync:
 Each event needs `id`, `category`, `title` and `startDate`. Times are Central, 24 hour (`"18:00"`). Keep an event's `id` the same once it's published, because saved events and reminders use it.
 
 Make sure the file is still valid JSON before committing (a missing comma breaks the feed, and the app falls back to its built-in copy).
+
+## Finding new events
+
+`scripts/scrape.py` reads the public calendar feeds from Gruene Hall, Brauntex Theatre, Gruene,
+Castell St. Market and Veramendi, and lists anything not already in `events.json`:
+
+    python3 scripts/scrape.py events.json            # preview
+    python3 scripts/scrape.py events.json --apply    # add them
+    python3 scripts/validate_feed.py events.json
+    python3 scripts/build_ics.py events.json nb-events.ics
+
+Daytime Gruene Hall sets and dance lessons are skipped on purpose (they're in the weekly notes).
