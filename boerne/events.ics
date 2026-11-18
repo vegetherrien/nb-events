@@ -1,0 +1,1756 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NB Events//New Braunfels Event Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NB Events
+X-WR-CALDESC:Festivals, music, markets, holidays and games around New Braun
+ fels, Texas.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:D
+ AYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T02
+ 0000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZO
+ FFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:
+ FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-18-wednesday-nature-walk-at-cibolo-nature-center@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Wednesday Nature Walk at Cibolo Nature Center
+DTSTART;TZID=America/Chicago:20261118T143000
+DTEND;TZID=America/Chicago:20261118T150000
+LOCATION:Cibolo Nature Center\, 140 City Park Rd
+URL:https://theboernelife.com/events/wednesday-nature-walk-at-cibolo-nature
+ -center/
+DESCRIPTION:Take a refreshing 30-minute walk along the Cibolo Nature Center
+  trails with the Nature Education team. The walk takes place Wednesday\, N
+ ovember 18\, 2026\, from 2:30 pm to 3 pm. Meet on the center’s back porc
+ h at 140 Ci…\nhttps://theboernelife.com/events/wednesday-nature-walk-at-
+ cibolo-nature-center/
+CATEGORIES:Nature & outdoors
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-spurs-vs-clippers@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs vs. Clippers
+DTSTART;TZID=America/Chicago:20261119T190000
+DTEND;TZID=America/Chicago:20261119T210000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-name-that-tune-at-la-cascada-table-bar@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Name That Tune at La Cascada Table & Bar
+DTSTART;TZID=America/Chicago:20261119T193000
+DTEND;TZID=America/Chicago:20261119T213000
+LOCATION:La Cascada Table & Bar\, 1 Resort Way
+URL:https://theboernelife.com/events/name-that-tune-at-la-cascada-table-bar
+ -2/2026-11-19/
+DESCRIPTION:Music lovers can test their knowledge during Name That Tune at 
+ La Cascada Table & Bar\, held every third Thursday of the month from 6:30 
+ pm to 8:30 pm at Tapatio Springs Hill Country Resort in Boerne\, TX. The i
+ nteracti…\nhttps://theboernelife.com/events/name-that-tune-at-la-cascada
+ -table-bar-2/2026-11-19/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-pink-friday-on-the-hill-country-mile@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Pink Friday on the Hill Country Mile
+DTSTART;TZID=America/Chicago:20261120T100000
+DTEND;TZID=America/Chicago:20261120T170000
+LOCATION:Hill Country Mile\, 100 North Main St.
+URL:https://theboernelife.com/events/pink-friday-on-the-hill-country-mile/
+DESCRIPTION:Thirty local businesses will take part in Pink Friday\, a commu
+ nity-wide celebration of shopping local and the start of the holiday shopp
+ ing season. Shoppers can explore participating businesses\, enjoy special 
+ activiti…\nhttps://theboernelife.com/events/pink-friday-on-the-hill-coun
+ try-mile/
+CATEGORIES:Markets & arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-turkey-camp-at-gina-marie-s-art-studio@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Turkey Camp at Gina Marie’s Art Studio
+DTSTART;TZID=America/Chicago:20261120T100000
+DTEND;TZID=America/Chicago:20261120T150000
+LOCATION:Gina Marie’s Art Studio\, 525 N School St
+URL:https://theboernelife.com/events/turkey-camp-at-gina-maries-art-studio/
+ 2026-11-20/
+DESCRIPTION:Spend the day making turkey-themed art and crafts and playing w
+ ith slime at this creative camp. Camp is offered Friday\, November 20\, or
+  Monday\, November 23\, from 10 am to 3 pm. Spots are limited\; contact Gi
+ na Marie’s …\nhttps://theboernelife.com/events/turkey-camp-at-gina-mar
+ ies-art-studio/2026-11-20/
+CATEGORIES:Markets & arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-jp-bergman-and-slowpoke-at-cibolo-creek-brewing-co@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:JP Bergman and Slowpoke at Cibolo Creek Brewing Co.
+DTSTART;TZID=America/Chicago:20261120T190000
+DTEND;TZID=America/Chicago:20261120T220000
+LOCATION:Cibolo Creek Brewing Company\, 448 South Main St
+URL:https://theboernelife.com/events/jp-bergman-and-slowpoke-at-cibolo-cree
+ k-brewing-co/2026-11-20/
+DESCRIPTION:Live music with a mix of honky-tonk\, ’70s rock\, and crowd f
+ avorites fills the evening at Cibolo Creek Brewing Co. JP Bergman and Slow
+ poke perform every third Friday of the month from 6 pm to 9 pm\, bringing 
+ a lively an…\nhttps://theboernelife.com/events/jp-bergman-and-slowpoke-a
+ t-cibolo-creek-brewing-co/2026-11-20/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-texas-vs-arkansas@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Texas vs. Arkansas
+DTSTART;TZID=America/Chicago:20261121T143000
+DTEND;TZID=America/Chicago:20261121T163000
+LOCATION:DKR Texas Memorial Stadium\, Austin
+URL:https://fbschedules.com/college-football-schedule-tv-selections-for-nov
+ ember-21-2026/
+DESCRIPTION:Kickoff is set for 2:30 PM. The network is picked closer to gam
+ e day.\nTV: ABC or ESPN\nhttps://fbschedules.com/college-football-schedule
+ -tv-selections-for-november-21-2026/
+CATEGORIES:Longhorns football
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-texas-a-m-at-oklahoma@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Texas A&M at Oklahoma
+DTSTART;TZID=America/Chicago:20261121T144500
+DTEND;TZID=America/Chicago:20261121T164500
+LOCATION:Memorial Stadium\, Norman\, OK
+URL:https://12thman.com/sports/football/schedule
+DESCRIPTION:https://12thman.com/sports/football/schedule
+CATEGORIES:Texas A&M football
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-spurs-vs-pelicans@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs vs. Pelicans
+DTSTART;TZID=America/Chicago:20261121T190000
+DTEND;TZID=America/Chicago:20261121T210000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-utsa-at-uab@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:UTSA at UAB
+DTSTART;TZID=America/Chicago:20261121T190000
+DTEND;TZID=America/Chicago:20261121T210000
+LOCATION:Protective Stadium\, Birmingham\, AL
+URL:https://goutsa.com/sports/football/schedule
+DESCRIPTION:https://goutsa.com/sports/football/schedule
+CATEGORIES:UTSA football
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-boerne-last-man-standing-at-boerne-city-park@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Boerne Last Man Standing at Boerne City Park
+DTSTART;TZID=America/Chicago:20261121T040000
+DTEND;TZID=America/Chicago:20261121T110000
+LOCATION:Boerne City Park\, 106 City Park Road
+URL:https://theboernelife.com/events/boerne-last-man-standing-at-boerne-cit
+ y-park/
+DESCRIPTION:This Backyard Ultra challenges runners to complete a 4.167-mile
+  loop every hour\, starting a new loop on the hour until one runner remain
+ s. Runners are out if they don’t finish a loop within the hour or make i
+ t to the …\nhttps://theboernelife.com/events/boerne-last-man-standing-at
+ -boerne-city-park/
+CATEGORIES:Nature & outdoors
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-david-selbo-at-singing-water-vineyards@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:David Selbo at Singing Water Vineyards
+DTSTART;TZID=America/Chicago:20261121T130000
+DTEND;TZID=America/Chicago:20261121T160000
+LOCATION:Singing Water Vineyards\, 316 Mill Dam Rd
+URL:https://theboernelife.com/events/david-selbo-at-singing-water-vineyards
+ -2/
+DESCRIPTION:Spend a relaxing Saturday afternoon at Singing Water Vineyards 
+ with live music from David Selbo on November 21. Known for his soulful sou
+ nd and smooth\, tasteful guitar playing\, Selbo brings a mix of classic fa
+ vorites …\nhttps://theboernelife.com/events/david-selbo-at-singing-water
+ -vineyards-2/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-hunter-billingsley-at-singing-water-vineyards@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Hunter Billingsley at Singing Water Vineyards
+DTSTART;TZID=America/Chicago:20261121T170000
+DTEND;TZID=America/Chicago:20261121T200000
+LOCATION:Singing Water Vineyards\, 316 Mill Dam Rd
+URL:https://theboernelife.com/events/hunter-billingsley-at-singing-water-vi
+ neyards-2/
+DESCRIPTION:Enjoy an evening of live music at Singing Water Vineyards on Sa
+ turday\, November 21\, featuring Hunter Billingsley\, a Texas Hill Country
+  singer and guitarist known for a diverse mix of music. His homegrown musi
+ c project…\nhttps://theboernelife.com/events/hunter-billingsley-at-singi
+ ng-water-vineyards-2/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-live-music-saturday-kyle-mathis-at-lost-oak-cellars@nb-event
+ s
+DTSTAMP:20261118T104639Z
+SUMMARY:Live Music Saturday: Kyle Mathis at Lost Oak Cellars
+DTSTART;TZID=America/Chicago:20261121T190000
+DTEND;TZID=America/Chicago:20261121T220000
+LOCATION:Lost Oak Cellars\, 111 Rosewood Ave
+URL:https://theboernelife.com/events/live-music-saturday-kyle-mathis-at-los
+ t-oak-cellars/
+DESCRIPTION:Kyle Mathis performs country\, rock\, R&B and blues during an e
+ vening of live music. Guests can enjoy Texas wines\, cider\, charcuterie\,
+  tapas\, flatbreads and dessert flights. The concert takes place Saturday\
+ , November 21…\nhttps://theboernelife.com/events/live-music-saturday-kyl
+ e-mathis-at-lost-oak-cellars/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-julian-escobedo-at-singing-water-vineyards@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Julian Escobedo at Singing Water Vineyards
+DTSTART;TZID=America/Chicago:20261122T130000
+DTEND;TZID=America/Chicago:20261122T160000
+LOCATION:Singing Water Vineyards\, 316 Mill Dam Rd
+URL:https://theboernelife.com/events/julian-escobedo-at-singing-water-viney
+ ards-2/
+DESCRIPTION:Enjoy an afternoon of live music at Singing Water Vineyards on 
+ Sunday\, November 22\, featuring Julian Escobedo. With 30 years of experie
+ nce\, Julian brings a wealth of musical talent to the stage\, performing f
+ avorite si…\nhttps://theboernelife.com/events/julian-escobedo-at-singing
+ -water-vineyards-2/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-spurs-at-kings@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs at Kings
+DTSTART;TZID=America/Chicago:20261123T210000
+DTEND;TZID=America/Chicago:20261123T230000
+LOCATION:Away in Sacramento
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-turkey-camp-at-gina-marie-s-art-studio@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Turkey Camp at Gina Marie’s Art Studio
+DTSTART;TZID=America/Chicago:20261123T100000
+DTEND;TZID=America/Chicago:20261123T150000
+LOCATION:Gina Marie’s Art Studio\, 525 N School St
+URL:https://theboernelife.com/events/turkey-camp-at-gina-maries-art-studio/
+ 2026-11-23/
+DESCRIPTION:Spend the day making turkey-themed art and crafts and playing w
+ ith slime at this creative camp. Camp is offered Friday\, November 20\, or
+  Monday\, November 23\, from 10 am to 3 pm. Spots are limited\; contact Gi
+ na Marie’s …\nhttps://theboernelife.com/events/turkey-camp-at-gina-mar
+ ies-art-studio/2026-11-23/
+CATEGORIES:Markets & arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-spurs-at-trail-blazers@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs at Trail Blazers
+DTSTART;TZID=America/Chicago:20261125T210000
+DTEND;TZID=America/Chicago:20261125T230000
+LOCATION:Away in Portland
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:TV: ESPN\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-sp
+ urs/schedule/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-kids-thanksgiving-craft-morning-at-girls-night-in@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Kids Thanksgiving Craft Morning at Girls Night In
+DTSTART;TZID=America/Chicago:20261125T090000
+DTEND;TZID=America/Chicago:20261125T110000
+LOCATION:Girls Night In\, 170 S Main St\, Suite 202
+URL:https://theboernelife.com/events/kids-thanksgiving-craft-morning-at-gir
+ ls-night-in/
+DESCRIPTION:Children ages 7 and up can enjoy two hours of hands-on crafting
+  and take home their own creations. All supplies are included. The worksho
+ p takes place Wednesday\, November 25\, 2026\, from 9 am to 11 am at Girls
+  Night In…\nhttps://theboernelife.com/events/kids-thanksgiving-craft-mor
+ ning-at-girls-night-in/
+CATEGORIES:Markets & arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-6th-annual-bulverde-turkey-trot-at-bulverde-community-park@n
+ b-events
+DTSTAMP:20261118T104639Z
+SUMMARY:6th Annual Bulverde Turkey Trot at Bulverde Community Park
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+LOCATION:Bulverde Community Park\, 29815 Bulverde Lane
+URL:https://theboernelife.com/events/6th-annual-bulverde-turkey-trot-at-bul
+ verde-community-park/
+DESCRIPTION:Start Thanksgiving morning with a community tradition during th
+ e 6th Annual Bulverde Turkey Trot on Thursday\, November 26\, 2026\, at Bu
+ lverde Community Park. The annual event brings families\, friends\, busine
+ sses\, and c…\nhttps://theboernelife.com/events/6th-annual-bulverde-turk
+ ey-trot-at-bulverde-community-park/
+CATEGORIES:Nature & outdoors
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-closed-thanksgiving-day-at-lost-oak-cellars@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Closed Thanksgiving Day at Lost Oak Cellars
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+LOCATION:Lost Oak Cellars\, 111 Rosewood Ave
+URL:https://theboernelife.com/events/closed-thanksgiving-day-at-lost-oak-ce
+ llars/
+DESCRIPTION:Lost Oak Cellars will be closed Thursday\, November 26\, for Th
+ anksgiving. The team wishes everyone a happy and blessed holiday.\nhttps:/
+ /theboernelife.com/events/closed-thanksgiving-day-at-lost-oak-cellars/
+CATEGORIES:Festivals & community
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-turkey-talk-at-guadalupe-river-state-park@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Turkey Talk at Guadalupe River State Park
+DTSTART;TZID=America/Chicago:20261126T100000
+DTEND;TZID=America/Chicago:20261126T110000
+LOCATION:Guadalupe River State Park\, 3350 Park Road 31
+URL:https://theboernelife.com/events/turkey-talk-at-guadalupe-river-state-p
+ ark-2/
+DESCRIPTION:Wild turkeys take center stage in this Thanksgiving Day program
+  exploring their habits\, calls and other fascinating features. The progra
+ m takes place Thursday\, November 26\, 2026\, from 10 am to 11 am at the a
+ mphitheate…\nhttps://theboernelife.com/events/turkey-talk-at-guadalupe-r
+ iver-state-park-2/
+CATEGORIES:Festivals & community
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-dickens-on-main@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Dickens on Main
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261129
+LOCATION:Downtown Boerne\, Main Street
+URL:https://holidaysinboerne.com/dickens-on-main
+DESCRIPTION:Boerne's big Thanksgiving-weekend festival: a Christmas market\
+ , a Dickens Village with readings\, ice slides\, kids' crafts and snow fal
+ ling on Main Street after dark. Country singer Caleb Young performs. Free.
+ \nTime: Afternoon into night\; hours vary by activity\nhttps://holidaysinb
+ oerne.com/dickens-on-main
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-utsa-vs-tulsa@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:UTSA vs. Tulsa
+DTSTART;TZID=America/Chicago:20261127T110000
+DTEND;TZID=America/Chicago:20261127T130000
+LOCATION:Alamodome\, San Antonio
+URL:https://goutsa.com/sports/football/schedule
+DESCRIPTION:Regular season finale\, the day after Thanksgiving.\nhttps://go
+ utsa.com/sports/football/schedule
+CATEGORIES:UTSA football
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-texas-at-texas-a-m-lone-star-showdown@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Texas at Texas A&M (Lone Star Showdown)
+DTSTART;TZID=America/Chicago:20261127T183000
+DTEND;TZID=America/Chicago:20261127T203000
+LOCATION:Kyle Field\, College Station
+URL:https://texaslonghorns.com/news/2026/6/10/additional-kickoff-times-tv-w
+ indow-assignments-announced-for-football
+DESCRIPTION:The rivalry game\, the day after Thanksgiving.\nTV: ABC\nhttps:
+ //texaslonghorns.com/news/2026/6/10/additional-kickoff-times-tv-window-ass
+ ignments-announced-for-football
+CATEGORIES:Longhorns football
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-texas-a-m-vs-texas-lone-star-showdown@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Texas A&M vs. Texas (Lone Star Showdown)
+DTSTART;TZID=America/Chicago:20261127T183000
+DTEND;TZID=America/Chicago:20261127T203000
+LOCATION:Kyle Field\, College Station
+URL:https://12thman.com/sports/football/schedule
+DESCRIPTION:The rivalry game\, the day after Thanksgiving.\nTV: ABC\nhttps:
+ //12thman.com/sports/football/schedule
+CATEGORIES:Texas A&M football
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-spurs-vs-lakers@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs vs. Lakers
+DTSTART;TZID=America/Chicago:20261127T203000
+DTEND;TZID=America/Chicago:20261127T223000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:TV: Prime Video\nhttps://www.cbssports.com/nba/teams/SA/san-ant
+ onio-spurs/schedule/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-opt-outside-day-at-guadalupe-river-state-park@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Opt Outside Day at Guadalupe River State Park
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+LOCATION:Guadalupe River State Park\, 3350 Park Road 31
+URL:https://theboernelife.com/events/opt-outside-day-at-guadalupe-river-sta
+ te-park-2/
+DESCRIPTION:Spend Black Friday outdoors at Guadalupe River State Park. Visi
+ tors can hike the trails\, enjoy the river\, go birdwatching\, try a natur
+ e scavenger hunt\, take photographs\, spot wildlife or picnic with a view.
+  Find detai…\nhttps://theboernelife.com/events/opt-outside-day-at-guadal
+ upe-river-state-park-2/
+CATEGORIES:Nature & outdoors
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-semi-annual-case-sale-at-lost-oak-cellars@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Semi-Annual Case Sale at Lost Oak Cellars
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261206
+LOCATION:Lost Oak Cellars\, 111 Rosewood Ave
+URL:https://theboernelife.com/events/semi-annual-case-sale-at-lost-oak-cell
+ ars/
+DESCRIPTION:Lost Oak Cellars’ case sale offers 20% off purchases of 12 or
+  more bottles of wine from November 27 through December 5. Wine Club membe
+ rs can combine the offer with their membership discount.\nhttps://theboern
+ elife.com/events/semi-annual-case-sale-at-lost-oak-cellars/
+CATEGORIES:Festivals & community
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-plaid-friday-and-small-business-saturday-at-handmade-on-main
+ @nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Plaid Friday and Small Business Saturday at Handmade on Main
+DTSTART;TZID=America/Chicago:20261127T110000
+DTEND;TZID=America/Chicago:20261127T130000
+LOCATION:Handmade on Main\, 347 N Main St
+URL:https://theboernelife.com/events/plaid-friday-and-small-business-saturd
+ ay-at-handmade-on-main/
+DESCRIPTION:Browse handmade merchandise and look for holiday gifts and stoc
+ king stuffers during this two-day shopping event. The shop will be open No
+ vember 27 and 28 from 11 am to 9 pm at Handmade on Main.\nhttps://theboern
+ elife.com/events/plaid-friday-and-small-business-saturday-at-handmade-on-m
+ ain/
+CATEGORIES:Markets & arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-sold-out-murder-at-the-wine-bar-boerne-community-theatre-fun
+ @nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:SOLD OUT: Murder at the Wine Bar – Boerne Community Theatre Fundr
+ aiser
+DTSTART;TZID=America/Chicago:20261127T163000
+DTEND;TZID=America/Chicago:20261127T200000
+LOCATION:DeVino Cellars\, 1109 S Main St
+URL:https://theboernelife.com/events/murder-at-the-wine-bar-boerne-communit
+ y-theatre-fundraiser/2026-11-27/
+DESCRIPTION:Join Boerne Community Theatre for a thrilling night of suspense
+  and laughter at our murder mystery fundraiser\, “Murder at the Wine Bar
+ .” Set in the charming ambiance of DeVino Cellars\, this immersive event
+  places you …\nhttps://theboernelife.com/events/murder-at-the-wine-bar-b
+ oerne-community-theatre-fundraiser/2026-11-27/
+CATEGORIES:Markets & arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-band-of-confusion-a-genesis-tribute-at-singing-water-vineyar
+ @nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Band of Confusion: A Genesis Tribute at Singing Water Vineyards
+DTSTART;TZID=America/Chicago:20261127T180000
+DTEND;TZID=America/Chicago:20261127T210000
+LOCATION:Singing Water Vineyards\, 316 Mill Dam Rd
+URL:https://theboernelife.com/events/band-of-confusion-a-genesis-tribute-at
+ -singing-water-vineyards/
+DESCRIPTION:The music of Genesis will take the stage at Singing Water Viney
+ ards on Friday\, November 27\, at 6 pm\, when Band of Confusion presents a
+  tribute to the influential rock band. The performance will span Genesis
+ ’ catalog\, …\nhttps://theboernelife.com/events/band-of-confusion-a-ge
+ nesis-tribute-at-singing-water-vineyards/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-breakfast-with-santa-at-la-cascada-table-bar@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Breakfast with Santa at La Cascada Table & Bar
+DTSTART;TZID=America/Chicago:20261128T083000
+DTEND;TZID=America/Chicago:20261128T120000
+LOCATION:La Cascada Table & Bar\, 1 Resort Way
+URL:https://theboernelife.com/events/breakfast-with-santa-at-la-cascada-tab
+ le-bar/
+DESCRIPTION:Families can welcome the holiday season with Breakfast with San
+ ta at La Cascada Table & Bar on Saturday\, November 28. This festive morni
+ ng features a delicious brunch\, holiday-themed décor\, and a chance for 
+ children t…\nhttps://theboernelife.com/events/breakfast-with-santa-at-la
+ -cascada-table-bar/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-christmas-market-at-the-8th-street-market@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Christmas Market at The 8th Street Market
+DTSTART;TZID=America/Chicago:20261128T090000
+DTEND;TZID=America/Chicago:20261128T180000
+LOCATION:8th Street Market\, 523 8th Street
+URL:https://theboernelife.com/events/christmas-market-at-the-8th-street-mar
+ ket/
+DESCRIPTION:Browse handmade goods and shop from local artisans at this Chri
+ stmas market. The event takes place Saturday\, November 28\, from 9 am to 
+ 6 pm at The 8th Street Market\, 523 8th Street\, Comfort\, Texas 78013.\nh
+ ttps://theboernelife.com/events/christmas-market-at-the-8th-street-market/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-holiday-art-and-shopping-at-esther-benedict-gallery-hill-cou
+ @nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Holiday Art and Shopping at Esther Benedict Gallery & Hill Country 
+ Sculpture Walk
+DTSTART;TZID=America/Chicago:20261128T100000
+DTEND;TZID=America/Chicago:20261128T170000
+LOCATION:Benedict Metal Art/Esther Benedict Sculptures\, 160 Diamond J Rd N
+URL:https://theboernelife.com/events/holiday-art-and-shopping-at-esther-ben
+ edict-gallery-hill-country-sculpture-walk/
+DESCRIPTION:Explore new artwork\, meet the artist and stroll the decorated 
+ gallery and sculpture walk during a festive day of holiday shopping. Live 
+ music by Chris Guerrero\, complimentary snacks and beverages\, and Christm
+ as cheer …\nhttps://theboernelife.com/events/holiday-art-and-shopping-at
+ -esther-benedict-gallery-hill-country-sculpture-walk/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-sam-and-lilly-platts-at-singing-water-vineyards@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Sam and Lilly Platts at Singing Water Vineyards
+DTSTART;TZID=America/Chicago:20261128T130000
+DTEND;TZID=America/Chicago:20261128T160000
+LOCATION:Singing Water Vineyards\, 316 Mill Dam Rd
+URL:https://theboernelife.com/events/sam-and-lilly-platts-at-singing-water-
+ vineyards/
+DESCRIPTION:Sam and Lilly Platts bring their own spin on Western swing to S
+ inging Water Vineyards on Saturday\, November 28. Their performance offers
+  an afternoon of lively music in the Hill Country vineyard setting\, makin
+ g it a g…\nhttps://theboernelife.com/events/sam-and-lilly-platts-at-sing
+ ing-water-vineyards/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-music-in-the-cave-sounds-of-the-season-at-cave-without-a-nam
+ @nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Music in the Cave: Sounds of the Season at Cave Without a Name
+DTSTART;TZID=America/Chicago:20261128T190000
+DTEND;TZID=America/Chicago:20261128T210000
+LOCATION:Cave Without A Name\, 325 Kreutzberg Rd
+URL:https://theboernelife.com/events/music-in-the-cave-sounds-of-the-season
+ -at-cave-without-a-name/
+DESCRIPTION:Tinsel\, an a cappella quartet featuring Grammy-winning and cla
+ ssically trained singers\, performs contemporary Christmas favorites and b
+ eloved carols in the Queen’s Throne Room. The cave’s natural acoustics
+  and ancient…\nhttps://theboernelife.com/events/music-in-the-cave-sounds
+ -of-the-season-at-cave-without-a-name/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-spurs-vs-celtics@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs vs. Celtics
+DTSTART;TZID=America/Chicago:20261129T150000
+DTEND;TZID=America/Chicago:20261129T170000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:TV: NBA TV\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-
+ spurs/schedule/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-jeff-jacobs-at-singing-water-vineyards@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Jeff Jacobs at Singing Water Vineyards
+DTSTART;TZID=America/Chicago:20261129T130000
+DTEND;TZID=America/Chicago:20261129T160000
+LOCATION:Singing Water Vineyards\, 316 Mill Dam Rd
+URL:https://theboernelife.com/events/jeff-jacobs-at-singing-water-vineyards
+ -2/
+DESCRIPTION:Enjoy an afternoon of live music at Singing Water Vineyards on 
+ Sunday\, November 29\, as San Antonio native Jeff Jacobs brings his Texas 
+ Country roots to the Hill Country. His performance offers a chance to unwi
+ nd with …\nhttps://theboernelife.com/events/jeff-jacobs-at-singing-water
+ -vineyards-2/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-spurs-at-bucks@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs at Bucks
+DTSTART;TZID=America/Chicago:20261130T190000
+DTEND;TZID=America/Chicago:20261130T210000
+LOCATION:Away in Milwaukee
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-homegrown-holiday-festival-at-boerne-farmers-market@nb-event
+ s
+DTSTAMP:20261118T104639Z
+SUMMARY:Homegrown Holiday Festival at Boerne Farmers’ Market
+DTSTART;TZID=America/Chicago:20261201T160000
+DTEND;TZID=America/Chicago:20261201T220000
+LOCATION:Boerne Farmers’ Market\, 157 S Main St
+URL:https://theboernelife.com/events/homegrown-holiday-festival-at-boerne-f
+ armers-market/
+DESCRIPTION:Boerne Farmers’ Market celebrates the season with a family-fr
+ iendly holiday festival featuring live music\, photos with Santa\, a bounc
+ e house\, children’s Christmas crafts\, hot cocoa and cookies. The event
+  takes place T…\nhttps://theboernelife.com/events/homegrown-holiday-fest
+ ival-at-boerne-farmers-market/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-spurs-vs-raptors@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs vs. Raptors
+DTSTART;TZID=America/Chicago:20261203T190000
+DTEND;TZID=America/Chicago:20261203T210000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-blizzard-of-bows-winter-concert-at-champion-high-school-audi
+ @nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Blizzard of Bows Winter Concert at Champion High School Auditorium
+DTSTART;TZID=America/Chicago:20261203T180000
+DTEND;TZID=America/Chicago:20261203T210000
+LOCATION:Boerne Champion High School\, 201 Charger Blvd
+URL:https://theboernelife.com/events/blizzard-of-bows-winter-concert-at-cha
+ mpion-high-school-auditorium/
+DESCRIPTION:The Champion High School and Boerne High School orchestras perf
+ orm their winter concert. Admission is free\, and concessions will be avai
+ lable from 6 pm to 6:45 pm. The concert begins at 7 pm on Thursday\, Decem
+ ber 3\, 2…\nhttps://theboernelife.com/events/blizzard-of-bows-winter-con
+ cert-at-champion-high-school-auditorium/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-stocking-stroll@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Stocking Stroll
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261206
+LOCATION:Downtown Boerne
+URL:https://holidaysinboerne.com/stocking-stroll
+DESCRIPTION:Holiday shopping walk through downtown shops. Proceeds sponsor 
+ Dickens on Main.\nDaily 10:00–17:00\nhttps://holidaysinboerne.com/stocki
+ ng-stroll
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-boerne-isd-cookies-cocoa-toy-drive-at-boerne-isd-central-off
+ @nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Boerne ISD Cookies & Cocoa Toy Drive at Boerne ISD Central Office
+DTSTART;TZID=America/Chicago:20261204T080000
+DTEND;TZID=America/Chicago:20261204T143000
+LOCATION:Boerne ISD Central Office\, 235 Johns Road
+URL:https://theboernelife.com/events/boerne-isd-cookies-cocoa-toy-drive-at-
+ boerne-isd-central-office/
+DESCRIPTION:Boerne ISD and the Boerne Education Foundation host their eight
+ h annual toy drive benefiting Kendall County’s Blue Santa Program. Guest
+ s can enjoy hot cocoa\, cookies and student holiday performances throughou
+ t the day…\nhttps://theboernelife.com/events/boerne-isd-cookies-cocoa-to
+ y-drive-at-boerne-isd-central-office/
+CATEGORIES:Festivals & community
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-st-nicholas-market-at-st-john-lutheran-school-boerne@nb-even
+ ts
+DTSTAMP:20261118T104639Z
+SUMMARY:St. Nicholas Market at St. John Lutheran School Boerne
+DTSTART;TZID=America/Chicago:20261204T120000
+DTEND;TZID=America/Chicago:20261204T130000
+LOCATION:St. John Lutheran Church\, 315 Rosewood Ave.
+URL:https://theboernelife.com/events/st-nicholas-market-at-st-john-lutheran
+ -school-boerne/
+DESCRIPTION:The St. Nicholas Market features homemade jam and a festive hol
+ iday atmosphere. It takes place Friday\, December 4\, from 12 pm to 1 pm a
+ t St. John Lutheran School Boerne. Cash only.\nhttps://theboernelife.com/e
+ vents/st-nicholas-market-at-st-john-lutheran-school-boerne/
+CATEGORIES:Markets & arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-weihnachts-weekend-on-the-hill-country-mile@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Weihnachts Weekend on the Hill Country Mile
+DTSTART;TZID=America/Chicago:20261204T160000
+DTEND;TZID=America/Chicago:20261204T180000
+LOCATION:Boerne
+URL:https://theboernelife.com/events/weihnachts-weekend-on-the-hill-country
+ -mile/
+DESCRIPTION:Boerne’s holiday weekend features a Wassail Walk and Caroling
+  Contest on Friday\, December 4\, from 4 pm to 8 pm. Participating busines
+ ses will serve their own versions of wassail while carolers perform holida
+ y songs. O…\nhttps://theboernelife.com/events/weihnachts-weekend-on-the-
+ hill-country-mile/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-wassail-walk-on-the-hill-country-mile@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Wassail Walk on the Hill Country Mile
+DTSTART;TZID=America/Chicago:20261204T160000
+DTEND;TZID=America/Chicago:20261204T200000
+LOCATION:Hill Country Mile\, 100 North Main St.
+URL:https://theboernelife.com/events/wassail-walk-on-the-hill-country-mile/
+DESCRIPTION:Stroll the Hill Country Mile during an evening of late-night sh
+ opping and seasonal drinks\, including wassail and mulled wine at particip
+ ating stops. A caroling contest adds to the holiday atmosphere. The Wassai
+ l Walk …\nhttps://theboernelife.com/events/wassail-walk-on-the-hill-coun
+ try-mile/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-weihnachts-parade@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Weihnachts Parade (39th annual)
+DTSTART;TZID=America/Chicago:20261205T180000
+DTEND;TZID=America/Chicago:20261205T200000
+LOCATION:Main Street\, Boerne
+URL:https://holidaysinboerne.com/
+DESCRIPTION:Boerne's lighted Christmas parade down Main Street\, now in its
+  39th year.\nhttps://holidaysinboerne.com/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-sec-championship-game@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:SEC Championship Game
+DTSTART;TZID=America/Chicago:20261205T150000
+DTEND;TZID=America/Chicago:20261205T170000
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+URL:https://en.wikipedia.org/wiki/2026_Southeastern_Conference_football_sea
+ son
+DESCRIPTION:The top two SEC teams meet for the conference title.\nTV: ABC\n
+ https://en.wikipedia.org/wiki/2026_Southeastern_Conference_football_season
+CATEGORIES:Longhorns football
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-holiday-hunger-5k-run-walk-at-bulverde-city-park@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Holiday Hunger 5K Run & Walk at Bulverde City Park
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+LOCATION:Bulverde City Park\, 29815 Bulverde Lane
+URL:https://theboernelife.com/events/holiday-hunger-5k-run-walk-at-bulverde
+ -city-park/
+DESCRIPTION:Celebrate the holiday season while supporting a meaningful loca
+ l cause during the Holiday Hunger 5K Run & Walk on Saturday\, December 5\,
+  2026\, at Bulverde City Park. The 5K raises awareness about hunger and fo
+ od insecu…\nhttps://theboernelife.com/events/holiday-hunger-5k-run-walk-
+ at-bulverde-city-park/
+CATEGORIES:Nature & outdoors
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-how-the-grinch-stole-breakfast-at-tapatio-springs@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:How the Grinch Stole Breakfast at Tapatio Springs
+DTSTART;TZID=America/Chicago:20261205T080000
+DTEND;TZID=America/Chicago:20261205T110000
+LOCATION:La Cascada Table & Bar\, 1 Resort Way
+URL:https://theboernelife.com/events/how-the-grinch-stole-breakfast-at-tapa
+ tio-springs/
+DESCRIPTION:The Grinch is making his way to Tapatio Springs\, and you’re 
+ invited for a morning of holiday mischief\, family fun\, and a delicious b
+ reakfast! Join us on December 5th from 8:00 AM – 11:00 AM for a festive 
+ breakfast ins…\nhttps://theboernelife.com/events/how-the-grinch-stole-br
+ eakfast-at-tapatio-springs/
+CATEGORIES:Festivals & community
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-winter-prairie-birding-at-cibolo-nature-center@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Winter Prairie Birding at Cibolo Nature Center
+DTSTART;TZID=America/Chicago:20261205T090000
+DTEND;TZID=America/Chicago:20261205T120000
+LOCATION:Cibolo Nature Center\, 140 City Park Rd
+URL:https://theboernelife.com/events/winter-prairie-birding-at-cibolo-natur
+ e-center/
+DESCRIPTION:Learn how to identify the “little brown birds” often seen o
+ n winter prairies in this free class led by Tom and Patsy Inglet. The prog
+ ram includes two hours of instruction followed by guided field practice. P
+ articipant…\nhttps://theboernelife.com/events/winter-prairie-birding-at-
+ cibolo-nature-center/
+CATEGORIES:Festivals & community
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-oma-s-christmas-fair-at-kendall-county-fairgrounds@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Oma’s Christmas Fair at Kendall County Fairgrounds
+DTSTART;TZID=America/Chicago:20261205T090000
+DTEND;TZID=America/Chicago:20261205T170000
+LOCATION:Kendall County Fairgrounds\, 1307 River Road
+URL:https://theboernelife.com/events/omas-christmas-fair-at-kendall-county-
+ fairgrounds/2026-12-05/
+DESCRIPTION:Browse handcrafted goods from about 100 Texas vendors across th
+ ree buildings. Santa will visit Santa Land\, where guests can enjoy lunch 
+ and free photos. Children’s activities include a coloring contest Saturd
+ ay and Su…\nhttps://theboernelife.com/events/omas-christmas-fair-at-kend
+ all-county-fairgrounds/2026-12-05/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-christmas-back-lot-market-at-little-to-luxe@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Christmas Back Lot Market at Little to Luxe
+DTSTART;TZID=America/Chicago:20261205T100000
+DTEND;TZID=America/Chicago:20261205T150000
+LOCATION:Little to Luxe\, 123 Pecan St.
+URL:https://theboernelife.com/events/christmas-back-lot-market-at-little-to
+ -luxe/
+DESCRIPTION:Shop holiday gifts from local makers\, enjoy sweet treats and b
+ rowse one-of-a-kind finds at Little to Luxe’s first annual Christmas Bac
+ k Lot Market. Shoppers who collect at least four punches on their card can
+  enter th…\nhttps://theboernelife.com/events/christmas-back-lot-market-a
+ t-little-to-luxe/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-down-home-christmas-at-the-agricultural-museum-and-arts-cent
+ @nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Down Home Christmas at The AgriCultural Museum and Arts Center
+DTSTART;TZID=America/Chicago:20261205T120000
+DTEND;TZID=America/Chicago:20261205T160000
+LOCATION:The AgriCultural Museum & Arts Center\, 102 City Park Rd.
+URL:https://theboernelife.com/events/down-home-christmas-at-the-agricultura
+ l-museum-and-arts-center/
+DESCRIPTION:Celebrate the season with family activities including professio
+ nal Santa photos by a tractor\, antique tractor hayrides\, a petting zoo\,
+  cookie and ornament decorating\, Christmas crafts\, bluegrass music\, fac
+ e painting a…\nhttps://theboernelife.com/events/down-home-christmas-at-t
+ he-agricultural-museum-and-arts-center/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-art-in-the-park-christmas-cards-at-guadalupe-river-state-par
+ @nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Art in the Park: Christmas Cards at Guadalupe River State Park
+DTSTART;TZID=America/Chicago:20261205T120000
+DTEND;TZID=America/Chicago:20261205T130000
+LOCATION:Guadalupe River State Park\, 3350 Park Road 31
+URL:https://theboernelife.com/events/art-in-the-park-christmas-cards-at-gua
+ dalupe-river-state-park-2/
+DESCRIPTION:Celebrate the holiday season by creating personalized Christmas
+  cards to share with family and friends. The program takes place December 
+ 5 from 12 pm to 1 pm at the amphitheater behind the Discovery Center. Admi
+ ssion …\nhttps://theboernelife.com/events/art-in-the-park-christmas-card
+ s-at-guadalupe-river-state-park-2/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-first-saturday-on-main-at-hill-country-mile@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:First Saturday on Main at Hill Country Mile
+DTSTART;TZID=America/Chicago:20261205T170000
+DTEND;TZID=America/Chicago:20261205T200000
+LOCATION:Hill Country Mile\, 100 North Main St.
+URL:https://theboernelife.com/events/first-saturday-on-main-at-hill-country
+ -mile/2026-12-05/
+DESCRIPTION:A lively community evening takes place during First Saturdays o
+ n Main every first Saturday of the month from 5 pm to 8 pm along the Hill 
+ Country Mile\, 141 W Blanco Rd.\, Boerne\, TX 78006. This monthly event is
+  presente…\nhttps://theboernelife.com/events/first-saturday-on-main-at-h
+ ill-country-mile/2026-12-05/
+CATEGORIES:Markets & arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-rejoice-christmas-worship-concert-at-first-baptist-church-bo
+ @nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:REJOICE! Christmas Worship Concert at First Baptist Church Boerne
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+LOCATION:First Baptist Church Boerne\, 631 S School St
+URL:https://theboernelife.com/events/rejoice-christmas-worship-concert-at-f
+ irst-baptist-church-boerne/
+DESCRIPTION:Classic carols\, fresh musical arrangements\, choir and instrum
+ ental performances\, and a worship message bring the Christmas story to li
+ fe in this family-friendly concert. Performances are Sunday\, December 6\,
+  at 9 am\, 1…\nhttps://theboernelife.com/events/rejoice-christmas-worshi
+ p-concert-at-first-baptist-church-boerne/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-christkindlmarkt-at-cana-ballroom@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Christkindlmarkt at Cana Ballroom
+DTSTART;TZID=America/Chicago:20261206T100000
+DTEND;TZID=America/Chicago:20261206T170000
+LOCATION:The Cana Ballroom\, 202 W Kronkosky St
+URL:https://theboernelife.com/events/christkindlmarkt-at-cana-ballroom/
+DESCRIPTION:Cana Ballroom hosts an indoor Christmas market featuring local 
+ artists\, crafters and small businesses. Visitors can shop for holiday gif
+ ts while supporting parishioners and the Boerne community. The market take
+ s place…\nhttps://theboernelife.com/events/christkindlmarkt-at-cana-ball
+ room/
+CATEGORIES:Markets & arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-christkindlemarkt@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Christkindlemarkt
+DTSTART;TZID=America/Chicago:20261206T100000
+DTEND;TZID=America/Chicago:20261206T170000
+LOCATION:The Cana Ballroom\, 202 W Kronkosky St
+URL:https://theboernelife.com/events/christkindlemarkt/
+DESCRIPTION:Christmas market brimming with amazing finds for everyone on yo
+ ur list and for yourself! Come join a packed house of vendors at the beaut
+ iful Cana Ballroom for this family friendly Christmas market experience.\n
+ https://theboernelife.com/events/christkindlemarkt/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-oma-s-christmas-fair-at-kendall-county-fairgrounds@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Oma’s Christmas Fair at Kendall County Fairgrounds
+DTSTART;TZID=America/Chicago:20261206T100000
+DTEND;TZID=America/Chicago:20261206T160000
+LOCATION:Kendall County Fairgrounds\, 1307 River Road
+URL:https://theboernelife.com/events/omas-christmas-fair-at-kendall-county-
+ fairgrounds/2026-12-06/
+DESCRIPTION:Browse handcrafted goods from about 100 Texas vendors across th
+ ree buildings. Santa will visit Santa Land\, where guests can enjoy lunch 
+ and free photos. Children’s activities include a coloring contest Saturd
+ ay and Su…\nhttps://theboernelife.com/events/omas-christmas-fair-at-kend
+ all-county-fairgrounds/2026-12-06/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-annual-boerne-chanukah-celebration-at-boerne-main-plaza@nb-e
+ vents
+DTSTAMP:20261118T104639Z
+SUMMARY:Annual Boerne Chanukah Celebration at Boerne Main Plaza
+DTSTART;TZID=America/Chicago:20261207T173000
+DTEND;TZID=America/Chicago:20261207T193000
+LOCATION:Boerne Main Plaza\, 100 N. Main Street
+URL:https://theboernelife.com/events/annual-boerne-chanukah-celebration-at-
+ boerne-main-plaza/
+DESCRIPTION:Chabad of Boerne hosts a public menorah lighting celebrating Ch
+ anukah and religious freedom. The event also features live music by an old
+ -time religion country band\, a chocolate gelt drop by the Boerne Fire Dep
+ artment…\nhttps://theboernelife.com/events/annual-boerne-chanukah-celebr
+ ation-at-boerne-main-plaza/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-a-walk-in-bethlehem-at-st-helena-s-episcopal-church@nb-event
+ s
+DTSTAMP:20261118T104639Z
+SUMMARY:A Walk in Bethlehem at St. Helena’s Episcopal Church
+DTSTART;TZID=America/Chicago:20261208T180000
+DTEND;TZID=America/Chicago:20261208T200000
+LOCATION:St. Helena’s Episcopal Church\, 410 N Main St
+URL:https://theboernelife.com/events/a-walk-in-bethlehem-at-st-helenas-epis
+ copal-church-2/
+DESCRIPTION:Step into a re-creation of Bethlehem\, where visitors encounter
+  townspeople\, guards\, Mary and Joseph\, an angel\, a star and the Magi a
+ s the story of Jesus’ birth unfolds. The experience takes place December
+  8 and 9\, wit…\nhttps://theboernelife.com/events/a-walk-in-bethlehem-at
+ -st-helenas-episcopal-church-2/
+CATEGORIES:Festivals & community
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-hill-country-poets-monthly-open-mic-at-the-boerne-bookshop@n
+ b-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Hill Country Poets Monthly Open Mic at The Boerne Bookshop
+DTSTART;TZID=America/Chicago:20261210T180000
+DTEND;TZID=America/Chicago:20261210T200000
+LOCATION:The Boerne Bookshop\, 153 S Main Street
+URL:https://theboernelife.com/events/hill-country-poets-monthly-open-mic-at
+ -the-boerne-bookshop/2026-12-10/
+DESCRIPTION:A welcoming evening of poetry and creative expression takes pla
+ ce during the Hill Country Poets Monthly Open Mic on the second Thursday o
+ f each month from 6 pm to 8 pm at The Boerne Bookshop\, 153 S Main St.\, S
+ te 120\, …\nhttps://theboernelife.com/events/hill-country-poets-monthly-
+ open-mic-at-the-boerne-bookshop/2026-12-10/
+CATEGORIES:Festivals & community
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-kinder-fest-weekend-on-the-hill-country-mile@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Kinder Fest Weekend on the Hill Country Mile
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261214
+LOCATION:Hill Country Mile\, 100 North Main St.
+URL:https://theboernelife.com/events/kinder-fest-weekend-on-the-hill-countr
+ y-mile/
+DESCRIPTION:Celebrate the start of Christmas break with a family weekend in
+  downtown Boerne. Kids can wear festive outfits and enjoy a Cookie Crawl\,
+  Santa Scavenger Hunt\, Christmas Market Days shopping\, live ice carving 
+ and photo…\nhttps://theboernelife.com/events/kinder-fest-weekend-on-the-
+ hill-country-mile/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-christmas-in-the-park-at-guadalupe-river-state-park@nb-event
+ s
+DTSTAMP:20261118T104639Z
+SUMMARY:Christmas in the Park at Guadalupe River State Park
+DTSTART;TZID=America/Chicago:20261211T170000
+DTEND;TZID=America/Chicago:20261211T210000
+LOCATION:Guadalupe River State Park\, 3350 Park Road 31
+URL:https://theboernelife.com/events/christmas-in-the-park-at-guadalupe-riv
+ er-state-park-2/2026-12-11/
+DESCRIPTION:Enjoy holiday crafts\, stories and family activities at the Dis
+ covery Center and amphitheater from 5 pm to 7 pm\, followed by a drive-thr
+ ough light show in the Turkey Sink campground from 6 pm to 9 pm. The event
+  runs Fr…\nhttps://theboernelife.com/events/christmas-in-the-park-at-gua
+ dalupe-river-state-park-2/2026-12-11/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-ugly-sweater-party-at-lost-oak-cellars@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Ugly Sweater Party at Lost Oak Cellars
+DTSTART;TZID=America/Chicago:20261211T190000
+DTEND;TZID=America/Chicago:20261211T220000
+LOCATION:Lost Oak Cellars\, 111 Rosewood Ave
+URL:https://theboernelife.com/events/ugly-sweater-party-at-lost-oak-cellars
+ -2/
+DESCRIPTION:Break out a festive sweater for an evening of holiday music\, L
+ ost Oak wines and warm mulled wine. Guests can enter the ugly sweater cont
+ est for a chance to win a prize. The party is free to attend and takes pla
+ ce Frid…\nhttps://theboernelife.com/events/ugly-sweater-party-at-lost-oa
+ k-cellars-2/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-boerne-market-days@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Boerne Market Days
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+LOCATION:Main Plaza\, 100 N Main St
+URL:https://business.boerne.org/events
+DESCRIPTION:Artisans\, crafts and food vendors fill the Main Plaza the seco
+ nd weekend of the month.\nTime: Sat 10–5\, Sun 10–4\nDaily 10:00–17:
+ 00\nhttps://business.boerne.org/events
+CATEGORIES:Markets & arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-jingle-all-the-way-5k-10k-fun-run-at-patrick-heath-public-am
+ @nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Jingle All the Way 5K\, 10K & Fun Run at Patrick Heath Public Amphi
+ theater
+DTSTART;TZID=America/Chicago:20261212T080000
+DTEND;TZID=America/Chicago:20261212T110000
+LOCATION:Patrick Heath Public Library\, 451 N. Main Street
+URL:https://theboernelife.com/events/jingle-all-the-way-5k-10k-fun-run-at-p
+ atrick-heath-public-amphitheater/
+DESCRIPTION:Celebrate the season with a festive race featuring 5K\, 10K and
+  family-friendly Fun Run options. All ages and abilities are welcome. The 
+ course begins and ends at Patrick Heath Public Amphitheater and follows pa
+ rt of B…\nhttps://theboernelife.com/events/jingle-all-the-way-5k-10k-fun
+ -run-at-patrick-heath-public-amphitheater/
+CATEGORIES:Nature & outdoors
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-breakfast-with-santa-at-boerne-family-ymca@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Breakfast with Santa at Boerne Family YMCA
+DTSTART;TZID=America/Chicago:20261212T090000
+DTEND;TZID=America/Chicago:20261212T103000
+LOCATION:Boerne Family YMCA\, 820 Adler Road
+URL:https://theboernelife.com/events/breakfast-with-santa-at-boerne-family-
+ ymca/
+DESCRIPTION:Families can enjoy a pancake breakfast\, make a Christmas craft
+  and reindeer food\, and take a photo with Santa. Bring a camera for pictu
+ res. The free event takes place Saturday\, December 12\, from 9 am to 10:3
+ 0 am at Bo…\nhttps://theboernelife.com/events/breakfast-with-santa-at-bo
+ erne-family-ymca/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-historic-toys-from-boerne-at-kuhlmann-king-museum@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Historic Toys from Boerne at Kuhlmann-King Museum
+DTSTART;TZID=America/Chicago:20261212T100000
+DTEND;TZID=America/Chicago:20261212T120000
+LOCATION:Kuhlmann-King Historical Complex\, 402 East Blanco Road
+URL:https://theboernelife.com/events/historic-toys-from-boerne-at-kuhlmann-
+ king-museum/
+DESCRIPTION:Explore a holiday exhibit featuring historic toys and enjoy chi
+ ldren’s crafts. The event is free and open to the public\, and takes pla
+ ce December 12 from 10 am to 12 pm at Kuhlmann-King Museum\, 402 E. Blanco
+  Road\, Boe…\nhttps://theboernelife.com/events/historic-toys-from-boerne
+ -at-kuhlmann-king-museum/
+CATEGORIES:Festivals & community
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-bluegrass-jams@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Bluegrass Jams
+DTSTART;TZID=America/Chicago:20261212T110000
+DTEND;TZID=America/Chicago:20261212T130000
+LOCATION:The AgriCultural Museum & Arts Center\, 102 City Park Rd.
+URL:https://theboernelife.com/events/bluegrass-jams/2026-12-12/
+DESCRIPTION:Whether you’re a musician looking to play with others\, or a 
+ family wanting to listen\, come on out to the Bluegrass Jams at The AgriCu
+ ltural on the 2nd and 4th Saturday of the month from 11am – 1 pm. It’s
+  free\, but don…\nhttps://theboernelife.com/events/bluegrass-jams/2026-1
+ 2-12/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-christmas-in-the-park-at-guadalupe-river-state-park@nb-event
+ s
+DTSTAMP:20261118T104639Z
+SUMMARY:Christmas in the Park at Guadalupe River State Park
+DTSTART;TZID=America/Chicago:20261212T170000
+DTEND;TZID=America/Chicago:20261212T210000
+LOCATION:Guadalupe River State Park\, 3350 Park Road 31
+URL:https://theboernelife.com/events/christmas-in-the-park-at-guadalupe-riv
+ er-state-park-2/2026-12-12/
+DESCRIPTION:Enjoy holiday crafts\, stories and family activities at the Dis
+ covery Center and amphitheater from 5 pm to 7 pm\, followed by a drive-thr
+ ough light show in the Turkey Sink campground from 6 pm to 9 pm. The event
+  runs Fr…\nhttps://theboernelife.com/events/christmas-in-the-park-at-gua
+ dalupe-river-state-park-2/2026-12-12/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-live-music-saturday-josh-flores-at-lost-oak-cellars@nb-event
+ s
+DTSTAMP:20261118T104639Z
+SUMMARY:Live Music Saturday: Josh Flores at Lost Oak Cellars
+DTSTART;TZID=America/Chicago:20261212T190000
+DTEND;TZID=America/Chicago:20261212T220000
+LOCATION:Lost Oak Cellars\, 111 Rosewood Ave
+URL:https://theboernelife.com/events/live-music-saturday-josh-flores-at-los
+ t-oak-cellars/
+DESCRIPTION:Josh Flores performs classic country spanning the 1990s through
+  today. Guests can enjoy Texas wines\, cider\, charcuterie\, tapas\, flatb
+ reads and dessert flights. The concert takes place Saturday\, December 12\
+ , from 7 pm …\nhttps://theboernelife.com/events/live-music-saturday-josh
+ -flores-at-lost-oak-cellars/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-spurs-vs-clippers@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs vs. Clippers
+DTSTART;TZID=America/Chicago:20261213T180000
+DTEND;TZID=America/Chicago:20261213T200000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-spurs-at-cavaliers@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs at Cavaliers
+DTSTART;TZID=America/Chicago:20261215T190000
+DTEND;TZID=America/Chicago:20261215T210000
+LOCATION:Away in Cleveland
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:TV: NBC\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-spu
+ rs/schedule/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-spurs-at-raptors@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs at Raptors
+DTSTART;TZID=America/Chicago:20261216T183000
+DTEND;TZID=America/Chicago:20261216T203000
+LOCATION:Away in Toronto
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-spurs-vs-bulls@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs vs. Bulls
+DTSTART;TZID=America/Chicago:20261218T190000
+DTEND;TZID=America/Chicago:20261218T210000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-christmas-for-the-birds-at-guadalupe-river-state-park@nb-eve
+ nts
+DTSTAMP:20261118T104639Z
+SUMMARY:Christmas for the Birds at Guadalupe River State Park
+DTSTART;TZID=America/Chicago:20261219T100000
+DTEND;TZID=America/Chicago:20261219T110000
+LOCATION:Guadalupe River State Park\, 3350 Park Road 31
+URL:https://theboernelife.com/events/christmas-for-the-birds-at-guadalupe-r
+ iver-state-park/
+DESCRIPTION:Learn about birds’ winter habits and make holiday treats for 
+ feathered visitors in this family-friendly program. It takes place Decembe
+ r 19 from 10 am to 11 am at the amphitheater behind the Discovery Center. 
+ Admissio…\nhttps://theboernelife.com/events/christmas-for-the-birds-at-g
+ uadalupe-river-state-park/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-live-music-saturday-nef-hernandez-at-lost-oak-cellars@nb-eve
+ nts
+DTSTAMP:20261118T104639Z
+SUMMARY:Live Music Saturday: Nef Hernandez at Lost Oak Cellars
+DTSTART;TZID=America/Chicago:20261219T190000
+DTEND;TZID=America/Chicago:20261219T220000
+LOCATION:Lost Oak Cellars\, 111 Rosewood Ave
+URL:https://theboernelife.com/events/live-music-saturday-nef-hernandez-at-l
+ ost-oak-cellars/
+DESCRIPTION:Nef Hernandez performs acoustic covers of Top 40 favorites from
+  the 1960s to today. Guests can enjoy Texas wines\, cider\, charcuterie\, 
+ tapas\, flatbreads and dessert flights. The concert takes place Saturday\,
+  December 1…\nhttps://theboernelife.com/events/live-music-saturday-nef-h
+ ernandez-at-lost-oak-cellars/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-spurs-at-pelicans@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs at Pelicans
+DTSTART;TZID=America/Chicago:20261220T180000
+DTEND;TZID=America/Chicago:20261220T200000
+LOCATION:Away in New Orleans
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-spurs-vs-bucks@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs vs. Bucks
+DTSTART;TZID=America/Chicago:20261221T190000
+DTEND;TZID=America/Chicago:20261221T210000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-spurs-at-nets@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs at Nets
+DTSTART;TZID=America/Chicago:20261223T183000
+DTEND;TZID=America/Chicago:20261223T203000
+LOCATION:Away in Brooklyn
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25-spurs-at-knicks@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs at Knicks
+DTSTART;TZID=America/Chicago:20261225T110000
+DTEND;TZID=America/Chicago:20261225T130000
+LOCATION:Away in New York
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:Christmas Day rematch of last season's NBA Finals.\nTV: ABC\nht
+ tps://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-26-live-music-saturday-brad-hughes-at-lost-oak-cellars@nb-event
+ s
+DTSTAMP:20261118T104639Z
+SUMMARY:Live Music Saturday: Brad Hughes at Lost Oak Cellars
+DTSTART;TZID=America/Chicago:20261226T190000
+DTEND;TZID=America/Chicago:20261226T220000
+LOCATION:Lost Oak Cellars\, 111 Rosewood Ave
+URL:https://theboernelife.com/events/live-music-saturday-brad-hughes-at-los
+ t-oak-cellars/
+DESCRIPTION:Brad Hughes performs country and Top 40 hits. Guests can enjoy 
+ Texas wines\, cider\, charcuterie\, tapas\, flatbreads and dessert flights
+ . The concert takes place Saturday\, December 26\, from 7 pm to 10 pm at L
+ ost Oak Cell…\nhttps://theboernelife.com/events/live-music-saturday-brad
+ -hughes-at-lost-oak-cellars/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-27-spurs-vs-hawks@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs vs. Hawks
+DTSTART;TZID=America/Chicago:20261227T180000
+DTEND;TZID=America/Chicago:20261227T200000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-spurs-at-grizzlies@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs at Grizzlies
+DTSTART;TZID=America/Chicago:20261229T190000
+DTEND;TZID=America/Chicago:20261229T210000
+LOCATION:Away in Memphis
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-spurs-at-hornets@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs at Hornets
+DTSTART;TZID=America/Chicago:20261231T120000
+DTEND;TZID=America/Chicago:20261231T140000
+LOCATION:Away in Charlotte
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:New Year's Eve matinee.\nTV: NBA TV\nhttps://www.cbssports.com/
+ nba/teams/SA/san-antonio-spurs/schedule/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-bond-blackjack-bubbly-at-tapatio-springs-hill-country-resort
+ @nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Bond\, Blackjack & Bubbly at Tapatio Springs Hill Country Resort
+DTSTART;TZID=America/Chicago:20261231T180000
+DTEND;TZID=America/Chicago:20261231T200000
+LOCATION:Tapatio Springs Hill Country Resort\, 1 Resort Way
+URL:https://theboernelife.com/events/bond-blackjack-bubbly-at-tapatio-sprin
+ gs-hill-country-resort/
+DESCRIPTION:Welcome 2027 with a New Year’s Eve celebration featuring 1920
+ s glamour\, casino gaming\, live jazz\, dinner bites\, bubbly and midnight
+  fireworks. The event runs Thursday\, December 31\, 2026\, from 6 pm throu
+ gh 1 am on Janu…\nhttps://theboernelife.com/events/bond-blackjack-bubbly
+ -at-tapatio-springs-hill-country-resort/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-01-spurs-at-wizards@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs at Wizards
+DTSTART;TZID=America/Chicago:20270101T160000
+DTEND;TZID=America/Chicago:20270101T180000
+LOCATION:Away in Washington
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-01-self-guided-first-day-nature-hikes-at-guadalupe-river-state-
+ @nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Self-Guided First Day Nature Hikes at Guadalupe River State Park
+DTSTART;TZID=America/Chicago:20270101T080000
+DTEND;TZID=America/Chicago:20270101T163000
+LOCATION:Guadalupe River State Park\, 3350 Park Road 31
+URL:https://theboernelife.com/events/self-guided-first-day-nature-hikes-at-
+ guadalupe-river-state-park/
+DESCRIPTION:Celebrate the new year with a self-guided hike on trails at Gua
+ dalupe River State Park\, including the Bauer Unit. Choose a route at your
+  own pace\, and ask staff for recommendations. After your hike\, stop by p
+ ark headq…\nhttps://theboernelife.com/events/self-guided-first-day-natur
+ e-hikes-at-guadalupe-river-state-park/
+CATEGORIES:Nature & outdoors
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-03-spurs-at-timberwolves@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs at Timberwolves
+DTSTART;TZID=America/Chicago:20270103T180000
+DTEND;TZID=America/Chicago:20270103T200000
+LOCATION:Away in Minneapolis
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-spurs-vs-pacers@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs vs. Pacers
+DTSTART;TZID=America/Chicago:20270106T190000
+DTEND;TZID=America/Chicago:20270106T210000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-spurs-vs-grizzlies@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs vs. Grizzlies
+DTSTART;TZID=America/Chicago:20270108T190000
+DTEND;TZID=America/Chicago:20270108T210000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-09-boerne-market-days@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Boerne Market Days
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270111
+LOCATION:Main Plaza\, 100 N Main St
+URL:https://business.boerne.org/events
+DESCRIPTION:Artisans\, crafts and food vendors fill the Main Plaza the seco
+ nd weekend of the month.\nTime: Sat 10–5\, Sun 10–4\nDaily 10:00–17:
+ 00\nhttps://business.boerne.org/events
+CATEGORIES:Markets & arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-09-river-road-run-half-10-miler-skydome-10k-5k-05k-at-comfort-p
+ @nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:River Road Run Half\, 10 Miler SKYDOME\, 10K\, 5K & .05K at Comfort
+  Park
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+LOCATION:Comfort Park\, 446 Broadway
+URL:https://theboernelife.com/events/river-road-run-half-10-miler-skydome-1
+ 0k-5k-05k-at-comfort-park/
+DESCRIPTION:Runners can experience the scenic Texas Hill Country during the
+  River Road Run on Saturday\, January 9\, 2027\, at Comfort Park in Comfor
+ t\, Texas. The race begins near the park gazebo and takes participants thr
+ ough the h…\nhttps://theboernelife.com/events/river-road-run-half-10-mil
+ er-skydome-10k-5k-05k-at-comfort-park/
+CATEGORIES:Nature & outdoors
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-10-spurs-at-hawks@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs at Hawks
+DTSTART;TZID=America/Chicago:20270110T140000
+DTEND;TZID=America/Chicago:20270110T160000
+LOCATION:Away in Atlanta
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-spurs-vs-pelicans-nba-paris-game@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs vs. Pelicans (NBA Paris Game)
+DTSTART;TZID=America/Chicago:20270114T130000
+DTEND;TZID=America/Chicago:20270114T150000
+LOCATION:Away in Paris\, France
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:Spurs home game played at the NBA Paris Game. Early afternoon t
+ ip in Texas.\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-spurs/sch
+ edule/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-17-spurs-at-pelicans-nba-manchester-game@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs at Pelicans (NBA Manchester Game)
+DTSTART;TZID=America/Chicago:20270117T093000
+DTEND;TZID=America/Chicago:20270117T113000
+LOCATION:Away in Manchester\, England
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:Sunday morning tip in Texas for the NBA Manchester Game.\nhttps
+ ://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-spurs-vs-heat@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs vs. Heat
+DTSTART;TZID=America/Chicago:20270120T203000
+DTEND;TZID=America/Chicago:20270120T223000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-spurs-vs-timberwolves@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs vs. Timberwolves
+DTSTART;TZID=America/Chicago:20270122T203000
+DTEND;TZID=America/Chicago:20270122T223000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-24-spurs-vs-trail-blazers@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs vs. Trail Blazers
+DTSTART;TZID=America/Chicago:20270124T143000
+DTEND;TZID=America/Chicago:20270124T163000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-spurs-vs-rockets@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs vs. Rockets
+DTSTART;TZID=America/Chicago:20270126T190000
+DTEND;TZID=America/Chicago:20270126T210000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-spurs-vs-hornets@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs vs. Hornets
+DTSTART;TZID=America/Chicago:20270127T190000
+DTEND;TZID=America/Chicago:20270127T210000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-30-spurs-at-warriors@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs at Warriors
+DTSTART;TZID=America/Chicago:20270130T163000
+DTEND;TZID=America/Chicago:20270130T183000
+LOCATION:Away in San Francisco
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-01-spurs-at-warriors@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs at Warriors
+DTSTART;TZID=America/Chicago:20270201T210000
+DTEND;TZID=America/Chicago:20270201T230000
+LOCATION:Away in San Francisco
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-spurs-at-clippers@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs at Clippers
+DTSTART;TZID=America/Chicago:20270202T213000
+DTEND;TZID=America/Chicago:20270202T233000
+LOCATION:Away in Los Angeles
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-spurs-vs-magic@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs vs. Magic
+DTSTART;TZID=America/Chicago:20270204T190000
+DTEND;TZID=America/Chicago:20270204T210000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-06-boerne-home-outdoor-living-show@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Boerne Home & Outdoor Living Show
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270208
+LOCATION:The Bevy Hotel Boerne
+URL:https://www.eventbrite.com/e/boerne-home-outdoor-living-show-tickets-19
+ 99297879778
+DESCRIPTION:Builders\, remodelers\, landscapers and outdoor-living vendors 
+ under one roof.\nDaily 10:00\nhttps://www.eventbrite.com/e/boerne-home-out
+ door-living-show-tickets-1999297879778
+CATEGORIES:Markets & arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-06-spurs-vs-lakers@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs vs. Lakers
+DTSTART;TZID=America/Chicago:20270206T193000
+DTEND;TZID=America/Chicago:20270206T213000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-spurs-at-mavericks@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs at Mavericks
+DTSTART;TZID=America/Chicago:20270209T190000
+DTEND;TZID=America/Chicago:20270209T210000
+LOCATION:Away in Dallas
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-11-spurs-at-thunder@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs at Thunder
+DTSTART;TZID=America/Chicago:20270211T203000
+DTEND;TZID=America/Chicago:20270211T223000
+LOCATION:Away in Oklahoma City
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-13-boerne-market-days@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Boerne Market Days
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270215
+LOCATION:Main Plaza\, 100 N Main St
+URL:https://business.boerne.org/events
+DESCRIPTION:Artisans\, crafts and food vendors fill the Main Plaza the seco
+ nd weekend of the month.\nTime: Sat 10–5\, Sun 10–4\nDaily 10:00–17:
+ 00\nhttps://business.boerne.org/events
+CATEGORIES:Markets & arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-13-spurs-at-magic@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs at Magic
+DTSTART;TZID=America/Chicago:20270213T180000
+DTEND;TZID=America/Chicago:20270213T200000
+LOCATION:Away in Orlando
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-15-spurs-at-heat@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs at Heat
+DTSTART;TZID=America/Chicago:20270215T160000
+DTEND;TZID=America/Chicago:20270215T180000
+LOCATION:Away in Miami
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-spurs-at-grizzlies@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs at Grizzlies
+DTSTART;TZID=America/Chicago:20270217T190000
+DTEND;TZID=America/Chicago:20270217T210000
+LOCATION:Away in Memphis
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-18-spurs-at-timberwolves@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs at Timberwolves
+DTSTART;TZID=America/Chicago:20270218T183000
+DTEND;TZID=America/Chicago:20270218T203000
+LOCATION:Away in Minneapolis
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-26-spurs-vs-grizzlies-austin@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs vs. Grizzlies (Austin)
+DTSTART;TZID=America/Chicago:20270226T190000
+DTEND;TZID=America/Chicago:20270226T210000
+LOCATION:Moody Center\, Austin
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:One of the Spurs' annual Austin home games\, about 45 minutes u
+ p I-35.\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule
+ /
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-28-spurs-vs-nuggets-austin@nb-events
+DTSTAMP:20261118T104639Z
+SUMMARY:Spurs vs. Nuggets (Austin)
+DTSTART;TZID=America/Chicago:20270228T120000
+DTEND;TZID=America/Chicago:20270228T140000
+LOCATION:Moody Center\, Austin
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:Sunday matinee at the Moody Center\, the second of the Austin g
+ ames.\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+CATEGORIES:Spurs basketball
+END:VEVENT
+END:VCALENDAR
