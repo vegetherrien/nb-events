@@ -1,0 +1,1505 @@
+{
+ "schemaVersion": 1,
+ "updated": "2026-11-18",
+ "timeZone": "America/Chicago",
+ "title": "Boerne Event Calendar",
+ "city": {
+  "id": "boerne",
+  "name": "Boerne",
+  "short": "Boerne",
+  "badge": "B",
+  "state": "Texas",
+  "stateAbbr": "TX",
+  "latitude": 29.7947,
+  "longitude": -98.732,
+  "timeZone": "America/Chicago",
+  "radiusMiles": 60,
+  "outdoorKeywords": [
+   "main plaza",
+   "main street",
+   "main st",
+   "cibolo nature center",
+   "river road park",
+   "city park",
+   "hill country mile",
+   "dickens",
+   "stocking stroll",
+   "weihnachts",
+   "kendall county fair"
+  ],
+  "elsewhere": [
+   "San Antonio",
+   "Austin",
+   "Dallas",
+   "College Station",
+   "Arlington",
+   "Seattle",
+   "Inglewood",
+   "Norman",
+   "Birmingham",
+   "Atlanta",
+   "Minneapolis",
+   "Paris",
+   "Manchester",
+   "Comfort",
+   "Sisterdale",
+   "Fair Oaks Ranch",
+   "Kendalia",
+   "Bandera"
+  ]
+ },
+ "rangeStart": "2026-11-18",
+ "rangeEnd": "2027-02-28",
+ "categories": [
+  {
+   "id": "fest",
+   "name": "Festivals & community",
+   "light": "#1C5CA3",
+   "dark": "#84B3EE",
+   "symbol": "party.popper.fill"
+  },
+  {
+   "id": "music",
+   "name": "Live music",
+   "light": "#0E7C7B",
+   "dark": "#4FD1C5",
+   "symbol": "music.note"
+  },
+  {
+   "id": "holiday",
+   "name": "Holiday & seasonal",
+   "light": "#AE2239",
+   "dark": "#F27A8E",
+   "symbol": "sparkles"
+  },
+  {
+   "id": "market",
+   "name": "Markets & arts",
+   "light": "#6845A3",
+   "dark": "#B99DF0",
+   "symbol": "basket.fill"
+  },
+  {
+   "id": "nature",
+   "name": "Nature & outdoors",
+   "light": "#3D7A4E",
+   "dark": "#86D19A",
+   "symbol": "leaf.fill"
+  },
+  {
+   "id": "horns",
+   "name": "Longhorns football",
+   "light": "#B85000",
+   "dark": "#FF9A4D",
+   "symbol": "football.fill",
+   "group": "Football"
+  },
+  {
+   "id": "cowboys",
+   "name": "Cowboys football",
+   "light": "#003594",
+   "dark": "#9DB7E8",
+   "symbol": "star.fill",
+   "defaultHidden": true,
+   "group": "Football"
+  },
+  {
+   "id": "aggies",
+   "name": "Texas A&M football",
+   "light": "#500000",
+   "dark": "#E39A9A",
+   "symbol": "football.fill",
+   "group": "Football"
+  },
+  {
+   "id": "utsa",
+   "name": "UTSA football",
+   "light": "#0C2340",
+   "dark": "#F58A5B",
+   "symbol": "bird.fill",
+   "group": "Football"
+  },
+  {
+   "id": "spurs",
+   "name": "Spurs basketball",
+   "light": "#55616B",
+   "dark": "#B8C2CC",
+   "symbol": "basketball.fill"
+  }
+ ],
+ "seasons": [
+  {
+   "month": 11,
+   "key": "nov",
+   "de": "November",
+   "title": "Dickens on Main & a Hill Country Thanksgiving",
+   "tagline": "Thanksgiving weekend turns Main Street into a Victorian Christmas village, with snow after dark."
+  },
+  {
+   "month": 12,
+   "key": "dec",
+   "de": "Dezember",
+   "title": "Weihnachten on Main Street",
+   "tagline": "The Stocking Stroll, the Weihnachts Parade and holiday Market Days on the Main Plaza."
+  },
+  {
+   "month": 1,
+   "key": "jan",
+   "de": "Januar",
+   "title": "A quiet new year in the Hill Country",
+   "tagline": "Market Days on the Main Plaza, trails at the Cibolo Nature Center, and Spurs basketball down I-10."
+  },
+  {
+   "month": 2,
+   "key": "feb",
+   "de": "Februar",
+   "title": "Chocolate, home shows and Market Days",
+   "tagline": "The Home & Outdoor Living Show, Valentine's weekend Market Days and the Spurs' Austin games."
+  }
+ ],
+ "events": [
+  {
+   "id": "2026-11-18-wednesday-nature-walk-at-cibolo-nature-center",
+   "category": "nature",
+   "title": "Wednesday Nature Walk at Cibolo Nature Center",
+   "startDate": "2026-11-18",
+   "startTime": "14:30",
+   "endTime": "15:00",
+   "location": "Cibolo Nature Center, 140 City Park Rd",
+   "description": "Take a refreshing 30-minute walk along the Cibolo Nature Center trails with the Nature Education team. The walk takes place Wednesday, November 18, 2026, from 2:30 pm to 3 pm. Meet on the center’s back porch at 140 Ci…",
+   "sourceURL": "https://theboernelife.com/events/wednesday-nature-walk-at-cibolo-nature-center/"
+  },
+  {
+   "id": "2026-11-19-spurs-vs-clippers",
+   "category": "spurs",
+   "title": "Spurs vs. Clippers",
+   "startDate": "2026-11-19",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-11-19-name-that-tune-at-la-cascada-table-bar",
+   "category": "music",
+   "title": "Name That Tune at La Cascada Table & Bar",
+   "startDate": "2026-11-19",
+   "startTime": "19:30",
+   "endTime": "21:30",
+   "location": "La Cascada Table & Bar, 1 Resort Way",
+   "description": "Music lovers can test their knowledge during Name That Tune at La Cascada Table & Bar, held every third Thursday of the month from 6:30 pm to 8:30 pm at Tapatio Springs Hill Country Resort in Boerne, TX. The interacti…",
+   "sourceURL": "https://theboernelife.com/events/name-that-tune-at-la-cascada-table-bar-2/2026-11-19/"
+  },
+  {
+   "id": "2026-11-20-pink-friday-on-the-hill-country-mile",
+   "category": "market",
+   "title": "Pink Friday on the Hill Country Mile",
+   "startDate": "2026-11-20",
+   "startTime": "10:00",
+   "endTime": "17:00",
+   "location": "Hill Country Mile, 100 North Main St.",
+   "description": "Thirty local businesses will take part in Pink Friday, a community-wide celebration of shopping local and the start of the holiday shopping season. Shoppers can explore participating businesses, enjoy special activiti…",
+   "sourceURL": "https://theboernelife.com/events/pink-friday-on-the-hill-country-mile/"
+  },
+  {
+   "id": "2026-11-20-turkey-camp-at-gina-marie-s-art-studio",
+   "category": "market",
+   "title": "Turkey Camp at Gina Marie’s Art Studio",
+   "startDate": "2026-11-20",
+   "startTime": "10:00",
+   "endTime": "15:00",
+   "location": "Gina Marie’s Art Studio, 525 N School St",
+   "description": "Spend the day making turkey-themed art and crafts and playing with slime at this creative camp. Camp is offered Friday, November 20, or Monday, November 23, from 10 am to 3 pm. Spots are limited; contact Gina Marie’s …",
+   "sourceURL": "https://theboernelife.com/events/turkey-camp-at-gina-maries-art-studio/2026-11-20/"
+  },
+  {
+   "id": "2026-11-20-jp-bergman-and-slowpoke-at-cibolo-creek-brewing-co",
+   "category": "music",
+   "title": "JP Bergman and Slowpoke at Cibolo Creek Brewing Co.",
+   "startDate": "2026-11-20",
+   "startTime": "19:00",
+   "endTime": "22:00",
+   "location": "Cibolo Creek Brewing Company, 448 South Main St",
+   "description": "Live music with a mix of honky-tonk, ’70s rock, and crowd favorites fills the evening at Cibolo Creek Brewing Co. JP Bergman and Slowpoke perform every third Friday of the month from 6 pm to 9 pm, bringing a lively an…",
+   "sourceURL": "https://theboernelife.com/events/jp-bergman-and-slowpoke-at-cibolo-creek-brewing-co/2026-11-20/"
+  },
+  {
+   "id": "2026-11-21-texas-vs-arkansas",
+   "category": "horns",
+   "title": "Texas vs. Arkansas",
+   "startDate": "2026-11-21",
+   "startTime": "14:30",
+   "location": "DKR Texas Memorial Stadium, Austin",
+   "description": "Kickoff is set for 2:30 PM. The network is picked closer to game day.",
+   "tv": "ABC or ESPN",
+   "sourceURL": "https://fbschedules.com/college-football-schedule-tv-selections-for-november-21-2026/"
+  },
+  {
+   "id": "2026-11-21-texas-a-m-at-oklahoma",
+   "category": "aggies",
+   "title": "Texas A&M at Oklahoma",
+   "startDate": "2026-11-21",
+   "startTime": "14:45",
+   "location": "Memorial Stadium, Norman, OK",
+   "sourceURL": "https://12thman.com/sports/football/schedule",
+   "outdoor": false
+  },
+  {
+   "id": "2026-11-21-spurs-vs-pelicans",
+   "category": "spurs",
+   "title": "Spurs vs. Pelicans",
+   "startDate": "2026-11-21",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-11-21-utsa-at-uab",
+   "category": "utsa",
+   "title": "UTSA at UAB",
+   "startDate": "2026-11-21",
+   "startTime": "19:00",
+   "location": "Protective Stadium, Birmingham, AL",
+   "sourceURL": "https://goutsa.com/sports/football/schedule",
+   "outdoor": false
+  },
+  {
+   "id": "2026-11-21-boerne-last-man-standing-at-boerne-city-park",
+   "category": "nature",
+   "title": "Boerne Last Man Standing at Boerne City Park",
+   "startDate": "2026-11-21",
+   "startTime": "04:00",
+   "endTime": "11:00",
+   "location": "Boerne City Park, 106 City Park Road",
+   "description": "This Backyard Ultra challenges runners to complete a 4.167-mile loop every hour, starting a new loop on the hour until one runner remains. Runners are out if they don’t finish a loop within the hour or make it to the …",
+   "sourceURL": "https://theboernelife.com/events/boerne-last-man-standing-at-boerne-city-park/"
+  },
+  {
+   "id": "2026-11-21-david-selbo-at-singing-water-vineyards",
+   "category": "music",
+   "title": "David Selbo at Singing Water Vineyards",
+   "startDate": "2026-11-21",
+   "startTime": "13:00",
+   "endTime": "16:00",
+   "location": "Singing Water Vineyards, 316 Mill Dam Rd",
+   "description": "Spend a relaxing Saturday afternoon at Singing Water Vineyards with live music from David Selbo on November 21. Known for his soulful sound and smooth, tasteful guitar playing, Selbo brings a mix of classic favorites …",
+   "sourceURL": "https://theboernelife.com/events/david-selbo-at-singing-water-vineyards-2/"
+  },
+  {
+   "id": "2026-11-21-hunter-billingsley-at-singing-water-vineyards",
+   "category": "music",
+   "title": "Hunter Billingsley at Singing Water Vineyards",
+   "startDate": "2026-11-21",
+   "startTime": "17:00",
+   "endTime": "20:00",
+   "location": "Singing Water Vineyards, 316 Mill Dam Rd",
+   "description": "Enjoy an evening of live music at Singing Water Vineyards on Saturday, November 21, featuring Hunter Billingsley, a Texas Hill Country singer and guitarist known for a diverse mix of music. His homegrown music project…",
+   "sourceURL": "https://theboernelife.com/events/hunter-billingsley-at-singing-water-vineyards-2/"
+  },
+  {
+   "id": "2026-11-21-live-music-saturday-kyle-mathis-at-lost-oak-cellars",
+   "category": "music",
+   "title": "Live Music Saturday: Kyle Mathis at Lost Oak Cellars",
+   "startDate": "2026-11-21",
+   "startTime": "19:00",
+   "endTime": "22:00",
+   "location": "Lost Oak Cellars, 111 Rosewood Ave",
+   "description": "Kyle Mathis performs country, rock, R&B and blues during an evening of live music. Guests can enjoy Texas wines, cider, charcuterie, tapas, flatbreads and dessert flights. The concert takes place Saturday, November 21…",
+   "sourceURL": "https://theboernelife.com/events/live-music-saturday-kyle-mathis-at-lost-oak-cellars/"
+  },
+  {
+   "id": "2026-11-22-cowboys-vs-titans",
+   "category": "cowboys",
+   "title": "Cowboys vs. Titans",
+   "startDate": "2026-11-22",
+   "startTime": "12:00",
+   "location": "AT&T Stadium, Arlington",
+   "sourceURL": "https://www.dallascowboys.com/schedule/",
+   "outdoor": false
+  },
+  {
+   "id": "2026-11-22-julian-escobedo-at-singing-water-vineyards",
+   "category": "music",
+   "title": "Julian Escobedo at Singing Water Vineyards",
+   "startDate": "2026-11-22",
+   "startTime": "13:00",
+   "endTime": "16:00",
+   "location": "Singing Water Vineyards, 316 Mill Dam Rd",
+   "description": "Enjoy an afternoon of live music at Singing Water Vineyards on Sunday, November 22, featuring Julian Escobedo. With 30 years of experience, Julian brings a wealth of musical talent to the stage, performing favorite si…",
+   "sourceURL": "https://theboernelife.com/events/julian-escobedo-at-singing-water-vineyards-2/"
+  },
+  {
+   "id": "2026-11-23-spurs-at-kings",
+   "category": "spurs",
+   "title": "Spurs at Kings",
+   "startDate": "2026-11-23",
+   "startTime": "21:00",
+   "location": "Away in Sacramento",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-11-23-turkey-camp-at-gina-marie-s-art-studio",
+   "category": "market",
+   "title": "Turkey Camp at Gina Marie’s Art Studio",
+   "startDate": "2026-11-23",
+   "startTime": "10:00",
+   "endTime": "15:00",
+   "location": "Gina Marie’s Art Studio, 525 N School St",
+   "description": "Spend the day making turkey-themed art and crafts and playing with slime at this creative camp. Camp is offered Friday, November 20, or Monday, November 23, from 10 am to 3 pm. Spots are limited; contact Gina Marie’s …",
+   "sourceURL": "https://theboernelife.com/events/turkey-camp-at-gina-maries-art-studio/2026-11-23/"
+  },
+  {
+   "id": "2026-11-25-spurs-at-trail-blazers",
+   "category": "spurs",
+   "title": "Spurs at Trail Blazers",
+   "startDate": "2026-11-25",
+   "startTime": "21:00",
+   "location": "Away in Portland",
+   "tv": "ESPN",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-11-25-kids-thanksgiving-craft-morning-at-girls-night-in",
+   "category": "market",
+   "title": "Kids Thanksgiving Craft Morning at Girls Night In",
+   "startDate": "2026-11-25",
+   "startTime": "09:00",
+   "endTime": "11:00",
+   "location": "Girls Night In, 170 S Main St, Suite 202",
+   "description": "Children ages 7 and up can enjoy two hours of hands-on crafting and take home their own creations. All supplies are included. The workshop takes place Wednesday, November 25, 2026, from 9 am to 11 am at Girls Night In…",
+   "sourceURL": "https://theboernelife.com/events/kids-thanksgiving-craft-morning-at-girls-night-in/"
+  },
+  {
+   "id": "2026-11-26-cowboys-vs-eagles-thanksgiving",
+   "category": "cowboys",
+   "title": "Cowboys vs. Eagles (Thanksgiving)",
+   "shortTitle": "Cowboys vs. Eagles",
+   "startDate": "2026-11-26",
+   "startTime": "15:30",
+   "location": "AT&T Stadium, Arlington",
+   "description": "The Thanksgiving Day game.",
+   "featured": true,
+   "sourceURL": "https://www.dallascowboys.com/schedule/",
+   "outdoor": false
+  },
+  {
+   "id": "2026-11-26-6th-annual-bulverde-turkey-trot-at-bulverde-community-park",
+   "category": "nature",
+   "title": "6th Annual Bulverde Turkey Trot at Bulverde Community Park",
+   "startDate": "2026-11-26",
+   "location": "Bulverde Community Park, 29815 Bulverde Lane",
+   "description": "Start Thanksgiving morning with a community tradition during the 6th Annual Bulverde Turkey Trot on Thursday, November 26, 2026, at Bulverde Community Park. The annual event brings families, friends, businesses, and c…",
+   "sourceURL": "https://theboernelife.com/events/6th-annual-bulverde-turkey-trot-at-bulverde-community-park/"
+  },
+  {
+   "id": "2026-11-26-closed-thanksgiving-day-at-lost-oak-cellars",
+   "category": "fest",
+   "title": "Closed Thanksgiving Day at Lost Oak Cellars",
+   "startDate": "2026-11-26",
+   "location": "Lost Oak Cellars, 111 Rosewood Ave",
+   "description": "Lost Oak Cellars will be closed Thursday, November 26, for Thanksgiving. The team wishes everyone a happy and blessed holiday.",
+   "sourceURL": "https://theboernelife.com/events/closed-thanksgiving-day-at-lost-oak-cellars/"
+  },
+  {
+   "id": "2026-11-26-turkey-talk-at-guadalupe-river-state-park",
+   "category": "fest",
+   "title": "Turkey Talk at Guadalupe River State Park",
+   "startDate": "2026-11-26",
+   "startTime": "10:00",
+   "endTime": "11:00",
+   "location": "Guadalupe River State Park, 3350 Park Road 31",
+   "description": "Wild turkeys take center stage in this Thanksgiving Day program exploring their habits, calls and other fascinating features. The program takes place Thursday, November 26, 2026, from 10 am to 11 am at the amphitheate…",
+   "sourceURL": "https://theboernelife.com/events/turkey-talk-at-guadalupe-river-state-park-2/"
+  },
+  {
+   "id": "2026-11-27-dickens-on-main",
+   "category": "holiday",
+   "title": "Dickens on Main",
+   "shortTitle": "Dickens on Main",
+   "startDate": "2026-11-27",
+   "endDate": "2026-11-28",
+   "timeNote": "Afternoon into night; hours vary by activity",
+   "location": "Downtown Boerne, Main Street",
+   "description": "Boerne's big Thanksgiving-weekend festival: a Christmas market, a Dickens Village with readings, ice slides, kids' crafts and snow falling on Main Street after dark. Country singer Caleb Young performs. Free.",
+   "featured": true,
+   "outdoor": true,
+   "sourceURL": "https://holidaysinboerne.com/dickens-on-main"
+  },
+  {
+   "id": "2026-11-27-utsa-vs-tulsa",
+   "category": "utsa",
+   "title": "UTSA vs. Tulsa",
+   "startDate": "2026-11-27",
+   "startTime": "11:00",
+   "location": "Alamodome, San Antonio",
+   "description": "Regular season finale, the day after Thanksgiving.",
+   "sourceURL": "https://goutsa.com/sports/football/schedule",
+   "outdoor": false
+  },
+  {
+   "id": "2026-11-27-texas-at-texas-a-m-lone-star-showdown",
+   "category": "horns",
+   "title": "Texas at Texas A&M (Lone Star Showdown)",
+   "shortTitle": "Texas at Texas A&M",
+   "startDate": "2026-11-27",
+   "startTime": "18:30",
+   "location": "Kyle Field, College Station",
+   "description": "The rivalry game, the day after Thanksgiving.",
+   "tv": "ABC",
+   "featured": true,
+   "sourceURL": "https://texaslonghorns.com/news/2026/6/10/additional-kickoff-times-tv-window-assignments-announced-for-football"
+  },
+  {
+   "id": "2026-11-27-texas-a-m-vs-texas-lone-star-showdown",
+   "category": "aggies",
+   "title": "Texas A&M vs. Texas (Lone Star Showdown)",
+   "shortTitle": "Texas A&M vs. Texas",
+   "startDate": "2026-11-27",
+   "startTime": "18:30",
+   "location": "Kyle Field, College Station",
+   "description": "The rivalry game, the day after Thanksgiving.",
+   "tv": "ABC",
+   "sourceURL": "https://12thman.com/sports/football/schedule",
+   "outdoor": false
+  },
+  {
+   "id": "2026-11-27-spurs-vs-lakers",
+   "category": "spurs",
+   "title": "Spurs vs. Lakers",
+   "startDate": "2026-11-27",
+   "startTime": "20:30",
+   "location": "Frost Bank Center, San Antonio",
+   "tv": "Prime Video",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-11-27-opt-outside-day-at-guadalupe-river-state-park",
+   "category": "nature",
+   "title": "Opt Outside Day at Guadalupe River State Park",
+   "startDate": "2026-11-27",
+   "location": "Guadalupe River State Park, 3350 Park Road 31",
+   "description": "Spend Black Friday outdoors at Guadalupe River State Park. Visitors can hike the trails, enjoy the river, go birdwatching, try a nature scavenger hunt, take photographs, spot wildlife or picnic with a view. Find detai…",
+   "sourceURL": "https://theboernelife.com/events/opt-outside-day-at-guadalupe-river-state-park-2/"
+  },
+  {
+   "id": "2026-11-27-semi-annual-case-sale-at-lost-oak-cellars",
+   "category": "fest",
+   "title": "Semi-Annual Case Sale at Lost Oak Cellars",
+   "startDate": "2026-11-27",
+   "endDate": "2026-12-05",
+   "location": "Lost Oak Cellars, 111 Rosewood Ave",
+   "description": "Lost Oak Cellars’ case sale offers 20% off purchases of 12 or more bottles of wine from November 27 through December 5. Wine Club members can combine the offer with their membership discount.",
+   "sourceURL": "https://theboernelife.com/events/semi-annual-case-sale-at-lost-oak-cellars/"
+  },
+  {
+   "id": "2026-11-27-plaid-friday-and-small-business-saturday-at-handmade-on-main",
+   "category": "market",
+   "title": "Plaid Friday and Small Business Saturday at Handmade on Main",
+   "startDate": "2026-11-27",
+   "startTime": "11:00",
+   "location": "Handmade on Main, 347 N Main St",
+   "description": "Browse handmade merchandise and look for holiday gifts and stocking stuffers during this two-day shopping event. The shop will be open November 27 and 28 from 11 am to 9 pm at Handmade on Main.",
+   "sourceURL": "https://theboernelife.com/events/plaid-friday-and-small-business-saturday-at-handmade-on-main/"
+  },
+  {
+   "id": "2026-11-27-sold-out-murder-at-the-wine-bar-boerne-community-theatre-fun",
+   "category": "market",
+   "title": "SOLD OUT: Murder at the Wine Bar – Boerne Community Theatre Fundraiser",
+   "startDate": "2026-11-27",
+   "startTime": "16:30",
+   "endTime": "20:00",
+   "location": "DeVino Cellars, 1109 S Main St",
+   "description": "Join Boerne Community Theatre for a thrilling night of suspense and laughter at our murder mystery fundraiser, “Murder at the Wine Bar.” Set in the charming ambiance of DeVino Cellars, this immersive event places you …",
+   "sourceURL": "https://theboernelife.com/events/murder-at-the-wine-bar-boerne-community-theatre-fundraiser/2026-11-27/"
+  },
+  {
+   "id": "2026-11-27-band-of-confusion-a-genesis-tribute-at-singing-water-vineyar",
+   "category": "music",
+   "title": "Band of Confusion: A Genesis Tribute at Singing Water Vineyards",
+   "startDate": "2026-11-27",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Singing Water Vineyards, 316 Mill Dam Rd",
+   "description": "The music of Genesis will take the stage at Singing Water Vineyards on Friday, November 27, at 6 pm, when Band of Confusion presents a tribute to the influential rock band. The performance will span Genesis’ catalog, …",
+   "sourceURL": "https://theboernelife.com/events/band-of-confusion-a-genesis-tribute-at-singing-water-vineyards/"
+  },
+  {
+   "id": "2026-11-28-breakfast-with-santa-at-la-cascada-table-bar",
+   "category": "holiday",
+   "title": "Breakfast with Santa at La Cascada Table & Bar",
+   "startDate": "2026-11-28",
+   "startTime": "08:30",
+   "endTime": "12:00",
+   "location": "La Cascada Table & Bar, 1 Resort Way",
+   "description": "Families can welcome the holiday season with Breakfast with Santa at La Cascada Table & Bar on Saturday, November 28. This festive morning features a delicious brunch, holiday-themed décor, and a chance for children t…",
+   "sourceURL": "https://theboernelife.com/events/breakfast-with-santa-at-la-cascada-table-bar/"
+  },
+  {
+   "id": "2026-11-28-christmas-market-at-the-8th-street-market",
+   "category": "holiday",
+   "title": "Christmas Market at The 8th Street Market",
+   "startDate": "2026-11-28",
+   "startTime": "09:00",
+   "endTime": "18:00",
+   "location": "8th Street Market, 523 8th Street",
+   "description": "Browse handmade goods and shop from local artisans at this Christmas market. The event takes place Saturday, November 28, from 9 am to 6 pm at The 8th Street Market, 523 8th Street, Comfort, Texas 78013.",
+   "sourceURL": "https://theboernelife.com/events/christmas-market-at-the-8th-street-market/"
+  },
+  {
+   "id": "2026-11-28-holiday-art-and-shopping-at-esther-benedict-gallery-hill-cou",
+   "category": "holiday",
+   "title": "Holiday Art and Shopping at Esther Benedict Gallery & Hill Country Sculpture Walk",
+   "startDate": "2026-11-28",
+   "startTime": "10:00",
+   "endTime": "17:00",
+   "location": "Benedict Metal Art/Esther Benedict Sculptures, 160 Diamond J Rd N",
+   "description": "Explore new artwork, meet the artist and stroll the decorated gallery and sculpture walk during a festive day of holiday shopping. Live music by Chris Guerrero, complimentary snacks and beverages, and Christmas cheer …",
+   "sourceURL": "https://theboernelife.com/events/holiday-art-and-shopping-at-esther-benedict-gallery-hill-country-sculpture-walk/"
+  },
+  {
+   "id": "2026-11-28-sam-and-lilly-platts-at-singing-water-vineyards",
+   "category": "music",
+   "title": "Sam and Lilly Platts at Singing Water Vineyards",
+   "startDate": "2026-11-28",
+   "startTime": "13:00",
+   "endTime": "16:00",
+   "location": "Singing Water Vineyards, 316 Mill Dam Rd",
+   "description": "Sam and Lilly Platts bring their own spin on Western swing to Singing Water Vineyards on Saturday, November 28. Their performance offers an afternoon of lively music in the Hill Country vineyard setting, making it a g…",
+   "sourceURL": "https://theboernelife.com/events/sam-and-lilly-platts-at-singing-water-vineyards/"
+  },
+  {
+   "id": "2026-11-28-music-in-the-cave-sounds-of-the-season-at-cave-without-a-nam",
+   "category": "music",
+   "title": "Music in the Cave: Sounds of the Season at Cave Without a Name",
+   "startDate": "2026-11-28",
+   "startTime": "19:00",
+   "endTime": "21:00",
+   "location": "Cave Without A Name, 325 Kreutzberg Rd",
+   "description": "Tinsel, an a cappella quartet featuring Grammy-winning and classically trained singers, performs contemporary Christmas favorites and beloved carols in the Queen’s Throne Room. The cave’s natural acoustics and ancient…",
+   "sourceURL": "https://theboernelife.com/events/music-in-the-cave-sounds-of-the-season-at-cave-without-a-name/"
+  },
+  {
+   "id": "2026-11-29-spurs-vs-celtics",
+   "category": "spurs",
+   "title": "Spurs vs. Celtics",
+   "startDate": "2026-11-29",
+   "startTime": "15:00",
+   "location": "Frost Bank Center, San Antonio",
+   "tv": "NBA TV",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-11-29-jeff-jacobs-at-singing-water-vineyards",
+   "category": "music",
+   "title": "Jeff Jacobs at Singing Water Vineyards",
+   "startDate": "2026-11-29",
+   "startTime": "13:00",
+   "endTime": "16:00",
+   "location": "Singing Water Vineyards, 316 Mill Dam Rd",
+   "description": "Enjoy an afternoon of live music at Singing Water Vineyards on Sunday, November 29, as San Antonio native Jeff Jacobs brings his Texas Country roots to the Hill Country. His performance offers a chance to unwind with …",
+   "sourceURL": "https://theboernelife.com/events/jeff-jacobs-at-singing-water-vineyards-2/"
+  },
+  {
+   "id": "2026-11-30-spurs-at-bucks",
+   "category": "spurs",
+   "title": "Spurs at Bucks",
+   "startDate": "2026-11-30",
+   "startTime": "19:00",
+   "location": "Away in Milwaukee",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-12-01-homegrown-holiday-festival-at-boerne-farmers-market",
+   "category": "holiday",
+   "title": "Homegrown Holiday Festival at Boerne Farmers’ Market",
+   "startDate": "2026-12-01",
+   "startTime": "16:00",
+   "endTime": "22:00",
+   "location": "Boerne Farmers’ Market, 157 S Main St",
+   "description": "Boerne Farmers’ Market celebrates the season with a family-friendly holiday festival featuring live music, photos with Santa, a bounce house, children’s Christmas crafts, hot cocoa and cookies. The event takes place T…",
+   "sourceURL": "https://theboernelife.com/events/homegrown-holiday-festival-at-boerne-farmers-market/"
+  },
+  {
+   "id": "2026-12-03-spurs-vs-raptors",
+   "category": "spurs",
+   "title": "Spurs vs. Raptors",
+   "startDate": "2026-12-03",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-12-03-blizzard-of-bows-winter-concert-at-champion-high-school-audi",
+   "category": "music",
+   "title": "Blizzard of Bows Winter Concert at Champion High School Auditorium",
+   "startDate": "2026-12-03",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Boerne Champion High School, 201 Charger Blvd",
+   "description": "The Champion High School and Boerne High School orchestras perform their winter concert. Admission is free, and concessions will be available from 6 pm to 6:45 pm. The concert begins at 7 pm on Thursday, December 3, 2…",
+   "sourceURL": "https://theboernelife.com/events/blizzard-of-bows-winter-concert-at-champion-high-school-auditorium/"
+  },
+  {
+   "id": "2026-12-04-stocking-stroll",
+   "category": "holiday",
+   "title": "Stocking Stroll",
+   "startDate": "2026-12-04",
+   "endDate": "2026-12-05",
+   "startTime": "10:00",
+   "endTime": "17:00",
+   "location": "Downtown Boerne",
+   "description": "Holiday shopping walk through downtown shops. Proceeds sponsor Dickens on Main.",
+   "outdoor": true,
+   "sourceURL": "https://holidaysinboerne.com/stocking-stroll"
+  },
+  {
+   "id": "2026-12-04-boerne-isd-cookies-cocoa-toy-drive-at-boerne-isd-central-off",
+   "category": "fest",
+   "title": "Boerne ISD Cookies & Cocoa Toy Drive at Boerne ISD Central Office",
+   "startDate": "2026-12-04",
+   "startTime": "08:00",
+   "endTime": "14:30",
+   "location": "Boerne ISD Central Office, 235 Johns Road",
+   "description": "Boerne ISD and the Boerne Education Foundation host their eighth annual toy drive benefiting Kendall County’s Blue Santa Program. Guests can enjoy hot cocoa, cookies and student holiday performances throughout the day…",
+   "sourceURL": "https://theboernelife.com/events/boerne-isd-cookies-cocoa-toy-drive-at-boerne-isd-central-office/"
+  },
+  {
+   "id": "2026-12-04-st-nicholas-market-at-st-john-lutheran-school-boerne",
+   "category": "market",
+   "title": "St. Nicholas Market at St. John Lutheran School Boerne",
+   "startDate": "2026-12-04",
+   "startTime": "12:00",
+   "endTime": "13:00",
+   "location": "St. John Lutheran Church, 315 Rosewood Ave.",
+   "description": "The St. Nicholas Market features homemade jam and a festive holiday atmosphere. It takes place Friday, December 4, from 12 pm to 1 pm at St. John Lutheran School Boerne. Cash only.",
+   "sourceURL": "https://theboernelife.com/events/st-nicholas-market-at-st-john-lutheran-school-boerne/"
+  },
+  {
+   "id": "2026-12-04-weihnachts-weekend-on-the-hill-country-mile",
+   "category": "holiday",
+   "title": "Weihnachts Weekend on the Hill Country Mile",
+   "startDate": "2026-12-04",
+   "startTime": "16:00",
+   "location": "Boerne",
+   "description": "Boerne’s holiday weekend features a Wassail Walk and Caroling Contest on Friday, December 4, from 4 pm to 8 pm. Participating businesses will serve their own versions of wassail while carolers perform holiday songs. O…",
+   "sourceURL": "https://theboernelife.com/events/weihnachts-weekend-on-the-hill-country-mile/"
+  },
+  {
+   "id": "2026-12-04-wassail-walk-on-the-hill-country-mile",
+   "category": "holiday",
+   "title": "Wassail Walk on the Hill Country Mile",
+   "startDate": "2026-12-04",
+   "startTime": "16:00",
+   "endTime": "20:00",
+   "location": "Hill Country Mile, 100 North Main St.",
+   "description": "Stroll the Hill Country Mile during an evening of late-night shopping and seasonal drinks, including wassail and mulled wine at participating stops. A caroling contest adds to the holiday atmosphere. The Wassail Walk …",
+   "sourceURL": "https://theboernelife.com/events/wassail-walk-on-the-hill-country-mile/"
+  },
+  {
+   "id": "2026-12-05-weihnachts-parade",
+   "category": "holiday",
+   "title": "Weihnachts Parade (39th annual)",
+   "shortTitle": "Weihnachts Parade",
+   "startDate": "2026-12-05",
+   "startTime": "18:00",
+   "location": "Main Street, Boerne",
+   "description": "Boerne's lighted Christmas parade down Main Street, now in its 39th year.",
+   "featured": true,
+   "outdoor": true,
+   "sourceURL": "https://holidaysinboerne.com/"
+  },
+  {
+   "id": "2026-12-05-sec-championship-game",
+   "category": "horns",
+   "title": "SEC Championship Game",
+   "shortTitle": "SEC Championship",
+   "startDate": "2026-12-05",
+   "startTime": "15:00",
+   "location": "Mercedes-Benz Stadium, Atlanta",
+   "description": "The top two SEC teams meet for the conference title.",
+   "tv": "ABC",
+   "tag": "If Texas qualifies",
+   "sourceURL": "https://en.wikipedia.org/wiki/2026_Southeastern_Conference_football_season"
+  },
+  {
+   "id": "2026-12-05-holiday-hunger-5k-run-walk-at-bulverde-city-park",
+   "category": "nature",
+   "title": "Holiday Hunger 5K Run & Walk at Bulverde City Park",
+   "startDate": "2026-12-05",
+   "location": "Bulverde City Park, 29815 Bulverde Lane",
+   "description": "Celebrate the holiday season while supporting a meaningful local cause during the Holiday Hunger 5K Run & Walk on Saturday, December 5, 2026, at Bulverde City Park. The 5K raises awareness about hunger and food insecu…",
+   "sourceURL": "https://theboernelife.com/events/holiday-hunger-5k-run-walk-at-bulverde-city-park/"
+  },
+  {
+   "id": "2026-12-05-how-the-grinch-stole-breakfast-at-tapatio-springs",
+   "category": "fest",
+   "title": "How the Grinch Stole Breakfast at Tapatio Springs",
+   "startDate": "2026-12-05",
+   "startTime": "08:00",
+   "endTime": "11:00",
+   "location": "La Cascada Table & Bar, 1 Resort Way",
+   "description": "The Grinch is making his way to Tapatio Springs, and you’re invited for a morning of holiday mischief, family fun, and a delicious breakfast! Join us on December 5th from 8:00 AM – 11:00 AM for a festive breakfast ins…",
+   "sourceURL": "https://theboernelife.com/events/how-the-grinch-stole-breakfast-at-tapatio-springs/"
+  },
+  {
+   "id": "2026-12-05-winter-prairie-birding-at-cibolo-nature-center",
+   "category": "fest",
+   "title": "Winter Prairie Birding at Cibolo Nature Center",
+   "startDate": "2026-12-05",
+   "startTime": "09:00",
+   "endTime": "12:00",
+   "location": "Cibolo Nature Center, 140 City Park Rd",
+   "description": "Learn how to identify the “little brown birds” often seen on winter prairies in this free class led by Tom and Patsy Inglet. The program includes two hours of instruction followed by guided field practice. Participant…",
+   "sourceURL": "https://theboernelife.com/events/winter-prairie-birding-at-cibolo-nature-center/"
+  },
+  {
+   "id": "2026-12-05-oma-s-christmas-fair-at-kendall-county-fairgrounds",
+   "category": "holiday",
+   "title": "Oma’s Christmas Fair at Kendall County Fairgrounds",
+   "startDate": "2026-12-05",
+   "startTime": "09:00",
+   "endTime": "17:00",
+   "location": "Kendall County Fairgrounds, 1307 River Road",
+   "description": "Browse handcrafted goods from about 100 Texas vendors across three buildings. Santa will visit Santa Land, where guests can enjoy lunch and free photos. Children’s activities include a coloring contest Saturday and Su…",
+   "sourceURL": "https://theboernelife.com/events/omas-christmas-fair-at-kendall-county-fairgrounds/2026-12-05/"
+  },
+  {
+   "id": "2026-12-05-christmas-back-lot-market-at-little-to-luxe",
+   "category": "holiday",
+   "title": "Christmas Back Lot Market at Little to Luxe",
+   "startDate": "2026-12-05",
+   "startTime": "10:00",
+   "endTime": "15:00",
+   "location": "Little to Luxe, 123 Pecan St.",
+   "description": "Shop holiday gifts from local makers, enjoy sweet treats and browse one-of-a-kind finds at Little to Luxe’s first annual Christmas Back Lot Market. Shoppers who collect at least four punches on their card can enter th…",
+   "sourceURL": "https://theboernelife.com/events/christmas-back-lot-market-at-little-to-luxe/"
+  },
+  {
+   "id": "2026-12-05-down-home-christmas-at-the-agricultural-museum-and-arts-cent",
+   "category": "holiday",
+   "title": "Down Home Christmas at The AgriCultural Museum and Arts Center",
+   "startDate": "2026-12-05",
+   "startTime": "12:00",
+   "endTime": "16:00",
+   "location": "The AgriCultural Museum & Arts Center, 102 City Park Rd.",
+   "description": "Celebrate the season with family activities including professional Santa photos by a tractor, antique tractor hayrides, a petting zoo, cookie and ornament decorating, Christmas crafts, bluegrass music, face painting a…",
+   "sourceURL": "https://theboernelife.com/events/down-home-christmas-at-the-agricultural-museum-and-arts-center/"
+  },
+  {
+   "id": "2026-12-05-art-in-the-park-christmas-cards-at-guadalupe-river-state-par",
+   "category": "holiday",
+   "title": "Art in the Park: Christmas Cards at Guadalupe River State Park",
+   "startDate": "2026-12-05",
+   "startTime": "12:00",
+   "endTime": "13:00",
+   "location": "Guadalupe River State Park, 3350 Park Road 31",
+   "description": "Celebrate the holiday season by creating personalized Christmas cards to share with family and friends. The program takes place December 5 from 12 pm to 1 pm at the amphitheater behind the Discovery Center. Admission …",
+   "sourceURL": "https://theboernelife.com/events/art-in-the-park-christmas-cards-at-guadalupe-river-state-park-2/"
+  },
+  {
+   "id": "2026-12-05-first-saturday-on-main-at-hill-country-mile",
+   "category": "market",
+   "title": "First Saturday on Main at Hill Country Mile",
+   "startDate": "2026-12-05",
+   "startTime": "17:00",
+   "endTime": "20:00",
+   "location": "Hill Country Mile, 100 North Main St.",
+   "description": "A lively community evening takes place during First Saturdays on Main every first Saturday of the month from 5 pm to 8 pm along the Hill Country Mile, 141 W Blanco Rd., Boerne, TX 78006. This monthly event is presente…",
+   "sourceURL": "https://theboernelife.com/events/first-saturday-on-main-at-hill-country-mile/2026-12-05/"
+  },
+  {
+   "id": "2026-12-06-rejoice-christmas-worship-concert-at-first-baptist-church-bo",
+   "category": "holiday",
+   "title": "REJOICE! Christmas Worship Concert at First Baptist Church Boerne",
+   "startDate": "2026-12-06",
+   "location": "First Baptist Church Boerne, 631 S School St",
+   "description": "Classic carols, fresh musical arrangements, choir and instrumental performances, and a worship message bring the Christmas story to life in this family-friendly concert. Performances are Sunday, December 6, at 9 am, 1…",
+   "sourceURL": "https://theboernelife.com/events/rejoice-christmas-worship-concert-at-first-baptist-church-boerne/"
+  },
+  {
+   "id": "2026-12-06-christkindlmarkt-at-cana-ballroom",
+   "category": "market",
+   "title": "Christkindlmarkt at Cana Ballroom",
+   "startDate": "2026-12-06",
+   "startTime": "10:00",
+   "endTime": "17:00",
+   "location": "The Cana Ballroom, 202 W Kronkosky St",
+   "description": "Cana Ballroom hosts an indoor Christmas market featuring local artists, crafters and small businesses. Visitors can shop for holiday gifts while supporting parishioners and the Boerne community. The market takes place…",
+   "sourceURL": "https://theboernelife.com/events/christkindlmarkt-at-cana-ballroom/"
+  },
+  {
+   "id": "2026-12-06-christkindlemarkt",
+   "category": "holiday",
+   "title": "Christkindlemarkt",
+   "startDate": "2026-12-06",
+   "startTime": "10:00",
+   "endTime": "17:00",
+   "location": "The Cana Ballroom, 202 W Kronkosky St",
+   "description": "Christmas market brimming with amazing finds for everyone on your list and for yourself! Come join a packed house of vendors at the beautiful Cana Ballroom for this family friendly Christmas market experience.",
+   "sourceURL": "https://theboernelife.com/events/christkindlemarkt/"
+  },
+  {
+   "id": "2026-12-06-oma-s-christmas-fair-at-kendall-county-fairgrounds",
+   "category": "holiday",
+   "title": "Oma’s Christmas Fair at Kendall County Fairgrounds",
+   "startDate": "2026-12-06",
+   "startTime": "10:00",
+   "endTime": "16:00",
+   "location": "Kendall County Fairgrounds, 1307 River Road",
+   "description": "Browse handcrafted goods from about 100 Texas vendors across three buildings. Santa will visit Santa Land, where guests can enjoy lunch and free photos. Children’s activities include a coloring contest Saturday and Su…",
+   "sourceURL": "https://theboernelife.com/events/omas-christmas-fair-at-kendall-county-fairgrounds/2026-12-06/"
+  },
+  {
+   "id": "2026-12-07-cowboys-at-seahawks",
+   "category": "cowboys",
+   "title": "Cowboys at Seahawks",
+   "startDate": "2026-12-07",
+   "startTime": "19:15",
+   "location": "Lumen Field, Seattle",
+   "description": "Monday Night Football.",
+   "sourceURL": "https://www.dallascowboys.com/schedule/",
+   "outdoor": false
+  },
+  {
+   "id": "2026-12-07-annual-boerne-chanukah-celebration-at-boerne-main-plaza",
+   "category": "music",
+   "title": "Annual Boerne Chanukah Celebration at Boerne Main Plaza",
+   "startDate": "2026-12-07",
+   "startTime": "17:30",
+   "endTime": "19:30",
+   "location": "Boerne Main Plaza, 100 N. Main Street",
+   "description": "Chabad of Boerne hosts a public menorah lighting celebrating Chanukah and religious freedom. The event also features live music by an old-time religion country band, a chocolate gelt drop by the Boerne Fire Department…",
+   "sourceURL": "https://theboernelife.com/events/annual-boerne-chanukah-celebration-at-boerne-main-plaza/"
+  },
+  {
+   "id": "2026-12-08-a-walk-in-bethlehem-at-st-helena-s-episcopal-church",
+   "category": "fest",
+   "title": "A Walk in Bethlehem at St. Helena’s Episcopal Church",
+   "startDate": "2026-12-08",
+   "startTime": "18:00",
+   "location": "St. Helena’s Episcopal Church, 410 N Main St",
+   "description": "Step into a re-creation of Bethlehem, where visitors encounter townspeople, guards, Mary and Joseph, an angel, a star and the Magi as the story of Jesus’ birth unfolds. The experience takes place December 8 and 9, wit…",
+   "sourceURL": "https://theboernelife.com/events/a-walk-in-bethlehem-at-st-helenas-episcopal-church-2/"
+  },
+  {
+   "id": "2026-12-10-hill-country-poets-monthly-open-mic-at-the-boerne-bookshop",
+   "category": "fest",
+   "title": "Hill Country Poets Monthly Open Mic at The Boerne Bookshop",
+   "startDate": "2026-12-10",
+   "startTime": "18:00",
+   "endTime": "20:00",
+   "location": "The Boerne Bookshop, 153 S Main Street",
+   "description": "A welcoming evening of poetry and creative expression takes place during the Hill Country Poets Monthly Open Mic on the second Thursday of each month from 6 pm to 8 pm at The Boerne Bookshop, 153 S Main St., Ste 120, …",
+   "sourceURL": "https://theboernelife.com/events/hill-country-poets-monthly-open-mic-at-the-boerne-bookshop/2026-12-10/"
+  },
+  {
+   "id": "2026-12-11-kinder-fest-weekend-on-the-hill-country-mile",
+   "category": "holiday",
+   "title": "Kinder Fest Weekend on the Hill Country Mile",
+   "startDate": "2026-12-11",
+   "endDate": "2026-12-13",
+   "location": "Hill Country Mile, 100 North Main St.",
+   "description": "Celebrate the start of Christmas break with a family weekend in downtown Boerne. Kids can wear festive outfits and enjoy a Cookie Crawl, Santa Scavenger Hunt, Christmas Market Days shopping, live ice carving and photo…",
+   "sourceURL": "https://theboernelife.com/events/kinder-fest-weekend-on-the-hill-country-mile/"
+  },
+  {
+   "id": "2026-12-11-christmas-in-the-park-at-guadalupe-river-state-park",
+   "category": "holiday",
+   "title": "Christmas in the Park at Guadalupe River State Park",
+   "startDate": "2026-12-11",
+   "startTime": "17:00",
+   "endTime": "21:00",
+   "location": "Guadalupe River State Park, 3350 Park Road 31",
+   "description": "Enjoy holiday crafts, stories and family activities at the Discovery Center and amphitheater from 5 pm to 7 pm, followed by a drive-through light show in the Turkey Sink campground from 6 pm to 9 pm. The event runs Fr…",
+   "sourceURL": "https://theboernelife.com/events/christmas-in-the-park-at-guadalupe-river-state-park-2/2026-12-11/"
+  },
+  {
+   "id": "2026-12-11-ugly-sweater-party-at-lost-oak-cellars",
+   "category": "music",
+   "title": "Ugly Sweater Party at Lost Oak Cellars",
+   "startDate": "2026-12-11",
+   "startTime": "19:00",
+   "endTime": "22:00",
+   "location": "Lost Oak Cellars, 111 Rosewood Ave",
+   "description": "Break out a festive sweater for an evening of holiday music, Lost Oak wines and warm mulled wine. Guests can enter the ugly sweater contest for a chance to win a prize. The party is free to attend and takes place Frid…",
+   "sourceURL": "https://theboernelife.com/events/ugly-sweater-party-at-lost-oak-cellars-2/"
+  },
+  {
+   "id": "2026-12-12-boerne-market-days",
+   "category": "market",
+   "title": "Boerne Market Days",
+   "shortTitle": "Market Days",
+   "startDate": "2026-12-12",
+   "endDate": "2026-12-13",
+   "startTime": "10:00",
+   "endTime": "17:00",
+   "timeNote": "Sat 10–5, Sun 10–4",
+   "location": "Main Plaza, 100 N Main St",
+   "description": "Artisans, crafts and food vendors fill the Main Plaza the second weekend of the month.",
+   "featured": true,
+   "outdoor": true,
+   "sourceURL": "https://business.boerne.org/events"
+  },
+  {
+   "id": "2026-12-12-jingle-all-the-way-5k-10k-fun-run-at-patrick-heath-public-am",
+   "category": "nature",
+   "title": "Jingle All the Way 5K, 10K & Fun Run at Patrick Heath Public Amphitheater",
+   "startDate": "2026-12-12",
+   "startTime": "08:00",
+   "endTime": "11:00",
+   "location": "Patrick Heath Public Library, 451 N. Main Street",
+   "description": "Celebrate the season with a festive race featuring 5K, 10K and family-friendly Fun Run options. All ages and abilities are welcome. The course begins and ends at Patrick Heath Public Amphitheater and follows part of B…",
+   "sourceURL": "https://theboernelife.com/events/jingle-all-the-way-5k-10k-fun-run-at-patrick-heath-public-amphitheater/"
+  },
+  {
+   "id": "2026-12-12-breakfast-with-santa-at-boerne-family-ymca",
+   "category": "holiday",
+   "title": "Breakfast with Santa at Boerne Family YMCA",
+   "startDate": "2026-12-12",
+   "startTime": "09:00",
+   "endTime": "10:30",
+   "location": "Boerne Family YMCA, 820 Adler Road",
+   "description": "Families can enjoy a pancake breakfast, make a Christmas craft and reindeer food, and take a photo with Santa. Bring a camera for pictures. The free event takes place Saturday, December 12, from 9 am to 10:30 am at Bo…",
+   "sourceURL": "https://theboernelife.com/events/breakfast-with-santa-at-boerne-family-ymca/"
+  },
+  {
+   "id": "2026-12-12-historic-toys-from-boerne-at-kuhlmann-king-museum",
+   "category": "fest",
+   "title": "Historic Toys from Boerne at Kuhlmann-King Museum",
+   "startDate": "2026-12-12",
+   "startTime": "10:00",
+   "endTime": "12:00",
+   "location": "Kuhlmann-King Historical Complex, 402 East Blanco Road",
+   "description": "Explore a holiday exhibit featuring historic toys and enjoy children’s crafts. The event is free and open to the public, and takes place December 12 from 10 am to 12 pm at Kuhlmann-King Museum, 402 E. Blanco Road, Boe…",
+   "sourceURL": "https://theboernelife.com/events/historic-toys-from-boerne-at-kuhlmann-king-museum/"
+  },
+  {
+   "id": "2026-12-12-bluegrass-jams",
+   "category": "music",
+   "title": "Bluegrass Jams",
+   "startDate": "2026-12-12",
+   "startTime": "11:00",
+   "endTime": "13:00",
+   "location": "The AgriCultural Museum & Arts Center, 102 City Park Rd.",
+   "description": "Whether you’re a musician looking to play with others, or a family wanting to listen, come on out to the Bluegrass Jams at The AgriCultural on the 2nd and 4th Saturday of the month from 11am – 1 pm. It’s free, but don…",
+   "sourceURL": "https://theboernelife.com/events/bluegrass-jams/2026-12-12/"
+  },
+  {
+   "id": "2026-12-12-christmas-in-the-park-at-guadalupe-river-state-park",
+   "category": "holiday",
+   "title": "Christmas in the Park at Guadalupe River State Park",
+   "startDate": "2026-12-12",
+   "startTime": "17:00",
+   "endTime": "21:00",
+   "location": "Guadalupe River State Park, 3350 Park Road 31",
+   "description": "Enjoy holiday crafts, stories and family activities at the Discovery Center and amphitheater from 5 pm to 7 pm, followed by a drive-through light show in the Turkey Sink campground from 6 pm to 9 pm. The event runs Fr…",
+   "sourceURL": "https://theboernelife.com/events/christmas-in-the-park-at-guadalupe-river-state-park-2/2026-12-12/"
+  },
+  {
+   "id": "2026-12-12-live-music-saturday-josh-flores-at-lost-oak-cellars",
+   "category": "music",
+   "title": "Live Music Saturday: Josh Flores at Lost Oak Cellars",
+   "startDate": "2026-12-12",
+   "startTime": "19:00",
+   "endTime": "22:00",
+   "location": "Lost Oak Cellars, 111 Rosewood Ave",
+   "description": "Josh Flores performs classic country spanning the 1990s through today. Guests can enjoy Texas wines, cider, charcuterie, tapas, flatbreads and dessert flights. The concert takes place Saturday, December 12, from 7 pm …",
+   "sourceURL": "https://theboernelife.com/events/live-music-saturday-josh-flores-at-lost-oak-cellars/"
+  },
+  {
+   "id": "2026-12-13-spurs-vs-clippers",
+   "category": "spurs",
+   "title": "Spurs vs. Clippers",
+   "startDate": "2026-12-13",
+   "startTime": "18:00",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-12-15-spurs-at-cavaliers",
+   "category": "spurs",
+   "title": "Spurs at Cavaliers",
+   "startDate": "2026-12-15",
+   "startTime": "19:00",
+   "location": "Away in Cleveland",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-12-16-spurs-at-raptors",
+   "category": "spurs",
+   "title": "Spurs at Raptors",
+   "startDate": "2026-12-16",
+   "startTime": "18:30",
+   "location": "Away in Toronto",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-12-18-spurs-vs-bulls",
+   "category": "spurs",
+   "title": "Spurs vs. Bulls",
+   "startDate": "2026-12-18",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-12-19-christmas-for-the-birds-at-guadalupe-river-state-park",
+   "category": "holiday",
+   "title": "Christmas for the Birds at Guadalupe River State Park",
+   "startDate": "2026-12-19",
+   "startTime": "10:00",
+   "endTime": "11:00",
+   "location": "Guadalupe River State Park, 3350 Park Road 31",
+   "description": "Learn about birds’ winter habits and make holiday treats for feathered visitors in this family-friendly program. It takes place December 19 from 10 am to 11 am at the amphitheater behind the Discovery Center. Admissio…",
+   "sourceURL": "https://theboernelife.com/events/christmas-for-the-birds-at-guadalupe-river-state-park/"
+  },
+  {
+   "id": "2026-12-19-live-music-saturday-nef-hernandez-at-lost-oak-cellars",
+   "category": "music",
+   "title": "Live Music Saturday: Nef Hernandez at Lost Oak Cellars",
+   "startDate": "2026-12-19",
+   "startTime": "19:00",
+   "endTime": "22:00",
+   "location": "Lost Oak Cellars, 111 Rosewood Ave",
+   "description": "Nef Hernandez performs acoustic covers of Top 40 favorites from the 1960s to today. Guests can enjoy Texas wines, cider, charcuterie, tapas, flatbreads and dessert flights. The concert takes place Saturday, December 1…",
+   "sourceURL": "https://theboernelife.com/events/live-music-saturday-nef-hernandez-at-lost-oak-cellars/"
+  },
+  {
+   "id": "2026-12-20-cowboys-at-rams",
+   "category": "cowboys",
+   "title": "Cowboys at Rams",
+   "startDate": "2026-12-20",
+   "startTime": "15:25",
+   "location": "SoFi Stadium, Inglewood, CA",
+   "sourceURL": "https://www.dallascowboys.com/schedule/",
+   "outdoor": false
+  },
+  {
+   "id": "2026-12-20-spurs-at-pelicans",
+   "category": "spurs",
+   "title": "Spurs at Pelicans",
+   "startDate": "2026-12-20",
+   "startTime": "18:00",
+   "location": "Away in New Orleans",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-12-21-spurs-vs-bucks",
+   "category": "spurs",
+   "title": "Spurs vs. Bucks",
+   "startDate": "2026-12-21",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-12-23-spurs-at-nets",
+   "category": "spurs",
+   "title": "Spurs at Nets",
+   "startDate": "2026-12-23",
+   "startTime": "18:30",
+   "location": "Away in Brooklyn",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-12-25-spurs-at-knicks",
+   "category": "spurs",
+   "title": "Spurs at Knicks",
+   "startDate": "2026-12-25",
+   "startTime": "11:00",
+   "location": "Away in New York",
+   "description": "Christmas Day rematch of last season's NBA Finals.",
+   "tv": "ABC",
+   "featured": true,
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-12-26-live-music-saturday-brad-hughes-at-lost-oak-cellars",
+   "category": "music",
+   "title": "Live Music Saturday: Brad Hughes at Lost Oak Cellars",
+   "startDate": "2026-12-26",
+   "startTime": "19:00",
+   "endTime": "22:00",
+   "location": "Lost Oak Cellars, 111 Rosewood Ave",
+   "description": "Brad Hughes performs country and Top 40 hits. Guests can enjoy Texas wines, cider, charcuterie, tapas, flatbreads and dessert flights. The concert takes place Saturday, December 26, from 7 pm to 10 pm at Lost Oak Cell…",
+   "sourceURL": "https://theboernelife.com/events/live-music-saturday-brad-hughes-at-lost-oak-cellars/"
+  },
+  {
+   "id": "2026-12-27-spurs-vs-hawks",
+   "category": "spurs",
+   "title": "Spurs vs. Hawks",
+   "startDate": "2026-12-27",
+   "startTime": "18:00",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-12-27-cowboys-vs-jaguars",
+   "category": "cowboys",
+   "title": "Cowboys vs. Jaguars",
+   "startDate": "2026-12-27",
+   "startTime": "19:20",
+   "location": "AT&T Stadium, Arlington",
+   "description": "Sunday Night Football.",
+   "sourceURL": "https://www.dallascowboys.com/schedule/",
+   "outdoor": false
+  },
+  {
+   "id": "2026-12-29-spurs-at-grizzlies",
+   "category": "spurs",
+   "title": "Spurs at Grizzlies",
+   "startDate": "2026-12-29",
+   "startTime": "19:00",
+   "location": "Away in Memphis",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-12-31-spurs-at-hornets",
+   "category": "spurs",
+   "title": "Spurs at Hornets",
+   "startDate": "2026-12-31",
+   "startTime": "12:00",
+   "location": "Away in Charlotte",
+   "description": "New Year's Eve matinee.",
+   "tv": "NBA TV",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-12-31-bond-blackjack-bubbly-at-tapatio-springs-hill-country-resort",
+   "category": "holiday",
+   "title": "Bond, Blackjack & Bubbly at Tapatio Springs Hill Country Resort",
+   "startDate": "2026-12-31",
+   "startTime": "18:00",
+   "location": "Tapatio Springs Hill Country Resort, 1 Resort Way",
+   "description": "Welcome 2027 with a New Year’s Eve celebration featuring 1920s glamour, casino gaming, live jazz, dinner bites, bubbly and midnight fireworks. The event runs Thursday, December 31, 2026, from 6 pm through 1 am on Janu…",
+   "sourceURL": "https://theboernelife.com/events/bond-blackjack-bubbly-at-tapatio-springs-hill-country-resort/"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Wizards",
+   "startDate": "2027-01-01",
+   "startTime": "16:00",
+   "location": "Away in Washington",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-01-spurs-at-wizards"
+  },
+  {
+   "id": "2027-01-01-self-guided-first-day-nature-hikes-at-guadalupe-river-state-",
+   "category": "nature",
+   "title": "Self-Guided First Day Nature Hikes at Guadalupe River State Park",
+   "startDate": "2027-01-01",
+   "startTime": "08:00",
+   "endTime": "16:30",
+   "location": "Guadalupe River State Park, 3350 Park Road 31",
+   "description": "Celebrate the new year with a self-guided hike on trails at Guadalupe River State Park, including the Bauer Unit. Choose a route at your own pace, and ask staff for recommendations. After your hike, stop by park headq…",
+   "sourceURL": "https://theboernelife.com/events/self-guided-first-day-nature-hikes-at-guadalupe-river-state-park/"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Timberwolves",
+   "startDate": "2027-01-03",
+   "startTime": "18:00",
+   "location": "Away in Minneapolis",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-03-spurs-at-timberwolves"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Pacers",
+   "startDate": "2027-01-06",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-06-spurs-vs-pacers"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Grizzlies",
+   "startDate": "2027-01-08",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-08-spurs-vs-grizzlies"
+  },
+  {
+   "id": "2027-01-09-boerne-market-days",
+   "category": "market",
+   "title": "Boerne Market Days",
+   "shortTitle": "Market Days",
+   "startDate": "2027-01-09",
+   "endDate": "2027-01-10",
+   "startTime": "10:00",
+   "endTime": "17:00",
+   "timeNote": "Sat 10–5, Sun 10–4",
+   "location": "Main Plaza, 100 N Main St",
+   "description": "Artisans, crafts and food vendors fill the Main Plaza the second weekend of the month.",
+   "featured": false,
+   "outdoor": true,
+   "sourceURL": "https://business.boerne.org/events"
+  },
+  {
+   "id": "2027-01-09-river-road-run-half-10-miler-skydome-10k-5k-05k-at-comfort-p",
+   "category": "nature",
+   "title": "River Road Run Half, 10 Miler SKYDOME, 10K, 5K & .05K at Comfort Park",
+   "startDate": "2027-01-09",
+   "location": "Comfort Park, 446 Broadway",
+   "description": "Runners can experience the scenic Texas Hill Country during the River Road Run on Saturday, January 9, 2027, at Comfort Park in Comfort, Texas. The race begins near the park gazebo and takes participants through the h…",
+   "sourceURL": "https://theboernelife.com/events/river-road-run-half-10-miler-skydome-10k-5k-05k-at-comfort-park/"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Hawks",
+   "startDate": "2027-01-10",
+   "startTime": "14:00",
+   "location": "Away in Atlanta",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-10-spurs-at-hawks"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Pelicans (NBA Paris Game)",
+   "startDate": "2027-01-14",
+   "startTime": "13:00",
+   "location": "Away in Paris, France",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "description": "Spurs home game played at the NBA Paris Game. Early afternoon tip in Texas.",
+   "id": "2027-01-14-spurs-vs-pelicans-nba-paris-game"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Pelicans (NBA Manchester Game)",
+   "startDate": "2027-01-17",
+   "startTime": "09:30",
+   "location": "Away in Manchester, England",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "description": "Sunday morning tip in Texas for the NBA Manchester Game.",
+   "id": "2027-01-17-spurs-at-pelicans-nba-manchester-game"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Heat",
+   "startDate": "2027-01-20",
+   "startTime": "20:30",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-20-spurs-vs-heat"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Timberwolves",
+   "startDate": "2027-01-22",
+   "startTime": "20:30",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-22-spurs-vs-timberwolves"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Trail Blazers",
+   "startDate": "2027-01-24",
+   "startTime": "14:30",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-24-spurs-vs-trail-blazers"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Rockets",
+   "startDate": "2027-01-26",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-26-spurs-vs-rockets"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Hornets",
+   "startDate": "2027-01-27",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-27-spurs-vs-hornets"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Warriors",
+   "startDate": "2027-01-30",
+   "startTime": "16:30",
+   "location": "Away in San Francisco",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-30-spurs-at-warriors"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Warriors",
+   "startDate": "2027-02-01",
+   "startTime": "21:00",
+   "location": "Away in San Francisco",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-02-01-spurs-at-warriors"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Clippers",
+   "startDate": "2027-02-02",
+   "startTime": "21:30",
+   "location": "Away in Los Angeles",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-02-02-spurs-at-clippers"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Magic",
+   "startDate": "2027-02-04",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-02-04-spurs-vs-magic"
+  },
+  {
+   "id": "2027-02-06-boerne-home-outdoor-living-show",
+   "category": "market",
+   "title": "Boerne Home & Outdoor Living Show",
+   "shortTitle": "Home & Outdoor Show",
+   "startDate": "2027-02-06",
+   "endDate": "2027-02-07",
+   "startTime": "10:00",
+   "location": "The Bevy Hotel Boerne",
+   "description": "Builders, remodelers, landscapers and outdoor-living vendors under one roof.",
+   "sourceURL": "https://www.eventbrite.com/e/boerne-home-outdoor-living-show-tickets-1999297879778"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Lakers",
+   "startDate": "2027-02-06",
+   "startTime": "19:30",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-02-06-spurs-vs-lakers"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Mavericks",
+   "startDate": "2027-02-09",
+   "startTime": "19:00",
+   "location": "Away in Dallas",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-02-09-spurs-at-mavericks"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Thunder",
+   "startDate": "2027-02-11",
+   "startTime": "20:30",
+   "location": "Away in Oklahoma City",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-02-11-spurs-at-thunder"
+  },
+  {
+   "id": "2027-02-13-boerne-market-days",
+   "category": "market",
+   "title": "Boerne Market Days",
+   "shortTitle": "Market Days",
+   "startDate": "2027-02-13",
+   "endDate": "2027-02-14",
+   "startTime": "10:00",
+   "endTime": "17:00",
+   "timeNote": "Sat 10–5, Sun 10–4",
+   "location": "Main Plaza, 100 N Main St",
+   "description": "Artisans, crafts and food vendors fill the Main Plaza the second weekend of the month.",
+   "featured": false,
+   "outdoor": true,
+   "sourceURL": "https://business.boerne.org/events"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Magic",
+   "startDate": "2027-02-13",
+   "startTime": "18:00",
+   "location": "Away in Orlando",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-02-13-spurs-at-magic"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Heat",
+   "startDate": "2027-02-15",
+   "startTime": "16:00",
+   "location": "Away in Miami",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-02-15-spurs-at-heat"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Grizzlies",
+   "startDate": "2027-02-17",
+   "startTime": "19:00",
+   "location": "Away in Memphis",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-02-17-spurs-at-grizzlies"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Timberwolves",
+   "startDate": "2027-02-18",
+   "startTime": "18:30",
+   "location": "Away in Minneapolis",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-02-18-spurs-at-timberwolves"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Grizzlies (Austin)",
+   "startDate": "2027-02-26",
+   "startTime": "19:00",
+   "location": "Moody Center, Austin",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "description": "One of the Spurs' annual Austin home games, about 45 minutes up I-35.",
+   "id": "2027-02-26-spurs-vs-grizzlies-austin"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Nuggets (Austin)",
+   "startDate": "2027-02-28",
+   "startTime": "12:00",
+   "location": "Moody Center, Austin",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "description": "Sunday matinee at the Moody Center, the second of the Austin games.",
+   "id": "2027-02-28-spurs-vs-nuggets-austin"
+  }
+ ],
+ "notDated": [
+  {
+   "category": "fest",
+   "title": "Boerne Chocolate Walk",
+   "detail": "Chocolate tastings at shops along historic downtown, held each February. The 2027 date isn't posted yet.",
+   "sourceURL": "https://communityimpact.com/san-antonio/events/discover-these-10-events-going-on-around-boerne-fair-oaks-ranch-in-january-february/"
+  },
+  {
+   "category": "fest",
+   "title": "Spring and summer dates",
+   "detail": "Berges Fest (Father's Day weekend) and the Kendall County Fair (Labor Day weekend) post dates in the new year.",
+   "sourceURL": "https://movetotexas.net/blog/boerne-community-events-guide/"
+  }
+ ],
+ "weekly": [
+  {
+   "category": "market",
+   "title": "Boerne Farmers Market",
+   "detail": "Tuesdays 4–7 PM, listed at 157 S Main St (some listings give 402 E Blanco Rd; check before you go).",
+   "sourceURL": "https://theboernelife.com/venue/boerne-farmers-market/"
+  },
+  {
+   "category": "market",
+   "title": "Boerne Market Days",
+   "detail": "Second weekend of each month on the Main Plaza, Sat 10–5 and Sun 10–4.",
+   "sourceURL": "https://business.boerne.org/events"
+  },
+  {
+   "category": "music",
+   "title": "Live music at wineries and breweries",
+   "detail": "Most evenings at spots like Lost Oak Cellars, Cibolo Creek Brewing and DeVino Cellars. See The Boerne Life for the week's lineup.",
+   "sourceURL": "https://theboernelife.com/things-to-do-in-boerne-this-week/"
+  }
+ ]
+}
