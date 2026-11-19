@@ -1122,7 +1122,7 @@
    "id": "sch-voss-farms-es-2026-11-18-friendsgiving-luncheon-k-2-during-their-grade-level"
   },
   {
-   "title": "New Braunfels wrestling at Varsity",
+   "title": "New Braunfels wrestling at Varsity Girls Scramble",
    "startDate": "2026-11-18",
    "tag": "Away",
    "category": "hs-sports",
@@ -1133,7 +1133,7 @@
     "school:new-braunfels-hs"
    ],
    "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-11-18-new-braunfels-wrestling-at-varsity"
+   "id": "sch-new-braunfels-hs-2026-11-18-new-braunfels-wrestling-at-varsity-girls-scrambl"
   },
   {
    "title": "Canyon wrestling at Clemens Dual vs Clemens / Vets…",
@@ -1965,7 +1965,7 @@
    "sourceURL": "https://www.gruenetexas.com/event/owen-stroud-15/"
   },
   {
-   "title": "New Braunfels wrestling at Varsity",
+   "title": "New Braunfels wrestling at Varsity Boys Individual Tournament",
    "startDate": "2026-11-21",
    "tag": "Away",
    "category": "hs-sports",
@@ -1976,7 +1976,21 @@
     "school:new-braunfels-hs"
    ],
    "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-11-21-new-braunfels-wrestling-at-varsity"
+   "id": "sch-new-braunfels-hs-2026-11-21-new-braunfels-wrestling-at-varsity-boys-individu"
+  },
+  {
+   "title": "New Braunfels wrestling at Varsity Girls Individual…",
+   "startDate": "2026-11-21",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "Churchill HS",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "startTime": "18:00",
+   "tags": [
+    "school:new-braunfels-hs"
+   ],
+   "audience": "local",
+   "id": "sch-new-braunfels-hs-2026-11-21-new-braunfels-wrestling-at-varsity-girls-individ"
   },
   {
    "id": "2026-11-21-utsa-at-uab",
@@ -5728,7 +5742,7 @@
    "sourceURL": "https://firstprotestant.com/event/castell-st-market/2026-12-19/"
   },
   {
-   "title": "New Braunfels wrestling at Varsity",
+   "title": "New Braunfels wrestling at Varsity Boys Individual Tournament",
    "startDate": "2026-12-19",
    "tag": "Away",
    "category": "hs-sports",
@@ -5739,7 +5753,21 @@
     "school:new-braunfels-hs"
    ],
    "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-12-19-new-braunfels-wrestling-at-varsity"
+   "id": "sch-new-braunfels-hs-2026-12-19-new-braunfels-wrestling-at-varsity-boys-individu"
+  },
+  {
+   "title": "New Braunfels wrestling at Varsity Girls Individual…",
+   "startDate": "2026-12-19",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "Vista Ridge HS",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "startTime": "09:15",
+   "tags": [
+    "school:new-braunfels-hs"
+   ],
+   "audience": "local",
+   "id": "sch-new-braunfels-hs-2026-12-19-new-braunfels-wrestling-at-varsity-girls-individ"
   },
   {
    "id": "gruene-2026-12-19-photos-with-cowboy-kringle",
@@ -6432,7 +6460,7 @@
    "id": "sch-new-braunfels-hs-2027-01-02-new-braunfels-girls-soccer-at-scuc-tournament"
   },
   {
-   "title": "New Braunfels wrestling at Varsity",
+   "title": "New Braunfels wrestling at Varsity Boys Individual Tournament",
    "startDate": "2027-01-02",
    "tag": "Away",
    "category": "hs-sports",
@@ -6443,7 +6471,21 @@
     "school:new-braunfels-hs"
    ],
    "audience": "local",
-   "id": "sch-new-braunfels-hs-2027-01-02-new-braunfels-wrestling-at-varsity"
+   "id": "sch-new-braunfels-hs-2027-01-02-new-braunfels-wrestling-at-varsity-boys-individu"
+  },
+  {
+   "title": "New Braunfels wrestling at Varsity Girls Individual…",
+   "startDate": "2027-01-02",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "Canyon High School",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "startTime": "08:00",
+   "tags": [
+    "school:new-braunfels-hs"
+   ],
+   "audience": "local",
+   "id": "sch-new-braunfels-hs-2027-01-02-new-braunfels-wrestling-at-varsity-girls-individ"
   },
   {
    "title": "Long Creek wrestling at New Years Tournament",
@@ -7055,7 +7097,7 @@
    "id": "sch-long-creek-hs-2027-01-08-long-creek-wrestling-at-cy-fair-tournament"
   },
   {
-   "title": "New Braunfels wrestling at Varsity",
+   "title": "New Braunfels wrestling at Varsity Boys Individual…",
    "startDate": "2027-01-08",
    "tag": "Away",
    "category": "hs-sports",
@@ -7066,7 +7108,21 @@
     "school:new-braunfels-hs"
    ],
    "audience": "local",
-   "id": "sch-new-braunfels-hs-2027-01-08-new-braunfels-wrestling-at-varsity"
+   "id": "sch-new-braunfels-hs-2027-01-08-new-braunfels-wrestling-at-varsity-boys-individu"
+  },
+  {
+   "title": "New Braunfels wrestling at Varsity Girls Individual…",
+   "startDate": "2027-01-08",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "Berry Center",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "startTime": "08:30",
+   "tags": [
+    "school:new-braunfels-hs"
+   ],
+   "audience": "local",
+   "id": "sch-new-braunfels-hs-2027-01-08-new-braunfels-wrestling-at-varsity-girls-individ"
   },
   {
    "title": "5th Grade Semester Awards",
@@ -7394,7 +7450,7 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
-   "title": "New Braunfels wrestling at Varsity",
+   "title": "New Braunfels wrestling at Varsity Boys Individual…",
    "startDate": "2027-01-09",
    "tag": "Away",
    "category": "hs-sports",
@@ -7405,7 +7461,21 @@
     "school:new-braunfels-hs"
    ],
    "audience": "local",
-   "id": "sch-new-braunfels-hs-2027-01-09-new-braunfels-wrestling-at-varsity"
+   "id": "sch-new-braunfels-hs-2027-01-09-new-braunfels-wrestling-at-varsity-boys-individu"
+  },
+  {
+   "title": "New Braunfels wrestling at Varsity Girls Individual…",
+   "startDate": "2027-01-09",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "Berry Center",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "startTime": "18:00",
+   "tags": [
+    "school:new-braunfels-hs"
+   ],
+   "audience": "local",
+   "id": "sch-new-braunfels-hs-2027-01-09-new-braunfels-wrestling-at-varsity-girls-individ"
   },
   {
    "category": "fest",
@@ -8072,7 +8142,7 @@
    "id": "sch-new-braunfels-hs-2027-01-16-new-braunfels-boys-soccer-at-copa-halcon-day-3"
   },
   {
-   "title": "New Braunfels wrestling at Varsity",
+   "title": "New Braunfels wrestling at Varsity Boys Individual Tournament",
    "startDate": "2027-01-16",
    "tag": "Away",
    "category": "hs-sports",
@@ -8083,7 +8153,7 @@
     "school:new-braunfels-hs"
    ],
    "audience": "local",
-   "id": "sch-new-braunfels-hs-2027-01-16-new-braunfels-wrestling-at-varsity"
+   "id": "sch-new-braunfels-hs-2027-01-16-new-braunfels-wrestling-at-varsity-boys-individu"
   },
   {
    "title": "Canyon Lake wrestling at Lee Invitational",
