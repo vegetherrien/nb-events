@@ -43,6 +43,35 @@
    "Minneapolis",
    "Paris",
    "Manchester"
+  ],
+  "gauges": [
+   {
+    "id": "08169000",
+    "name": "Comal River",
+    "parameter": "00060",
+    "low": 200,
+    "high": 350
+   },
+   {
+    "id": "08168500",
+    "name": "Guadalupe River in town",
+    "parameter": "00060",
+    "low": 100,
+    "high": 500,
+    "limit": 1000,
+    "limitNote": "Above 1,000 cfs the city allows only rafts and kayaks, no tubes."
+   },
+   {
+    "id": "08167800",
+    "name": "Guadalupe below Canyon Dam",
+    "parameter": "00060"
+   },
+   {
+    "id": "08167700",
+    "name": "Canyon Lake",
+    "parameter": "62614",
+    "full": 909
+   }
   ]
  },
  "rangeStart": "2026-10-10",
