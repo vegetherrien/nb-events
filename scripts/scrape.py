@@ -6,7 +6,7 @@
 Each source below publishes an iCalendar (.ics) feed. Events already in events.json
 (same day, similar title) are skipped, so it's safe to run any time.
 """
-import json
+import json, os
 import re
 import sys
 import urllib.request
@@ -33,6 +33,21 @@ NB_SOURCES = [
          location="Gruene Historic District", after="17:00", drop=r"\b(gruene hall|dance lessons?)\b"),
     dict(name="Castell St. Market", url="https://firstprotestant.com/events/?ical=1", category="market",
          location="First Protestant Church, 296 S Seguin Ave", keep=r"\bmarket\b"),
+    # Visit New Braunfels (the chamber's tourism calendar): Krause's, the caverns, Renaissance Faire,
+    # downtown and Gruene events. No feed, so its listing pages are read; weekly regulars are skipped.
+    dict(name="Visit New Braunfels", visitnb="https://www.visitnbtx.com/upcoming-events", location="New Braunfels",
+         category_map=[("Concerts & live music", "music"), ("Markets & shopping", "market"), ("Holiday", "holiday"),
+                       ("Major events & festivals", "fest"), ("Community", "fest"), ("Food & drink", "fest"),
+                       ("Outdoor", "fest"), ("History & heritage", "fest"), ("Arts & culture", "arts")],
+         drop=r"dance lessons?|karaoke|yoga|open mic|trivia|bingo", weekly=True),
+    # McKenna Children's Museum (Tockify). Daily drop-in programs are skipped; specials stay.
+    dict(name="McKenna Children's Museum", url="https://tockify.com/api/feeds/ics/mckennamuseum", category="fest",
+         location="McKenna Children's Museum, 801 W San Antonio St",
+         drop=r"wondershop|growing minds|sale\b|members only|toy drive|admission|tasty tuesday|thankful thursday|"
+              r"come play|paint & play|workshop|bingo"),
+    # Circle Arts Theatre's shows, from its ticket site (runs of a few weekends each).
+    dict(name="Circle Arts Theatre", ttc="https://buy.ticketstothecity.com/venue.php?org_id=37", category="arts",
+         location="Circle Arts Theatre, 124 Elizabeth Ave"),
     # Public library (LibCal): hundreds of storytimes and clubs, so only screenings.
     dict(name="New Braunfels Public Library", libcal="https://nbtexas.libcal.com", category="movies",
          location="New Braunfels Public Library", keep=MOVIE),
@@ -59,6 +74,8 @@ BOERNE_NOISE = (r"library|storytime|story time|trivia|karaoke|happy hour|network
                 r"council|commission|board\b|closed|office hours|tour\b|jazz night|brunch|tasting")
 
 BOERNE_SOURCES = [
+    dict(name="Boerne Community Theatre", ttc="https://buy.ticketstothecity.com/venue.php?org_id=389", category="arts",
+         location="Boerne Community Theatre, 907 E Blanco Rd"),
     # The City of Boerne's "Visit Boerne" calendar (Timely). Covers the whole town.
     dict(name="Visit Boerne", url="https://events.timely.fun/api/calendars/54730033/export?format=ics",
          category="fest", location="Boerne", drop=BOERNE_NOISE, recurring=2),
@@ -82,6 +99,7 @@ SOURCES = {"new-braunfels": NB_SOURCES, "boerne": BOERNE_SOURCES}
 # Title words that mean the event belongs in another category.
 CATEGORY_HINTS = [
     (MOVIE, "movies"),
+    (r"\b(the musical|a play|comedy show|stand-?up|improv|ballet(?! texas presents the nutcracker))\b", "arts"),
     (r"music in the cave|live music|concert", "music"),
     (r"market days|vendor|craft fair|antique", "market"),
     (r"christmas|holiday|santa|wassail|lighting|nutcracker|polar express|new year", "holiday"),
@@ -120,6 +138,135 @@ def fetch_api(src, start, end):
         if page >= int(data.get("total_pages") or 1):
             break
         page += 1
+    return out
+
+
+VNB_CACHE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "research", "cache", "visitnb-places.json")
+
+
+def _vnb_when(text):
+    """'November 20, 2026 | 6:00pm - 9:00pm' or '... | 6:00pm - January 3, 2027 | 10:00pm'."""
+    def d(x): return datetime.strptime(x.strip(), "%B %d, %Y").strftime("%Y-%m-%d")
+    def t(x):
+        x = x.strip().lower()
+        return datetime.strptime(x, "%I:%M%p").strftime("%H:%M") if re.fullmatch(r"\d{1,2}:\d{2}[ap]m", x) else None
+    parts = [p.strip() for p in re.split(r"\s+-\s+", text, maxsplit=1)]
+    sd, _, st = parts[0].partition("|")
+    start = (d(sd), t(st))
+    if len(parts) == 2 and "|" in parts[1]:
+        ed, _, et = parts[1].partition("|")
+        end = (d(ed), t(et))
+    else:
+        end = (start[0], t(parts[1]) if len(parts) == 2 else None)
+    return start, end
+
+
+def fetch_visitnb(src):
+    """Visit New Braunfels listing pages (12 a page; the site starts repeating past the end). The venue
+    comes from each event's own page, cached so the daily run only opens new ones."""
+    import html as H
+    try:
+        cache = json.load(open(VNB_CACHE))
+    except Exception:
+        cache = {}
+    out, seen = [], set()
+    for page in range(1, 40):
+        text = fetch(src["visitnb"] + ("" if page == 1 else f"/p{page}"))
+        cards = re.findall(r"<article.*?</article>", text, re.S)
+        fresh = 0
+        for a in cards:
+            url = re.search(r'href="(https://www\.visitnbtx\.com/events/[^"]+)"', a)
+            title = re.search(r"<h1[^>]*>(.*?)</h1>", a, re.S)
+            when = re.search(r'text-body-sm[^>]*>([^<]*)<', a)
+            if not (url and title and when):
+                continue
+            key = (url[1], when[1].strip())
+            if key in seen:
+                continue
+            seen.add(key); fresh += 1
+            cat = re.search(r"rounded-full[^>]*>([^<]*)<", a)
+            try:
+                (sd, st), (ed, et) = _vnb_when(H.unescape(when[1]))
+            except ValueError:
+                continue
+            out.append({"SUMMARY": unescape_html(re.sub(r"<[^>]+>", "", title[1])), "DTSTART": (sd, st),
+                        "DTEND": (ed, et), "URL": url[1],
+                        "CATEGORIES": [H.unescape(cat[1]).strip()] if cat else []})
+        if not fresh:
+            break
+    if src.get("weekly"):
+        out = drop_weekly(out)
+    for v in out:
+        u = v["URL"]
+        if u not in cache:
+            try:
+                page = fetch(u)
+                flat = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", page))
+                m = re.search(r"Visit Website Location (.+?) Contact us", flat) or re.search(r" Location (.+?) Contact us", flat)
+                cache[u] = unescape_html(m[1]) if m else ""
+            except Exception:
+                cache[u] = ""
+        # "Krause's Cafe & Biergarten 148 S Castell Ave New Braunfels, TX 78130" -> name, street
+        loc = re.sub(r"\s*New Braunfels,? TX\s*\d{5}.*$", "", cache[u]).strip()
+        loc = re.sub(r"^(.*?)\s+(\d+ .*)$", r"\1, \2", loc)
+        v["LOCATION"] = loc
+    os.makedirs(os.path.dirname(VNB_CACHE), exist_ok=True)
+    json.dump(cache, open(VNB_CACHE, "w"), indent=0, ensure_ascii=False)
+    return out
+
+
+def drop_weekly(raw):
+    """Series that repeat every week or so: a months-long regular (dance lessons, the Friday Afternoon
+    Club, a weekly market) is dropped; a short run (Christmas at the Caverns, a Renaissance Faire's
+    weekends) becomes one multi-day event. Monthly ones like First Friday are left alone."""
+    from collections import defaultdict
+    groups = defaultdict(list)
+    for v in raw:
+        groups[clean_title(v.get("SUMMARY", "")).lower()].append(v)
+    out = []
+    for t, vs in groups.items():
+        ds = sorted({v["DTSTART"][0] for v in vs})
+        gaps = sorted((date.fromisoformat(b) - date.fromisoformat(a)).days for a, b in zip(ds, ds[1:]))
+        if len(ds) < 3 or gaps[len(gaps) // 2] > 8 or re.search(MOVIE, t, re.I):
+            out.extend(vs)
+            continue
+        if (date.fromisoformat(ds[-1]) - date.fromisoformat(ds[0])).days > 45:
+            continue                                   # a standing weekly regular
+        first = min(vs, key=lambda v: v["DTSTART"])
+        last = max(vs, key=lambda v: v["DTSTART"])
+        merged = dict(first)
+        merged["DTSTART"] = (ds[0], None)
+        merged["DTEND"] = (ds[-1], None)
+        merged["MULTI"] = True                         # inclusive end date, like the JSON API
+        merged["DESCRIPTION"] = (f"Select dates {DayLabel(ds[0])} to {DayLabel(ds[-1])}, "
+                                 f"{first['DTSTART'][1] and _ampm(first['DTSTART'][1]) or 'see times'}"
+                                 f"{' to ' + _ampm(first['DTEND'][1]) if first['DTEND'][1] else ''}. Check the source for each night.")
+        out.append(merged)
+    return out
+
+
+def DayLabel(d):
+    return datetime.strptime(d, "%Y-%m-%d").strftime("%b %-d")
+
+
+def _ampm(t):
+    return datetime.strptime(t, "%H:%M").strftime("%-I:%M %p").replace(":00", "")
+
+
+def fetch_ttc(src):
+    """A TicketstotheCity venue page: each show is its title then '(November 20, 2026 - November 22, 2026)'."""
+    text = fetch(src["ttc"])
+    parts = [unescape_html(x) for x in re.split(r"<[^>]+>", text)]
+    parts = [x for x in parts if x]
+    out = []
+    for i, x in enumerate(parts):
+        m = re.fullmatch(r"\((\w+ \d{1,2}, \d{4})(?: - (\w+ \d{1,2}, \d{4}))?\)", x)
+        if not m or i == 0:
+            continue
+        d = lambda y: datetime.strptime(y, "%B %d, %Y").strftime("%Y-%m-%d")
+        out.append({"SUMMARY": parts[i - 1], "DTSTART": (d(m[1]), None), "DTEND": (d(m[2] or m[1]), None),
+                    "MULTI": True, "LOCATION": "", "URL": src["ttc"],
+                    "DESCRIPTION": "Several performances; pick a date and time on the ticket page."})
     return out
 
 
@@ -224,8 +371,10 @@ def slug(s):
 
 def norm(title):
     t = re.sub(r"[^a-z0-9 ]", " ", title.lower())
-    stop = {"the", "a", "an", "and", "with", "at", "in", "of", "live", "presents"}
-    return [w for w in t.split() if w not in stop][:3]
+    stop = {"the", "a", "an", "and", "with", "at", "in", "of", "live", "presents",
+            # too common in local titles to mean two events are the same
+            "new", "braunfels", "boerne", "gruene", "annual", "christmas", "holiday", "holidays", "downtown", "nb"}
+    return [w for w in t.split() if w not in stop and not re.fullmatch(r"\d+(st|nd|rd|th)?", w)][:3]
 
 
 def is_duplicate(feed_events, day, title):
@@ -253,6 +402,9 @@ def clean_title(t):
         words = t.lower().split(" ")
         t = " ".join(w if (i and w in small) else w[:1].upper() + w[1:] for i, w in enumerate(words))
     t = re.sub(r"\s*[-–|]\s*(Gruene Hall|Brauntex.*)$", "", t, flags=re.I)
+    # Venue prefixes ("Gruene Hall Presents: X", "Brauntex Theatre: X", "Holidays in Gruene: X").
+    t = re.sub(r"^(the )?(brauntex( performing arts)? theatre( presents)?|gruene hall presents|holidays in gruene)\s*:\s*",
+               "", t, flags=re.I)
     return t
 
 
@@ -281,6 +433,7 @@ def main(path, apply=False):
     for src in SOURCES.get(city, []):
         try:
             raw = (fetch_api(src, today, until) if src.get("api") else fetch_libcal(src) if src.get("libcal")
+                   else fetch_visitnb(src) if src.get("visitnb") else fetch_ttc(src) if src.get("ttc")
                    else fetch_ics(src["url"], today, until))
         except Exception as ex:  # one bad source shouldn't stop the rest
             print(f"! {src['name']}: {ex}")
@@ -326,14 +479,14 @@ def main(path, apply=False):
                     e["endTime"] = end
             elif end_day and start is None:
                 # All-day events: DTEND is exclusive in .ics, inclusive in the JSON API.
-                last = end_day if src.get("api") else (date.fromisoformat(end_day) - timedelta(days=1)).isoformat()
+                last = end_day if (src.get("api") or v.get("MULTI")) else (date.fromisoformat(end_day) - timedelta(days=1)).isoformat()
                 if last > day:
                     e["endDate"] = last
             e["location"] = tidy_location(v.get("LOCATION"), src["location"])
             desc = re.sub(r"\s+", " ", v.get("DESCRIPTION", "")).strip()
             if desc:
                 e["description"] = (desc[:217] + "…") if len(desc) > 220 else desc
-            e["sourceURL"] = v.get("URL") or (src.get("url") or src.get("libcal") or src.get("api", "")).split("?")[0]
+            e["sourceURL"] = v.get("URL") or (src.get("url") or src.get("libcal") or src.get("visitnb") or src.get("ttc") or src.get("api", "")).split("?")[0]
             if src.get("tags"): e["tags"] = list(src["tags"])
             if src.get("audience"): e["audience"] = src["audience"]
             e["source"] = src["name"]  # shown in the report only, removed before saving
