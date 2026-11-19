@@ -303,7 +303,14 @@
    "key": "dec",
    "de": "Dezember",
    "title": "Weihnachten on Main Street",
-   "tagline": "The Stocking Stroll, the Weihnachts Parade and holiday Market Days on the Main Plaza."
+   "tagline": "The Stocking Stroll, the Weihnachts Parade and holiday Market Days on the Main Plaza.",
+   "later": [
+    {
+     "fromDay": 14,
+     "title": "Christmas week on Main Street",
+     "tagline": "Cowboy Christmas Market Days on the 19th, Christmas for the Birds at the state park, then New Year's Eve."
+    }
+   ]
   },
   {
    "month": 1,
