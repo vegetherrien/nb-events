@@ -209,6 +209,32 @@
    "group": "Pro sports"
   },
   {
+   "id": "austinfc",
+   "name": "Austin FC soccer",
+   "light": "#00823C",
+   "dark": "#00B140",
+   "symbol": "soccerball",
+   "group": "Pro sports"
+  },
+  {
+   "id": "dynamo",
+   "name": "Houston Dynamo soccer",
+   "light": "#F4911E",
+   "dark": "#F9B560",
+   "symbol": "soccerball",
+   "defaultHidden": true,
+   "group": "Pro sports"
+  },
+  {
+   "id": "fcdallas",
+   "name": "FC Dallas soccer",
+   "light": "#BF0D3E",
+   "dark": "#EE6A88",
+   "symbol": "soccerball",
+   "defaultHidden": true,
+   "group": "Pro sports"
+  },
+  {
    "id": "horns",
    "name": "Longhorns football",
    "light": "#B85000",
@@ -2029,6 +2055,17 @@
    "outdoor": false
   },
   {
+   "id": "2026-11-21-fcdallas-vs-portland-timbers",
+   "category": "fcdallas",
+   "title": "FC Dallas vs. Portland Timbers",
+   "startDate": "2026-11-21",
+   "startTime": "15:00",
+   "location": "Toyota Stadium, Frisco",
+   "tag": "Home",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-kickoff-times-and-dates-set-for-audi-2026-mls-cup-playoffs-round-one-best-of-3-series-against-the-portland-timbers"
+  },
+  {
    "id": "2026-11-21-reagan-hicks-band",
    "category": "music",
    "title": "Reagan Hicks Band",
@@ -2422,6 +2459,17 @@
    "sourceURL": "https://gruenehall.com/events/"
   },
   {
+   "id": "2026-11-24-dynamo-at-san-jose-earthquakes",
+   "category": "dynamo",
+   "title": "Houston Dynamo FC at San Jose Earthquakes",
+   "startDate": "2026-11-24",
+   "startTime": "21:00",
+   "location": "PayPal Park, San Jose",
+   "tag": "Away",
+   "tv": "Apple TV, FS1, Fox Deportes",
+   "sourceURL": "https://mlssoccer.com/news/mls-announces-schedule-for-audi-2026-mls-cup-playoffs-round-one-best-of-3-series"
+  },
+  {
    "id": "2026-11-24-mavs-at-nuggets",
    "category": "mavs",
    "title": "Mavericks at Nuggets",
@@ -2666,6 +2714,17 @@
    ]
   },
   {
+   "id": "2026-11-28-dynamo-vs-san-jose-earthquakes",
+   "category": "dynamo",
+   "title": "Houston Dynamo FC vs. San Jose Earthquakes",
+   "startDate": "2026-11-28",
+   "startTime": "13:30",
+   "location": "Shell Energy Stadium, Houston",
+   "tag": "Home",
+   "tv": "Apple TV",
+   "sourceURL": "https://mlssoccer.com/news/mls-announces-schedule-for-audi-2026-mls-cup-playoffs-round-one-best-of-3-series"
+  },
+  {
    "id": "2026-11-28-rockets-vs-76ers",
    "category": "rockets",
    "title": "Rockets vs. 76ers",
@@ -2685,6 +2744,17 @@
    "location": "Gruene Hall, 1281 Gruene Rd",
    "description": "Doors: 8pm Special Guest: Jake Watson 9pm Aaron Watson: 10:30pm",
    "sourceURL": "https://gruenehall.com/event/aaron-watson-horse-named-texas-tour-w-special-guest-jake-watson-2/"
+  },
+  {
+   "id": "2026-11-28-fcdallas-at-portland-timbers",
+   "category": "fcdallas",
+   "title": "FC Dallas at Portland Timbers",
+   "startDate": "2026-11-28",
+   "startTime": "21:30",
+   "location": "Providence Park, Portland",
+   "tag": "Away",
+   "tv": "Apple TV, FS1, FOX Deportes",
+   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-kickoff-times-and-dates-set-for-audi-2026-mls-cup-playoffs-round-one-best-of-3-series-against-the-portland-timbers"
   },
   {
    "id": "gruene-2026-11-29-photos-with-cowboy-kringle",
@@ -9885,6 +9955,39 @@
    "startTime": "17:30"
   },
   {
+   "id": "2027-02-20-fcdallas-at-austin-fc",
+   "category": "fcdallas",
+   "title": "FC Dallas at Austin FC",
+   "startDate": "2027-02-20",
+   "startTime": "19:00",
+   "location": "Q2 Stadium, Austin",
+   "tag": "Away",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-02-20-dynamo-vs-sporting-kansas-city",
+   "category": "dynamo",
+   "title": "Houston Dynamo FC vs. Sporting Kansas City",
+   "startDate": "2027-02-20",
+   "startTime": "19:00",
+   "location": "Shell Energy Stadium, Houston",
+   "tag": "Home",
+   "tv": "Apple TV",
+   "sourceURL": "https://houstondynamofc.com/news/houston-dynamo-fc-announce-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-02-20-austinfc-vs-fc-dallas",
+   "category": "austinfc",
+   "title": "Austin FC vs. FC Dallas",
+   "startDate": "2027-02-20",
+   "startTime": "19:00",
+   "location": "Q2 Stadium, Austin",
+   "tag": "Home",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
+  },
+  {
    "id": "2027-02-20-paul-thorn",
    "category": "music",
    "title": "Paul Thorn",
@@ -9970,6 +10073,39 @@
    "startTime": "13:15"
   },
   {
+   "id": "2027-02-27-austinfc-at-st-louis-city-sc",
+   "category": "austinfc",
+   "title": "Austin FC at St. Louis CITY SC",
+   "startDate": "2027-02-27",
+   "startTime": "15:00",
+   "location": "Energizer Park, St. Louis",
+   "tag": "Away",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-02-27-fcdallas-vs-portland-timbers",
+   "category": "fcdallas",
+   "title": "FC Dallas vs. Portland Timbers",
+   "startDate": "2027-02-27",
+   "startTime": "19:00",
+   "location": "Toyota Stadium, Frisco",
+   "tag": "Home",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-02-27-dynamo-at-san-jose-earthquakes",
+   "category": "dynamo",
+   "title": "Houston Dynamo FC at San Jose Earthquakes",
+   "startDate": "2027-02-27",
+   "startTime": "19:00",
+   "location": "PayPal Park, San Jose",
+   "tag": "Away",
+   "tv": "Apple TV",
+   "sourceURL": "https://houstondynamofc.com/news/houston-dynamo-fc-announce-2027-mls-sprint-season-schedule"
+  },
+  {
    "id": "2027-02-28-spurs-vs-nuggets-austin",
    "category": "spurs",
    "title": "Spurs vs. Nuggets (Austin)",
@@ -10033,6 +10169,39 @@
    "startTime": "19:00"
   },
   {
+   "id": "2027-03-03-fcdallas-vs-la-galaxy",
+   "category": "fcdallas",
+   "title": "FC Dallas vs. LA Galaxy",
+   "startDate": "2027-03-03",
+   "startTime": "19:00",
+   "location": "Toyota Stadium, Frisco",
+   "tag": "Home",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-03-03-dynamo-vs-vancouver-whitecaps-fc",
+   "category": "dynamo",
+   "title": "Houston Dynamo FC vs. Vancouver Whitecaps FC",
+   "startDate": "2027-03-03",
+   "startTime": "19:00",
+   "location": "Shell Energy Stadium, Houston",
+   "tag": "Home",
+   "tv": "Apple TV",
+   "sourceURL": "https://houstondynamofc.com/news/houston-dynamo-fc-announce-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-03-03-austinfc-vs-colorado-rapids",
+   "category": "austinfc",
+   "title": "Austin FC vs. Colorado Rapids",
+   "startDate": "2027-03-03",
+   "startTime": "19:00",
+   "location": "Q2 Stadium, Austin",
+   "tag": "Home",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
+  },
+  {
    "id": "2027-03-03-rockets-vs-pelicans",
    "category": "rockets",
    "title": "Rockets vs. Pelicans",
@@ -10085,6 +10254,39 @@
    "tag": "Home",
    "tv": "ESPN",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-03-06-dynamo-at-st-louis-city-sc",
+   "category": "dynamo",
+   "title": "Houston Dynamo FC at St. Louis CITY SC",
+   "startDate": "2027-03-06",
+   "startTime": "19:00",
+   "location": "Energizer Park, St. Louis",
+   "tag": "Away",
+   "tv": "Apple TV",
+   "sourceURL": "https://houstondynamofc.com/news/houston-dynamo-fc-announce-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-03-06-austinfc-vs-seattle-sounders-fc",
+   "category": "austinfc",
+   "title": "Austin FC vs. Seattle Sounders FC",
+   "startDate": "2027-03-06",
+   "startTime": "19:00",
+   "location": "Q2 Stadium, Austin",
+   "tag": "Home",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-03-06-fcdallas-at-san-diego-fc",
+   "category": "fcdallas",
+   "title": "FC Dallas at San Diego FC",
+   "startDate": "2027-03-06",
+   "startTime": "21:00",
+   "location": "Snapdragon Stadium, San Diego",
+   "tag": "Away",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
   },
   {
    "id": "2027-03-07-spurs-vs-knicks",
@@ -10180,6 +10382,17 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
+   "id": "2027-03-13-dynamo-vs-la-galaxy",
+   "category": "dynamo",
+   "title": "Houston Dynamo FC vs. LA Galaxy",
+   "startDate": "2027-03-13",
+   "startTime": "14:00",
+   "location": "Shell Energy Stadium, Houston",
+   "tag": "Home",
+   "tv": "Apple TV",
+   "sourceURL": "https://houstondynamofc.com/news/houston-dynamo-fc-announce-2027-mls-sprint-season-schedule"
+  },
+  {
    "id": "2027-03-13-rockets-vs-pacers",
    "category": "rockets",
    "title": "Rockets vs. Pacers",
@@ -10191,6 +10404,17 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "id": "2027-03-13-fcdallas-vs-colorado-rapids",
+   "category": "fcdallas",
+   "title": "FC Dallas vs. Colorado Rapids",
+   "startDate": "2027-03-13",
+   "startTime": "19:00",
+   "location": "Toyota Stadium, Frisco",
+   "tag": "Home",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
+  },
+  {
    "id": "2027-03-13-mavs-vs-pelicans",
    "category": "mavs",
    "title": "Mavericks vs. Pelicans",
@@ -10199,6 +10423,17 @@
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-13-austinfc-at-portland-timbers",
+   "category": "austinfc",
+   "title": "Austin FC at Portland Timbers",
+   "startDate": "2027-03-13",
+   "startTime": "21:00",
+   "location": "Providence Park, Portland",
+   "tag": "Away",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
   },
   {
    "id": "2027-03-14-spurs-at-thunder",
@@ -10303,6 +10538,28 @@
    "location": "New Orleans",
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-03-20-fcdallas-at-real-salt-lake",
+   "category": "fcdallas",
+   "title": "FC Dallas at Real Salt Lake",
+   "startDate": "2027-03-20",
+   "startTime": "20:00",
+   "location": "America First Field, Sandy",
+   "tag": "Away",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-03-20-austinfc-at-san-diego-fc",
+   "category": "austinfc",
+   "title": "Austin FC at San Diego FC",
+   "startDate": "2027-03-20",
+   "startTime": "21:00",
+   "location": "Snapdragon Stadium, San Diego",
+   "tag": "Away",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
   },
   {
    "id": "2027-03-21-spurs-at-76ers",
@@ -10459,6 +10716,28 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
+   "id": "2027-03-27-fcdallas-vs-vancouver-whitecaps-fc",
+   "category": "fcdallas",
+   "title": "FC Dallas vs. Vancouver Whitecaps FC",
+   "startDate": "2027-03-27",
+   "startTime": "19:00",
+   "location": "Toyota Stadium, Frisco",
+   "tag": "Home",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-03-27-austinfc-vs-los-angeles-football-club",
+   "category": "austinfc",
+   "title": "Austin FC vs. Los Angeles Football Club",
+   "startDate": "2027-03-27",
+   "startTime": "19:00",
+   "location": "Q2 Stadium, Austin",
+   "tag": "Home",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
+  },
+  {
    "id": "2027-03-27-astros-vs-rangers",
    "category": "astros",
    "title": "Astros vs. Rangers",
@@ -10477,6 +10756,17 @@
    "tag": "Away",
    "sourceURL": "https://www.mlb.com/rangers/schedule",
    "startTime": "19:10"
+  },
+  {
+   "id": "2027-03-27-dynamo-at-portland-timbers",
+   "category": "dynamo",
+   "title": "Houston Dynamo FC at Portland Timbers",
+   "startDate": "2027-03-27",
+   "startTime": "21:00",
+   "location": "Providence Park, Portland",
+   "tag": "Away",
+   "tv": "Apple TV",
+   "sourceURL": "https://houstondynamofc.com/news/houston-dynamo-fc-announce-2027-mls-sprint-season-schedule"
   },
   {
    "id": "2027-03-28-rockets-vs-lakers",
@@ -10702,6 +10992,39 @@
    "startTime": "18:15"
   },
   {
+   "id": "2027-04-03-dynamo-vs-austin-fc",
+   "category": "dynamo",
+   "title": "Houston Dynamo FC vs. Austin FC",
+   "startDate": "2027-04-03",
+   "startTime": "19:00",
+   "location": "Shell Energy Stadium, Houston",
+   "tag": "Home",
+   "tv": "Apple TV",
+   "sourceURL": "https://houstondynamofc.com/news/houston-dynamo-fc-announce-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-04-03-austinfc-at-houston-dynamo-fc",
+   "category": "austinfc",
+   "title": "Austin FC at Houston Dynamo FC",
+   "startDate": "2027-04-03",
+   "startTime": "19:00",
+   "location": "Shell Energy Stadium, Houston",
+   "tag": "Away",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-04-03-fcdallas-at-los-angeles-football-club",
+   "category": "fcdallas",
+   "title": "FC Dallas at Los Angeles Football Club",
+   "startDate": "2027-04-03",
+   "startTime": "21:00",
+   "location": "BMO Stadium, Los Angeles",
+   "tag": "Away",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
+  },
+  {
    "id": "2027-04-04-astros-at-braves",
    "category": "astros",
    "title": "Astros at Braves",
@@ -10822,6 +11145,17 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
+   "id": "2027-04-07-austinfc-vs-san-jose-earthquakes",
+   "category": "austinfc",
+   "title": "Austin FC vs. San Jose Earthquakes",
+   "startDate": "2027-04-07",
+   "startTime": "19:00",
+   "location": "Q2 Stadium, Austin",
+   "tag": "Home",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
+  },
+  {
    "id": "2027-04-07-rangers-vs-rays",
    "category": "rangers",
    "title": "Rangers vs. Rays",
@@ -10840,6 +11174,17 @@
    "location": "Toyota Center, Houston",
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-04-07-dynamo-at-colorado-rapids",
+   "category": "dynamo",
+   "title": "Houston Dynamo FC at Colorado Rapids",
+   "startDate": "2027-04-07",
+   "startTime": "20:00",
+   "location": "DICK'S Sporting Goods Park, Commerce City",
+   "tag": "Away",
+   "tv": "Apple TV",
+   "sourceURL": "https://houstondynamofc.com/news/houston-dynamo-fc-announce-2027-mls-sprint-season-schedule"
   },
   {
    "id": "2027-04-07-mavs-at-trail-blazers",
@@ -10929,6 +11274,39 @@
    "tag": "Home",
    "sourceURL": "https://www.mlb.com/astros/schedule",
    "startTime": "18:10"
+  },
+  {
+   "id": "2027-04-10-fcdallas-vs-san-jose-earthquakes",
+   "category": "fcdallas",
+   "title": "FC Dallas vs. San Jose Earthquakes",
+   "startDate": "2027-04-10",
+   "startTime": "19:00",
+   "location": "Toyota Stadium, Frisco",
+   "tag": "Home",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-04-10-dynamo-vs-seattle-sounders-fc",
+   "category": "dynamo",
+   "title": "Houston Dynamo FC vs. Seattle Sounders FC",
+   "startDate": "2027-04-10",
+   "startTime": "19:00",
+   "location": "Shell Energy Stadium, Houston",
+   "tag": "Home",
+   "tv": "Apple TV",
+   "sourceURL": "https://houstondynamofc.com/news/houston-dynamo-fc-announce-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-04-10-austinfc-at-vancouver-whitecaps-fc",
+   "category": "austinfc",
+   "title": "Austin FC at Vancouver Whitecaps FC",
+   "startDate": "2027-04-10",
+   "startTime": "21:00",
+   "location": "BC Place, Vancouver",
+   "tag": "Away",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
   },
   {
    "id": "2027-04-11-rangers-at-cubs",
@@ -11080,6 +11458,28 @@
    "startTime": "18:15"
   },
   {
+   "id": "2027-04-17-fcdallas-at-seattle-sounders-fc",
+   "category": "fcdallas",
+   "title": "FC Dallas at Seattle Sounders FC",
+   "startDate": "2027-04-17",
+   "startTime": "19:00",
+   "location": "Lumen Field, Seattle",
+   "tag": "Away",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-04-17-austinfc-vs-sporting-kansas-city",
+   "category": "austinfc",
+   "title": "Austin FC vs. Sporting Kansas City",
+   "startDate": "2027-04-17",
+   "startTime": "19:00",
+   "location": "Q2 Stadium, Austin",
+   "tag": "Home",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
+  },
+  {
    "id": "2027-04-18-rangers-vs-cardinals",
    "category": "rangers",
    "title": "Rangers vs. Cardinals",
@@ -11098,6 +11498,17 @@
    "tag": "Away",
    "sourceURL": "https://www.mlb.com/astros/schedule",
    "startTime": "15:10"
+  },
+  {
+   "id": "2027-04-18-dynamo-at-los-angeles-football-club",
+   "category": "dynamo",
+   "title": "Houston Dynamo FC at Los Angeles Football Club",
+   "startDate": "2027-04-18",
+   "startTime": "20:00",
+   "location": "BMO Stadium, Los Angeles",
+   "tag": "Away",
+   "tv": "Apple TV",
+   "sourceURL": "https://houstondynamofc.com/news/houston-dynamo-fc-announce-2027-mls-sprint-season-schedule"
   },
   {
    "id": "2027-04-19-rangers-vs-mariners",
@@ -11159,6 +11570,28 @@
    "startTime": "13:40"
   },
   {
+   "id": "2027-04-21-fcdallas-at-sporting-kansas-city",
+   "category": "fcdallas",
+   "title": "FC Dallas at Sporting Kansas City",
+   "startDate": "2027-04-21",
+   "startTime": "19:00",
+   "location": "Sporting Park, Kansas City",
+   "tag": "Away",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-04-21-dynamo-vs-san-diego-fc",
+   "category": "dynamo",
+   "title": "Houston Dynamo FC vs. San Diego FC",
+   "startDate": "2027-04-21",
+   "startTime": "19:00",
+   "location": "Shell Energy Stadium, Houston",
+   "tag": "Home",
+   "tv": "Apple TV",
+   "sourceURL": "https://houstondynamofc.com/news/houston-dynamo-fc-announce-2027-mls-sprint-season-schedule"
+  },
+  {
    "id": "2027-04-23-rangers-at-mets",
    "category": "rangers",
    "title": "Rangers at Mets",
@@ -11197,6 +11630,39 @@
    "tag": "Home",
    "sourceURL": "https://www.mlb.com/astros/schedule",
    "startTime": "18:10"
+  },
+  {
+   "id": "2027-04-24-fcdallas-vs-houston-dynamo-fc",
+   "category": "fcdallas",
+   "title": "FC Dallas vs. Houston Dynamo FC",
+   "startDate": "2027-04-24",
+   "startTime": "19:00",
+   "location": "Toyota Stadium, Frisco",
+   "tag": "Home",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-04-24-dynamo-at-fc-dallas",
+   "category": "dynamo",
+   "title": "Houston Dynamo FC at FC Dallas",
+   "startDate": "2027-04-24",
+   "startTime": "19:00",
+   "location": "Toyota Stadium, Frisco",
+   "tag": "Away",
+   "tv": "Apple TV",
+   "sourceURL": "https://houstondynamofc.com/news/houston-dynamo-fc-announce-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-04-24-austinfc-at-minnesota-united-fc",
+   "category": "austinfc",
+   "title": "Austin FC at Minnesota United FC",
+   "startDate": "2027-04-24",
+   "startTime": "19:00",
+   "location": "Allianz Field, St. Paul",
+   "tag": "Away",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
   },
   {
    "id": "2027-04-25-rangers-at-mets",
