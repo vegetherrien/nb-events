@@ -374,7 +374,8 @@
    "endDate": "2026-10-11",
    "location": "Gruene Historic District & Gruene Hall",
    "description": "Four days of Texas and Americana music with wine and craft beer tastings. Proceeds go to United Way of Comal County. This is the closing weekend.",
-   "sourceURL": "https://www.hillcountrypassport.com/events/place-new-braunfels-tx/page-2/"
+   "sourceURL": "https://www.hillcountrypassport.com/events/place-new-braunfels-tx/page-2/",
+   "featured": true
   },
   {
    "id": "2026-10-09-friends-of-the-library-book-sale",
@@ -436,7 +437,8 @@
    "location": "Cotton Bowl, Dallas",
    "description": "The Red River Rivalry at the State Fair of Texas.",
    "tv": "ABC or ESPN",
-   "sourceURL": "https://texaslonghorns.com/news/2026/6/10/additional-kickoff-times-tv-window-assignments-announced-for-football"
+   "sourceURL": "https://texaslonghorns.com/news/2026/6/10/additional-kickoff-times-tv-window-assignments-announced-for-football",
+   "featured": true
   },
   {
    "id": "2026-10-10-the-klocks",
@@ -803,7 +805,8 @@
    "endTime": "17:00",
    "location": "Gruene Historic District",
    "description": "Work from more than 80 Texas potters and clay artists, on view and for sale.",
-   "sourceURL": "https://www.hillcountrypassport.com/events/place-new-braunfels-tx/"
+   "sourceURL": "https://www.hillcountrypassport.com/events/place-new-braunfels-tx/",
+   "featured": true
   },
   {
    "id": "2026-10-24-new-braunfels-jamboree-train-show",
@@ -828,7 +831,6 @@
    "location": "Veramendi",
    "description": "Veramendi's fall signature event: face painting, balloon art, food trucks, live music and a vendor market.",
    "tag": "Residents",
-   "featured": true,
    "sourceURL": "https://lifeatveramendi.org/events/",
    "tags": [
     "community:veramendi"
@@ -1019,7 +1021,8 @@
    "endTime": "12:00",
    "location": "Main Plaza",
    "description": "The community honors local veterans.",
-   "sourceURL": "https://www.hillcountrypassport.com/events/place-new-braunfels-tx/page-3/"
+   "sourceURL": "https://www.hillcountrypassport.com/events/place-new-braunfels-tx/page-3/",
+   "featured": true
   },
   {
    "id": "2026-11-07-triston-marez",
@@ -1731,7 +1734,8 @@
    "outdoor": false,
    "tags": [
     "school:canyon-lake-hs"
-   ]
+   ],
+   "featured": true
   },
   {
    "id": "2026-11-20-playoffs-davenport-vs-cc-miller",
@@ -1746,7 +1750,8 @@
    "outdoor": false,
    "tags": [
     "school:davenport-hs"
-   ]
+   ],
+   "featured": true
   },
   {
    "id": "2026-11-20-playoffs-round-rock-vs-sa-johnson",
@@ -4688,7 +4693,6 @@
    "location": "Veramendi",
    "description": "Veramendi's holiday signature event.",
    "tag": "Residents",
-   "featured": true,
    "sourceURL": "https://lifeatveramendi.org/events/",
    "tags": [
     "community:veramendi"
@@ -4741,7 +4745,6 @@
    "startTime": "19:30",
    "location": "Brauntex Theatre, 290 W San Antonio St",
    "description": "Screening of the film with Ralphie himself.",
-   "featured": true,
    "sourceURL": "https://www.tickpick.com/buy-an-evening-with-peter-billingsley-and-screening-of-a-christmas-story-tickets-brauntex-performing-arts-theatre-12-12-26-7pm/7977145/"
   },
   {
@@ -8202,7 +8205,8 @@
    "price": "$35",
    "description": "Comics, toys, retro games and guests at the Civic Center. Kids 11 and under free.",
    "sourceURL": "https://www.heritageeventcompany.com/new-braunfels-retromania-comiccon-2027.html",
-   "id": "2027-01-16-retromania-comic-con"
+   "id": "2027-01-16-retromania-comic-con",
+   "featured": true
   },
   {
    "title": "New Braunfels boys soccer at Copa Halcon Day 3",
@@ -9740,7 +9744,6 @@
    "location": "Gruene Historic District",
    "description": "Market Days return for the year: about 100 artisans with handmade goods and packaged Texas foods. Free admission and parking. Dates follow the usual third-weekend pattern; confirm before you go.",
    "outdoor": true,
-   "featured": true,
    "sourceURL": "https://www.gruenetexas.com/market-days/",
    "id": "2027-02-20-gruene-market-days"
   },
