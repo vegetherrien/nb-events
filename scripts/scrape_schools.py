@@ -27,7 +27,7 @@ DROP = re.compile(r"appreciation|awareness|\bmonth\b|\bweek\b(?!end)|national .*
                   r"\bplc\b|faculty|lunch menu|\bA day\b|\bB day\b|birthday|tutorial|duty|"
                   r"board (meeting|mtg|workshop)|\bmtg\b|\bmeeting\b|progress reports?|report cards?|retakes?|"
                   r"end of (9|six|6|nine)|\b(staar|tsia|psat|sat|act|eoc|map) (test|testing|exam)|\btesting\b|"
-                  r"rehearsal|practice|tryouts?|deadline|marathon monday|\bdue\b|grades? (post|due)|exchange day", re.I)
+                  r"rehearsal|practice|tryouts?|deadline|marathon monday|\bdue\b|grades? (post|due)|exchange day|committee|educators day|spirit day|dress[- ]up|wear \\w+ (for|day)", re.I)
 # Games that some schools also type into the campus calendar; the athletics feed already has them.
 GAME_ROW = re.compile(r"(basketball|soccer|football|volleyball|baseball|softball|wrestling|swim|tennis|golf|"
                       r"track|cross country|powerlifting).*\b(game|scrimmage|vs\.?|tournament|meet|match|invitational)\b", re.I)
