@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "timeZone": "America/Chicago",
  "title": "Boerne Event Calendar",
  "city": {
@@ -338,37 +338,6 @@
    "location": "Cibolo Nature Center, 140 City Park Rd",
    "description": "Take a refreshing 30-minute walk along the Cibolo Nature Center trails with the Nature Education team. The walk takes place Wednesday, November 18, 2026, from 2:30 pm to 3 pm. Meet on the center’s back porch at 140 Ci…",
    "sourceURL": "https://theboernelife.com/events/wednesday-nature-walk-at-cibolo-nature-center/"
-  },
-  {
-   "id": "2026-11-18-rockets-at-pacers",
-   "category": "rockets",
-   "title": "Rockets at Pacers",
-   "startDate": "2026-11-18",
-   "startTime": "18:00",
-   "location": "Indianapolis",
-   "tag": "Away",
-   "sourceURL": "https://www.basketball-reference.com/teams/HOU/2027_games.html",
-   "tv": "Space City Home Network"
-  },
-  {
-   "id": "2026-11-18-utsa-bb-vs-florida-a-m",
-   "category": "utsa-bb",
-   "title": "UTSA vs. Florida A&M",
-   "startDate": "2026-11-18",
-   "location": "Convocation Center, San Antonio",
-   "tag": "Home",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "19:00"
-  },
-  {
-   "id": "2026-11-18-mavs-vs-warriors",
-   "category": "mavs",
-   "title": "Mavericks vs. Warriors",
-   "startDate": "2026-11-18",
-   "startTime": "19:00",
-   "location": "American Airlines Center, Dallas",
-   "tag": "Home",
-   "sourceURL": "https://www.basketball-reference.com/teams/DAL/2027_games.html"
   },
   {
    "title": "Boerne girls basketball at Saisd Tournament",
@@ -4723,16 +4692,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "2027-01-01-mavs-at-rockets",
-   "category": "mavs",
-   "title": "Mavericks at Rockets",
-   "startDate": "2027-01-01",
-   "startTime": "19:30",
-   "location": "Houston",
-   "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
-  },
-  {
    "id": "2027-01-01-rockets-vs-mavericks",
    "category": "rockets",
    "title": "Rockets vs. Mavericks",
@@ -4742,6 +4701,16 @@
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "id": "2027-01-01-mavs-at-rockets",
+   "category": "mavs",
+   "title": "Mavericks at Rockets",
+   "startDate": "2027-01-01",
+   "startTime": "19:30",
+   "location": "Houston",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "title": "Boerne girls soccer at Northside Isd Tournament",
@@ -5885,6 +5854,20 @@
    "startTime": "11:00"
   },
   {
+   "title": "Boerne boys basketball vs. John Paul Ii",
+   "startDate": "2027-01-18",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Boerne High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-18-boerne-boys-basketball-vs-john-paul-ii"
+  },
+  {
    "id": "2027-01-18-rockets-at-grizzlies",
    "category": "rockets",
    "title": "Rockets at Grizzlies",
@@ -6341,17 +6324,6 @@
    "startTime": "13:00"
   },
   {
-   "id": "2027-01-31-mavs-vs-rockets",
-   "category": "mavs",
-   "title": "Mavericks vs. Rockets",
-   "startDate": "2027-01-31",
-   "startTime": "19:30",
-   "location": "American Airlines Center, Dallas",
-   "tag": "Home",
-   "tv": "NBC",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
-  },
-  {
    "id": "2027-01-31-rockets-at-mavericks",
    "category": "rockets",
    "title": "Rockets at Mavericks",
@@ -6361,6 +6333,17 @@
    "tag": "Away",
    "tv": "NBC",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-01-31-mavs-vs-rockets",
+   "category": "mavs",
+   "title": "Mavericks vs. Rockets",
+   "startDate": "2027-01-31",
+   "startTime": "19:30",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "id": "2027-02-01-spurs-at-warriors",
@@ -7620,17 +7603,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "2027-03-19-mavs-at-spurs",
-   "category": "mavs",
-   "title": "Mavericks at Spurs",
-   "startDate": "2027-03-19",
-   "startTime": "19:00",
-   "location": "San Antonio",
-   "tag": "Away",
-   "tv": "NBA TV",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
-  },
-  {
    "id": "2027-03-19-rockets-at-pelicans",
    "category": "rockets",
    "title": "Rockets at Pelicans",
@@ -7640,6 +7612,17 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "id": "2027-03-19-mavs-at-spurs",
+   "category": "mavs",
+   "title": "Mavericks at Spurs",
+   "startDate": "2027-03-19",
+   "startTime": "19:00",
+   "location": "San Antonio",
+   "tag": "Away",
+   "tv": "NBA TV",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "id": "2027-03-20-music-in-the-cave-spring-equinox",
@@ -8476,16 +8459,6 @@
    "tv": "DAZN"
   },
   {
-   "id": "2027-04-11-mavs-vs-grizzlies",
-   "category": "mavs",
-   "title": "Mavericks vs. Grizzlies",
-   "startDate": "2027-04-11",
-   "startTime": "19:30",
-   "location": "American Airlines Center, Dallas",
-   "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
-  },
-  {
    "id": "2027-04-11-rockets-at-timberwolves",
    "category": "rockets",
    "title": "Rockets at Timberwolves",
@@ -8495,6 +8468,16 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "id": "2027-04-11-mavs-vs-grizzlies",
+   "category": "mavs",
+   "title": "Mavericks vs. Grizzlies",
+   "startDate": "2027-04-11",
+   "startTime": "19:30",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "id": "2027-04-13-rangers-at-reds",
@@ -8954,39 +8937,39 @@
  ],
  "notices": [
   {
-   "id": "boerne-pet-49638429",
+   "id": "boerne-pet-50029173",
    "kind": "pets",
-   "title": "Adoptable: Ditka, 2-year-old pug",
-   "detail": "Male dog available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
-   "level": "info",
-   "url": "https://www.adoptapet.com/pet/49638429-boerne-texas-pug-mix",
-   "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
-   "until": "2026-11-19",
-   "asOf": "2026-11-18",
-   "collector": "civic"
-  },
-  {
-   "id": "boerne-pet-49756746",
-   "kind": "pets",
-   "title": "Adoptable: Phil, 1-year-old beagle/jack russell terrier",
-   "detail": "Male dog available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
-   "level": "info",
-   "url": "https://www.adoptapet.com/pet/49756746-boerne-texas-beagle-jack-russell-terrier-mix",
-   "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
-   "until": "2026-11-19",
-   "asOf": "2026-11-18",
-   "collector": "civic"
-  },
-  {
-   "id": "boerne-pet-50029171",
-   "kind": "pets",
-   "title": "Adoptable: Russet, 3-month-old Domestic Shorthair",
+   "title": "Adoptable: Kennebec, 3-month-old Domestic Shorthair",
    "detail": "Male cat available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
    "level": "info",
-   "url": "https://www.adoptapet.com/pet/50029171-boerne-texas-cat",
+   "url": "https://www.adoptapet.com/pet/50029173-boerne-texas-cat",
    "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
-   "until": "2026-11-19",
-   "asOf": "2026-11-18",
+   "until": "2026-11-20",
+   "asOf": "2026-11-19",
+   "collector": "civic"
+  },
+  {
+   "id": "boerne-pet-50029175",
+   "kind": "pets",
+   "title": "Adoptable: Jester, 2-month-old Domestic Shorthair",
+   "detail": "Male cat available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
+   "level": "info",
+   "url": "https://www.adoptapet.com/pet/50029175-boerne-texas-cat",
+   "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
+   "until": "2026-11-20",
+   "asOf": "2026-11-19",
+   "collector": "civic"
+  },
+  {
+   "id": "boerne-pet-50029176",
+   "kind": "pets",
+   "title": "Adoptable: Frisco, 2-month-old Domestic Shorthair",
+   "detail": "Male cat available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
+   "level": "info",
+   "url": "https://www.adoptapet.com/pet/50029176-boerne-texas-cat",
+   "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
+   "until": "2026-11-20",
+   "asOf": "2026-11-19",
    "collector": "civic"
   },
   {
@@ -8998,7 +8981,7 @@
    "url": "https://business.boerne.org/events/details/ribbon-cutting-for-red-wing-of-boerne-34896",
    "source": "Greater Boerne Chamber of Commerce",
    "until": "2026-11-19",
-   "asOf": "2026-11-18",
+   "asOf": "2026-11-19",
    "collector": "civic"
   },
   {
@@ -9010,7 +8993,7 @@
    "url": "https://business.boerne.org/events/details/ribbon-cutting-for-shelley-goldblum-winepro-34904",
    "source": "Greater Boerne Chamber of Commerce",
    "until": "2026-11-19",
-   "asOf": "2026-11-18",
+   "asOf": "2026-11-19",
    "collector": "civic"
   },
   {
@@ -9022,7 +9005,7 @@
    "url": "https://business.boerne.org/events/details/ribbon-cutting-for-the-fix-wellness-and-aesthetics-34905",
    "source": "Greater Boerne Chamber of Commerce",
    "until": "2026-11-24",
-   "asOf": "2026-11-18",
+   "asOf": "2026-11-19",
    "collector": "civic"
   },
   {
@@ -9033,7 +9016,7 @@
    "level": "info",
    "url": "https://www.boerneisd.net/",
    "source": "Boerne ISD",
-   "asOf": "2026-11-18",
+   "asOf": "2026-11-19",
    "until": "2026-11-27",
    "tags": [
     "district:boerne-isd"
@@ -9049,7 +9032,7 @@
    "level": "info",
    "url": "https://cces.boerneisd.net/",
    "source": "Cibolo Creek ES campus calendar",
-   "asOf": "2026-11-18",
+   "asOf": "2026-11-19",
    "until": "2026-11-20",
    "tags": [
     "school:cibolo-creek-es"
@@ -9065,7 +9048,7 @@
    "level": "warn",
    "url": "https://www.ci.boerne.tx.us/1947/Water-Restrictions",
    "source": "City of Boerne (Boerne Utilities)",
-   "asOf": "2026-11-18",
+   "asOf": "2026-11-19",
    "collector": "utilities"
   }
  ],
