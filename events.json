@@ -1143,6 +1143,19 @@
    "sourceURL": "https://gruenehall.com/event/the-georges-110/"
   },
   {
+   "title": "Long Creek boys basketball at Cornerstone",
+   "startDate": "2026-11-19",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Open Date",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
+   "tags": [
+    "school:long-creek-hs"
+   ],
+   "audience": "local",
+   "id": "sch-long-creek-hs-2026-11-19-long-creek-boys-basketball-at-cornerstone"
+  },
+  {
    "title": "Canyon boys basketball at Joe Filoteo Classic",
    "startDate": "2026-11-19",
    "tag": "Away",
@@ -2689,20 +2702,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
-   "title": "3rd Grade Cemex Field Trip",
-   "startDate": "2026-12-01",
-   "startTime": "09:00",
-   "endTime": "14:00",
-   "location": "Seele Elementary",
-   "sourceURL": "https://nbisd.org/se/",
-   "category": "school",
-   "tags": [
-    "school:seele-es"
-   ],
-   "audience": "local",
-   "id": "sch-seele-es-2026-12-01-3rd-grade-cemex-field-trip"
-  },
-  {
    "title": "SE First Grade Field to Magik Theater",
    "startDate": "2026-12-01",
    "startTime": "09:00",
@@ -2715,6 +2714,20 @@
    ],
    "audience": "local",
    "id": "sch-seele-es-2026-12-01-se-first-grade-field-to-magik-theater"
+  },
+  {
+   "title": "3rd Grade Cemex Field Trip",
+   "startDate": "2026-12-01",
+   "startTime": "09:00",
+   "endTime": "14:00",
+   "location": "Seele Elementary",
+   "sourceURL": "https://nbisd.org/se/",
+   "category": "school",
+   "tags": [
+    "school:seele-es"
+   ],
+   "audience": "local",
+   "id": "sch-seele-es-2026-12-01-3rd-grade-cemex-field-trip"
   },
   {
    "id": "2026-12-01-slim-bawb",
@@ -3124,6 +3137,20 @@
    "location": "Gruene Hall, 1281 Gruene Rd",
    "description": "Doors: 7pm Opener: Sean McHargue of The Ransom Brothers (Acoustic) 8pm Read Southall (Acoustic): 9:30pm",
    "sourceURL": "https://gruenehall.com/event/read-southall-acoustic-run/"
+  },
+  {
+   "title": "Choir - Wassailfest, Main Plaza Stage",
+   "startDate": "2026-12-03",
+   "startTime": "20:00",
+   "endTime": "20:30",
+   "location": "New Braunfels Middle School",
+   "sourceURL": "https://nbisd.org/nbms/",
+   "category": "school",
+   "tags": [
+    "school:new-braunfels-ms"
+   ],
+   "audience": "local",
+   "id": "sch-new-braunfels-ms-2026-12-03-choir-wassailfest-main-plaza-stage"
   },
   {
    "title": "4Th & 5Th Grade Choir Caroling Field Trip 2026",
@@ -5269,6 +5296,20 @@
    ],
    "audience": "local",
    "id": "sch-seele-es-2026-12-17-5th-grade-canyon-lake-gorge-field-trip"
+  },
+  {
+   "title": "Nbms Christmas Band Visit",
+   "startDate": "2026-12-17",
+   "startTime": "13:00",
+   "endTime": "13:30",
+   "location": "Walnut Springs Elementary",
+   "sourceURL": "https://nbisd.org/wse/",
+   "category": "school",
+   "tags": [
+    "school:walnut-springs-es"
+   ],
+   "audience": "local",
+   "id": "sch-walnut-springs-es-2026-12-17-nbms-christmas-band-visit"
   },
   {
    "title": "Pack Party",
@@ -8879,6 +8920,18 @@
    "tv": "DAZN"
   },
   {
+   "title": "100th Day of School",
+   "startDate": "2027-02-02",
+   "location": "Memorial Elementary",
+   "sourceURL": "https://nbisd.org/me/",
+   "category": "school",
+   "tags": [
+    "school:memorial-es"
+   ],
+   "audience": "local",
+   "id": "sch-memorial-es-2027-02-02-100th-day-of-school"
+  },
+  {
    "title": "Groundhog Day",
    "startDate": "2027-02-02",
    "location": "All campuses",
@@ -8947,6 +9000,20 @@
    ],
    "audience": "local",
    "id": "sch-walnut-springs-es-2027-02-04-glow-bingo-family-night"
+  },
+  {
+   "title": "2nd & 3rd Grade Music Program",
+   "startDate": "2027-02-04",
+   "startTime": "18:00",
+   "endTime": "19:00",
+   "location": "Memorial Elementary",
+   "sourceURL": "https://nbisd.org/me/",
+   "category": "school",
+   "tags": [
+    "school:memorial-es"
+   ],
+   "audience": "local",
+   "id": "sch-memorial-es-2027-02-04-2nd-3rd-grade-music-program"
   },
   {
    "id": "2027-02-04-utsa-bb-vs-florida-atlantic",
@@ -11832,7 +11899,8 @@
    "startDate": "2027-04-30",
    "location": "loanDepot park, Miami",
    "tag": "Away",
-   "sourceURL": "https://www.mlb.com/astros/schedule"
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "18:10"
   },
   {
    "id": "2027-04-30-rangers-vs-royals",
