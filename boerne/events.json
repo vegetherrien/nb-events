@@ -157,8 +157,8 @@
   {
    "id": "movies",
    "name": "Movie nights",
-   "light": "#2F5AA8",
-   "dark": "#93B4EE",
+   "light": "#6D4C2F",
+   "dark": "#D2AE8A",
    "symbol": "film.fill"
   },
   {
