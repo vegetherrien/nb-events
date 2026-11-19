@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>NB Events deal check</title>
+<style>
+  :root { --bg: #F3EEE8; --card: #FFFFFF; --ink: #221A14; --muted: #6B5E54; --ok: #1F7A3A; --no: #A3261F; }
+  @media (prefers-color-scheme: dark) { :root { --bg: #1C1714; --card: #27201B; --ink: #F3EEE8; --muted: #B5A89D; --ok: #6FD08C; --no: #F08A80; } }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 18px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 480px; margin: 0 auto; padding: 32px 16px; }
+  .card { background: var(--card); border-radius: 20px; padding: 28px 22px; text-align: center; }
+  .mark { font-size: 64px; line-height: 1; }
+  h1 { font-size: 28px; margin: 12px 0 4px; }
+  .ok { color: var(--ok); } .no { color: var(--no); }
+  .muted { color: var(--muted); font-size: 15px; }
+  .offer { margin: 16px 0; font-size: 17px; }
+</style>
+</head>
+<body>
+<main>
+  <div class="card" id="card"><p class="muted">Checking…</p></div>
+  <p class="muted" style="text-align:center">NB Events · this page only checks the deal; it records nothing.</p>
+</main>
+<script>
+(function () {
+  var q = new URLSearchParams(location.search);
+  var id = q.get("o") || "", day = q.get("d") || "", token = q.get("t") || "", city = q.get("c") || "";
+  var card = document.getElementById("card");
+  function esc(s) { var d = document.createElement("div"); d.textContent = s; return d.innerHTML; }
+  function show(ok, title, body) {
+    card.innerHTML = '<div class="mark ' + (ok ? "ok" : "no") + '">' + (ok ? "✓" : "✕") + '</div>' +
+      '<h1 class="' + (ok ? "ok" : "no") + '">' + esc(title) + '</h1>' + body;
+  }
+  // Today in Central time, the app's time zone.
+  var parts = new Intl.DateTimeFormat("en-CA", { timeZone: "America/Chicago", year: "numeric", month: "2-digit", day: "2-digit" }).formatToParts(new Date());
+  var today = parts.find(function (p) { return p.type === "year"; }).value + "-" + parts.find(function (p) { return p.type === "month"; }).value + "-" + parts.find(function (p) { return p.type === "day"; }).value;
+  var feed = city && /^[a-z0-9-]+$/.test(city) ? city + "/events.json" : "events.json";
+  fetch(feed, { cache: "no-store" }).then(function (r) { return r.json(); }).then(function (f) {
+    var o = (f.offers || []).find(function (x) { return x.id === id; });
+    if (!o) return show(false, "Not a current deal", '<p class="muted">This code doesn’t match an NB Events deal.</p>');
+    var running = (!o.from || o.from <= today) && (!o.until || o.until >= today);
+    var body = '<p class="offer"><strong>' + esc(o.business) + '</strong><br>' + esc(o.text) + '</p>' +
+      (o.code ? '<p class="muted">Code word: ' + esc(o.code) + '</p>' : '') +
+      '<p class="muted">Customer code ' + esc(token.slice(0, 8)) + ' · ' + esc(day) + '</p>' +
+      (o.sample ? '<p class="no">Sample offer for testing only.</p>' : '');
+    if (!running) return show(false, "This deal has ended", body);
+    if (day !== today) return show(false, "Code is from another day", body + '<p class="muted">Ask the customer to open the deal in the app again.</p>');
+    show(true, "Valid today", body);
+  }).catch(function () { show(false, "Couldn’t check", '<p class="muted">No connection to NB Events. Try again in a moment.</p>'); });
+})();
+</script>
+</body>
+</html>
