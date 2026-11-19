@@ -169,6 +169,13 @@
    "symbol": "sparkles"
   },
   {
+   "id": "movies",
+   "name": "Movie nights",
+   "light": "#6B3FA0",
+   "dark": "#C3A4EC",
+   "symbol": "film.fill"
+  },
+  {
    "id": "market",
    "name": "Markets & arts",
    "light": "#6845A3",
@@ -1980,6 +1987,28 @@
    "sourceURL": "https://gruenehall.com/event/giovannie-the-hired-guns-6/"
   },
   {
+   "id": "2026-11-21-breakfast-with-santa",
+   "category": "holiday",
+   "title": "Breakfast with Santa",
+   "startDate": "2026-11-21",
+   "startTime": "09:00",
+   "endTime": "10:30",
+   "location": "New Braunfels Civic and Convention Center - 375 S Castell Ave  New Braunfels TX 78130",
+   "description": "Enjoy a morning full of fun, magic, and festivities with Santa himself! The Weihnachtsmarkt team has prepared for Santa’s arrival with a classic Christmas experience, featuring a delicious breakfast, arts & crafts, an…",
+   "sourceURL": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42"
+  },
+  {
+   "id": "2026-11-21-merry-mahjong-2026",
+   "category": "fest",
+   "title": "Merry Mahjong 2026",
+   "startDate": "2026-11-21",
+   "startTime": "13:00",
+   "endTime": "16:00",
+   "location": "New Braunfels Civic and Convention Center - 375 S Castell Ave  New Braunfels TX 78130",
+   "description": "Join us for a fun, festive & exclusive Mahjong Open Play event. This event will be hosted by Serving Up Mahjong of New Braunfels and is a fabulous way to celebrate the season with friends in a fun and friendly competi…",
+   "sourceURL": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42"
+  },
+  {
    "id": "gruene-2026-11-22-photos-with-cowboy-kringle",
    "category": "holiday",
    "title": "Photos with Cowboy Kringle",
@@ -2073,6 +2102,17 @@
    "endTime": "22:30",
    "location": "Gruene Hall, 1281 Gruene Rd",
    "sourceURL": "https://gruenehall.com/event/lowland-revelry-5/"
+  },
+  {
+   "id": "2026-11-22-holiday-tea",
+   "category": "holiday",
+   "title": "Holiday Tea",
+   "startDate": "2026-11-22",
+   "startTime": "13:00",
+   "endTime": "15:00",
+   "location": "New Braunfels Civic and Convention Center - 375 S Castell Ave  New Braunfels TX 78130",
+   "description": "Join us as we celebrate the season with a Holiday Tea, Sunday, November 22, from 1:00-3:00 pm. You will be immersed in festive holiday decor, seated in our beautifully decorated “tearoom,” including elegantly set tabl…",
+   "sourceURL": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42"
   },
   {
    "id": "nbisd-2026-11-23-thanksgiving-break-no-school",
@@ -2969,6 +3009,17 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
+   "id": "2026-12-02-nbpd-tree-of-angels-ceremony",
+   "category": "fest",
+   "title": "NBPD Tree of Angels Ceremony",
+   "startDate": "2026-12-02",
+   "startTime": "18:30",
+   "endTime": "23:59",
+   "location": "<p>McKenna Events Center - 801 W. San Antonio Street</p> - 801 W. San Antonio Street  New ",
+   "description": "The New Braunfels Police Department and Criminal Justice Community will host the 4th Annual Tree of Angels® ceremony at 6:30 p.m. at the McKenna Events Center, honoring families and survivors of violent crime. https:/…",
+   "sourceURL": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14"
+  },
+  {
    "title": "Canyon boys basketball at Austin Bowie Classic",
    "startDate": "2026-12-03",
    "tag": "Away",
@@ -3329,6 +3380,17 @@
    "location": "Gruene Hall, 1281 Gruene Rd",
    "description": "Doors: 7pm Opener: Jaxon Malone 8pm Bottomland: 9:30pm",
    "sourceURL": "https://gruenehall.com/event/bottomland/"
+  },
+  {
+   "id": "2026-12-04-art-haus-first-friday",
+   "category": "fest",
+   "title": "Art Haus - First Friday",
+   "startDate": "2026-12-04",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "<p>Parking Lot in front of former NBU building on the Main Plaza</p> - 263 Main Plaza  New",
+   "description": "Join us for Art Haus during First Fridays, a free monthly celebration of art, music, and community in the heart of downtown New Braunfels. https://www.newbraunfels.gov/calendar.aspx?EID=12082",
+   "sourceURL": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14"
   },
   {
    "title": "New Braunfels boys basketball at CCCA Tournament@Corpus Chrisiti",
@@ -4516,6 +4578,17 @@
    "sourceURL": "https://gruenehall.com/event/briscoe/"
   },
   {
+   "id": "2026-12-11-the-muppets-christmas-carol-movie-watching-party",
+   "category": "movies",
+   "title": "The Muppets Christmas Carol Movie Watching Party",
+   "startDate": "2026-12-11",
+   "startTime": "16:00",
+   "endTime": "18:00",
+   "location": "New Braunfels Public Library, Main Library Meeting Room",
+   "description": "No cheeses for us meeces... but there is holiday cheer for all to hear at the New Braunfels Public Library! Come watch The Muppets Christmas Carol and make some holiday decorations while you watch.",
+   "sourceURL": "https://nbtexas.libcal.com/event/17953570"
+  },
+  {
    "id": "gruene-2026-12-12-annual-jingle-bell-run-walk",
    "category": "holiday",
    "title": "Annual Jingle Bell Run/Walk",
@@ -4682,6 +4755,17 @@
    "location": "Gruene Hall, 1281 Gruene Rd",
    "description": "*Presale On Sale: Wednesday, Sept 23rd at 10AM *Public On Sale: Friday, Sept 25th at 10AM Doors: 8pm Show: The Mavericks & Friends: 9pm",
    "sourceURL": "https://gruenehall.com/event/the-mavericks-friends/"
+  },
+  {
+   "id": "2026-12-12-santa-s-holiday-garden-elf-movie-party",
+   "category": "movies",
+   "title": "Santa's Holiday Garden & Elf Movie Party",
+   "startDate": "2026-12-12",
+   "startTime": "16:00",
+   "endTime": "20:00",
+   "location": "Fischer Park - 1935 Hilltop Summit Road  New Braunfels TX 78130",
+   "description": "Celebrate the holidays at Fischer Park! Join us Saturday, December 12, for an afternoon and evening filled with holiday fun for the whole family! https://www.newbraunfels.gov/calendar.aspx?EID=12166",
+   "sourceURL": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=65"
   },
   {
    "id": "2026-12-13-txst-bb-vs-north-texas",
@@ -5662,6 +5746,17 @@
    "sourceURL": "https://gruenehall.com/event/william-clark-green-the-good-time-tour-full-band/"
   },
   {
+   "id": "2026-12-18-nutcracker",
+   "category": "holiday",
+   "title": "Nutcracker",
+   "startDate": "2026-12-18",
+   "startTime": "19:00",
+   "endTime": "23:59",
+   "location": "New Braunfels Civic and Convention Center - 375 S Castell Ave  New Braunfels TX 78130",
+   "description": "SCBD is delighted to present Tchaikovsky's beloved Christmas ballet, \"The Nutcracker\", a holiday classic for the whole family! https://www.newbraunfels.gov/calendar.aspx?EID=12161",
+   "sourceURL": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42"
+  },
+  {
    "title": "Long Creek wrestling at MacArthur Tournament",
    "startDate": "2026-12-19",
    "tag": "Away",
@@ -5824,6 +5919,28 @@
    "sourceURL": "https://gruenehall.com/event/jon-wolfe-honky-tonk-holiday-show/"
   },
   {
+   "id": "2026-12-19-family-holiday-movie-how-the-grinch-stole-christmas",
+   "category": "movies",
+   "title": "Family Holiday Movie: How the Grinch Stole Christmas",
+   "startDate": "2026-12-19",
+   "startTime": "14:00",
+   "endTime": "16:00",
+   "location": "New Braunfels Public Library, Westside Library Meeting Room",
+   "description": "Join us for a Family Movie Day at the Westside Library! We're celebrating the Holidays with crafts, snacks and Dr. Seuss's How the Grinch Stole Christmas!",
+   "sourceURL": "https://nbtexas.libcal.com/event/18007726"
+  },
+  {
+   "id": "2026-12-19-nutcracker",
+   "category": "holiday",
+   "title": "Nutcracker",
+   "startDate": "2026-12-19",
+   "startTime": "19:00",
+   "endTime": "23:59",
+   "location": "New Braunfels Civic and Convention Center - 375 S Castell Ave  New Braunfels TX 78130",
+   "description": "SCBD is delighted to present Tchaikovsky's beloved Christmas ballet, \"The Nutcracker\", a holiday classic for the whole family! https://www.newbraunfels.gov/calendar.aspx?EID=12163",
+   "sourceURL": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42"
+  },
+  {
    "id": "gruene-2026-12-20-photos-with-cowboy-kringle",
    "category": "holiday",
    "title": "Photos with Cowboy Kringle",
@@ -5889,6 +6006,17 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
    "tv": "DAZN"
+  },
+  {
+   "id": "2026-12-20-nutcracker",
+   "category": "holiday",
+   "title": "Nutcracker",
+   "startDate": "2026-12-20",
+   "startTime": "16:00",
+   "endTime": "23:59",
+   "location": "New Braunfels Civic and Convention Center - 375 S Castell Ave  New Braunfels TX 78130",
+   "description": "SCBD is delighted to present Tchaikovsky's beloved Christmas ballet, \"The Nutcracker\", a holiday classic for the whole family! https://www.newbraunfels.gov/calendar.aspx?EID=12164",
+   "sourceURL": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42"
   },
   {
    "id": "nbisd-2026-12-21-holiday-break-no-school",
@@ -6632,6 +6760,17 @@
    "id": "2027-01-02-david-lewis"
   },
   {
+   "id": "2027-01-02-the-wurst-card-show",
+   "category": "fest",
+   "title": "The Wurst Card Show",
+   "startDate": "2027-01-02",
+   "startTime": "10:00",
+   "endTime": "18:00",
+   "location": "New Braunfels Civic and Convention Center - 375 S Castell Ave  New Braunfels TX 78130",
+   "description": "​A card show filled with vendors and collectors, long boxes and glass cases, sports cards, trading cards, and memorabilia—all in one room! https://www.newbraunfels.gov/calendar.aspx?EID=12078",
+   "sourceURL": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42"
+  },
+  {
    "id": "2027-01-03-spurs-at-timberwolves",
    "category": "spurs",
    "title": "Spurs at Timberwolves",
@@ -6652,6 +6791,17 @@
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "id": "2027-01-03-the-wurst-card-show",
+   "category": "fest",
+   "title": "The Wurst Card Show",
+   "startDate": "2027-01-03",
+   "startTime": "11:00",
+   "endTime": "16:00",
+   "location": "New Braunfels Civic and Convention Center - 375 S Castell Ave  New Braunfels TX 78130",
+   "description": "A card show filled with vendors and collectors, long boxes and glass cases, sports cards, trading cards, and memorabilia—all in one room! https://www.newbraunfels.gov/calendar.aspx?EID=12079",
+   "sourceURL": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42"
   },
   {
    "id": "nbisd-2027-01-04-student-holiday-staff-work-day",
@@ -11078,6 +11228,17 @@
    "tag": "Away",
    "tv": "Apple TV",
    "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-04-03-2027-thru-the-chute",
+   "category": "fest",
+   "title": "2027 Thru the Chute",
+   "startDate": "2027-04-03",
+   "startTime": "10:00",
+   "endTime": "23:59",
+   "location": "City Tube Chute - 100 Liebscher Dr  New Braunfels TX 78130",
+   "description": "https://www.newbraunfels.gov/calendar.aspx?EID=11704",
+   "sourceURL": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14"
   },
   {
    "id": "2027-04-04-astros-at-braves",
