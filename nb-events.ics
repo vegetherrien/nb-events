@@ -33,7 +33,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-10-08-gruene-music-wine-fest-40th-annual@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Gruene Music & Wine Fest (40th annual)
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261012
@@ -48,7 +48,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-friends-of-the-library-book-sale@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Friends of the Library Book Sale
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261011
@@ -62,7 +62,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-walk-to-end-alzheimer-s@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Walk to End Alzheimer's
 DTSTART;TZID=America/Chicago:20261010T080000
 DTEND;TZID=America/Chicago:20261010T100000
@@ -75,7 +75,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-bucksnort-boogie-boys@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bucksnort Boogie Boys
 DTSTART;TZID=America/Chicago:20261010T113000
 DTEND;TZID=America/Chicago:20261010T143000
@@ -87,7 +87,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-texas-vs-oklahoma-red-river-rivalry@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Texas vs. Oklahoma (Red River Rivalry)
 DTSTART;TZID=America/Chicago:20261010T143000
 DTEND;TZID=America/Chicago:20261010T163000
@@ -101,7 +101,7 @@ CATEGORIES:Longhorns football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-the-klocks@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:The Klocks
 DTSTART;TZID=America/Chicago:20261010T180000
 DTEND;TZID=America/Chicago:20261010T210000
@@ -113,7 +113,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-trevor-underwood@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Trevor Underwood
 DTSTART;TZID=America/Chicago:20261010T190000
 DTEND;TZID=America/Chicago:20261010T220000
@@ -125,7 +125,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-the-steeldrivers@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:The SteelDrivers
 DTSTART;TZID=America/Chicago:20261010T210000
 DTEND;TZID=America/Chicago:20261010T230000
@@ -137,7 +137,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-11-trunk-monkeys@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Trunk Monkeys
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
@@ -149,7 +149,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-11-elysha-lemaster@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Elysha LeMaster
 DTSTART;TZID=America/Chicago:20261011T110000
 DTEND;TZID=America/Chicago:20261011T140000
@@ -161,7 +161,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-11-sunday-all-star-playlist@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Sunday All-Star Playlist
 DTSTART;TZID=America/Chicago:20261011T130000
 DTEND;TZID=America/Chicago:20261011T150000
@@ -173,7 +173,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-london-baileigh@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:London Baileigh
 DTSTART;TZID=America/Chicago:20261015T190000
 DTEND;TZID=America/Chicago:20261015T220000
@@ -185,7 +185,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-library-kids-fan-club-it-s-the-great-pumpkin-cha@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Library Kids Fan Club: It's the Great Pumpkin\, Charlie Brown
 DTSTART;TZID=America/Chicago:20261016T163000
 DTEND;TZID=America/Chicago:20261016T173000
@@ -199,7 +199,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-tiffiny-dawn@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Tiffiny Dawn
 DTSTART;TZID=America/Chicago:20261016T180000
 DTEND;TZID=America/Chicago:20261016T210000
@@ -211,7 +211,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-dylan-wheeler@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Dylan Wheeler
 DTSTART;TZID=America/Chicago:20261016T200000
 DTEND;TZID=America/Chicago:20261016T220000
@@ -222,7 +222,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-tony-taylor@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Tony Taylor
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
@@ -234,7 +234,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-gruene-market-days@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Gruene Market Days
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
@@ -248,7 +248,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-texas-vs-florida@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Texas vs. Florida
 DTSTART;TZID=America/Chicago:20261017T110000
 DTEND;TZID=America/Chicago:20261017T130000
@@ -262,7 +262,7 @@ CATEGORIES:Longhorns football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-dia-de-los-muertos-festival@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Día de los Muertos Festival
 DTSTART;TZID=America/Chicago:20261017T120000
 DTEND;TZID=America/Chicago:20261017T220000
@@ -275,7 +275,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-the-lonely-hearts-club@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:The Lonely Hearts Club
 DTSTART;TZID=America/Chicago:20261017T180000
 DTEND;TZID=America/Chicago:20261017T210000
@@ -287,7 +287,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-max-stalling-with-owen-temple@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Max Stalling with Owen Temple
 DTSTART;TZID=America/Chicago:20261017T203000
 DTEND;TZID=America/Chicago:20261017T223000
@@ -298,7 +298,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-18-alli-mattice-duo@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Alli Mattice Duo
 DTSTART;TZID=America/Chicago:20261018T110000
 DTEND;TZID=America/Chicago:20261018T140000
@@ -310,7 +310,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-18-kade-isakson@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Kade Isakson
 DTSTART;TZID=America/Chicago:20261018T150000
 DTEND;TZID=America/Chicago:20261018T180000
@@ -322,7 +322,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-karaoke-night-at-krause-s@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Karaoke Night at Krause's
 DTSTART;TZID=America/Chicago:20261019T180000
 DTEND;TZID=America/Chicago:20261019T210000
@@ -333,20 +333,8 @@ DESCRIPTION:Family-friendly karaoke in the biergarten.\nhttps://www.hillcou
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-20-spurs-vs-thunder@nb-events
-DTSTAMP:20261119T021520Z
-SUMMARY:Spurs vs. Thunder
-DTSTART;TZID=America/Chicago:20261020T203000
-DTEND;TZID=America/Chicago:20261020T223000
-LOCATION:Frost Bank Center\, San Antonio
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:Home opener.\nTV: NBC\nhttps://www.cbssports.com/nba/teams/SA/s
- an-antonio-spurs/schedule/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-21-san-antonio-dutchmen@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:San Antonio Dutchmen
 DTSTART;TZID=America/Chicago:20261021T180000
 DTEND;TZID=America/Chicago:20261021T210000
@@ -358,7 +346,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-cody-bolden-the-roadhands-ft-gus-clark@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Cody Bolden & The Roadhands ft. Gus Clark
 DTSTART;TZID=America/Chicago:20261021T200000
 DTEND;TZID=America/Chicago:20261021T230000
@@ -370,7 +358,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-andrew-lopez@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Andrew Lopez
 DTSTART;TZID=America/Chicago:20261022T190000
 DTEND;TZID=America/Chicago:20261022T220000
@@ -382,7 +370,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-soul-sessions@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Soul Sessions
 DTSTART;TZID=America/Chicago:20261023T180000
 DTEND;TZID=America/Chicago:20261023T210000
@@ -394,7 +382,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-ace-pepper-band@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Ace Pepper Band
 DTSTART;TZID=America/Chicago:20261023T190000
 DTEND;TZID=America/Chicago:20261023T220000
@@ -406,7 +394,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-cody-hibbard@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Cody Hibbard
 DTSTART;TZID=America/Chicago:20261023T200000
 DTEND;TZID=America/Chicago:20261023T220000
@@ -416,21 +404,8 @@ DESCRIPTION:Price: $20.50\nhttps://gruenehall.com/tickets/
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-23-spurs-vs-rockets@nb-events
-DTSTAMP:20261119T021520Z
-SUMMARY:Spurs vs. Rockets
-DTSTART;TZID=America/Chicago:20261023T203000
-DTEND;TZID=America/Chicago:20261023T223000
-LOCATION:Moody Center\, Austin
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:I-35 Series home game played at Moody Center in Austin.\nTV: Pr
- ime Video\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-24-texas-vs-ole-miss@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Texas vs. Ole Miss
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
@@ -445,7 +420,7 @@ CATEGORIES:Longhorns football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-texas-clay-festival-34th-annual@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Texas Clay Festival (34th annual)
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
@@ -458,7 +433,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-new-braunfels-jamboree-train-show@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:New Braunfels “Jamboree” Train Show
 DTSTART;TZID=America/Chicago:20261024T100000
 DTEND;TZID=America/Chicago:20261024T170000
@@ -471,7 +446,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-fall-jubilee@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Fall Jubilee
 DTSTART;TZID=America/Chicago:20261024T170000
 DTEND;TZID=America/Chicago:20261024T200000
@@ -483,20 +458,8 @@ DESCRIPTION:Veramendi's fall signature event: face painting\, balloon art\,
 CATEGORIES:My neighborhood
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-24-spurs-at-mavericks@nb-events
-DTSTAMP:20261119T021520Z
-SUMMARY:Spurs at Mavericks
-DTSTART;TZID=America/Chicago:20261024T190000
-DTEND;TZID=America/Chicago:20261024T210000
-LOCATION:Away in Dallas
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-24-tyler-halverson@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Tyler Halverson
 DTSTART;TZID=America/Chicago:20261024T210000
 DTEND;TZID=America/Chicago:20261024T230000
@@ -507,7 +470,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-25-two-rivers-half-marathon-ryan-bielke-5k@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Two Rivers Half Marathon & Ryan Bielke 5K
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
@@ -520,32 +483,8 @@ DESCRIPTION:Half marathon and 5K benefiting Chosen Care and the Today I Get
 CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-27-spurs-vs-kings@nb-events
-DTSTAMP:20261119T021520Z
-SUMMARY:Spurs vs. Kings
-DTSTART;TZID=America/Chicago:20261027T190000
-DTEND;TZID=America/Chicago:20261027T210000
-LOCATION:Frost Bank Center\, San Antonio
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-28-spurs-at-jazz@nb-events
-DTSTAMP:20261119T021520Z
-SUMMARY:Spurs at Jazz
-DTSTART;TZID=America/Chicago:20261028T200000
-DTEND;TZID=America/Chicago:20261028T220000
-LOCATION:Away in Salt Lake City
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-29-downtown-spooktacular@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Downtown Spooktacular
 DTSTART;TZID=America/Chicago:20261029T170000
 DTEND;TZID=America/Chicago:20261029T190000
@@ -559,7 +498,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-cory-morrow@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Cory Morrow
 DTSTART;TZID=America/Chicago:20261030T200000
 DTEND;TZID=America/Chicago:20261030T220000
@@ -570,7 +509,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-miles-for-smiles-5k-10k-kids-candy-dash@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Miles For Smiles: 5K\, 10K & Kids Candy Dash
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
@@ -584,7 +523,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-texas-vs-mississippi-state@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Texas vs. Mississippi State
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
@@ -598,7 +537,7 @@ CATEGORIES:Longhorns football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-river-chase-5k-for-homes-for-our-troops@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:River Chase 5K for Homes For Our Troops
 DTSTART;TZID=America/Chicago:20261031T090000
 DTEND;TZID=America/Chicago:20261031T110000
@@ -611,44 +550,8 @@ DESCRIPTION:5K run/walk raising money for Homes For Our Troops. Packet pick
 CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-31-spurs-vs-timberwolves@nb-events
-DTSTAMP:20261119T021520Z
-SUMMARY:Spurs vs. Timberwolves
-DTSTART;TZID=America/Chicago:20261031T190000
-DTEND;TZID=America/Chicago:20261031T210000
-LOCATION:Frost Bank Center\, San Antonio
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-02-spurs-vs-jazz@nb-events
-DTSTAMP:20261119T021520Z
-SUMMARY:Spurs vs. Jazz
-DTSTART;TZID=America/Chicago:20261102T193000
-DTEND;TZID=America/Chicago:20261102T213000
-LOCATION:Frost Bank Center\, San Antonio
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-04-spurs-vs-mavericks@nb-events
-DTSTAMP:20261119T021520Z
-SUMMARY:Spurs vs. Mavericks
-DTSTART;TZID=America/Chicago:20261104T203000
-DTEND;TZID=America/Chicago:20261104T223000
-LOCATION:Frost Bank Center\, San Antonio
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:TV: ESPN\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-sp
- urs/schedule/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-06-wurstfest@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Wurstfest
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261116
@@ -663,7 +566,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-james-mcmurtry-with-bettysoo@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:James McMurtry with BettySoo
 DTSTART;TZID=America/Chicago:20261106T200000
 DTEND;TZID=America/Chicago:20261106T220000
@@ -673,20 +576,8 @@ DESCRIPTION:Price: $20\nhttps://gruenehall.com/tickets/
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-06-spurs-at-kings@nb-events
-DTSTAMP:20261119T021520Z
-SUMMARY:Spurs at Kings
-DTSTART;TZID=America/Chicago:20261106T210000
-DTEND;TZID=America/Chicago:20261106T230000
-LOCATION:Away in Sacramento
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-07-texas-at-missouri@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Texas at Missouri
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
@@ -700,7 +591,7 @@ CATEGORIES:Longhorns football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-veterans-day-parade-ceremony@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Veterans Day Parade & Ceremony
 DTSTART;TZID=America/Chicago:20261107T100000
 DTEND;TZID=America/Chicago:20261107T120000
@@ -713,7 +604,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-triston-marez@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Triston Marez
 DTSTART;TZID=America/Chicago:20261107T210000
 DTEND;TZID=America/Chicago:20261107T230000
@@ -723,20 +614,8 @@ DESCRIPTION:Price: $20\nhttps://gruenehall.com/tickets/
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-07-spurs-at-trail-blazers@nb-events
-DTSTAMP:20261119T021520Z
-SUMMARY:Spurs at Trail Blazers
-DTSTART;TZID=America/Chicago:20261107T210000
-DTEND;TZID=America/Chicago:20261107T230000
-LOCATION:Away in Portland
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-08-mid-texas-symphony-mozart-tchaikovsky@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Mid-Texas Symphony: Mozart & Tchaikovsky
 DTSTART;TZID=America/Chicago:20261108T160000
 DTEND;TZID=America/Chicago:20261108T180000
@@ -748,32 +627,8 @@ DESCRIPTION:Program includes Mozart's Sinfonia Concertante for Winds.\nhttp
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-09-spurs-at-suns@nb-events
-DTSTAMP:20261119T021520Z
-SUMMARY:Spurs at Suns
-DTSTART;TZID=America/Chicago:20261109T200000
-DTEND;TZID=America/Chicago:20261109T220000
-LOCATION:Away in Phoenix
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-11-spurs-at-bulls@nb-events
-DTSTAMP:20261119T021520Z
-SUMMARY:Spurs at Bulls
-DTSTART;TZID=America/Chicago:20261111T190000
-DTEND;TZID=America/Chicago:20261111T210000
-LOCATION:Away in Chicago
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-13-ray-wylie-hubbard-friends-80th-birthday-celebrat@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Ray Wylie Hubbard & Friends: 80th Birthday Celebration
 DTSTART;TZID=America/Chicago:20261113T200000
 DTEND;TZID=America/Chicago:20261113T220000
@@ -783,20 +638,8 @@ DESCRIPTION:Price: Sold out\nhttps://gruenehall.com/tickets/
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-13-spurs-vs-warriors@nb-events
-DTSTAMP:20261119T021520Z
-SUMMARY:Spurs vs. Warriors
-DTSTART;TZID=America/Chicago:20261113T203000
-DTEND;TZID=America/Chicago:20261113T223000
-LOCATION:Frost Bank Center\, San Antonio
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:TV: Prime Video\nhttps://www.cbssports.com/nba/teams/SA/san-ant
- onio-spurs/schedule/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-14-texas-at-lsu@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Texas at LSU
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
@@ -810,7 +653,7 @@ CATEGORIES:Longhorns football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-ray-wylie-hubbard-friends-80th-birthday-celebrat@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Ray Wylie Hubbard & Friends: 80th Birthday Celebration
 DTSTART;TZID=America/Chicago:20261114T200000
 DTEND;TZID=America/Chicago:20261114T220000
@@ -821,7 +664,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-new-braunfels-half-marathon-10k-5k@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:New Braunfels Half Marathon\, 10K & 5K
 DTSTART;TZID=America/Chicago:20261115T073000
 DTEND;TZID=America/Chicago:20261115T113000
@@ -833,32 +676,8 @@ DESCRIPTION:Flat\, USATF-certified course on country roads. All three dista
 CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-15-spurs-at-jazz@nb-events
-DTSTAMP:20261119T021520Z
-SUMMARY:Spurs at Jazz
-DTSTART;TZID=America/Chicago:20261115T160000
-DTEND;TZID=America/Chicago:20261115T180000
-LOCATION:Away in Salt Lake City
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-17-spurs-vs-pistons@nb-events
-DTSTAMP:20261119T021520Z
-SUMMARY:Spurs vs. Pistons
-DTSTART;TZID=America/Chicago:20261117T190000
-DTEND;TZID=America/Chicago:20261117T210000
-LOCATION:Frost Bank Center\, San Antonio
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:TV: NBC\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-spu
- rs/schedule/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-18-the-georges@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:The Georges
 DTSTART;TZID=America/Chicago:20261118T190000
 DTEND;TZID=America/Chicago:20261118T220000
@@ -869,7 +688,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-txst-bb-vs-uiw@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats vs. UIW
 DTSTART;TZID=America/Chicago:20261118T190000
 DTEND;TZID=America/Chicago:20261118T210000
@@ -880,7 +699,7 @@ CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-h-d-gruene-mercantile-ladies-night-out@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:H.D. Gruene Mercantile Ladies Night Out
 DTSTART;TZID=America/Chicago:20261119T170000
 DTEND;TZID=America/Chicago:20261119T190000
@@ -893,7 +712,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-weihnachtsmarkt-gala@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Weihnachtsmarkt Gala
 DTSTART;TZID=America/Chicago:20261119T180000
 DTEND;TZID=America/Chicago:20261119T210000
@@ -904,20 +723,8 @@ DESCRIPTION:Preview party that opens the market.\nhttps://sophienburg.com/w
 CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-19-spurs-vs-clippers@nb-events
-DTSTAMP:20261119T021520Z
-SUMMARY:Spurs vs. Clippers
-DTSTART;TZID=America/Chicago:20261119T190000
-DTEND;TZID=America/Chicago:20261119T210000
-LOCATION:Frost Bank Center\, San Antonio
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-19-playoffs-westlake-vs-pieper@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Playoffs: Westlake vs. Pieper
 DTSTART;TZID=America/Chicago:20261119T190000
 DTEND;TZID=America/Chicago:20261119T210000
@@ -931,7 +738,7 @@ CATEGORIES:Area high school football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-isaac-jacob-band@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Isaac Jacob Band
 DTSTART;TZID=America/Chicago:20261119T190000
 DTEND;TZID=America/Chicago:20261119T200000
@@ -941,9 +748,21 @@ DESCRIPTION:https://gruenehall.com/event/isaac-jacob-band/
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-19-spurs-vs-clippers@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Spurs vs. Clippers
+DTSTART;TZID=America/Chicago:20261119T190000
+DTEND;TZID=America/Chicago:20261119T210000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-19-choir-choir-choir-presents-landslide-an-epic-fleetwood-mac-s
  @nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Choir! Choir! Choir! Presents: Landslide: an Epic Fleetwood Mac Sin
  g-along!
 DTSTART;TZID=America/Chicago:20261119T193000
@@ -960,7 +779,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-chuck-briseno@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Chuck Briseno
 DTSTART;TZID=America/Chicago:20261119T203000
 DTEND;TZID=America/Chicago:20261119T223000
@@ -971,7 +790,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-weihnachtsmarkt@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Weihnachtsmarkt
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261123
@@ -984,7 +803,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-clayton-chapin@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Clayton Chapin
 DTSTART;TZID=America/Chicago:20261120T170000
 DTEND;TZID=America/Chicago:20261120T200000
@@ -995,7 +814,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-visitor-center-at-the-hinman-house-grand-opening@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Visitor Center at the Hinman House: Grand Opening
 DTSTART;TZID=America/Chicago:20261120T173000
 DTEND;TZID=America/Chicago:20261120T220000
@@ -1008,7 +827,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-downtown-lighting-santa-s-arrival@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Downtown Lighting & Santa's Arrival
 DTSTART;TZID=America/Chicago:20261120T180000
 DTEND;TZID=America/Chicago:20261120T210000
@@ -1022,7 +841,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-playoffs-smithson-valley-vs-mcallen-rowe@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Playoffs: Smithson Valley vs. McAllen Rowe
 DTSTART;TZID=America/Chicago:20261120T190000
 DTEND;TZID=America/Chicago:20261120T210000
@@ -1036,7 +855,7 @@ CATEGORIES:Area high school football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-playoffs-canyon-lake-vs-calhoun@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Playoffs: Canyon Lake vs. Calhoun
 DTSTART;TZID=America/Chicago:20261120T190000
 DTEND;TZID=America/Chicago:20261120T210000
@@ -1050,7 +869,7 @@ CATEGORIES:Area high school football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-playoffs-davenport-vs-cc-miller@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Playoffs: Davenport vs. CC Miller
 DTSTART;TZID=America/Chicago:20261120T190000
 DTEND;TZID=America/Chicago:20261120T210000
@@ -1064,7 +883,7 @@ CATEGORIES:Area high school football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-playoffs-round-rock-vs-sa-johnson@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Playoffs: Round Rock vs. SA Johnson
 DTSTART;TZID=America/Chicago:20261120T193000
 DTEND;TZID=America/Chicago:20261120T213000
@@ -1078,7 +897,7 @@ CATEGORIES:Area high school football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-playoffs-tuloso-midway-vs-la-vernia@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Playoffs: Tuloso-Midway vs. La Vernia
 DTSTART;TZID=America/Chicago:20261120T193000
 DTEND;TZID=America/Chicago:20261120T213000
@@ -1092,7 +911,7 @@ CATEGORIES:Area high school football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-tab-benoit-with-jesse-dayton-soul-of-the-swamp@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Tab Benoit with Jesse Dayton: Soul of the Swamp
 DTSTART;TZID=America/Chicago:20261120T200000
 DTEND;TZID=America/Chicago:20261120T220000
@@ -1103,7 +922,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-texas-state-vs-washington-state@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Texas State vs. Washington State
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
@@ -1116,7 +935,7 @@ CATEGORIES:Texas State football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20261121T090000
 DTEND;TZID=America/Chicago:20261121T130000
@@ -1129,7 +948,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-castell-st-market@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Castell St. Market
 DTSTART;TZID=America/Chicago:20261121T090000
 DTEND;TZID=America/Chicago:20261121T130000
@@ -1143,7 +962,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-gruene-market-days@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Gruene Market Days
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261123
@@ -1157,7 +976,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:gruene-2026-11-21-photos-with-cowboy-kringle@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Photos with Cowboy Kringle
 DTSTART;TZID=America/Chicago:20261121T100000
 DTEND;TZID=America/Chicago:20261121T120000
@@ -1174,7 +993,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-texas-vs-arkansas@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Texas vs. Arkansas
 DTSTART;TZID=America/Chicago:20261121T143000
 DTEND;TZID=America/Chicago:20261121T163000
@@ -1188,7 +1007,7 @@ CATEGORIES:Longhorns football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-texas-a-m-at-oklahoma@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Texas A&M at Oklahoma
 DTSTART;TZID=America/Chicago:20261121T144500
 DTEND;TZID=America/Chicago:20261121T164500
@@ -1199,7 +1018,7 @@ CATEGORIES:Texas A&M football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-reagan-hicks-band@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Reagan Hicks Band
 DTSTART;TZID=America/Chicago:20261121T170000
 DTEND;TZID=America/Chicago:20261121T200000
@@ -1210,7 +1029,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-owen-stroud@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Owen Stroud
 DTSTART;TZID=America/Chicago:20261121T180000
 DTEND;TZID=America/Chicago:20261121T210000
@@ -1220,8 +1039,19 @@ DESCRIPTION:https://www.gruenetexas.com/event/owen-stroud-15/
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-21-utsa-at-uab@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:UTSA at UAB
+DTSTART;TZID=America/Chicago:20261121T190000
+DTEND;TZID=America/Chicago:20261121T210000
+LOCATION:Protective Stadium\, Birmingham\, AL
+URL:https://goutsa.com/sports/football/schedule
+DESCRIPTION:https://goutsa.com/sports/football/schedule
+CATEGORIES:UTSA football
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-21-spurs-vs-pelicans@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs vs. Pelicans
 DTSTART;TZID=America/Chicago:20261121T190000
 DTEND;TZID=America/Chicago:20261121T210000
@@ -1232,19 +1062,8 @@ DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-21-utsa-at-uab@nb-events
-DTSTAMP:20261119T021520Z
-SUMMARY:UTSA at UAB
-DTSTART;TZID=America/Chicago:20261121T190000
-DTEND;TZID=America/Chicago:20261121T210000
-LOCATION:Protective Stadium\, Birmingham\, AL
-URL:https://goutsa.com/sports/football/schedule
-DESCRIPTION:https://goutsa.com/sports/football/schedule
-CATEGORIES:UTSA football
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-21-giovannie-the-hired-guns@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Giovannie & The Hired Guns
 DTSTART;TZID=America/Chicago:20261121T210000
 DTEND;TZID=America/Chicago:20261121T230000
@@ -1256,7 +1075,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:gruene-2026-11-22-photos-with-cowboy-kringle@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Photos with Cowboy Kringle
 DTSTART;TZID=America/Chicago:20261122T100000
 DTEND;TZID=America/Chicago:20261122T120000
@@ -1273,7 +1092,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-txst-bb-vs-mcneese@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats vs. McNeese
 DTSTART;TZID=America/Chicago:20261122T143000
 DTEND;TZID=America/Chicago:20261122T163000
@@ -1284,7 +1103,7 @@ CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-the-polar-express-experience@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:The Polar Express Experience
 DTSTART;TZID=America/Chicago:20261122T153000
 DTEND;TZID=America/Chicago:20261122T173000
@@ -1298,7 +1117,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-matt-kirk@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Matt Kirk
 DTSTART;TZID=America/Chicago:20261122T170000
 DTEND;TZID=America/Chicago:20261122T200000
@@ -1309,7 +1128,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-b3@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:B3
 DTSTART;TZID=America/Chicago:20261122T190000
 DTEND;TZID=America/Chicago:20261122T203000
@@ -1320,7 +1139,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-lowland-revelry@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Lowland Revelry
 DTSTART;TZID=America/Chicago:20261122T210000
 DTEND;TZID=America/Chicago:20261122T223000
@@ -1331,7 +1150,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-lee-mathis-duo@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Lee Mathis Duo
 DTSTART;TZID=America/Chicago:20261123T180000
 DTEND;TZID=America/Chicago:20261123T210000
@@ -1342,11 +1161,11 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-spurs-at-kings@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs at Kings
 DTSTART;TZID=America/Chicago:20261123T210000
 DTEND;TZID=America/Chicago:20261123T230000
-LOCATION:Away in Sacramento
+LOCATION:Golden 1 Center\, Sacramento
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
 DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
  le/
@@ -1354,7 +1173,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-two-ton-tuesday-thanksgiving-show@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Two Ton Tuesday Thanksgiving Show
 DTSTART;TZID=America/Chicago:20261124T203000
 DTEND;TZID=America/Chicago:20261124T223000
@@ -1367,7 +1186,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-txst-bb-vs-alcorn-state@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats vs. Alcorn State
 DTSTART;TZID=America/Chicago:20261125T160000
 DTEND;TZID=America/Chicago:20261125T180000
@@ -1378,7 +1197,7 @@ CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-shinyribs@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Shinyribs
 DTSTART;TZID=America/Chicago:20261125T200000
 DTEND;TZID=America/Chicago:20261125T220000
@@ -1390,11 +1209,11 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-spurs-at-trail-blazers@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs at Trail Blazers
 DTSTART;TZID=America/Chicago:20261125T210000
 DTEND;TZID=America/Chicago:20261125T230000
-LOCATION:Away in Portland
+LOCATION:Moda Center at the Rose Quarter\, Portland
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
 DESCRIPTION:TV: ESPN\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-sp
  urs/schedule/
@@ -1402,7 +1221,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-gruene-turkey-trot-5k-kids-turkey-chase@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Gruene Turkey Trot 5K & Kids Turkey Chase
 DTSTART;TZID=America/Chicago:20261126T083000
 DTEND;TZID=America/Chicago:20261126T103000
@@ -1416,7 +1235,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:gruene-2026-11-27-photos-with-cowboy-kringle@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Photos with Cowboy Kringle
 DTSTART;TZID=America/Chicago:20261127T100000
 DTEND;TZID=America/Chicago:20261127T120000
@@ -1433,7 +1252,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-utsa-vs-tulsa@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:UTSA vs. Tulsa
 DTSTART;TZID=America/Chicago:20261127T110000
 DTEND;TZID=America/Chicago:20261127T130000
@@ -1445,7 +1264,7 @@ CATEGORIES:UTSA football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-txst-bb-at-louisiana-tech@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats at Louisiana Tech
 DTSTART;TZID=America/Chicago:20261127T140000
 DTEND;TZID=America/Chicago:20261127T160000
@@ -1456,7 +1275,7 @@ CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-texas-at-texas-a-m-lone-star-showdown@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Texas at Texas A&M (Lone Star Showdown)
 DTSTART;TZID=America/Chicago:20261127T183000
 DTEND;TZID=America/Chicago:20261127T203000
@@ -1470,7 +1289,7 @@ CATEGORIES:Longhorns football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-texas-a-m-vs-texas-lone-star-showdown@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Texas A&M vs. Texas (Lone Star Showdown)
 DTSTART;TZID=America/Chicago:20261127T183000
 DTEND;TZID=America/Chicago:20261127T203000
@@ -1483,7 +1302,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-aaron-watson-horse-named-texas-tour-w-special-guest-jake-wat
  @nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Aaron Watson: Horse Named Texas Tour w/ special guest Jake Watson
 DTSTART;TZID=America/Chicago:20261127T200000
 DTEND;TZID=America/Chicago:20261127T220000
@@ -1497,7 +1316,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-spurs-vs-lakers@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs vs. Lakers
 DTSTART;TZID=America/Chicago:20261127T203000
 DTEND;TZID=America/Chicago:20261127T223000
@@ -1509,7 +1328,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-texas-state-flex-game@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Texas State at Pac-12 opponent (TBA)
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
@@ -1522,7 +1341,7 @@ CATEGORIES:Texas State football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20261128T090000
 DTEND;TZID=America/Chicago:20261128T130000
@@ -1535,7 +1354,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-castell-st-market@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Castell St. Market
 DTSTART;TZID=America/Chicago:20261128T090000
 DTEND;TZID=America/Chicago:20261128T130000
@@ -1549,7 +1368,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:gruene-2026-11-28-photos-with-cowboy-kringle@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Photos with Cowboy Kringle
 DTSTART;TZID=America/Chicago:20261128T100000
 DTEND;TZID=America/Chicago:20261128T120000
@@ -1567,7 +1386,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-aaron-watson-horse-named-texas-tour-w-special-guest-jake-wat
  @nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Aaron Watson: Horse Named Texas Tour w/ special guest Jake Watson
 DTSTART;TZID=America/Chicago:20261128T210000
 DTEND;TZID=America/Chicago:20261128T230000
@@ -1581,7 +1400,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:gruene-2026-11-29-photos-with-cowboy-kringle@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Photos with Cowboy Kringle
 DTSTART;TZID=America/Chicago:20261129T100000
 DTEND;TZID=America/Chicago:20261129T120000
@@ -1598,7 +1417,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-spurs-vs-celtics@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs vs. Celtics
 DTSTART;TZID=America/Chicago:20261129T150000
 DTEND;TZID=America/Chicago:20261129T170000
@@ -1610,7 +1429,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-txst-bb-vs-nicholls@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats vs. Nicholls
 DTSTART;TZID=America/Chicago:20261129T160000
 DTEND;TZID=America/Chicago:20261129T180000
@@ -1621,11 +1440,11 @@ CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-spurs-at-bucks@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs at Bucks
 DTSTART;TZID=America/Chicago:20261130T190000
 DTEND;TZID=America/Chicago:20261130T210000
-LOCATION:Away in Milwaukee
+LOCATION:Fiserv Forum\, Milwaukee
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
 DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
  le/
@@ -1633,7 +1452,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-mariachi-herencia-de-mexico-a-mariachi-christmas@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Mariachi Herencia de México: A Mariachi Christmas
 DTSTART;TZID=America/Chicago:20261201T193000
 DTEND;TZID=America/Chicago:20261201T213000
@@ -1644,7 +1463,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-txst-bb-vs-louisiana-tech@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats vs. Louisiana Tech
 DTSTART;TZID=America/Chicago:20261202T190000
 DTEND;TZID=America/Chicago:20261202T210000
@@ -1655,7 +1474,7 @@ CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-wassailfest@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Wassailfest
 DTSTART;TZID=America/Chicago:20261203T180000
 DTEND;TZID=America/Chicago:20261203T210000
@@ -1669,7 +1488,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-spurs-vs-raptors@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs vs. Raptors
 DTSTART;TZID=America/Chicago:20261203T190000
 DTEND;TZID=America/Chicago:20261203T210000
@@ -1681,7 +1500,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-grand-ol-christmas-show@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Grand Ol' Christmas Show
 DTSTART;TZID=America/Chicago:20261204T193000
 DTEND;TZID=America/Chicago:20261204T213000
@@ -1694,7 +1513,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-bulky-goods-drop-off@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:City Bulky Goods Drop Off
 DTSTART;TZID=America/Chicago:20261205T070000
 DTEND;TZID=America/Chicago:20261205T110000
@@ -1710,7 +1529,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20261205T090000
 DTEND;TZID=America/Chicago:20261205T130000
@@ -1723,7 +1542,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-gruene-christmas-market-days@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Gruene Christmas Market Days
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
@@ -1737,7 +1556,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:gruene-2026-12-05-photos-with-cowboy-kringle@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Photos with Cowboy Kringle
 DTSTART;TZID=America/Chicago:20261205T100000
 DTEND;TZID=America/Chicago:20261205T120000
@@ -1754,7 +1573,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:gruene-2026-12-05-25th-annual-gruene-pony-express-ride@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:25th Annual Gruene Pony Express Ride
 DTSTART;TZID=America/Chicago:20261205T100000
 DTEND;TZID=America/Chicago:20261205T120000
@@ -1771,7 +1590,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-sec-championship-game@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:SEC Championship Game
 DTSTART;TZID=America/Chicago:20261205T150000
 DTEND;TZID=America/Chicago:20261205T170000
@@ -1784,7 +1603,7 @@ CATEGORIES:Longhorns football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-txst-bb-at-houston@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats at Houston
 DTSTART;TZID=America/Chicago:20261205T163000
 DTEND;TZID=America/Chicago:20261205T183000
@@ -1795,7 +1614,7 @@ CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-gruene-town-lighting-cowboy-kringle-43rd-annual@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Gruene Town Lighting & Cowboy Kringle (43rd annual)
 DTSTART;TZID=America/Chicago:20261205T170000
 DTEND;TZID=America/Chicago:20261205T210000
@@ -1810,7 +1629,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-grand-ol-christmas-show@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Grand Ol' Christmas Show
 DTSTART;TZID=America/Chicago:20261205T193000
 DTEND;TZID=America/Chicago:20261205T213000
@@ -1823,7 +1642,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:gruene-2026-12-06-photos-with-cowboy-kringle@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Photos with Cowboy Kringle
 DTSTART;TZID=America/Chicago:20261206T100000
 DTEND;TZID=America/Chicago:20261206T120000
@@ -1840,7 +1659,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-txst-bb-vs-utrgv@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats vs. UTRGV
 DTSTART;TZID=America/Chicago:20261208T190000
 DTEND;TZID=America/Chicago:20261208T210000
@@ -1851,7 +1670,7 @@ CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-under-the-streetlamp@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Under the Streetlamp
 DTSTART;TZID=America/Chicago:20261210T193000
 DTEND;TZID=America/Chicago:20261210T213000
@@ -1862,7 +1681,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-texas-cellos@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Texas Cellos
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
@@ -1875,7 +1694,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:gruene-2026-12-12-annual-jingle-bell-run-walk@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Annual Jingle Bell Run/Walk
 DTSTART;TZID=America/Chicago:20261212T080000
 DTEND;TZID=America/Chicago:20261212T100000
@@ -1892,7 +1711,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20261212T090000
 DTEND;TZID=America/Chicago:20261212T130000
@@ -1905,7 +1724,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-hill-country-holiday@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Hill Country Holiday
 DTSTART;TZID=America/Chicago:20261212T100000
 DTEND;TZID=America/Chicago:20261212T130000
@@ -1917,7 +1736,7 @@ CATEGORIES:My neighborhood
 END:VEVENT
 BEGIN:VEVENT
 UID:gruene-2026-12-12-photos-with-cowboy-kringle@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Photos with Cowboy Kringle
 DTSTART;TZID=America/Chicago:20261212T100000
 DTEND;TZID=America/Chicago:20261212T120000
@@ -1934,7 +1753,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-an-evening-with-peter-billingsley-a-christmas-st@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:An Evening with Peter Billingsley + A Christmas Story
 DTSTART;TZID=America/Chicago:20261212T193000
 DTEND;TZID=America/Chicago:20261212T213000
@@ -1949,7 +1768,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-txst-bb-vs-north-texas@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats vs. North Texas
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
@@ -1960,7 +1779,7 @@ CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:gruene-2026-12-13-photos-with-cowboy-kringle@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Photos with Cowboy Kringle
 DTSTART;TZID=America/Chicago:20261213T100000
 DTEND;TZID=America/Chicago:20261213T120000
@@ -1977,7 +1796,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-spurs-vs-clippers@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs vs. Clippers
 DTSTART;TZID=America/Chicago:20261213T180000
 DTEND;TZID=America/Chicago:20261213T200000
@@ -1989,11 +1808,11 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-spurs-at-cavaliers@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs at Cavaliers
 DTSTART;TZID=America/Chicago:20261215T190000
 DTEND;TZID=America/Chicago:20261215T210000
-LOCATION:Away in Cleveland
+LOCATION:Rocket Arena\, Cleveland
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
 DESCRIPTION:TV: NBC\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-spu
  rs/schedule/
@@ -2001,11 +1820,11 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-spurs-at-raptors@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs at Raptors
 DTSTART;TZID=America/Chicago:20261216T183000
 DTEND;TZID=America/Chicago:20261216T203000
-LOCATION:Away in Toronto
+LOCATION:Scotiabank Arena\, Toronto
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
 DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
  le/
@@ -2013,7 +1832,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-txst-bb-vs-san-francisco@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats vs. San Francisco
 DTSTART;TZID=America/Chicago:20261216T193000
 DTEND;TZID=America/Chicago:20261216T213000
@@ -2025,7 +1844,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gruene-2026-12-17-come-and-taste-it-meet-texas-best-winemakers-brewe@nb
  -events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:COME AND TASTE IT – Meet Texas’ Best Winemakers & Brewers “HO
  LIDAY EDITION”
 DTSTART;TZID=America/Chicago:20261217T170000
@@ -2043,7 +1862,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-ballet-texas-presents-the-nutcracker@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Ballet Texas Presents the Nutcracker
 DTSTART;TZID=America/Chicago:20261217T190000
 DTEND;TZID=America/Chicago:20261217T210000
@@ -2057,20 +1876,8 @@ DESCRIPTION:Nothing captures the holiday magic better than Ballet Texas’
 CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-18-spurs-vs-bulls@nb-events
-DTSTAMP:20261119T021520Z
-SUMMARY:Spurs vs. Bulls
-DTSTART;TZID=America/Chicago:20261218T190000
-DTEND;TZID=America/Chicago:20261218T210000
-LOCATION:Frost Bank Center\, San Antonio
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-12-18-ballet-texas-presents-the-nutcracker@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Ballet Texas Presents the Nutcracker
 DTSTART;TZID=America/Chicago:20261218T190000
 DTEND;TZID=America/Chicago:20261218T210000
@@ -2084,8 +1891,20 @@ DESCRIPTION:Nothing captures the holiday magic better than Ballet Texas’
 CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-18-spurs-vs-bulls@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Spurs vs. Bulls
+DTSTART;TZID=America/Chicago:20261218T190000
+DTEND;TZID=America/Chicago:20261218T210000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-19-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20261219T090000
 DTEND;TZID=America/Chicago:20261219T130000
@@ -2098,7 +1917,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:gruene-2026-12-19-photos-with-cowboy-kringle@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Photos with Cowboy Kringle
 DTSTART;TZID=America/Chicago:20261219T100000
 DTEND;TZID=America/Chicago:20261219T120000
@@ -2115,7 +1934,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-txst-bb-vs-texas-southern@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats vs. Texas Southern
 DTSTART;TZID=America/Chicago:20261219T133000
 DTEND;TZID=America/Chicago:20261219T153000
@@ -2126,7 +1945,7 @@ CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-ballet-texas-presents-the-nutcracker@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Ballet Texas Presents the Nutcracker
 DTSTART;TZID=America/Chicago:20261219T140000
 DTEND;TZID=America/Chicago:20261219T160000
@@ -2141,7 +1960,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:gruene-2026-12-20-photos-with-cowboy-kringle@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Photos with Cowboy Kringle
 DTSTART;TZID=America/Chicago:20261220T100000
 DTEND;TZID=America/Chicago:20261220T120000
@@ -2158,7 +1977,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-ballet-texas-presents-the-nutcracker@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Ballet Texas Presents the Nutcracker
 DTSTART;TZID=America/Chicago:20261220T140000
 DTEND;TZID=America/Chicago:20261220T160000
@@ -2173,11 +1992,11 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-spurs-at-pelicans@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs at Pelicans
 DTSTART;TZID=America/Chicago:20261220T180000
 DTEND;TZID=America/Chicago:20261220T200000
-LOCATION:Away in New Orleans
+LOCATION:Smoothie King Center\, New Orleans
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
 DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
  le/
@@ -2185,7 +2004,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-spurs-vs-bucks@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs vs. Bucks
 DTSTART;TZID=America/Chicago:20261221T190000
 DTEND;TZID=America/Chicago:20261221T210000
@@ -2197,11 +2016,11 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23-spurs-at-nets@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs at Nets
 DTSTART;TZID=America/Chicago:20261223T183000
 DTEND;TZID=America/Chicago:20261223T203000
-LOCATION:Away in Brooklyn
+LOCATION:Barclays Center\, Brooklyn
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
 DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
  le/
@@ -2209,19 +2028,19 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-25-spurs-at-knicks@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs at Knicks
 DTSTART;TZID=America/Chicago:20261225T110000
 DTEND;TZID=America/Chicago:20261225T130000
-LOCATION:Away in New York
+LOCATION:Madison Square Garden\, New York
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:Christmas Day rematch of last season's NBA Finals.\nTV: ABC\nht
- tps://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:TV: ABC\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-spu
+ rs/schedule/
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-26-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20261226T090000
 DTEND;TZID=America/Chicago:20261226T130000
@@ -2234,7 +2053,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-27-spurs-vs-hawks@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs vs. Hawks
 DTSTART;TZID=America/Chicago:20261227T180000
 DTEND;TZID=America/Chicago:20261227T200000
@@ -2246,11 +2065,11 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-29-spurs-at-grizzlies@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs at Grizzlies
 DTSTART;TZID=America/Chicago:20261229T190000
 DTEND;TZID=America/Chicago:20261229T210000
-LOCATION:Away in Memphis
+LOCATION:FedExForum\, Memphis
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
 DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
  le/
@@ -2258,19 +2077,19 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-spurs-at-hornets@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs at Hornets
 DTSTART;TZID=America/Chicago:20261231T120000
 DTEND;TZID=America/Chicago:20261231T140000
-LOCATION:Away in Charlotte
+LOCATION:Spectrum Center\, Charlotte
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:New Year's Eve matinee.\nTV: NBA TV\nhttps://www.cbssports.com/
- nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:TV: NBA TV\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-
+ spurs/schedule/
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-new-years-eve-with-pat-green@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:New Year's Eve with Pat Green
 DTSTART;TZID=America/Chicago:20261231T180000
 DTEND;TZID=America/Chicago:20261231T200000
@@ -2284,7 +2103,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:gruene-2027-01-01-hair-of-the-dog-day@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Hair of the Dog Day
 DTSTART;TZID=America/Chicago:20270101T110000
 DTEND;TZID=America/Chicago:20270101T130000
@@ -2297,19 +2116,19 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-01-spurs-at-wizards@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs at Wizards
 DTSTART;TZID=America/Chicago:20270101T160000
 DTEND;TZID=America/Chicago:20270101T180000
-LOCATION:Away in Washington
+LOCATION:Capital One Arena\, Washington
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
+DESCRIPTION:TV: NBA TV\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-
+ spurs/schedule/
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-02-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20270102T090000
 DTEND;TZID=America/Chicago:20270102T130000
@@ -2322,7 +2141,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-02-david-lewis@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:David Lewis
 DTSTART;TZID=America/Chicago:20270102T210000
 DTEND;TZID=America/Chicago:20270102T230000
@@ -2333,19 +2152,19 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-03-spurs-at-timberwolves@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs at Timberwolves
 DTSTART;TZID=America/Chicago:20270103T180000
 DTEND;TZID=America/Chicago:20270103T200000
-LOCATION:Away in Minneapolis
+LOCATION:Target Center\, Minneapolis
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
+DESCRIPTION:TV: NBA TV\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-
+ spurs/schedule/
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-txst-bb-at-colorado-state@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats at Colorado State
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
@@ -2356,7 +2175,7 @@ CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-spurs-vs-pacers@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs vs. Pacers
 DTSTART;TZID=America/Chicago:20270106T190000
 DTEND;TZID=America/Chicago:20270106T210000
@@ -2368,7 +2187,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-new-braunfels-antiques-extravaganza@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:New Braunfels Antiques Extravaganza
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270111
@@ -2383,7 +2202,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-huser-brothers@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Huser Brothers
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
@@ -2394,7 +2213,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-spurs-vs-grizzlies@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs vs. Grizzlies
 DTSTART;TZID=America/Chicago:20270108T190000
 DTEND;TZID=America/Chicago:20270108T210000
@@ -2406,7 +2225,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-09-sammy-arriaga@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Sammy Arriaga
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
@@ -2417,7 +2236,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-09-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20270109T090000
 DTEND;TZID=America/Chicago:20270109T130000
@@ -2430,7 +2249,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-10-time-travel-half-marathon@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Time Travel Half Marathon
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
@@ -2445,7 +2264,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-10-txst-bb-vs-utah-state@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats vs. Utah State
 DTSTART;TZID=America/Chicago:20270110T120000
 DTEND;TZID=America/Chicago:20270110T140000
@@ -2456,11 +2275,11 @@ CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-10-spurs-at-hawks@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs at Hawks
 DTSTART;TZID=America/Chicago:20270110T140000
 DTEND;TZID=America/Chicago:20270110T160000
-LOCATION:Away in Atlanta
+LOCATION:State Farm Arena\, Atlanta
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
 DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
  le/
@@ -2468,20 +2287,19 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-spurs-vs-pelicans-nba-paris-game@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs vs. Pelicans (NBA Paris Game)
 DTSTART;TZID=America/Chicago:20270114T130000
 DTEND;TZID=America/Chicago:20270114T150000
-LOCATION:Away in Paris\, France
+LOCATION:Accor Arena\, Paris
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:Spurs home game played at the NBA Paris Game. Early afternoon t
- ip in Texas.\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-spurs/sch
- edule/
+DESCRIPTION:TV: Prime Video\nhttps://www.cbssports.com/nba/teams/SA/san-ant
+ onio-spurs/schedule/
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-txst-bb-vs-oregon-state@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats vs. Oregon State
 DTSTART;TZID=America/Chicago:20270114T180000
 DTEND;TZID=America/Chicago:20270114T200000
@@ -2492,7 +2310,7 @@ CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-kruse-brothers@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Kruse Brothers
 DTSTART;TZID=America/Chicago:20270115T200000
 DTEND;TZID=America/Chicago:20270115T220000
@@ -2503,7 +2321,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-16-retromania-comic-con@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Retromania Comic-Con
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270118
@@ -2517,7 +2335,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-16-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20270116T090000
 DTEND;TZID=America/Chicago:20270116T130000
@@ -2530,7 +2348,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-16-gary-p-nunn@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Gary P. Nunn
 DTSTART;TZID=America/Chicago:20270116T193000
 DTEND;TZID=America/Chicago:20270116T213000
@@ -2542,7 +2360,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-16-cole-phillips@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Cole Phillips
 DTSTART;TZID=America/Chicago:20270116T210000
 DTEND;TZID=America/Chicago:20270116T230000
@@ -2553,31 +2371,31 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-17-spurs-at-pelicans-nba-manchester-game@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs at Pelicans (NBA Manchester Game)
 DTSTART;TZID=America/Chicago:20270117T093000
 DTEND;TZID=America/Chicago:20270117T113000
-LOCATION:Away in Manchester\, England
+LOCATION:Co-op Live\, Manchester
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:Sunday morning tip in Texas for the NBA Manchester Game.\nhttps
- ://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:TV: Prime Video\nhttps://www.cbssports.com/nba/teams/SA/san-ant
+ onio-spurs/schedule/
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-spurs-vs-heat@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs vs. Heat
 DTSTART;TZID=America/Chicago:20270120T203000
 DTEND;TZID=America/Chicago:20270120T223000
 LOCATION:Frost Bank Center\, San Antonio
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
+DESCRIPTION:TV: ESPN\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-sp
+ urs/schedule/
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-txst-bb-at-san-diego-state@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats at San Diego State
 DTSTART;TZID=America/Chicago:20270120T210000
 DTEND;TZID=America/Chicago:20270120T230000
@@ -2588,7 +2406,7 @@ CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-the-zmed-brothers-everly-brothers-experience@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:The Zmed Brothers: Everly Brothers Experience
 DTSTART;TZID=America/Chicago:20270121T193000
 DTEND;TZID=America/Chicago:20270121T213000
@@ -2600,19 +2418,19 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-spurs-vs-timberwolves@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs vs. Timberwolves
 DTSTART;TZID=America/Chicago:20270122T203000
 DTEND;TZID=America/Chicago:20270122T223000
 LOCATION:Frost Bank Center\, San Antonio
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
+DESCRIPTION:TV: ESPN\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-sp
+ urs/schedule/
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20270123T090000
 DTEND;TZID=America/Chicago:20270123T130000
@@ -2625,7 +2443,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-buckets-n-boards@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Buckets N Boards
 DTSTART;TZID=America/Chicago:20270123T150000
 DTEND;TZID=America/Chicago:20270123T170000
@@ -2637,7 +2455,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-txst-bb-at-fresno-state@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats at Fresno State
 DTSTART;TZID=America/Chicago:20270123T153000
 DTEND;TZID=America/Chicago:20270123T173000
@@ -2648,7 +2466,7 @@ CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-pecos-the-rooftops@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Pecos & the Rooftops
 DTSTART;TZID=America/Chicago:20270123T210000
 DTEND;TZID=America/Chicago:20270123T230000
@@ -2659,7 +2477,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24-das-dreizehn-eins-half-marathon@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Das Dreizehn.Eins Half Marathon
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
@@ -2673,7 +2491,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24-spurs-vs-trail-blazers@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs vs. Trail Blazers
 DTSTART;TZID=America/Chicago:20270124T143000
 DTEND;TZID=America/Chicago:20270124T163000
@@ -2685,19 +2503,30 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-spurs-vs-rockets@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs vs. Rockets
 DTSTART;TZID=America/Chicago:20270126T190000
 DTEND;TZID=America/Chicago:20270126T210000
 LOCATION:Frost Bank Center\, San Antonio
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
+DESCRIPTION:TV: NBC\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-spu
+ rs/schedule/
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-27-txst-bb-vs-colorado-state@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Bobcats vs. Colorado State
+DTSTART;TZID=America/Chicago:20270127T190000
+DTEND;TZID=America/Chicago:20270127T210000
+LOCATION:Strahan Arena\, San Marcos
+URL:https://txst.com/sports/mens-basketball/schedule
+DESCRIPTION:https://txst.com/sports/mens-basketball/schedule
+CATEGORIES:Texas State basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-27-spurs-vs-hornets@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs vs. Hornets
 DTSTART;TZID=America/Chicago:20270127T190000
 DTEND;TZID=America/Chicago:20270127T210000
@@ -2708,19 +2537,8 @@ DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-27-txst-bb-vs-colorado-state@nb-events
-DTSTAMP:20261119T021520Z
-SUMMARY:Bobcats vs. Colorado State
-DTSTART;TZID=America/Chicago:20270127T190000
-DTEND;TZID=America/Chicago:20270127T210000
-LOCATION:Strahan Arena\, San Marcos
-URL:https://txst.com/sports/mens-basketball/schedule
-DESCRIPTION:https://txst.com/sports/mens-basketball/schedule
-CATEGORIES:Texas State basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2027-01-28-bill-murray-his-blood-brothers@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bill Murray & His Blood Brothers
 DTSTART;TZID=America/Chicago:20270128T190000
 DTEND;TZID=America/Chicago:20270128T210000
@@ -2731,7 +2549,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-liverpool-legends-the-complete-beatles-experience@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Liverpool Legends: The Complete Beatles Experience
 DTSTART;TZID=America/Chicago:20270128T193000
 DTEND;TZID=America/Chicago:20270128T213000
@@ -2743,7 +2561,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-the-bellamy-brothers@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:The Bellamy Brothers
 DTSTART;TZID=America/Chicago:20270129T193000
 DTEND;TZID=America/Chicago:20270129T213000
@@ -2755,7 +2573,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20270130T090000
 DTEND;TZID=America/Chicago:20270130T130000
@@ -2768,7 +2586,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-txst-bb-vs-boise-state@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats vs. Boise State
 DTSTART;TZID=America/Chicago:20270130T133000
 DTEND;TZID=America/Chicago:20270130T153000
@@ -2779,20 +2597,20 @@ CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-spurs-at-warriors@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs at Warriors
 DTSTART;TZID=America/Chicago:20270130T163000
 DTEND;TZID=America/Chicago:20270130T183000
-LOCATION:Away in San Francisco
+LOCATION:Chase Center\, San Francisco
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
+DESCRIPTION:TV: ABC\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-spu
+ rs/schedule/
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-a-tribute-to-the-piano-men-jerry-lee-elton-joel-and-more@nb-
  events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:A Tribute to the Piano-Men: Jerry Lee\, Elton\, Joel and More!
 DTSTART;TZID=America/Chicago:20270130T193000
 DTEND;TZID=America/Chicago:20270130T213000
@@ -2808,11 +2626,11 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-spurs-at-warriors@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs at Warriors
 DTSTART;TZID=America/Chicago:20270201T210000
 DTEND;TZID=America/Chicago:20270201T230000
-LOCATION:Away in San Francisco
+LOCATION:Chase Center\, San Francisco
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
 DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
  le/
@@ -2820,11 +2638,11 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-spurs-at-clippers@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs at Clippers
 DTSTART;TZID=America/Chicago:20270202T213000
 DTEND;TZID=America/Chicago:20270202T233000
-LOCATION:Away in Los Angeles
+LOCATION:Intuit Dome\, Inglewood
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
 DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
  le/
@@ -2832,7 +2650,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-spurs-vs-magic@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs vs. Magic
 DTSTART;TZID=America/Chicago:20270204T190000
 DTEND;TZID=America/Chicago:20270204T210000
@@ -2845,7 +2663,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-a-tribute-to-the-music-memories-of-tony-bennett-starring-ste
  @nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:A Tribute to the Music & Memories of Tony Bennett starring Steve Le
  eds
 DTSTART;TZID=America/Chicago:20270204T193000
@@ -2862,7 +2680,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-txst-bb-at-gonzaga@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats at Gonzaga
 DTSTART;TZID=America/Chicago:20270204T210000
 DTEND;TZID=America/Chicago:20270204T230000
@@ -2873,7 +2691,7 @@ CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-sons-of-the-pioneers@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Sons of the Pioneers
 DTSTART;TZID=America/Chicago:20270205T193000
 DTEND;TZID=America/Chicago:20270205T213000
@@ -2885,7 +2703,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-06-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20270206T090000
 DTEND;TZID=America/Chicago:20270206T130000
@@ -2897,20 +2715,8 @@ DESCRIPTION:Local produce\, meats\, eggs\, baked goods and crafts from area
 CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-06-spurs-vs-lakers@nb-events
-DTSTAMP:20261119T021520Z
-SUMMARY:Spurs vs. Lakers
-DTSTART;TZID=America/Chicago:20270206T193000
-DTEND;TZID=America/Chicago:20270206T213000
-LOCATION:Frost Bank Center\, San Antonio
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2027-02-06-uptown-a-celebration-of-motown-soul@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Uptown: A Celebration of Motown & Soul
 DTSTART;TZID=America/Chicago:20270206T193000
 DTEND;TZID=America/Chicago:20270206T213000
@@ -2924,8 +2730,20 @@ DESCRIPTION:Sponsored by Leslie Lammers & Tom Tumlinson Fusing top-tier voc
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-02-06-spurs-vs-lakers@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Spurs vs. Lakers
+DTSTART;TZID=America/Chicago:20270206T193000
+DTEND;TZID=America/Chicago:20270206T213000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:TV: ABC\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-spu
+ rs/schedule/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-02-06-txst-bb-at-washington-state@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats at Washington State
 DTSTART;TZID=America/Chicago:20270206T200000
 DTEND;TZID=America/Chicago:20270206T220000
@@ -2936,19 +2754,19 @@ CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-spurs-at-mavericks@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs at Mavericks
 DTSTART;TZID=America/Chicago:20270209T190000
 DTEND;TZID=America/Chicago:20270209T210000
-LOCATION:Away in Dallas
+LOCATION:American Airlines Center\, Dallas
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
+DESCRIPTION:TV: NBC\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-spu
+ rs/schedule/
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-txst-bb-vs-san-diego-state@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats vs. San Diego State
 DTSTART;TZID=America/Chicago:20270211T190000
 DTEND;TZID=America/Chicago:20270211T210000
@@ -2959,19 +2777,19 @@ CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-spurs-at-thunder@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs at Thunder
 DTSTART;TZID=America/Chicago:20270211T203000
 DTEND;TZID=America/Chicago:20270211T223000
-LOCATION:Away in Oklahoma City
+LOCATION:Paycom Center\, Oklahoma City
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
+DESCRIPTION:TV: Prime Video\nhttps://www.cbssports.com/nba/teams/SA/san-ant
+ onio-spurs/schedule/
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-the-fabulous-equinox-orchestra@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:The Fabulous Equinox Orchestra
 DTSTART;TZID=America/Chicago:20270212T193000
 DTEND;TZID=America/Chicago:20270212T213000
@@ -2985,7 +2803,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20270213T090000
 DTEND;TZID=America/Chicago:20270213T130000
@@ -2998,11 +2816,11 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-spurs-at-magic@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs at Magic
 DTSTART;TZID=America/Chicago:20270213T180000
 DTEND;TZID=America/Chicago:20270213T200000
-LOCATION:Away in Orlando
+LOCATION:Kia Center\, Orlando
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
 DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
  le/
@@ -3010,7 +2828,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-gino-vannelli@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Gino Vannelli
 DTSTART;TZID=America/Chicago:20270213T193000
 DTEND;TZID=America/Chicago:20270213T213000
@@ -3024,7 +2842,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-14-txst-bb-at-oregon-state@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats at Oregon State
 DTSTART;TZID=America/Chicago:20270214T143000
 DTEND;TZID=America/Chicago:20270214T163000
@@ -3035,23 +2853,23 @@ CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-15-spurs-at-heat@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs at Heat
 DTSTART;TZID=America/Chicago:20270215T160000
 DTEND;TZID=America/Chicago:20270215T180000
-LOCATION:Away in Miami
+LOCATION:Kaseya Center\, Miami
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
+DESCRIPTION:TV: NBC\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-spu
+ rs/schedule/
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-spurs-at-grizzlies@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs at Grizzlies
 DTSTART;TZID=America/Chicago:20270217T190000
 DTEND;TZID=America/Chicago:20270217T210000
-LOCATION:Away in Memphis
+LOCATION:FedExForum\, Memphis
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
 DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
  le/
@@ -3059,19 +2877,19 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-spurs-at-timberwolves@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs at Timberwolves
 DTSTART;TZID=America/Chicago:20270218T183000
 DTEND;TZID=America/Chicago:20270218T203000
-LOCATION:Away in Minneapolis
+LOCATION:Target Center\, Minneapolis
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
+DESCRIPTION:TV: Prime Video\nhttps://www.cbssports.com/nba/teams/SA/san-ant
+ onio-spurs/schedule/
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-txst-bb-vs-fresno-state@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats vs. Fresno State
 DTSTART;TZID=America/Chicago:20270218T190000
 DTEND;TZID=America/Chicago:20270218T210000
@@ -3082,7 +2900,7 @@ CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-3-decades-rewind@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:3 Decades Rewind
 DTSTART;TZID=America/Chicago:20270218T193000
 DTEND;TZID=America/Chicago:20270218T213000
@@ -3096,7 +2914,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-the-ultimate-waylon-tribute@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:The Ultimate Waylon Tribute
 DTSTART;TZID=America/Chicago:20270219T193000
 DTEND;TZID=America/Chicago:20270219T213000
@@ -3110,7 +2928,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20270220T090000
 DTEND;TZID=America/Chicago:20270220T130000
@@ -3123,7 +2941,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-gruene-market-days@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Gruene Market Days
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270222
@@ -3137,7 +2955,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-txst-bb-at-boise-state@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats at Boise State
 DTSTART;TZID=America/Chicago:20270220T173000
 DTEND;TZID=America/Chicago:20270220T193000
@@ -3148,7 +2966,7 @@ CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-paul-thorn@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Paul Thorn
 DTSTART;TZID=America/Chicago:20270220T193000
 DTEND;TZID=America/Chicago:20270220T213000
@@ -3162,7 +2980,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-25-txst-bb-vs-gonzaga@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats vs. Gonzaga
 DTSTART;TZID=America/Chicago:20270225T190000
 DTEND;TZID=America/Chicago:20270225T210000
@@ -3173,20 +2991,19 @@ CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-26-spurs-vs-grizzlies-austin@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs vs. Grizzlies (Austin)
 DTSTART;TZID=America/Chicago:20270226T190000
 DTEND;TZID=America/Chicago:20270226T210000
 LOCATION:Moody Center\, Austin
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:One of the Spurs' annual Austin home games\, about 45 minutes u
- p I-35.\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule
- /
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-27-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20270227T090000
 DTEND;TZID=America/Chicago:20270227T130000
@@ -3199,7 +3016,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-27-txst-bb-vs-washington-state@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats vs. Washington State
 DTSTART;TZID=America/Chicago:20270227T131500
 DTEND;TZID=America/Chicago:20270227T151500
@@ -3210,19 +3027,19 @@ CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-spurs-vs-nuggets-austin@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Spurs vs. Nuggets (Austin)
 DTSTART;TZID=America/Chicago:20270228T120000
 DTEND;TZID=America/Chicago:20270228T140000
 LOCATION:Moody Center\, Austin
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:Sunday matinee at the Moody Center\, the second of the Austin g
- ames.\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:TV: ABC\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-spu
+ rs/schedule/
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-03-txst-bb-at-utah-state@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Bobcats at Utah State
 DTSTART;TZID=America/Chicago:20270303T190000
 DTEND;TZID=America/Chicago:20270303T210000
@@ -3232,8 +3049,140 @@ DESCRIPTION:https://txst.com/sports/mens-basketball/schedule
 CATEGORIES:Texas State basketball
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-03-03-spurs-at-nuggets@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Spurs at Nuggets
+DTSTART;TZID=America/Chicago:20270303T210000
+DTEND;TZID=America/Chicago:20270303T230000
+LOCATION:Ball Arena\, Denver
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:TV: ESPN\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-sp
+ urs/schedule/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-05-spurs-at-rockets@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Spurs at Rockets
+DTSTART;TZID=America/Chicago:20270305T203000
+DTEND;TZID=America/Chicago:20270305T223000
+LOCATION:Toyota Center\, Houston
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:TV: ESPN\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-sp
+ urs/schedule/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-07-spurs-vs-knicks@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Spurs vs. Knicks
+DTSTART;TZID=America/Chicago:20270307T183000
+DTEND;TZID=America/Chicago:20270307T203000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:TV: NBC\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-spu
+ rs/schedule/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-09-spurs-vs-wizards@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Spurs vs. Wizards
+DTSTART;TZID=America/Chicago:20270309T190000
+DTEND;TZID=America/Chicago:20270309T210000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-11-spurs-vs-76ers@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Spurs vs. 76ers
+DTSTART;TZID=America/Chicago:20270311T183000
+DTEND;TZID=America/Chicago:20270311T203000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:TV: Prime Video\nhttps://www.cbssports.com/nba/teams/SA/san-ant
+ onio-spurs/schedule/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-14-spurs-at-thunder@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Spurs at Thunder
+DTSTART;TZID=America/Chicago:20270314T133000
+DTEND;TZID=America/Chicago:20270314T153000
+LOCATION:Paycom Center\, Oklahoma City
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:TV: ABC\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-spu
+ rs/schedule/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-16-spurs-at-rockets@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Spurs at Rockets
+DTSTART;TZID=America/Chicago:20270316T193000
+DTEND;TZID=America/Chicago:20270316T213000
+LOCATION:Toyota Center\, Houston
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-18-spurs-vs-nets@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Spurs vs. Nets
+DTSTART;TZID=America/Chicago:20270318T190000
+DTEND;TZID=America/Chicago:20270318T210000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-19-spurs-vs-mavericks@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Spurs vs. Mavericks
+DTSTART;TZID=America/Chicago:20270319T190000
+DTEND;TZID=America/Chicago:20270319T210000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:TV: NBA TV\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-
+ spurs/schedule/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-21-spurs-at-76ers@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Spurs at 76ers
+DTSTART;TZID=America/Chicago:20270321T183000
+DTEND;TZID=America/Chicago:20270321T203000
+LOCATION:Xfinity Mobile Arena\, Philadelphia
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:TV: NBC\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-spu
+ rs/schedule/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-24-spurs-at-celtics@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Spurs at Celtics
+DTSTART;TZID=America/Chicago:20270324T183000
+DTEND;TZID=America/Chicago:20270324T203000
+LOCATION:TD Garden\, Boston
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:TV: ESPN\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-sp
+ urs/schedule/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-03-25-astros-vs-rangers@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros vs. Rangers
 DTSTART;TZID=America/Chicago:20270325T151000
 DTEND;TZID=America/Chicago:20270325T171000
@@ -3243,8 +3192,20 @@ DESCRIPTION:https://www.mlb.com/astros/schedule
 CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-03-25-spurs-at-pacers@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Spurs at Pacers
+DTSTART;TZID=America/Chicago:20270325T180000
+DTEND;TZID=America/Chicago:20270325T200000
+LOCATION:Gainbridge Fieldhouse\, Indianapolis
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-03-26-astros-vs-rangers@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros vs. Rangers
 DTSTART;TZID=America/Chicago:20270326T181000
 DTEND;TZID=America/Chicago:20270326T201000
@@ -3254,8 +3215,20 @@ DESCRIPTION:https://www.mlb.com/astros/schedule
 CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-03-27-spurs-at-pistons@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Spurs at Pistons
+DTSTART;TZID=America/Chicago:20270327T140000
+DTEND;TZID=America/Chicago:20270327T160000
+LOCATION:Little Caesars Arena\, Detroit
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:TV: Prime Video\nhttps://www.cbssports.com/nba/teams/SA/san-ant
+ onio-spurs/schedule/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-03-27-astros-vs-rangers@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros vs. Rangers
 DTSTART;TZID=America/Chicago:20270327T191000
 DTEND;TZID=America/Chicago:20270327T211000
@@ -3266,7 +3239,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-29-astros-vs-red-sox@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros vs. Red Sox
 DTSTART;TZID=America/Chicago:20270329T191000
 DTEND;TZID=America/Chicago:20270329T211000
@@ -3276,8 +3249,20 @@ DESCRIPTION:https://www.mlb.com/astros/schedule
 CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-03-29-spurs-vs-suns@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Spurs vs. Suns
+DTSTART;TZID=America/Chicago:20270329T203000
+DTEND;TZID=America/Chicago:20270329T223000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-03-30-astros-vs-red-sox@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros vs. Red Sox
 DTSTART;TZID=America/Chicago:20270330T191000
 DTEND;TZID=America/Chicago:20270330T211000
@@ -3288,7 +3273,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-31-astros-vs-red-sox@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros vs. Red Sox
 DTSTART;TZID=America/Chicago:20270331T131000
 DTEND;TZID=America/Chicago:20270331T151000
@@ -3298,8 +3283,20 @@ DESCRIPTION:https://www.mlb.com/astros/schedule
 CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-03-31-spurs-vs-suns@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Spurs vs. Suns
+DTSTART;TZID=America/Chicago:20270331T190000
+DTEND;TZID=America/Chicago:20270331T210000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-04-02-astros-at-braves@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros at Braves
 DTSTART;TZID=America/Chicago:20270402T181500
 DTEND;TZID=America/Chicago:20270402T201500
@@ -3309,8 +3306,20 @@ DESCRIPTION:https://www.mlb.com/astros/schedule
 CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-04-02-spurs-at-clippers@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Spurs at Clippers
+DTSTART;TZID=America/Chicago:20270402T213000
+DTEND;TZID=America/Chicago:20270402T233000
+LOCATION:Intuit Dome\, Inglewood
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-04-03-astros-at-braves@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros at Braves
 DTSTART;TZID=America/Chicago:20270403T181500
 DTEND;TZID=America/Chicago:20270403T201500
@@ -3321,7 +3330,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-04-astros-at-braves@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros at Braves
 DTSTART;TZID=America/Chicago:20270404T123500
 DTEND;TZID=America/Chicago:20270404T143500
@@ -3331,8 +3340,20 @@ DESCRIPTION:https://www.mlb.com/astros/schedule
 CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-04-04-spurs-at-lakers@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Spurs at Lakers
+DTSTART;TZID=America/Chicago:20270404T210000
+DTEND;TZID=America/Chicago:20270404T230000
+LOCATION:Crypto.com Arena\, Los Angeles
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:TV: NBC\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-spu
+ rs/schedule/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-04-05-astros-at-red-sox@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros at Red Sox
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270406
@@ -3343,7 +3364,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-06-astros-at-red-sox@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros at Red Sox
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
@@ -3353,8 +3374,20 @@ DESCRIPTION:https://www.mlb.com/astros/schedule
 CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-04-06-spurs-vs-kings@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Spurs vs. Kings
+DTSTART;TZID=America/Chicago:20270406T190000
+DTEND;TZID=America/Chicago:20270406T210000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-04-07-astros-at-red-sox@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros at Red Sox
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
@@ -3364,8 +3397,20 @@ DESCRIPTION:https://www.mlb.com/astros/schedule
 CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-04-07-spurs-vs-cavaliers@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Spurs vs. Cavaliers
+DTSTART;TZID=America/Chicago:20270407T183000
+DTEND;TZID=America/Chicago:20270407T203000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:TV: ESPN\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-sp
+ urs/schedule/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-04-09-astros-vs-guardians@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros vs. Guardians
 DTSTART;TZID=America/Chicago:20270409T191000
 DTEND;TZID=America/Chicago:20270409T211000
@@ -3375,8 +3420,20 @@ DESCRIPTION:https://www.mlb.com/astros/schedule
 CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-04-09-spurs-vs-nuggets@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Spurs vs. Nuggets
+DTSTART;TZID=America/Chicago:20270409T203000
+DTEND;TZID=America/Chicago:20270409T223000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:TV: Prime Video\nhttps://www.cbssports.com/nba/teams/SA/san-ant
+ onio-spurs/schedule/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-04-10-astros-vs-guardians@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros vs. Guardians
 DTSTART;TZID=America/Chicago:20270410T181000
 DTEND;TZID=America/Chicago:20270410T201000
@@ -3387,7 +3444,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-11-astros-vs-guardians@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros vs. Guardians
 DTSTART;TZID=America/Chicago:20270411T131000
 DTEND;TZID=America/Chicago:20270411T151000
@@ -3397,8 +3454,20 @@ DESCRIPTION:https://www.mlb.com/astros/schedule
 CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-04-11-spurs-vs-trail-blazers@nb-events
+DTSTAMP:20261119T021641Z
+SUMMARY:Spurs vs. Trail Blazers
+DTSTART;TZID=America/Chicago:20270411T193000
+DTEND;TZID=America/Chicago:20270411T213000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-04-13-astros-vs-blue-jays@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros vs. Blue Jays
 DTSTART;TZID=America/Chicago:20270413T191000
 DTEND;TZID=America/Chicago:20270413T211000
@@ -3409,7 +3478,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-14-astros-vs-blue-jays@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros vs. Blue Jays
 DTSTART;TZID=America/Chicago:20270414T191000
 DTEND;TZID=America/Chicago:20270414T211000
@@ -3420,7 +3489,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-15-astros-vs-blue-jays@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros vs. Blue Jays
 DTSTART;TZID=America/Chicago:20270415T131000
 DTEND;TZID=America/Chicago:20270415T151000
@@ -3431,7 +3500,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-16-astros-at-mariners@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros at Mariners
 DTSTART;TZID=America/Chicago:20270416T204000
 DTEND;TZID=America/Chicago:20270416T224000
@@ -3442,7 +3511,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-17-astros-at-mariners@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros at Mariners
 DTSTART;TZID=America/Chicago:20270417T181500
 DTEND;TZID=America/Chicago:20270417T201500
@@ -3453,7 +3522,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-18-astros-at-mariners@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros at Mariners
 DTSTART;TZID=America/Chicago:20270418T151000
 DTEND;TZID=America/Chicago:20270418T171000
@@ -3464,7 +3533,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-19-astros-at-angels@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros at Angels
 DTSTART;TZID=America/Chicago:20270419T203800
 DTEND;TZID=America/Chicago:20270419T223800
@@ -3475,7 +3544,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-20-astros-at-angels@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros at Angels
 DTSTART;TZID=America/Chicago:20270420T203800
 DTEND;TZID=America/Chicago:20270420T223800
@@ -3486,7 +3555,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-21-astros-at-angels@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros at Angels
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
@@ -3497,7 +3566,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-23-astros-vs-yankees@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros vs. Yankees
 DTSTART;TZID=America/Chicago:20270423T191000
 DTEND;TZID=America/Chicago:20270423T211000
@@ -3508,7 +3577,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-24-astros-vs-yankees@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros vs. Yankees
 DTSTART;TZID=America/Chicago:20270424T181000
 DTEND;TZID=America/Chicago:20270424T201000
@@ -3519,7 +3588,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-25-astros-vs-yankees@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros vs. Yankees
 DTSTART;TZID=America/Chicago:20270425T131000
 DTEND;TZID=America/Chicago:20270425T151000
@@ -3530,7 +3599,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-26-astros-vs-angels@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros vs. Angels
 DTSTART;TZID=America/Chicago:20270426T191000
 DTEND;TZID=America/Chicago:20270426T211000
@@ -3541,7 +3610,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-27-astros-vs-angels@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros vs. Angels
 DTSTART;TZID=America/Chicago:20270427T191000
 DTEND;TZID=America/Chicago:20270427T211000
@@ -3552,7 +3621,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-28-astros-vs-angels@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros vs. Angels
 DTSTART;TZID=America/Chicago:20270428T191000
 DTEND;TZID=America/Chicago:20270428T211000
@@ -3563,7 +3632,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-30-astros-at-marlins@nb-events
-DTSTAMP:20261119T021520Z
+DTSTAMP:20261119T021641Z
 SUMMARY:Astros at Marlins
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
