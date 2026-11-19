@@ -43,13 +43,18 @@ SOURCES = [
          url="https://goutsa.com/sports/mens-basketball/schedule", team="UTSA",
          home="Convocation Center, San Antonio", symbol="basketball.fill", light="#0C2340", dark="#F15A22"),
     dict(kind="page", category="texans", name="Texans football", nick="Texans", cities=BOTH, hidden=True,
-         url="https://www.houstontexans.com/schedule/", team="Houston Texans", short_opponent=True,
+         url="https://www.houstontexans.com/schedule/", team="Houston Texans", short_opponent=True, tv_table=True,
          home="NRG Stadium, Houston", home_marks=["Reliant", "NRG", "Houston"], symbol="football.fill", light="#03202F", dark="#C8414B"),
     dict(kind="mlb", category="astros", name="Astros baseball", nick="Astros", cities=BOTH, team_id=117,
          symbol="baseball.fill", light="#EB6E1F", dark="#F4A261"),
     dict(kind="mlb", category="rangers", name="Rangers baseball", nick="Rangers", cities=BOTH, team_id=140,
          hidden=True, symbol="baseball.fill", light="#003278", dark="#7FA8E8"),
 ]
+# Where a team's games air when no national network has them (2026-27 season).
+# Spurs: DAZN is the streaming home for non-national games (22 of them also air on CW SA).
+# Rockets: Space City Home Network. Mavericks use several local stations, so none is listed.
+LOCAL_TV = {"spurs": "DAZN", "rockets": "Space City Home Network"}
+
 # Colors and symbols for teams entered from research files.
 EXTRA = {
     "spurs": ("Spurs basketball", "basketball.fill", "#55616B", "#B8C2CC", False),
@@ -125,10 +130,27 @@ def ics_games(src, today):
     return out
 
 
+MONTHS = {m: i + 1 for i, m in enumerate(["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"])}
+
+
+def tv_table(page):
+    """{date: (network, venue)} from a schedule table with Week / date / time / matchup / venue / TV columns."""
+    out = {}
+    for row in re.findall(r'<tr><th scope="row">Week \d+</th>(.*?)</tr>', page, re.S):
+        cells = [re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", c)).strip() for c in re.findall(r"<td>(.*?)</td>", row, re.S)]
+        m = re.search(r"([A-Za-z]{3})[a-z]*\.? (\d{1,2}), (\d{4})", cells[0]) if len(cells) >= 5 else None
+        if m and m.group(1).lower() in MONTHS:
+            day = f"{m.group(3)}-{MONTHS[m.group(1).lower()]:02d}-{int(m.group(2)):02d}"
+            out[day] = (cells[4], cells[3])
+    return out
+
+
 def page_games(src, today):
     """Games from schema.org SportsEvent data in a team's schedule page."""
     out = []
-    for block in re.findall(r'<script type="application/ld\+json"[^>]*>(.*?)</script>', fetch(src["url"]), re.S):
+    page = fetch(src["url"])
+    table = tv_table(page) if src.get("tv_table") else {}
+    for block in re.findall(r'<script type="application/ld\+json"[^>]*>(.*?)</script>', page, re.S):
         try:
             data = json.loads(block)
         except ValueError:
@@ -146,7 +168,12 @@ def page_games(src, today):
             if src.get("short_opponent"):
                 opponent = opponent.split(" ")[-1]          # "Indianapolis Colts" -> "Colts"
             place = ((g.get("location") or {}).get("name") or "").strip()
-            out.append(event(src, day, clock, home, opponent, src["home"] if home else (place or opponent), place))
+            e = event(src, day, clock, home, opponent, src["home"] if home else (place or opponent), place)
+            if day in table:
+                network, venue = table[day]
+                if network and network.upper() not in ("TBD", "TBA"): e["tv"] = network
+                if not home and venue: e["location"] = venue
+            out.append(e)
     return out
 
 
@@ -154,7 +181,7 @@ def mlb_games(src, today):
     """Regular-season games from MLB's public schedule API."""
     year = RANGE_END[:4]
     url = (f"https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId={src['team_id']}&season={year}"
-           f"&gameType=R&startDate={today}&endDate={RANGE_END}&hydrate=team,venue(location)")
+           f"&gameType=R&startDate={today}&endDate={RANGE_END}&hydrate=team,venue(location),broadcasts(all)")
     src["link"] = f"https://www.mlb.com/{src['nick'].lower()}/schedule"
     out = []
     for d in json.loads(fetch(url)).get("dates", []):
@@ -168,6 +195,12 @@ def mlb_games(src, today):
             tbd = (g.get("status") or {}).get("startTimeTBD")
             e = event(src, when.strftime("%Y-%m-%d"), None if tbd else when.strftime("%H:%M"), home,
                       other.get("teamName") or other["name"], place)
+            # TV channels, once the league assigns them: national first, then this team's own.
+            side = "home" if home else "away"
+            tv = [b for b in g.get("broadcasts", []) if b.get("type") == "TV" and b.get("language", "en") == "en"]
+            names = [b["name"] for b in tv if b.get("isNational")] + [b["name"] for b in tv if b.get("homeAway") == side and not b.get("isNational")]
+            if names:
+                e["tv"] = ", ".join(dict.fromkeys(names))[:40]
             if any(x["id"] == e["id"] for x in out):          # doubleheader
                 e["id"] += "-2"
             out.append(e)
@@ -211,6 +244,9 @@ def main(path, apply=False):
             if today <= e["startDate"] <= RANGE_END and e["category"] in EXTRA:
                 by_cat.setdefault(e["category"], []).append(e)
     for cid, found in by_cat.items():
+        # Games no national network picked up are on the team's own outlet.
+        for e in found:
+            if not e.get("tv") and cid in LOCAL_TV: e["tv"] = LOCAL_TV[cid]
         name, symbol, light, dark, hidden = EXTRA[cid]
         print(f"  {name}: {len(found)} game(s) from research file")
         ensure(cid, name, symbol, light, dark, hidden)
