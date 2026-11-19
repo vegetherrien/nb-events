@@ -7,7 +7,7 @@
 Every *.json in the research folder with a "features" list goes into local.json. Events come only
 from communities-events.json; school events are added by scrape_schools.py instead.
 """
-import glob, json, os, sys
+import glob, json, os, re, sys
 from datetime import date
 
 KEEP = ['short', 'mascot', 'url', 'calendar', 'athletics', 'address', 'member', 'day', 'status',
@@ -60,10 +60,12 @@ def main(research, local_out, events_path):
     have = {e['id'] for e in feed['events']}
     seen = {(e['title'].lower(), e['startDate']) for e in feed['events']}
     added = 0
+    # Weekly clubs, restaurant specials and amenity classes crowd out the real neighborhood events.
+    noise = re.compile(r"mahjong|spades|bunco|bridge club|canasta|trivia|name that tune|singer ?/ ?songwriter|dinner\b|feast\b|happy hour|yoga|workout|boot ?camp|run club|pickleball|closed\b|sold out|meeting|book ?club|bingo|karaoke", re.I)
     src = os.path.join(research, 'communities-events.json')
     for e in (json.load(open(src))['events'] if os.path.exists(src) else []):
         e['id'] = e['id'][:80]
-        if e['id'] in have or (e['title'].lower(), e['startDate']) in seen: continue
+        if e['id'] in have or (e['title'].lower(), e['startDate']) in seen or noise.search(e['title']): continue
         if e['category'] not in cats: sys.exit('unknown category ' + e['category'])
         if e.get('audience') == 'local': e['category'] = 'hood'     # resident-only: file under My neighborhood
         feed['events'].append(e); have.add(e['id']); added += 1
