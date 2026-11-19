@@ -12322,7 +12322,12 @@
     "sample": true,
     "lat": 29.7024,
     "lon": -98.1236,
-    "text": "Downtown for an event? Free pretzel with any beer, two blocks from Main Plaza."
+    "text": "Downtown for an event? Free pretzel with any beer, two blocks from Main Plaza.",
+    "when": [
+     "midday",
+     "evening",
+     "late"
+    ]
    },
    {
     "name": "Sample Gruene Grill",
@@ -12331,7 +12336,11 @@
     "sample": true,
     "lat": 29.7376,
     "lon": -98.1058,
-    "text": "Headed to Gruene? Kids eat free before 6 on show nights."
+    "text": "Headed to Gruene? Kids eat free before 6 on show nights.",
+    "when": [
+     "midday",
+     "evening"
+    ]
    }
   ]
  }
