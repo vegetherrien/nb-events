@@ -340,19 +340,6 @@
    "sourceURL": "https://theboernelife.com/events/wednesday-nature-walk-at-cibolo-nature-center/"
   },
   {
-   "title": "Boerne girls basketball at Saisd Tournament",
-   "startDate": "2026-11-19",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Saisd Tournament",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "tags": [
-    "school:boerne-hs"
-   ],
-   "audience": "local",
-   "id": "sch-boerne-hs-2026-11-19-boerne-girls-basketball-at-saisd-tournament"
-  },
-  {
    "title": "Boerne golf at Wolves Invitational",
    "startDate": "2026-11-19",
    "tag": "Away",
@@ -364,6 +351,19 @@
    ],
    "audience": "local",
    "id": "sch-boerne-hs-2026-11-19-boerne-golf-at-wolves-invitational"
+  },
+  {
+   "title": "Boerne girls basketball at Saisd Tournament",
+   "startDate": "2026-11-19",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Saisd Tournament",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-11-19-boerne-girls-basketball-at-saisd-tournament"
   },
   {
    "title": "Champion boys basketball at Marble Falls Tournament",
@@ -417,6 +417,16 @@
    ],
    "audience": "local",
    "id": "sch-boerne-ms-north-ms-2026-11-19-orchestra-philharmonic-honors-bhs"
+  },
+  {
+   "id": "2026-11-19-mindful-wellness-walk-in-boerne-at-bear-moon-bakery-cafe",
+   "category": "nature",
+   "title": "Mindful Wellness Walk in Boerne at Bear Moon Bakery Cafe",
+   "startDate": "2026-11-19",
+   "startTime": "11:00",
+   "location": "Bear Moon Bakery Cafe, 401 S Main St",
+   "description": "Explore Boerne’s hidden gems on a guided walking experience that combines mindful walking, breathing and grounding exercises, and local stories. A live Adventure Coach leads remotely. The walk is designed for solo tra…",
+   "sourceURL": "https://theboernelife.com/events/mindful-wellness-walk-in-boerne-at-bear-moon-bakery-cafe/"
   },
   {
    "title": "Champion swimming & diving at Tisca Diving",
@@ -569,19 +579,6 @@
    "id": "sch-champion-hs-2026-11-20-champion-boys-basketball-at-marble-falls-tournament"
   },
   {
-   "title": "Champion girls basketball at Southside Tournament",
-   "startDate": "2026-11-20",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Southside Tournament",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "tags": [
-    "school:champion-hs"
-   ],
-   "audience": "local",
-   "id": "sch-champion-hs-2026-11-20-champion-girls-basketball-at-southside-tournament"
-  },
-  {
    "title": "Champion golf at State Preview",
    "startDate": "2026-11-20",
    "tag": "Away",
@@ -593,6 +590,19 @@
    ],
    "audience": "local",
    "id": "sch-champion-hs-2026-11-20-champion-golf-at-state-preview"
+  },
+  {
+   "title": "Champion girls basketball at Southside Tournament",
+   "startDate": "2026-11-20",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Southside Tournament",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-11-20-champion-girls-basketball-at-southside-tournament"
   },
   {
    "title": "Student Holiday/Teacher Exchange",
@@ -733,19 +743,6 @@
    "id": "sch-boerne-hs-2026-11-21-boerne-girls-basketball-at-saisd-tournament"
   },
   {
-   "title": "Champion girls basketball at Southside Tournament",
-   "startDate": "2026-11-21",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Southside Tournament",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "tags": [
-    "school:champion-hs"
-   ],
-   "audience": "local",
-   "id": "sch-champion-hs-2026-11-21-champion-girls-basketball-at-southside-tournament"
-  },
-  {
    "title": "Champion boys basketball at Marble Falls Tournament",
    "startDate": "2026-11-21",
    "tag": "Away",
@@ -757,6 +754,19 @@
    ],
    "audience": "local",
    "id": "sch-champion-hs-2026-11-21-champion-boys-basketball-at-marble-falls-tournament"
+  },
+  {
+   "title": "Champion girls basketball at Southside Tournament",
+   "startDate": "2026-11-21",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Southside Tournament",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-11-21-champion-girls-basketball-at-southside-tournament"
   },
   {
    "title": "Champion golf at State Preview",
@@ -822,6 +832,17 @@
    ],
    "audience": "local",
    "id": "sch-champion-hs-2026-11-21-champion-swimming-diving-at-tisca-finals"
+  },
+  {
+   "id": "2026-11-21-rugby-watch-party-at-pioneers-meats",
+   "category": "fest",
+   "title": "Rugby Watch Party at Pioneers Meats",
+   "startDate": "2026-11-21",
+   "startTime": "10:30",
+   "endTime": "13:00",
+   "location": "Pioneers Meats & International Market, 312 River Rd",
+   "description": "Watch Ireland take on South Africa with fellow rugby fans. Bring lawn chairs, family and friends for a morning of rugby and food. Everyone is welcome; guests may bring their own beverages, and food will be available. …",
+   "sourceURL": "https://theboernelife.com/events/rugby-watch-party-at-pioneers-meats-2/"
   },
   {
    "id": "2026-11-21-david-selbo-at-singing-water-vineyards",
@@ -2108,19 +2129,6 @@
    "id": "sch-boerne-hs-2026-12-04-boerne-boys-basketball-at-lorena-tournament"
   },
   {
-   "title": "Boerne girls basketball at Georgetown Tournament",
-   "startDate": "2026-12-04",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Georgetown Tournament",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "tags": [
-    "school:boerne-hs"
-   ],
-   "audience": "local",
-   "id": "sch-boerne-hs-2026-12-04-boerne-girls-basketball-at-georgetown-tournament"
-  },
-  {
    "title": "Boerne swimming & diving at Neisd South Zone Tisca…",
    "startDate": "2026-12-04",
    "tag": "Away",
@@ -2132,6 +2140,19 @@
    ],
    "audience": "local",
    "id": "sch-boerne-hs-2026-12-04-boerne-swimming-diving-at-neisd-south-zone-tisca"
+  },
+  {
+   "title": "Boerne girls basketball at Georgetown Tournament",
+   "startDate": "2026-12-04",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Georgetown Tournament",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-04-boerne-girls-basketball-at-georgetown-tournament"
   },
   {
    "title": "Champion boys basketball at Border Olympics",
@@ -2791,6 +2812,16 @@
    "id": "sch-champion-hs-2026-12-08-champion-girls-basketball-at-seguin"
   },
   {
+   "id": "2026-12-08-utsa-bb-at-smu",
+   "category": "utsa-bb",
+   "title": "UTSA at SMU",
+   "startDate": "2026-12-08",
+   "location": "Dallas, Texas",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
+  },
+  {
    "title": "Charger Band Concert #2-Concert Bands",
    "startDate": "2026-12-08",
    "startTime": "19:00",
@@ -2814,16 +2845,6 @@
    "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
    "startTime": "19:00",
    "tv": "SEC Network+"
-  },
-  {
-   "id": "2026-12-08-utsa-bb-at-smu",
-   "category": "utsa-bb",
-   "title": "UTSA at SMU",
-   "startDate": "2026-12-08",
-   "location": "Dallas, Texas",
-   "tag": "Away",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "19:00"
   },
   {
    "title": "Champion boys basketball at Sam Houston",
@@ -3577,6 +3598,16 @@
    "id": "sch-boerne-ms-north-ms-2026-12-15-choir-concert"
   },
   {
+   "id": "2026-12-15-utsa-bb-vs-our-lady-of-the-lake",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Our Lady of the Lake",
+   "startDate": "2026-12-15",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "18:30"
+  },
+  {
    "title": "Boerne girls basketball vs. Harlandale",
    "startDate": "2026-12-15",
    "tag": "Home",
@@ -3605,16 +3636,6 @@
    "id": "sch-champion-hs-2026-12-15-champion-girls-basketball-vs-john-jay"
   },
   {
-   "id": "2026-12-15-utsa-bb-vs-our-lady-of-the-lake",
-   "category": "utsa-bb",
-   "title": "UTSA vs. Our Lady of the Lake",
-   "startDate": "2026-12-15",
-   "location": "Convocation Center, San Antonio",
-   "tag": "Home",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "18:30"
-  },
-  {
    "title": "Boerne girls soccer at Davenport",
    "startDate": "2026-12-15",
    "tag": "Away",
@@ -3629,18 +3650,18 @@
    "id": "sch-boerne-hs-2026-12-15-boerne-girls-soccer-at-davenport"
   },
   {
-   "title": "Champion girls soccer at Johnson",
+   "title": "Champion boys basketball at Clemens",
    "startDate": "2026-12-15",
    "tag": "Away",
-   "category": "hs-soccer",
-   "location": "JOHNSON HIGH SCHOOL",
+   "category": "hs-basketball",
+   "location": "CLEMENS HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "19:00",
    "tags": [
     "school:champion-hs"
    ],
    "audience": "local",
-   "id": "sch-champion-hs-2026-12-15-champion-girls-soccer-at-johnson"
+   "id": "sch-champion-hs-2026-12-15-champion-boys-basketball-at-clemens"
   },
   {
    "title": "Champion boys soccer at Roosevelt",
@@ -3657,18 +3678,18 @@
    "id": "sch-champion-hs-2026-12-15-champion-boys-soccer-at-roosevelt"
   },
   {
-   "title": "Champion boys basketball at Clemens",
+   "title": "Champion girls soccer at Johnson",
    "startDate": "2026-12-15",
    "tag": "Away",
-   "category": "hs-basketball",
-   "location": "CLEMENS HIGH SCHOOL",
+   "category": "hs-soccer",
+   "location": "JOHNSON HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "19:00",
    "tags": [
     "school:champion-hs"
    ],
    "audience": "local",
-   "id": "sch-champion-hs-2026-12-15-champion-boys-basketball-at-clemens"
+   "id": "sch-champion-hs-2026-12-15-champion-girls-soccer-at-johnson"
   },
   {
    "id": "2026-12-15-spurs-at-cavaliers",
@@ -4187,6 +4208,16 @@
    "tv": "DAZN"
   },
   {
+   "id": "2026-12-22-utsa-bb-vs-huston-tillotson",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Huston-Tillotson",
+   "startDate": "2026-12-22",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "12:00"
+  },
+  {
    "title": "Boerne girls basketball vs. South San",
    "startDate": "2026-12-22",
    "tag": "Home",
@@ -4199,16 +4230,6 @@
    ],
    "audience": "local",
    "id": "sch-boerne-hs-2026-12-22-boerne-girls-basketball-vs-south-san"
-  },
-  {
-   "id": "2026-12-22-utsa-bb-vs-huston-tillotson",
-   "category": "utsa-bb",
-   "title": "UTSA vs. Huston-Tillotson",
-   "startDate": "2026-12-22",
-   "location": "Convocation Center, San Antonio",
-   "tag": "Home",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "12:00"
   },
   {
    "title": "Boerne boys basketball at South San",
@@ -4517,6 +4538,16 @@
    "id": "sch-champion-hs-2026-12-29-champion-girls-basketball-vs-boerne-isd-holiday-tourn"
   },
   {
+   "id": "2026-12-29-utsa-bb-at-minnesota",
+   "category": "utsa-bb",
+   "title": "UTSA at Minnesota",
+   "startDate": "2026-12-29",
+   "location": "Minneapolis, Minn.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
+  },
+  {
    "id": "2026-12-29-horns-bb-vs-east-texas-a-m",
    "category": "horns-bb",
    "title": "Texas vs. East Texas A&M",
@@ -4526,16 +4557,6 @@
    "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
    "startTime": "19:00",
    "tv": "SEC Network+"
-  },
-  {
-   "id": "2026-12-29-utsa-bb-at-minnesota",
-   "category": "utsa-bb",
-   "title": "UTSA at Minnesota",
-   "startDate": "2026-12-29",
-   "location": "Minneapolis, Minn.",
-   "tag": "Away",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "19:00"
   },
   {
    "id": "2026-12-29-spurs-at-grizzlies",
@@ -4681,6 +4702,17 @@
    "id": "sch-boerne-hs-2027-01-01-boerne-girls-basketball-at-mccollum"
   },
   {
+   "id": "2027-01-01-first-day-guided-hike-at-old-tunnel-state-park",
+   "category": "nature",
+   "title": "First Day Guided Hike at Old Tunnel State Park",
+   "startDate": "2027-01-01",
+   "startTime": "13:00",
+   "endTime": "14:00",
+   "location": "Old Tunnel State Park, 10619 Old San Antonio Rd",
+   "description": "Start the new year with Ranger Izzy and park volunteers on a guided hike along the park’s three-quarter-mile trail. The unpaved route is considered moderate and includes steep slopes. Meet at the Upper Viewing Deck on…",
+   "sourceURL": "https://theboernelife.com/events/first-day-guided-hike-at-old-tunnel-state-park/"
+  },
+  {
    "id": "2027-01-01-spurs-at-wizards",
    "category": "spurs",
    "title": "Spurs at Wizards",
@@ -4726,6 +4758,16 @@
    "id": "sch-boerne-hs-2027-01-02-boerne-girls-soccer-at-northside-isd-tournament"
   },
   {
+   "id": "2027-01-02-utsa-bb-at-temple",
+   "category": "utsa-bb",
+   "title": "UTSA at Temple",
+   "startDate": "2027-01-02",
+   "location": "Philadelphia, Pa.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "13:00"
+  },
+  {
    "title": "Champion boys basketball vs. South San",
    "startDate": "2027-01-02",
    "tag": "Home",
@@ -4738,16 +4780,6 @@
    ],
    "audience": "local",
    "id": "sch-champion-hs-2027-01-02-champion-boys-basketball-vs-south-san"
-  },
-  {
-   "id": "2027-01-02-utsa-bb-at-temple",
-   "category": "utsa-bb",
-   "title": "UTSA at Temple",
-   "startDate": "2027-01-02",
-   "location": "Philadelphia, Pa.",
-   "tag": "Away",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "13:00"
   },
   {
    "title": "Boerne boys basketball vs. Mccollum",
@@ -8937,36 +8969,36 @@
  ],
  "notices": [
   {
+   "id": "boerne-pet-50029171",
+   "kind": "pets",
+   "title": "Adoptable: Russet, 3-month-old Domestic Shorthair",
+   "detail": "Male cat available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
+   "level": "info",
+   "url": "https://www.adoptapet.com/pet/50029171-boerne-texas-cat",
+   "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
+   "until": "2026-11-20",
+   "asOf": "2026-11-19",
+   "collector": "civic"
+  },
+  {
+   "id": "boerne-pet-50029172",
+   "kind": "pets",
+   "title": "Adoptable: Yam, 3-month-old Domestic Shorthair",
+   "detail": "Male cat available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
+   "level": "info",
+   "url": "https://www.adoptapet.com/pet/50029172-boerne-texas-cat",
+   "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
+   "until": "2026-11-20",
+   "asOf": "2026-11-19",
+   "collector": "civic"
+  },
+  {
    "id": "boerne-pet-50029173",
    "kind": "pets",
    "title": "Adoptable: Kennebec, 3-month-old Domestic Shorthair",
    "detail": "Male cat available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
    "level": "info",
    "url": "https://www.adoptapet.com/pet/50029173-boerne-texas-cat",
-   "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
-   "until": "2026-11-20",
-   "asOf": "2026-11-19",
-   "collector": "civic"
-  },
-  {
-   "id": "boerne-pet-50029175",
-   "kind": "pets",
-   "title": "Adoptable: Jester, 2-month-old Domestic Shorthair",
-   "detail": "Male cat available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
-   "level": "info",
-   "url": "https://www.adoptapet.com/pet/50029175-boerne-texas-cat",
-   "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
-   "until": "2026-11-20",
-   "asOf": "2026-11-19",
-   "collector": "civic"
-  },
-  {
-   "id": "boerne-pet-50029176",
-   "kind": "pets",
-   "title": "Adoptable: Frisco, 2-month-old Domestic Shorthair",
-   "detail": "Male cat available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
-   "level": "info",
-   "url": "https://www.adoptapet.com/pet/50029176-boerne-texas-cat",
    "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
    "until": "2026-11-20",
    "asOf": "2026-11-19",
@@ -9101,5 +9133,59 @@
    "source": "Texas Alcoholic Beverage Commission",
    "url": "https://data.texas.gov/Government-and-Taxes/TABC-License-Information/7hf9-qc9f"
   }
- ]
+ ],
+ "eats": {
+  "note": "Favorites come from local best-of lists and reader polls (SA Current, Fodor's, The Boerne Life).",
+  "places": [
+   {
+    "name": "Sunny's All Day Brunch & Bar",
+    "kind": "Brunch",
+    "why": "Readers' pick for best Boerne restaurant"
+   },
+   {
+    "name": "Cypress Grille",
+    "kind": "American",
+    "why": "Seasonal plates on the Hill Country Mile"
+   },
+   {
+    "name": "Dienger Trading Co.",
+    "kind": "Bakery & bistro",
+    "why": "Brunch in an 1880s landmark"
+   },
+   {
+    "name": "Richter Tavern",
+    "kind": "American",
+    "why": "Laid-back brunch and dinner on Main"
+   },
+   {
+    "name": "Cibolo Creek Brewing Co.",
+    "kind": "Brewpub",
+    "why": "Beer and burgers on South Main"
+   },
+   {
+    "name": "Valeria Restaurant",
+    "kind": "Fine dining",
+    "why": "European-style menu that changes with the season"
+   },
+   {
+    "name": "Boerne Taco House",
+    "kind": "Tacos",
+    "why": "Breakfast and street tacos"
+   },
+   {
+    "name": "Las Guitarras Cocina Mexicana",
+    "kind": "Mexican",
+    "why": "Interior Mexican on Main"
+   },
+   {
+    "name": "Sample Main Street Bistro",
+    "kind": "Restaurant",
+    "sponsored": true,
+    "sample": true,
+    "lat": 29.7951,
+    "lon": -98.7314,
+    "text": "Out for an event downtown? Free dessert with dinner, steps from Main Plaza."
+   }
+  ]
+ }
 }
