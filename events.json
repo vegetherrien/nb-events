@@ -1179,16 +1179,6 @@
    "id": "sch-canyon-hs-2026-11-18-canyon-wrestling-at-clemens-dual-vs-clemens-vets"
   },
   {
-   "id": "2026-11-18-rockets-at-pacers",
-   "category": "rockets",
-   "title": "Rockets at Pacers",
-   "startDate": "2026-11-18",
-   "startTime": "18:00",
-   "location": "Indianapolis",
-   "tag": "Away",
-   "sourceURL": "https://www.basketball-reference.com/teams/HOU/2027_games.html"
-  },
-  {
    "title": "Wse 4Th & 5Th Grade Choir Concert",
    "startDate": "2026-11-18",
    "startTime": "18:00",
@@ -1201,6 +1191,17 @@
    ],
    "audience": "local",
    "id": "sch-walnut-springs-es-2026-11-18-wse-4th-5th-grade-choir-concert"
+  },
+  {
+   "id": "2026-11-18-rockets-at-pacers",
+   "category": "rockets",
+   "title": "Rockets at Pacers",
+   "startDate": "2026-11-18",
+   "startTime": "18:00",
+   "location": "Indianapolis",
+   "tag": "Away",
+   "sourceURL": "https://www.basketball-reference.com/teams/HOU/2027_games.html",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2026-11-18-the-georges",
@@ -1433,7 +1434,8 @@
    "startTime": "19:00",
    "location": "Frost Bank Center, San Antonio",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2026-11-19-texans-vs-colts",
@@ -1443,7 +1445,8 @@
    "location": "NRG Stadium, Houston",
    "tag": "Home",
    "sourceURL": "https://www.houstontexans.com/schedule/",
-   "startTime": "19:15"
+   "startTime": "19:15",
+   "tv": "Prime Video"
   },
   {
    "id": "2026-11-19-choir-choir-choir-presents-landslide-an-epic-fleetwood-mac-s",
@@ -2039,7 +2042,8 @@
    "startTime": "19:00",
    "location": "Frost Bank Center, San Antonio",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2026-11-21-mavs-vs-clippers",
@@ -2271,7 +2275,8 @@
    "startTime": "19:30",
    "location": "Toyota Center, Houston",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2026-11-23-spurs-at-kings",
@@ -2281,7 +2286,8 @@
    "startTime": "21:00",
    "location": "Golden 1 Center, Sacramento",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "title": "Canyon girls basketball vs. Roosevelt",
@@ -2405,7 +2411,8 @@
    "startTime": "19:30",
    "location": "Toyota Center, Houston",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2026-11-25-shinyribs",
@@ -2678,7 +2685,8 @@
    "location": "NRG Stadium, Houston",
    "tag": "Home",
    "sourceURL": "https://www.houstontexans.com/schedule/",
-   "startTime": "12:00"
+   "startTime": "12:00",
+   "tv": "CBS"
   },
   {
    "id": "2026-11-29-utsa-bb-at-siue",
@@ -2745,7 +2753,8 @@
    "startTime": "18:30",
    "location": "Toyota Center, Houston",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2026-11-30-spurs-at-bucks",
@@ -2755,7 +2764,8 @@
    "startTime": "19:00",
    "location": "Fiserv Forum, Milwaukee",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2026-11-30-mavs-vs-celtics",
@@ -2935,7 +2945,8 @@
    "startTime": "19:30",
    "location": "Toyota Center, Houston",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2026-12-01-horns-bb-at-louisville",
@@ -3190,7 +3201,8 @@
    "startTime": "19:00",
    "location": "Frost Bank Center, San Antonio",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2026-12-03-read-southall-acoustic-run",
@@ -3665,10 +3677,11 @@
    "category": "texans",
    "title": "Texans at Steelers",
    "startDate": "2026-12-06",
-   "location": "Acrisure Stadium",
+   "location": "Acrisure Stadium, Pittsburgh",
    "tag": "Away",
    "sourceURL": "https://www.houstontexans.com/schedule/",
-   "startTime": "19:20"
+   "startTime": "19:20",
+   "tv": "NBC"
   },
   {
    "id": "2026-12-06-josiah-and-the-bonnevilles",
@@ -3981,6 +3994,34 @@
    "id": "sch-canyon-ms-2026-12-08-advanced-band-christmas-concert"
   },
   {
+   "title": "Canyon boys basketball vs. Carrizo Springs Wildcat Basketball",
+   "startDate": "2026-12-08",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Cougar Den",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
+   "startTime": "19:00",
+   "tags": [
+    "school:canyon-hs"
+   ],
+   "audience": "local",
+   "id": "sch-canyon-hs-2026-12-08-canyon-boys-basketball-vs-carrizo-springs-wildcat-baske"
+  },
+  {
+   "title": "Choir Concert",
+   "startDate": "2026-12-08",
+   "startTime": "19:00",
+   "endTime": "21:00",
+   "location": "CLHS PAC",
+   "sourceURL": "https://www.comalisd.org/apps/events/51257705/",
+   "category": "school",
+   "tags": [
+    "school:canyon-lake-hs"
+   ],
+   "audience": "local",
+   "id": "sch-canyon-lake-hs-2026-12-08-choir-concert"
+  },
+  {
    "id": "2026-12-08-txst-bb-vs-utrgv",
    "category": "txst-bb",
    "title": "Bobcats vs. UTRGV",
@@ -4010,34 +4051,6 @@
    "tag": "Away",
    "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
    "startTime": "19:00"
-  },
-  {
-   "title": "Canyon boys basketball vs. Carrizo Springs Wildcat Basketball",
-   "startDate": "2026-12-08",
-   "tag": "Home",
-   "category": "hs-basketball",
-   "location": "Cougar Den",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
-   "startTime": "19:00",
-   "tags": [
-    "school:canyon-hs"
-   ],
-   "audience": "local",
-   "id": "sch-canyon-hs-2026-12-08-canyon-boys-basketball-vs-carrizo-springs-wildcat-baske"
-  },
-  {
-   "title": "Choir Concert",
-   "startDate": "2026-12-08",
-   "startTime": "19:00",
-   "endTime": "21:00",
-   "location": "CLHS PAC",
-   "sourceURL": "https://www.comalisd.org/apps/events/51257705/",
-   "category": "school",
-   "tags": [
-    "school:canyon-lake-hs"
-   ],
-   "audience": "local",
-   "id": "sch-canyon-lake-hs-2026-12-08-choir-concert"
   },
   {
    "title": "Davenport girls basketball at Liberal Arts and Science Academy…",
@@ -4761,10 +4774,11 @@
    "category": "texans",
    "title": "Texans at Commanders",
    "startDate": "2026-12-13",
-   "location": "Northwest Stadium",
+   "location": "Northwest Stadium, Landover",
    "tag": "Away",
    "sourceURL": "https://www.houstontexans.com/schedule/",
-   "startTime": "12:00"
+   "startTime": "12:00",
+   "tv": "CBS"
   },
   {
    "id": "2026-12-13-rockets-at-bulls",
@@ -4774,7 +4788,8 @@
    "startTime": "17:00",
    "location": "Chicago",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2026-12-13-spurs-vs-clippers",
@@ -4784,7 +4799,8 @@
    "startTime": "18:00",
    "location": "Frost Bank Center, San Antonio",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2026-12-13-the-mavericks-friends",
@@ -4851,7 +4867,8 @@
    "startTime": "19:30",
    "location": "Toyota Center, Houston",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "title": "Parent & Family Engagement Night-Christmas Ornament Making",
@@ -4946,16 +4963,6 @@
    "id": "sch-garden-ridge-es-2026-12-15-3rd-grade-performance-light-up-the-world"
   },
   {
-   "id": "2026-12-15-utsa-bb-vs-our-lady-of-the-lake",
-   "category": "utsa-bb",
-   "title": "UTSA vs. Our Lady of the Lake",
-   "startDate": "2026-12-15",
-   "location": "Convocation Center, San Antonio",
-   "tag": "Home",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "18:30"
-  },
-  {
    "title": "New Braunfels boys basketball at Buda Johnson",
    "startDate": "2026-12-15",
    "tag": "Away",
@@ -4981,6 +4988,16 @@
    ],
    "audience": "local",
    "id": "sch-canyon-ms-2026-12-15-beginner-band-christmas-concert"
+  },
+  {
+   "id": "2026-12-15-utsa-bb-vs-our-lady-of-the-lake",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Our Lady of the Lake",
+   "startDate": "2026-12-15",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "18:30"
   },
   {
    "title": "New Braunfels girls basketball vs. Long Creek",
@@ -5051,17 +5068,6 @@
    ],
    "audience": "local",
    "id": "sch-canyon-hs-2026-12-15-canyon-boys-soccer-vs-davenport"
-  },
-  {
-   "id": "2026-12-15-spurs-at-cavaliers",
-   "category": "spurs",
-   "title": "Spurs at Cavaliers",
-   "startDate": "2026-12-15",
-   "startTime": "19:00",
-   "location": "Rocket Arena, Cleveland",
-   "tag": "Away",
-   "tv": "NBC",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "title": "New Braunfels girls soccer at Canyon",
@@ -5145,6 +5151,17 @@
    ],
    "audience": "local",
    "id": "sch-mountain-valley-ms-2026-12-15-orchestra-concert"
+  },
+  {
+   "id": "2026-12-15-spurs-at-cavaliers",
+   "category": "spurs",
+   "title": "Spurs at Cavaliers",
+   "startDate": "2026-12-15",
+   "startTime": "19:00",
+   "location": "Rocket Arena, Cleveland",
+   "tag": "Away",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "title": "Long Creek girls soccer at Navarro Navarro Lady Panther…",
@@ -5285,7 +5302,8 @@
    "startTime": "18:30",
    "location": "Scotiabank Arena, Toronto",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2026-12-16-mavs-at-nets",
@@ -5315,7 +5333,8 @@
    "startTime": "19:30",
    "location": "Toyota Center, Houston",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2026-12-16-horns-bb-vs-memphis",
@@ -5619,26 +5638,6 @@
    "sourceURL": "https://brauntex.org/event/ballet-texas-presents-the-nutcracker-10/"
   },
   {
-   "id": "2026-12-18-spurs-vs-bulls",
-   "category": "spurs",
-   "title": "Spurs vs. Bulls",
-   "startDate": "2026-12-18",
-   "startTime": "19:00",
-   "location": "Frost Bank Center, San Antonio",
-   "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
-  },
-  {
-   "id": "2026-12-18-rockets-at-grizzlies",
-   "category": "rockets",
-   "title": "Rockets at Grizzlies",
-   "startDate": "2026-12-18",
-   "startTime": "19:00",
-   "location": "Memphis",
-   "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
-  },
-  {
    "title": "New Braunfels boys soccer at Davenport",
    "startDate": "2026-12-18",
    "tag": "Away",
@@ -5679,6 +5678,28 @@
    ],
    "audience": "local",
    "id": "sch-canyon-hs-2026-12-18-canyon-boys-basketball-at-east-central-high-school-horn"
+  },
+  {
+   "id": "2026-12-18-spurs-vs-bulls",
+   "category": "spurs",
+   "title": "Spurs vs. Bulls",
+   "startDate": "2026-12-18",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
+  },
+  {
+   "id": "2026-12-18-rockets-at-grizzlies",
+   "category": "rockets",
+   "title": "Rockets at Grizzlies",
+   "startDate": "2026-12-18",
+   "startTime": "19:00",
+   "location": "Memphis",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2026-12-18-william-clark-green-the-good-time-tour-full-band",
@@ -5873,7 +5894,8 @@
    "location": "NRG Stadium, Houston",
    "tag": "Home",
    "sourceURL": "https://www.houstontexans.com/schedule/",
-   "startTime": "12:00"
+   "startTime": "12:00",
+   "tv": "CBS"
   },
   {
    "id": "2026-12-20-ballet-texas-presents-the-nutcracker",
@@ -5894,7 +5916,8 @@
    "startTime": "14:30",
    "location": "Toronto",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2026-12-20-cowboys-at-rams",
@@ -5914,7 +5937,8 @@
    "startTime": "18:00",
    "location": "Smoothie King Center, New Orleans",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "nbisd-2026-12-21-holiday-break-no-school",
@@ -5961,7 +5985,8 @@
    "startTime": "19:00",
    "location": "Frost Bank Center, San Antonio",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "title": "Winter Break",
@@ -5990,16 +6015,6 @@
    "id": "sch-long-creek-hs-2026-12-22-long-creek-girls-basketball-vs-smithson-valley-rang"
   },
   {
-   "id": "2026-12-22-utsa-bb-vs-huston-tillotson",
-   "category": "utsa-bb",
-   "title": "UTSA vs. Huston-Tillotson",
-   "startDate": "2026-12-22",
-   "location": "Convocation Center, San Antonio",
-   "tag": "Home",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "12:00"
-  },
-  {
    "title": "New Braunfels girls basketball at MacArthuur",
    "startDate": "2026-12-22",
    "tag": "Away",
@@ -6012,6 +6027,16 @@
    ],
    "audience": "local",
    "id": "sch-new-braunfels-hs-2026-12-22-new-braunfels-girls-basketball-at-macarthuur"
+  },
+  {
+   "id": "2026-12-22-utsa-bb-vs-huston-tillotson",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Huston-Tillotson",
+   "startDate": "2026-12-22",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "12:00"
   },
   {
    "title": "New Braunfels boys basketball vs. MacArthur",
@@ -6072,7 +6097,8 @@
    "startTime": "18:30",
    "location": "Barclays Center, Brooklyn",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2026-12-23-rockets-at-76ers",
@@ -6112,10 +6138,11 @@
    "category": "texans",
    "title": "Texans at Eagles",
    "startDate": "2026-12-24",
-   "location": "Lincoln Financial Field",
+   "location": "Lincoln Financial Field, Philadelphia",
    "tag": "Away",
    "sourceURL": "https://www.houstontexans.com/schedule/",
-   "startTime": "19:15"
+   "startTime": "19:15",
+   "tv": "Prime Video"
   },
   {
    "title": "Winter Break - Christmas",
@@ -6172,7 +6199,8 @@
    "startTime": "14:30",
    "location": "Toyota Center, Houston",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2026-12-27-spurs-vs-hawks",
@@ -6182,7 +6210,8 @@
    "startTime": "18:00",
    "location": "Frost Bank Center, San Antonio",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2026-12-27-cowboys-vs-jaguars",
@@ -6305,7 +6334,8 @@
    "startTime": "19:00",
    "location": "FedExForum, Memphis",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2026-12-29-mavs-vs-heat",
@@ -6473,7 +6503,8 @@
    "startTime": "19:30",
    "location": "Toyota Center, Houston",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "title": "New Braunfels girls soccer at SCUC Tournament",
@@ -6669,7 +6700,8 @@
    "startTime": "18:00",
    "location": "Toyota Center, Houston",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "nbisd-2027-01-04-student-holiday-staff-work-day",
@@ -6711,10 +6743,11 @@
    "category": "texans",
    "title": "Texans at Packers",
    "startDate": "2027-01-04",
-   "location": "Lambeau Field",
+   "location": "Lambeau Field, Green Bay",
    "tag": "Away",
    "sourceURL": "https://www.houstontexans.com/schedule/",
-   "startTime": "19:15"
+   "startTime": "19:15",
+   "tv": "ESPN"
   },
   {
    "id": "nbisd-2027-01-05-students-return-from-break",
@@ -6800,17 +6833,6 @@
    "id": "sch-long-creek-hs-2027-01-05-long-creek-girls-basketball-at-lockhart"
   },
   {
-   "id": "2027-01-05-rockets-vs-timberwolves",
-   "category": "rockets",
-   "title": "Rockets vs. Timberwolves",
-   "startDate": "2027-01-05",
-   "startTime": "19:00",
-   "location": "Toyota Center, Houston",
-   "tag": "Home",
-   "tv": "NBC",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
-  },
-  {
    "title": "Canyon girls basketball at Samuel Clemens Lady Buffs",
    "startDate": "2027-01-05",
    "tag": "Away",
@@ -6867,6 +6889,17 @@
    "id": "sch-canyon-lake-hs-2027-01-05-canyon-lake-girls-basketball-at-davenport"
   },
   {
+   "id": "2027-01-05-rockets-vs-timberwolves",
+   "category": "rockets",
+   "title": "Rockets vs. Timberwolves",
+   "startDate": "2027-01-05",
+   "startTime": "19:00",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
    "title": "Long Creek boys soccer vs. Patriots",
    "startDate": "2027-01-05",
    "tag": "Home",
@@ -6907,7 +6940,8 @@
    "startTime": "19:00",
    "location": "Frost Bank Center, San Antonio",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "title": "New Braunfels boys soccer at Byron Nelson Tournament Day 1",
@@ -7033,7 +7067,8 @@
    "startTime": "19:30",
    "location": "Toyota Center, Houston",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "category": "market",
@@ -7308,16 +7343,6 @@
    "id": "sch-long-creek-hs-2027-01-08-long-creek-girls-basketball-vs-macarthur"
   },
   {
-   "id": "2027-01-08-spurs-vs-grizzlies",
-   "category": "spurs",
-   "title": "Spurs vs. Grizzlies",
-   "startDate": "2027-01-08",
-   "startTime": "19:00",
-   "location": "Frost Bank Center, San Antonio",
-   "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
-  },
-  {
    "title": "Canyon girls basketball vs. Wagner Thunderbirds",
    "startDate": "2027-01-08",
    "tag": "Home",
@@ -7344,6 +7369,17 @@
    ],
    "audience": "local",
    "id": "sch-canyon-hs-2027-01-08-canyon-boys-basketball-at-wagner-thunderbirds"
+  },
+  {
+   "id": "2027-01-08-spurs-vs-grizzlies",
+   "category": "spurs",
+   "title": "Spurs vs. Grizzlies",
+   "startDate": "2027-01-08",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2027-01-08-mavs-vs-suns",
@@ -7476,7 +7512,8 @@
    "startTime": "17:00",
    "location": "Brooklyn",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "title": "New Braunfels wrestling at Varsity Boys Individual…",
@@ -7545,7 +7582,8 @@
    "startTime": "14:00",
    "location": "State Farm Arena, Atlanta",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2027-01-10-mavs-at-grizzlies",
@@ -7578,7 +7616,8 @@
    "startTime": "18:30",
    "location": "Boston",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "title": "Choir Concert",
@@ -7679,16 +7718,6 @@
    "id": "sch-canyon-hs-2027-01-12-canyon-boys-soccer-vs-clark"
   },
   {
-   "id": "2027-01-12-mavs-at-grizzlies",
-   "category": "mavs",
-   "title": "Mavericks at Grizzlies",
-   "startDate": "2027-01-12",
-   "startTime": "19:00",
-   "location": "Memphis",
-   "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
-  },
-  {
    "title": "Long Creek boys soccer at Davenport",
    "startDate": "2027-01-12",
    "tag": "Away",
@@ -7745,6 +7774,16 @@
    "id": "sch-canyon-lake-hs-2027-01-12-canyon-lake-girls-basketball-vs-fredericksburg-bas"
   },
   {
+   "id": "2027-01-12-mavs-at-grizzlies",
+   "category": "mavs",
+   "title": "Mavericks at Grizzlies",
+   "startDate": "2027-01-12",
+   "startTime": "19:00",
+   "location": "Memphis",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
    "id": "2027-01-12-horns-bb-vs-auburn",
    "category": "horns-bb",
    "title": "Texas vs. Auburn",
@@ -7783,16 +7822,6 @@
    "id": "sch-long-creek-hs-2027-01-13-long-creek-wrestling-vs-new-braunfels"
   },
   {
-   "id": "2027-01-13-utsa-bb-at-charlotte",
-   "category": "utsa-bb",
-   "title": "UTSA at Charlotte",
-   "startDate": "2027-01-13",
-   "location": "Charlotte, N.C.",
-   "tag": "Away",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "18:00"
-  },
-  {
    "title": "New Braunfels wrestling at Long Creek LC",
    "startDate": "2027-01-13",
    "tag": "Away",
@@ -7805,6 +7834,16 @@
    ],
    "audience": "local",
    "id": "sch-new-braunfels-hs-2027-01-13-new-braunfels-wrestling-at-long-creek-lc"
+  },
+  {
+   "id": "2027-01-13-utsa-bb-at-charlotte",
+   "category": "utsa-bb",
+   "title": "UTSA at Charlotte",
+   "startDate": "2027-01-13",
+   "location": "Charlotte, N.C.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "18:00"
   },
   {
    "id": "2027-01-13-rockets-at-thunder",
@@ -8134,7 +8173,8 @@
    "startTime": "19:30",
    "location": "Toyota Center, Houston",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "category": "music",
@@ -8288,7 +8328,8 @@
    "startTime": "19:30",
    "location": "Toyota Center, Houston",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "category": "music",
@@ -8353,7 +8394,8 @@
    "startTime": "18:30",
    "location": "Memphis",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-01-18-mavs-vs-thunder",
@@ -8417,7 +8459,8 @@
    "startTime": "19:00",
    "location": "Minneapolis",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-01-20-spurs-vs-heat",
@@ -8458,7 +8501,8 @@
    "startTime": "18:00",
    "location": "Charlotte",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-01-22-mavs-at-pelicans",
@@ -8621,7 +8665,8 @@
    "startTime": "14:30",
    "location": "Frost Bank Center, San Antonio",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2027-01-24-rockets-at-magic",
@@ -8631,7 +8676,8 @@
    "startTime": "17:00",
    "location": "Orlando",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-01-25-mavs-at-bulls",
@@ -8704,7 +8750,8 @@
    "startTime": "19:00",
    "location": "Frost Bank Center, San Antonio",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2027-01-27-rockets-vs-pelicans",
@@ -8714,7 +8761,8 @@
    "startTime": "19:30",
    "location": "Toyota Center, Houston",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "category": "music",
@@ -8773,7 +8821,8 @@
    "startTime": "19:30",
    "location": "Toyota Center, Houston",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-01-29-bill-murray-his-blood-brothers",
@@ -8916,7 +8965,8 @@
    "startTime": "21:00",
    "location": "Chase Center, San Francisco",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "title": "Groundhog Day",
@@ -8948,7 +8998,8 @@
    "startTime": "21:30",
    "location": "Intuit Dome, Inglewood",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "title": "Women in Sports Day",
@@ -9005,7 +9056,8 @@
    "startTime": "19:00",
    "location": "Frost Bank Center, San Antonio",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2027-02-04-a-tribute-to-the-music-memories-of-tony-bennett-starring-ste",
@@ -9079,7 +9131,8 @@
    "startTime": "20:00",
    "location": "Phoenix",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-02-06-new-braunfels-farmers-market",
@@ -9186,7 +9239,8 @@
    "startTime": "21:30",
    "location": "Sacramento",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "title": "Brauntex",
@@ -9288,7 +9342,8 @@
    "startTime": "19:30",
    "location": "Toyota Center, Houston",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-02-11-spurs-at-thunder",
@@ -9322,7 +9377,8 @@
    "startTime": "19:00",
    "location": "New Orleans",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-02-12-the-fabulous-equinox-orchestra",
@@ -9412,7 +9468,8 @@
    "startTime": "18:00",
    "location": "Kia Center, Orlando",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2027-02-13-gino-vannelli",
@@ -9554,7 +9611,8 @@
    "startTime": "19:00",
    "location": "FedExForum, Memphis",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2027-02-17-horns-bb-vs-texas-a-m",
@@ -9813,7 +9871,8 @@
    "startTime": "19:00",
    "location": "Moody Center, Austin",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2027-02-26-rockets-vs-hornets",
@@ -9823,7 +9882,8 @@
    "startTime": "19:30",
    "location": "Toyota Center, Houston",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-02-26-mavs-at-trail-blazers",
@@ -9942,7 +10002,8 @@
    "startTime": "19:30",
    "location": "Toyota Center, Houston",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-03-02-horns-bb-vs-missouri",
@@ -10015,7 +10076,8 @@
    "startTime": "19:30",
    "location": "Toyota Center, Houston",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-03-03-spurs-at-nuggets",
@@ -10229,7 +10291,8 @@
    "startTime": "21:30",
    "location": "Los Angeles",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-03-09-spurs-vs-wizards",
@@ -10239,7 +10302,8 @@
    "startTime": "19:00",
    "location": "Frost Bank Center, San Antonio",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2027-03-09-mavs-vs-grizzlies",
@@ -10279,7 +10343,8 @@
    "startTime": "20:00",
    "location": "Salt Lake City",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-03-11-spurs-vs-76ers",
@@ -10418,7 +10483,8 @@
    "startTime": "19:30",
    "location": "Toyota Center, Houston",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2027-03-16-rockets-vs-spurs",
@@ -10428,7 +10494,8 @@
    "startTime": "19:30",
    "location": "Toyota Center, Houston",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-03-17-mavs-at-thunder",
@@ -10449,7 +10516,8 @@
    "startTime": "19:30",
    "location": "Toyota Center, Houston",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-03-18-spurs-vs-nets",
@@ -10459,7 +10527,8 @@
    "startTime": "19:00",
    "location": "Frost Bank Center, San Antonio",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2027-03-19-spurs-vs-mavericks",
@@ -10491,7 +10560,8 @@
    "startTime": "19:00",
    "location": "New Orleans",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-03-20-castell-st-market",
@@ -10556,7 +10626,8 @@
    "startTime": "18:00",
    "location": "Cleveland",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-03-22-mavs-at-clippers",
@@ -10587,7 +10658,8 @@
    "startTime": "18:30",
    "location": "New York",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-03-24-mavs-at-timberwolves",
@@ -10627,7 +10699,8 @@
    "startTime": "18:00",
    "location": "Gainbridge Fieldhouse, Indianapolis",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2027-03-25-rockets-at-pistons",
@@ -10637,7 +10710,8 @@
    "startTime": "18:00",
    "location": "Detroit",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-03-26-astros-vs-rangers",
@@ -10782,7 +10856,8 @@
    "startTime": "20:30",
    "location": "Frost Bank Center, San Antonio",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2027-03-29-rangers-at-mariners",
@@ -10853,7 +10928,8 @@
    "startTime": "19:00",
    "location": "Frost Bank Center, San Antonio",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2027-03-31-mavs-vs-nuggets",
@@ -10874,7 +10950,8 @@
    "startTime": "21:00",
    "location": "Portland",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-04-01-rangers-vs-athletics",
@@ -10946,7 +11023,8 @@
    "startTime": "19:30",
    "location": "Toyota Center, Houston",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-04-02-spurs-at-clippers",
@@ -10956,7 +11034,8 @@
    "startTime": "21:30",
    "location": "Intuit Dome, Inglewood",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2027-04-03-castell-st-market",
@@ -11061,7 +11140,8 @@
    "startTime": "15:00",
    "location": "Toyota Center, Houston",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-04-04-spurs-at-lakers",
@@ -11100,7 +11180,8 @@
    "startTime": "19:00",
    "location": "Frost Bank Center, San Antonio",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2027-04-06-rangers-vs-rays",
@@ -11171,7 +11252,8 @@
    "startTime": "19:30",
    "location": "Toyota Center, Houston",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-04-07-dynamo-at-colorado-rapids",
@@ -11253,7 +11335,8 @@
    "startTime": "19:30",
    "location": "Toyota Center, Houston",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-04-09-spurs-vs-nuggets",
@@ -11377,7 +11460,8 @@
    "startTime": "19:30",
    "location": "Frost Bank Center, San Antonio",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "tv": "DAZN"
   },
   {
    "id": "2027-04-11-mavs-vs-grizzlies",
@@ -11397,7 +11481,8 @@
    "startTime": "19:30",
    "location": "Minneapolis",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-04-13-rangers-at-reds",
@@ -11958,6 +12043,69 @@
    "title": "Santa's Ranch drive-through lights",
    "detail": "Nightly through Jan 3 at 9561 I-35 N. 6–10 PM Sunday to Thursday, 6–11 PM Friday and Saturday. $37 per car, or $74 for a season pass.",
    "sourceURL": "https://santasranch.com/"
+  }
+ ],
+ "notices": [
+  {
+   "id": "new-braunfels-school-comal-isd-planned-2026-11-23",
+   "kind": "school",
+   "title": "No school Nov 23 to 27 (Comal ISD)",
+   "detail": "Comal ISD calendar: no school Nov 23 to 27. (Thanksgiving Break)",
+   "level": "info",
+   "url": "https://www.comalisd.org/apps/events/46144257/",
+   "source": "Comal ISD",
+   "asOf": "2026-11-18",
+   "until": "2026-11-27",
+   "tags": [
+    "district:comal-isd"
+   ],
+   "audience": "local",
+   "collector": "schools_trash"
+  },
+  {
+   "id": "new-braunfels-school-nbisd-planned-2026-11-23",
+   "kind": "school",
+   "title": "No school Nov 23 to 30 (NBISD)",
+   "detail": "NBISD calendar: no school Nov 23 to 30. (Thanksgiving Break (no school); Student Holiday / Staff Professional Development)",
+   "level": "info",
+   "url": "https://nbisd.org/wp-content/uploads/2026/03/26-27-School-Calendar-English-1-30-26-9-weeks.pdf",
+   "source": "NBISD",
+   "asOf": "2026-11-18",
+   "until": "2026-11-30",
+   "tags": [
+    "district:nbisd"
+   ],
+   "audience": "local",
+   "collector": "schools_trash"
+  },
+  {
+   "id": "new-braunfels-trash-thanksgiving-2026-11-26",
+   "kind": "trash",
+   "title": "Thanksgiving: Thursday pickup moves to Friday",
+   "detail": "If your garbage & recycling day is Thursday, Nov 26, it moves to Friday, Nov 27. Carts at the curb by 6 a.m.; other days are unchanged.",
+   "level": "info",
+   "url": "https://www.newbraunfels.gov/3974/Holiday-Trash-Recycling",
+   "source": "City of New Braunfels Solid Waste",
+   "asOf": "2026-11-18",
+   "until": "2026-11-27",
+   "tags": [
+    "trash:6",
+    "trash:7",
+    "trash:12"
+   ],
+   "audience": "local",
+   "collector": "schools_trash"
+  },
+  {
+   "id": "nb-water-stage",
+   "kind": "water",
+   "title": "NBU Stage 2 watering rules",
+   "detail": "Sprinklers once a week by address (0-1 Mon, 2-3 Tue, 4-5 Wed, 6-7 Thu, 8-9 Fri), before 10am or after 8pm; hand watering any day in those hours. In effect since August 10, 2026.",
+   "level": "warn",
+   "url": "https://www.nbutexas.com/current-drought-stage/",
+   "source": "New Braunfels Utilities",
+   "asOf": "2026-11-18",
+   "collector": "utilities"
   }
  ]
 }
