@@ -24,7 +24,13 @@ GAME_DAYS = 60         # how far ahead varsity schedules are read
 
 # Calendar filler that isn't an event a family would go to or plan around.
 DROP = re.compile(r"appreciation|awareness|\bmonth\b|\bweek\b(?!end)|national .* day|staff (meeting|development)|"
-                  r"\bplc\b|faculty|lunch menu|\bA day\b|\bB day\b|birthday|tutorial|duty", re.I)
+                  r"\bplc\b|faculty|lunch menu|\bA day\b|\bB day\b|birthday|tutorial|duty|"
+                  r"board (meeting|mtg|workshop)|\bmtg\b|\bmeeting\b|progress reports?|report cards?|retakes?|"
+                  r"end of (9|six|6|nine)|\b(staar|tsia|psat|sat|act|eoc|map) (test|testing|exam)|\btesting\b|"
+                  r"rehearsal|practice|tryouts?|deadline|marathon monday|\bdue\b|grades? (post|due)|exchange day", re.I)
+# Games that some schools also type into the campus calendar; the athletics feed already has them.
+GAME_ROW = re.compile(r"(basketball|soccer|football|volleyball|baseball|softball|wrestling|swim|tennis|golf|"
+                      r"track|cross country|powerlifting).*\b(game|scrimmage|vs\.?|tournament|meet|match|invitational)\b", re.I)
 HOLIDAY = re.compile(r"holiday|break|no school|early release|first day|last day|staff development|workday", re.I)
 # Team schedules that some districts copy into the campus calendar; games come from Rank One instead.
 SPORT_ROW = re.compile(r"\((F|M|C)\) - |\b(junior varsity|JV|9th grade|freshman|7th grade|8th grade)\b", re.I)
@@ -133,7 +139,8 @@ def calendar_events(school, today):
     items = []
     for v in parse_ics(fetch(school["info"]["calendar"])):
         title = tidy(v.get("SUMMARY", ""))
-        if not title or v.get("STATUS") == "CANCELLED" or v.get("repeat") == -1 or DROP.search(title) or SPORT_ROW.search(title):
+        if not title or v.get("STATUS") == "CANCELLED" or v.get("repeat") == -1 or DROP.search(title) or SPORT_ROW.search(title) \
+                or GAME_ROW.search(title):
             continue
         day, start = v["start"]
         if start is None:
@@ -178,8 +185,13 @@ def game_events(school, today):
         opponent = re.sub(r"\b(High School|HS)\b", "", opp.group(2)).strip() if opp else ""
         words = opponent.split()
         if len(words) > 1 and words[-1] in words[:-1]: words.pop()       # "Davenport Davenport"
-        opponent = " ".join(words) or "TBA"
+        opponent = " ".join(words)
         if opponent.isupper() and len(opponent) > 4: opponent = opponent.title()
+        opponent = re.sub(r"\s+(Varsity|JV|Boys|Girls|Opponent)\b.*$", "", opponent).strip()     # schedule clutter
+        if not opponent or re.search(r"\b(TBD|TBA|Bye)\b", opponent, re.I):
+            continue          # no opponent yet
+        if len(opponent) > 34:
+            opponent = opponent[:34].rsplit(" ", 1)[0] + "…"
         where = v.get("LOCATION", "")
         home = where.lower().startswith("home")
         venue = where.split("-", 1)[1].strip() if "-" in where else ""
