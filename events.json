@@ -57,10 +57,59 @@
   },
   {
    "id": "school",
-   "name": "My schools",
+   "name": "School calendar",
    "light": "#1C5CA3",
    "dark": "#84B3EE",
-   "symbol": "graduationcap.fill"
+   "symbol": "graduationcap.fill",
+   "group": "My schools"
+  },
+  {
+   "id": "hs-basketball",
+   "name": "School basketball",
+   "light": "#B85000",
+   "dark": "#FF9A4D",
+   "symbol": "basketball.fill",
+   "group": "My schools"
+  },
+  {
+   "id": "hs-soccer",
+   "name": "School soccer",
+   "light": "#2E7D4F",
+   "dark": "#7BD4A0",
+   "symbol": "soccerball",
+   "group": "My schools"
+  },
+  {
+   "id": "hs-football",
+   "name": "School football",
+   "light": "#7A5200",
+   "dark": "#D9A441",
+   "symbol": "football.fill",
+   "group": "My schools"
+  },
+  {
+   "id": "hs-baseball",
+   "name": "School baseball & softball",
+   "light": "#A32C3A",
+   "dark": "#F08A96",
+   "symbol": "baseball.fill",
+   "group": "My schools"
+  },
+  {
+   "id": "hs-volleyball",
+   "name": "School volleyball",
+   "light": "#6845A3",
+   "dark": "#B99DF0",
+   "symbol": "volleyball.fill",
+   "group": "My schools"
+  },
+  {
+   "id": "hs-sports",
+   "name": "Other school sports",
+   "light": "#55616B",
+   "dark": "#B8C2CC",
+   "symbol": "figure.run",
+   "group": "My schools"
   },
   {
    "id": "fest",
@@ -1135,10 +1184,10 @@
    "title": "New Braunfels wrestling at TBD Varsity Boys Opponent at Westside Duals",
    "startDate": "2026-11-18",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Lanier HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "10:30",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -1149,10 +1198,10 @@
    "title": "New Braunfels wrestling at Varsity Girls Scramble",
    "startDate": "2026-11-18",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Lanier HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "10:30",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -1163,10 +1212,10 @@
    "title": "Canyon wrestling at Clemens Dual vs Clemens / Vets Memorial",
    "startDate": "2026-11-18",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Clemens High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "16:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -1201,9 +1250,9 @@
    "title": "Long Creek boys basketball at TBA",
    "startDate": "2026-11-19",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "TBA",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -1214,9 +1263,9 @@
    "title": "Canyon boys basketball at Joe Filoteo Classic",
    "startDate": "2026-11-19",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Joe Filoteo Classic",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -1227,9 +1276,9 @@
    "title": "Davenport girls basketball at TBA",
    "startDate": "2026-11-19",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "TBA",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -1240,10 +1289,10 @@
    "title": "New Braunfels girls basketball at Floresville Tournament",
    "startDate": "2026-11-19",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Floresville Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -1254,10 +1303,10 @@
    "title": "Long Creek girls basketball at Brandeis",
    "startDate": "2026-11-19",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Brandeis",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "10:00",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -1377,10 +1426,10 @@
    "title": "Long Creek girls basketball at Eagle Pass EPHS Basketball",
    "startDate": "2026-11-19",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Floresville HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "17:30",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -1480,9 +1529,9 @@
    "title": "Long Creek boys basketball at TBA",
    "startDate": "2026-11-20",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "TBA",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -1505,9 +1554,9 @@
    "title": "Davenport girls basketball at TBA",
    "startDate": "2026-11-20",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "TBA",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -1518,10 +1567,10 @@
    "title": "New Braunfels girls basketball at Floresville Tournament",
    "startDate": "2026-11-20",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Floresville Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -1532,10 +1581,10 @@
    "title": "Long Creek wrestling at Capital Classic Tournament",
    "startDate": "2026-11-20",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Delco Center",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -1546,10 +1595,10 @@
    "title": "Canyon wrestling at Tournament @ Bowie Boys and Girls Varsity",
    "startDate": "2026-11-20",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Tournament @ Bowie Boys and Girls Varsity",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -1560,10 +1609,10 @@
    "title": "Davenport boys swimming & diving at 4A TISCA Meet",
    "startDate": "2026-11-20",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Josh Davis Natatorium",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -1574,10 +1623,10 @@
    "title": "Davenport girls swimming & diving at 4A TISCA Meet",
    "startDate": "2026-11-20",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Josh Davis Natatorium",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -1588,10 +1637,10 @@
    "title": "Davenport boys wrestling at JV - Charger Classic",
    "startDate": "2026-11-20",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Churchill High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -1644,10 +1693,10 @@
    "title": "New Braunfels swimming vs. MacArthur & Smithson Valley",
    "startDate": "2026-11-20",
    "tag": "Home",
+   "category": "hs-sports",
    "location": "Das Rec",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "10:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -1720,10 +1769,10 @@
    "title": "Canyon Lake girls basketball vs. Luling Lady Eagles",
    "startDate": "2026-11-20",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Canyon Lake Main Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
    "startTime": "18:00",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -1734,10 +1783,10 @@
    "title": "New Braunfels boys basketball at Davenport",
    "startDate": "2026-11-20",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Davenport HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -1851,9 +1900,9 @@
    "title": "Davenport girls basketball at TBA",
    "startDate": "2026-11-21",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "TBA",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -1864,10 +1913,10 @@
    "title": "New Braunfels girls basketball at Floresville Tournament",
    "startDate": "2026-11-21",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Floresville Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -1878,10 +1927,10 @@
    "title": "Davenport boys swimming & diving at 4A TISCA Meet",
    "startDate": "2026-11-21",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Josh Davis Natatorium",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -1892,10 +1941,10 @@
    "title": "Davenport girls swimming & diving at 4A TISCA Meet",
    "startDate": "2026-11-21",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Josh Davis Natatorium",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -1906,10 +1955,10 @@
    "title": "Davenport boys wrestling at Varsity - Charger Classic",
    "startDate": "2026-11-21",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Churchill High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -1920,10 +1969,10 @@
    "title": "Canyon Lake wrestling at Mark Henry Classic",
    "startDate": "2026-11-21",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Mark Henry Classic",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -2040,10 +2089,10 @@
    "title": "New Braunfels wrestling at Varsity Boys Individual Tournament",
    "startDate": "2026-11-21",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Churchill HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -2054,10 +2103,10 @@
    "title": "New Braunfels wrestling at Varsity Girls Individual Tournament",
    "startDate": "2026-11-21",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Churchill HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -2188,10 +2237,10 @@
    "title": "Long Creek boys basketball vs. Davenport",
    "startDate": "2026-11-23",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Long Creek High School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "11:30",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -2215,10 +2264,10 @@
    "title": "Davenport girls basketball vs. Samuel Clemens Lady Buffs",
    "startDate": "2026-11-23",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Davenport High Main Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "11:30",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -2229,10 +2278,10 @@
    "title": "Canyon girls basketball at Lehman LHS Var Basketball",
    "startDate": "2026-11-23",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Lehman HS",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "12:30",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -2243,10 +2292,10 @@
    "title": "Canyon Lake girls basketball at St. Michael's Catholic Academy-Austin",
    "startDate": "2026-11-23",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "St. Michael's Catholic Academy-Austin",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
    "startTime": "12:30",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -2257,10 +2306,10 @@
    "title": "New Braunfels boys basketball vs. Highlands",
    "startDate": "2026-11-23",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "NBHS Competition Gym",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "13:30",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -2303,10 +2352,10 @@
    "title": "Canyon girls basketball vs. Roosevelt",
    "startDate": "2026-11-24",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Cougar Den",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "10:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -2317,10 +2366,10 @@
    "title": "New Braunfels girls basketball at Madison",
    "startDate": "2026-11-24",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Madison",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "11:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -2331,10 +2380,10 @@
    "title": "Long Creek girls basketball vs. Burbank",
    "startDate": "2026-11-24",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Long Creek High School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "11:30",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -2345,10 +2394,10 @@
    "title": "Canyon boys basketball at LEE",
    "startDate": "2026-11-24",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "LEE",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "12:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -2371,10 +2420,10 @@
    "title": "New Braunfels boys basketball at Canyon Lake CLHS Hawks",
    "startDate": "2026-11-25",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Canyon Lake HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "11:30",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -2672,10 +2721,10 @@
    "title": "New Braunfels girls basketball at Poth",
    "startDate": "2026-12-01",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Poth",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:15",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -2686,10 +2735,10 @@
    "title": "Long Creek girls basketball at Gonzales Lady Apaches",
    "startDate": "2026-12-01",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Gonzales High School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "18:15",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -2700,10 +2749,10 @@
    "title": "Long Creek boys basketball vs. Boerne Basketball",
    "startDate": "2026-12-01",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Long Creek High School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -2727,10 +2776,10 @@
    "title": "Davenport girls basketball vs. Pieper Warriors",
    "startDate": "2026-12-01",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Davenport High Main Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -2754,10 +2803,10 @@
    "title": "Canyon Lake girls basketball vs. Ingram Tom Moore Warriors",
    "startDate": "2026-12-01",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Canyon Lake Main Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -2768,10 +2817,10 @@
    "title": "New Braunfels boys basketball vs. Comal Canyon",
    "startDate": "2026-12-01",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "NBHS Competition Gym",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -2782,10 +2831,10 @@
    "title": "Canyon boys basketball at New Braunfels Varsity Boys Basketball",
    "startDate": "2026-12-01",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "New Braunfels Varsity Boys Basketball",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -2861,10 +2910,10 @@
    "title": "Canyon wrestling at Clemens Dual vs Clemens/ Madison / Steele",
    "startDate": "2026-12-02",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Clemens High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "17:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -2875,10 +2924,10 @@
    "title": "Davenport boys wrestling at Hays",
    "startDate": "2026-12-02",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Hays High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "17:00",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -2915,9 +2964,9 @@
    "title": "Canyon boys basketball at Austin Bowie Classic",
    "startDate": "2026-12-03",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Austin Bowie Classic",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -2928,9 +2977,9 @@
    "title": "Davenport girls basketball at TBA",
    "startDate": "2026-12-03",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "TBA",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -2941,9 +2990,9 @@
    "title": "Canyon Lake girls basketball at TBD",
    "startDate": "2026-12-03",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Llano High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -2954,10 +3003,10 @@
    "title": "New Braunfels girls basketball at Northside/Northeast Tournament",
    "startDate": "2026-12-03",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Northside/Northeast Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -2968,10 +3017,10 @@
    "title": "New Braunfels boys basketball at Del Valle",
    "startDate": "2026-12-03",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "CC ISD District Stadium",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "13:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -2982,10 +3031,10 @@
    "title": "New Braunfels boys basketball at Orange Grove",
    "startDate": "2026-12-03",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "CC ISD District Stadium",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "16:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -3022,10 +3071,10 @@
    "title": "New Braunfels wrestling at La Vernia Varsity Girls",
    "startDate": "2026-12-03",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "La Vernia High School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -3036,10 +3085,10 @@
    "title": "New Braunfels wrestling at MacArthur Varsity Girls",
    "startDate": "2026-12-03",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "La Vernia High School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -3050,10 +3099,10 @@
    "title": "New Braunfels wrestling at La Vernia Varsity Boys",
    "startDate": "2026-12-03",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "La Vernia High School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -3064,10 +3113,10 @@
    "title": "New Braunfels wrestling at MacArthur Varsity Boys",
    "startDate": "2026-12-03",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "La Vernia High School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -3104,10 +3153,10 @@
    "title": "Long Creek girls basketball at Navarro",
    "startDate": "2026-12-03",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Navarro HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -3139,9 +3188,9 @@
    "title": "New Braunfels swimming at TISCA Championship",
    "startDate": "2026-12-04",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Blossom Athletic Complex",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -3152,9 +3201,9 @@
    "title": "New Braunfels boys basketball at CCCA Tournament @ Corpus Christi",
    "startDate": "2026-12-04",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Corpus Christi Moody",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -3177,9 +3226,9 @@
    "title": "Davenport girls basketball at TBA",
    "startDate": "2026-12-04",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "TBA",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -3190,9 +3239,9 @@
    "title": "Canyon Lake girls basketball at TBD",
    "startDate": "2026-12-04",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Llano High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -3215,10 +3264,10 @@
    "title": "New Braunfels girls basketball at Northside/Northeast Tournament",
    "startDate": "2026-12-04",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Northside/Northeast Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -3229,10 +3278,10 @@
    "title": "Davenport boys wrestling at JV - Clarkson Classic",
    "startDate": "2026-12-04",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Smithson Valley High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -3256,10 +3305,10 @@
    "title": "Long Creek swimming at TISCA Day 1",
    "startDate": "2026-12-04",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "TISCA Day 1",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "09:00",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -3321,9 +3370,9 @@
    "title": "New Braunfels boys basketball at CCCA Tournament@Corpus Chrisiti",
    "startDate": "2026-12-05",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Corpus Christi Moody",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -3346,9 +3395,9 @@
    "title": "Davenport girls basketball at TBA",
    "startDate": "2026-12-05",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "TBA",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -3359,9 +3408,9 @@
    "title": "Canyon Lake girls basketball at TBD",
    "startDate": "2026-12-05",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Llano High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -3385,10 +3434,10 @@
    "title": "New Braunfels girls basketball at Northside/Northeast Tournament",
    "startDate": "2026-12-05",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Northside/Northeast Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -3399,10 +3448,10 @@
    "title": "Long Creek wrestling at SV Tournament",
    "startDate": "2026-12-05",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Smithson Valley HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -3413,10 +3462,10 @@
    "title": "Canyon wrestling at Smithson Valley Clarkson Classic Tournament Varsity Boys and Girls",
    "startDate": "2026-12-05",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Smithson Valley High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -3427,10 +3476,10 @@
    "title": "Davenport boys wrestling at Varsity - Clarkson Classic",
    "startDate": "2026-12-05",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Smithson Valley High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -3441,10 +3490,10 @@
    "title": "Canyon Lake wrestling at Clarkson Classic",
    "startDate": "2026-12-05",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Smithson Valley High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -3468,10 +3517,10 @@
    "title": "Long Creek swimming at TISCA Day 2",
    "startDate": "2026-12-05",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "TISCA Day 2",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "09:00",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -3808,10 +3857,10 @@
    "title": "New Braunfels girls basketball vs. Roosevelt",
    "startDate": "2026-12-08",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "NBHS Competition Gym",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -3822,10 +3871,10 @@
    "title": "Long Creek boys basketball at Victoria West Victoria",
    "startDate": "2026-12-08",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Victoria West Victoria",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -3836,10 +3885,10 @@
    "title": "Canyon girls basketball at TMI",
    "startDate": "2026-12-08",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "TMI",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -3876,10 +3925,10 @@
    "title": "Canyon boys basketball vs. Carrizo Springs Wildcat Basketball Varsity",
    "startDate": "2026-12-08",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Cougar Den",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -3904,10 +3953,10 @@
    "title": "Davenport girls basketball at Liberal Arts and Science Academy Liberal Arts & Science",
    "startDate": "2026-12-08",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Liberal Arts and Science Academy Liberal Arts & Science",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "19:30",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -3918,10 +3967,10 @@
    "title": "Canyon Lake wrestling at Highlands , MacArthur",
    "startDate": "2026-12-09",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Smithson Valley High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -3946,10 +3995,10 @@
    "title": "New Braunfels wrestling vs. Reagan Varsity Girls",
    "startDate": "2026-12-09",
    "tag": "Home",
+   "category": "hs-sports",
    "location": "New Braunfels High School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -3960,10 +4009,10 @@
    "title": "New Braunfels wrestling vs. Kyle Lehman Varsity Girls",
    "startDate": "2026-12-09",
    "tag": "Home",
+   "category": "hs-sports",
    "location": "New Braunfels High School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -3974,10 +4023,10 @@
    "title": "New Braunfels wrestling vs. Reagan Varsity Boys",
    "startDate": "2026-12-09",
    "tag": "Home",
+   "category": "hs-sports",
    "location": "New Braunfels High School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -3988,10 +4037,10 @@
    "title": "New Braunfels wrestling vs. Kyle Lehman Varsity Boys",
    "startDate": "2026-12-09",
    "tag": "Home",
+   "category": "hs-sports",
    "location": "New Braunfels High School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -4040,9 +4089,9 @@
    "title": "Long Creek boys basketball at TBA",
    "startDate": "2026-12-10",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Navarro HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -4053,9 +4102,9 @@
    "title": "Canyon Lake girls basketball at TBD",
    "startDate": "2026-12-10",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "TBD",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -4094,10 +4143,10 @@
    "title": "Davenport boys swimming & diving at NISD Relays",
    "startDate": "2026-12-10",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Northside Natatorium",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -4108,10 +4157,10 @@
    "title": "Davenport girls swimming & diving at NISD Relays",
    "startDate": "2026-12-10",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Northside Natatorium",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -4122,10 +4171,10 @@
    "title": "Long Creek swimming at Relays",
    "startDate": "2026-12-10",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Relays",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "09:00",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -4136,10 +4185,10 @@
    "title": "New Braunfels boys basketball at Taft",
    "startDate": "2026-12-10",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Comal County Fairgrounds",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "14:01",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -4178,10 +4227,10 @@
    "title": "New Braunfels boys basketball at Odem",
    "startDate": "2026-12-10",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Comal County Fairgrounds",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "17:45",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -4249,9 +4298,9 @@
    "title": "Long Creek boys basketball at TBA",
    "startDate": "2026-12-11",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Navarro HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -4274,9 +4323,9 @@
    "title": "Canyon Lake girls basketball at TBD",
    "startDate": "2026-12-11",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "TBD",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -4287,10 +4336,10 @@
    "title": "Davenport boys wrestling at JV - Ultimate Warrior",
    "startDate": "2026-12-11",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Pieper High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -4301,10 +4350,10 @@
    "title": "Canyon Lake wrestling at Ultimate Warrior JV Tournament",
    "startDate": "2026-12-11",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Pieper High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -4357,10 +4406,10 @@
    "title": "New Braunfels swimming vs. Canyon & LongCreek",
    "startDate": "2026-12-11",
    "tag": "Home",
+   "category": "hs-sports",
    "location": "Das Rec",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "17:30",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -4384,10 +4433,10 @@
    "title": "Davenport girls basketball vs. Poth Pirette Basketball",
    "startDate": "2026-12-11",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Davenport High Main Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -4398,10 +4447,10 @@
    "title": "New Braunfels girls basketball at Lehman",
    "startDate": "2026-12-11",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Lehman",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -4412,10 +4461,10 @@
    "title": "New Braunfels boys soccer at Byron P. Steele II Knights",
    "startDate": "2026-12-11",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Steele HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -4426,10 +4475,10 @@
    "title": "Long Creek girls basketball vs. Veterans Memorial",
    "startDate": "2026-12-11",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Long Creek High School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -4440,10 +4489,10 @@
    "title": "Canyon boys soccer at Hays HHS Var Boys Soccer",
    "startDate": "2026-12-11",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Hays High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -4454,10 +4503,10 @@
    "title": "Canyon girls basketball at Byron P. Steele II Lady Knights",
    "startDate": "2026-12-11",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Steele HS",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -4468,10 +4517,10 @@
    "title": "New Braunfels girls soccer vs. Byron P. Steele II Lady Knights",
    "startDate": "2026-12-11",
    "tag": "Home",
+   "category": "hs-soccer",
    "location": "Unicorn Stadium",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "19:15",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -4482,10 +4531,10 @@
    "title": "Long Creek girls soccer vs. La Vernia",
    "startDate": "2026-12-11",
    "tag": "Home",
+   "category": "hs-soccer",
    "location": "Dragon Stadium",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "19:15",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -4496,10 +4545,10 @@
    "title": "Canyon boys basketball at Austin Northeast",
    "startDate": "2026-12-11",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Austin Northeast",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "19:30",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -4510,9 +4559,9 @@
    "title": "Canyon Lake girls basketball at TBD",
    "startDate": "2026-12-12",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "TBD",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -4536,10 +4585,10 @@
    "title": "New Braunfels wrestling at TBD Varsity Boys Opponent at Houston Dual Championship",
    "startDate": "2026-12-12",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "TBD Varsity Boys Opponent at Houston Dual Championship",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -4550,10 +4599,10 @@
    "title": "New Braunfels wrestling at TBD Varsity Girls Opponent at Houston Dual Championship",
    "startDate": "2026-12-12",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "TBD Varsity Girls Opponent at Houston Dual Championship",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -4564,10 +4613,10 @@
    "title": "Long Creek wrestling at Dripping Springs Tournament",
    "startDate": "2026-12-12",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Dripping Springs HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -4578,10 +4627,10 @@
    "title": "Canyon wrestling at Cedar Park Pin A Palooza Tournament Varsity Boys and Girls",
    "startDate": "2026-12-12",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Cedar Park HS",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -4592,10 +4641,10 @@
    "title": "Davenport boys wrestling at V - Ultimate Warrior",
    "startDate": "2026-12-12",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Pieper High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -4606,10 +4655,10 @@
    "title": "Canyon Lake wrestling at Ultimate Warrior",
    "startDate": "2026-12-12",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Pieper High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -4856,10 +4905,10 @@
    "title": "New Braunfels boys basketball at Buda Johnson",
    "startDate": "2026-12-15",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Johnson HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -4883,10 +4932,10 @@
    "title": "New Braunfels girls basketball vs. Long Creek",
    "startDate": "2026-12-15",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "NBHS Competition Gym",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -4897,10 +4946,10 @@
    "title": "New Braunfels boys soccer vs. San Marcos Rattlers",
    "startDate": "2026-12-15",
    "tag": "Home",
+   "category": "hs-soccer",
    "location": "Unicorn Stadium",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -4911,10 +4960,10 @@
    "title": "Long Creek girls basketball at New Braunfels New",
    "startDate": "2026-12-15",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "New Braunfels HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -4925,10 +4974,10 @@
    "title": "Canyon boys basketball at Seguin BBB Matadors",
    "startDate": "2026-12-15",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Seguin BBB Matadors",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -4939,10 +4988,10 @@
    "title": "Canyon boys soccer vs. Davenport",
    "startDate": "2026-12-15",
    "tag": "Home",
+   "category": "hs-soccer",
    "location": "Cougar Stadium",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -4963,10 +5012,10 @@
    "title": "New Braunfels girls soccer at Canyon",
    "startDate": "2026-12-15",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Canyon High School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -4977,10 +5026,10 @@
    "title": "Long Creek boys soccer vs. Navarro",
    "startDate": "2026-12-15",
    "tag": "Home",
+   "category": "hs-soccer",
    "location": "Dragon Stadium",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -4991,10 +5040,10 @@
    "title": "Canyon girls basketball vs. Judson",
    "startDate": "2026-12-15",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Cougar Den",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -5019,10 +5068,10 @@
    "title": "Canyon Lake girls basketball vs. Blanco V Panthers",
    "startDate": "2026-12-15",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Canyon Lake Main Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -5046,10 +5095,10 @@
    "title": "Long Creek girls soccer at Navarro Navarro Lady Panther Soccer",
    "startDate": "2026-12-15",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Navarro Navarro Lady Panther Soccer",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "19:15",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -5096,10 +5145,10 @@
    "title": "New Braunfels wrestling at Highlands Varsity Girls",
    "startDate": "2026-12-16",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Highlands HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "17:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -5110,10 +5159,10 @@
    "title": "New Braunfels wrestling at Uvalde Varsity Girls",
    "startDate": "2026-12-16",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Highlands HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "17:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -5124,10 +5173,10 @@
    "title": "New Braunfels wrestling at Highlands Varsity Boys",
    "startDate": "2026-12-16",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Highlands HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "17:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -5138,10 +5187,10 @@
    "title": "New Braunfels wrestling at Uvalde Varsity Boys",
    "startDate": "2026-12-16",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Highlands HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "17:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -5152,10 +5201,10 @@
    "title": "Davenport boys wrestling vs. San Marcos Rattlers",
    "startDate": "2026-12-16",
    "tag": "Home",
+   "category": "hs-sports",
    "location": "Davenport High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "17:00",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -5357,10 +5406,10 @@
    "title": "Canyon Lake girls basketball at Marble Falls Varsity GBB",
    "startDate": "2026-12-18",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Marble Falls High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
    "startTime": "16:00",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -5388,10 +5437,10 @@
    "title": "New Braunfels girls soccer at Samuel Clemens Lady Buffs",
    "startDate": "2026-12-18",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Clemens HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "17:15",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -5402,10 +5451,10 @@
    "title": "Long Creek girls soccer at Alamo Heights Mules",
    "startDate": "2026-12-18",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Alamo Heights HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "17:45",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -5416,10 +5465,10 @@
    "title": "Long Creek boys soccer vs. Byron P. Steele II Knights",
    "startDate": "2026-12-18",
    "tag": "Home",
+   "category": "hs-soccer",
    "location": "Long Creek High School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -5430,10 +5479,10 @@
    "title": "New Braunfels girls basketball vs. Smithson Valley",
    "startDate": "2026-12-18",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "NBHS Competition Gym",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -5444,10 +5493,10 @@
    "title": "New Braunfels boys basketball at Smithson Valley Rangers",
    "startDate": "2026-12-18",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Smithson Valley HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -5458,10 +5507,10 @@
    "title": "Long Creek boys basketball vs. Seguin BBB Matadors",
    "startDate": "2026-12-18",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Long Creek High School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -5472,10 +5521,10 @@
    "title": "Long Creek girls basketball at Seguin GBB Lady Matadors",
    "startDate": "2026-12-18",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Seguin HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -5506,10 +5555,10 @@
    "title": "New Braunfels boys soccer at Davenport",
    "startDate": "2026-12-18",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Davenport HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -5520,10 +5569,10 @@
    "title": "Canyon girls basketball vs. EAST CENTRAL HIGH SCHOOL Lady Hornets",
    "startDate": "2026-12-18",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Cougar Den",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -5534,10 +5583,10 @@
    "title": "Canyon boys basketball at EAST CENTRAL HIGH SCHOOL Hornets",
    "startDate": "2026-12-18",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "EAST CENTRAL HIGH SCHOOL Hornets",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -5548,10 +5597,10 @@
    "title": "Long Creek wrestling at MacArthur Tournament",
    "startDate": "2026-12-19",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "MacArthur HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -5562,10 +5611,10 @@
    "title": "Canyon wrestling at MacArthur Reindeer Classic Varsity Boys and Girls",
    "startDate": "2026-12-19",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "MacArthur High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -5576,10 +5625,10 @@
    "title": "Davenport boys wrestling at Rumble In The Jungle",
    "startDate": "2026-12-19",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Rumble In The Jungle",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -5590,10 +5639,10 @@
    "title": "Canyon Lake wrestling at Reindeer Round Up",
    "startDate": "2026-12-19",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "MacArthur High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -5617,10 +5666,10 @@
    "title": "New Braunfels wrestling at Varsity Boys Individual Tournament",
    "startDate": "2026-12-19",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Vista Ridge HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "09:15",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -5631,10 +5680,10 @@
    "title": "New Braunfels wrestling at Varsity Girls Individual Tournament",
    "startDate": "2026-12-19",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Vista Ridge HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "09:15",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -5759,10 +5808,10 @@
    "title": "Long Creek girls basketball vs. Smithson Valley Rangers",
    "startDate": "2026-12-22",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Long Creek High School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "11:30",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -5773,10 +5822,10 @@
    "title": "New Braunfels girls basketball at MacArthuur",
    "startDate": "2026-12-22",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "MacArthuur",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "12:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -5787,10 +5836,10 @@
    "title": "New Braunfels boys basketball vs. MacArthur",
    "startDate": "2026-12-22",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "NBHS Competition Gym",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "13:30",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -5801,10 +5850,10 @@
    "title": "Long Creek boys basketball at Smithson Valley Rangers",
    "startDate": "2026-12-22",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Smithson Valley HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -5918,9 +5967,9 @@
    "title": "Davenport girls basketball at TBA",
    "startDate": "2026-12-28",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "TBA",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -5931,9 +5980,9 @@
    "title": "Canyon Lake girls basketball at TBD",
    "startDate": "2026-12-28",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Johnson City High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -5944,10 +5993,10 @@
    "title": "Canyon boys soccer at Cornerstone Christian CCS Warriors",
    "startDate": "2026-12-28",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Seguin High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "10:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -5958,10 +6007,10 @@
    "title": "Canyon boys soccer at Manor New Tech Manor New",
    "startDate": "2026-12-28",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Seguin High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "16:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -5972,9 +6021,9 @@
    "title": "New Braunfels boys basketball at Hays Tournament",
    "startDate": "2026-12-29",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Hays HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -5985,9 +6034,9 @@
    "title": "Long Creek boys basketball at TBA",
    "startDate": "2026-12-29",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "TBA",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -5998,9 +6047,9 @@
    "title": "Canyon boys basketball at Franklin Holiday Tourney",
    "startDate": "2026-12-29",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Franklin Holiday Tourney",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -6011,9 +6060,9 @@
    "title": "Davenport girls basketball at TBA",
    "startDate": "2026-12-29",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "TBA",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -6024,9 +6073,9 @@
    "title": "Canyon Lake girls basketball at TBD",
    "startDate": "2026-12-29",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Johnson City High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -6037,10 +6086,10 @@
    "title": "Canyon girls basketball vs. Gonzales Lady Apaches",
    "startDate": "2026-12-29",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Cougar Den",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "11:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -6060,9 +6109,9 @@
    "title": "New Braunfels boys basketball at Hays Tournament",
    "startDate": "2026-12-30",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Hays HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -6073,9 +6122,9 @@
    "title": "Long Creek boys basketball at TBA",
    "startDate": "2026-12-30",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "TBA",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -6086,9 +6135,9 @@
    "title": "Canyon boys soccer at TBA",
    "startDate": "2026-12-30",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Seguin High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -6099,9 +6148,9 @@
    "title": "Davenport girls basketball at TBA",
    "startDate": "2026-12-30",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "TBA",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -6112,10 +6161,10 @@
    "title": "Canyon wrestling at Reagan Dual Matches",
    "startDate": "2026-12-30",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Reagan High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "09:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -6126,9 +6175,9 @@
    "title": "New Braunfels girls soccer at SCUC Tournament",
    "startDate": "2026-12-31",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "SCUC Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -6150,10 +6199,10 @@
    "title": "New Braunfels girls basketball at Buda Hays",
    "startDate": "2026-12-31",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Buda Hays",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "13:30",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -6177,9 +6226,9 @@
    "title": "New Braunfels girls soccer at SCUC Tournament",
    "startDate": "2027-01-01",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "SCUC Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -6212,9 +6261,9 @@
    "title": "New Braunfels girls soccer at SCUC Tournament",
    "startDate": "2027-01-02",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "SCUC Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -6225,10 +6274,10 @@
    "title": "New Braunfels wrestling at Varsity Boys Individual Tournament",
    "startDate": "2027-01-02",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Canyon High School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -6239,10 +6288,10 @@
    "title": "New Braunfels wrestling at Varsity Girls Individual Tournament",
    "startDate": "2027-01-02",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Canyon High School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -6253,10 +6302,10 @@
    "title": "Long Creek wrestling at New Years Tournament",
    "startDate": "2027-01-02",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "San Marcos HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -6267,10 +6316,10 @@
    "title": "Canyon wrestling at San Marcos (we are host) New Years Rumble Tournament JV and Varsity Bo",
    "startDate": "2027-01-02",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "San Marcos High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -6294,10 +6343,10 @@
    "title": "Davenport boys wrestling at JV and Varsity - Canyon Classic",
    "startDate": "2027-01-02",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "San Marcos High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "09:00",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -6308,10 +6357,10 @@
    "title": "Canyon boys basketball vs. San Marcos Rattlers",
    "startDate": "2027-01-02",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Cougar Den",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "12:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -6322,10 +6371,10 @@
    "title": "Canyon girls basketball at San Marcos Lady Rattlers",
    "startDate": "2027-01-02",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "San Marcos Lady Rattlers",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -6392,10 +6441,10 @@
    "title": "New Braunfels wrestling at Smithson Valley Varsity Boys",
    "startDate": "2027-01-05",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Oak Run Middle School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -6406,10 +6455,10 @@
    "title": "New Braunfels girls basketball vs. Veterans Memorial",
    "startDate": "2027-01-05",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "NBHS Competition Gym",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -6420,10 +6469,10 @@
    "title": "New Braunfels boys basketball at Veterans Memorial Patriots",
    "startDate": "2027-01-05",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Veterans Memorial HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -6434,10 +6483,10 @@
    "title": "Long Creek boys basketball vs. Lockhart",
    "startDate": "2027-01-05",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Long Creek High School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -6448,10 +6497,10 @@
    "title": "Long Creek girls basketball at Lockhart",
    "startDate": "2027-01-05",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Lockhart HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -6462,10 +6511,10 @@
    "title": "Canyon girls basketball at Samuel Clemens Lady Buffs",
    "startDate": "2027-01-05",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Samuel Clemens Lady Buffs",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -6476,10 +6525,10 @@
    "title": "Canyon boys basketball vs. Samuel Clemens Buffaloes",
    "startDate": "2027-01-05",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Cougar Den",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -6490,10 +6539,10 @@
    "title": "Davenport girls basketball vs. Canyon Lake CLHS Hawks",
    "startDate": "2027-01-05",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Davenport High Main Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -6504,10 +6553,10 @@
    "title": "Canyon Lake girls basketball at Davenport",
    "startDate": "2027-01-05",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Davenport High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -6518,10 +6567,10 @@
    "title": "Long Creek boys soccer vs. Patriots",
    "startDate": "2027-01-05",
    "tag": "Home",
+   "category": "hs-soccer",
    "location": "Dragon Stadium",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "19:15",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -6591,9 +6640,9 @@
    "title": "New Braunfels boys soccer at Byron Nelson Tournament Day 1",
    "startDate": "2027-01-07",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Byron Nelson Tournament Day 1",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -6604,9 +6653,9 @@
    "title": "New Braunfels girls soccer at Governor's Cup",
    "startDate": "2027-01-07",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Governor's Cup",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -6645,10 +6694,10 @@
    "title": "Long Creek girls soccer at TBD",
    "startDate": "2027-01-07",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "NEISD",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "10:00",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -6659,10 +6708,10 @@
    "title": "Canyon boys soccer at Vista Ridge VRHS",
    "startDate": "2027-01-07",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Burger Annex",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "11:20",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -6687,10 +6736,10 @@
    "title": "Canyon boys soccer at Connally",
    "startDate": "2027-01-07",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "House Park",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "16:20",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -6724,9 +6773,9 @@
    "title": "New Braunfels girls soccer at Governor's Cup",
    "startDate": "2027-01-08",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Governor's Cup",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -6737,9 +6786,9 @@
    "title": "New Braunfels boys soccer at Byron Nelson Tournament Day 2",
    "startDate": "2027-01-08",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Byron Nelson Tournament Day 2",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -6750,9 +6799,9 @@
    "title": "New Braunfels swimming at NEISD Winter Invite",
    "startDate": "2027-01-08",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Blossom Athletic Complex",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -6777,10 +6826,10 @@
    "title": "Long Creek wrestling at Cy Fair Tournament",
    "startDate": "2027-01-08",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Cy Fair Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -6791,10 +6840,10 @@
    "title": "New Braunfels wrestling at Varsity Boys Individual Tournament Day 1",
    "startDate": "2027-01-08",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Berry Center",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "08:30",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -6805,10 +6854,10 @@
    "title": "New Braunfels wrestling at Varsity Girls Individual Tournament Day 1",
    "startDate": "2027-01-08",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Berry Center",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "08:30",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -6833,10 +6882,10 @@
    "title": "Long Creek swimming at 1/2 and 1/2 Day 1",
    "startDate": "2027-01-08",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "1/2 and 1/2 Day 1",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "09:00",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -6847,10 +6896,10 @@
    "title": "Canyon boys soccer at Navarro",
    "startDate": "2027-01-08",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Navarro HS",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "09:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -6861,10 +6910,10 @@
    "title": "Davenport boys wrestling at Centex",
    "startDate": "2027-01-08",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Delco Center",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "09:00",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -6889,10 +6938,10 @@
    "title": "Davenport girls basketball at Kerrville Tivy Antlers",
    "startDate": "2027-01-08",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Tivy High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -6903,10 +6952,10 @@
    "title": "Canyon Lake girls basketball at Bandera Varsity",
    "startDate": "2027-01-08",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Bandera HS",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -6917,10 +6966,10 @@
    "title": "New Braunfels girls basketball at Seguin",
    "startDate": "2027-01-08",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Seguin",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -6931,10 +6980,10 @@
    "title": "New Braunfels boys basketball vs. Seguin BBB Matadors",
    "startDate": "2027-01-08",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "NBHS Competition Gym",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -6945,10 +6994,10 @@
    "title": "Long Creek boys basketball at MacArthur",
    "startDate": "2027-01-08",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "MacArthur",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -6959,10 +7008,10 @@
    "title": "Long Creek girls basketball vs. MacArthur",
    "startDate": "2027-01-08",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Long Creek High School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -6982,10 +7031,10 @@
    "title": "Canyon girls basketball vs. Wagner Thunderbirds",
    "startDate": "2027-01-08",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Cougar Den",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -6996,10 +7045,10 @@
    "title": "Canyon boys basketball at Wagner Thunderbirds",
    "startDate": "2027-01-08",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Wagner Thunderbirds",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -7010,10 +7059,10 @@
    "title": "Long Creek girls soccer at TBD",
    "startDate": "2027-01-08",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "NEISD",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "19:15",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -7033,9 +7082,9 @@
    "title": "New Braunfels boys soccer at Byron Nelson Tournament Day 3",
    "startDate": "2027-01-09",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Byron Nelson Tournament Day 3",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -7046,9 +7095,9 @@
    "title": "New Braunfels girls soccer at Governor's Cup",
    "startDate": "2027-01-09",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Governor's Cup",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -7059,9 +7108,9 @@
    "title": "Canyon boys soccer at TBA",
    "startDate": "2027-01-09",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Burger Stadium",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -7072,10 +7121,10 @@
    "title": "Canyon Lake wrestling at Brack Brawl",
    "startDate": "2027-01-09",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Brack Brawl",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -7099,10 +7148,10 @@
    "title": "Long Creek swimming at 1/2 and 1/2 Day 2",
    "startDate": "2027-01-09",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "1/2 and 1/2 Day 2",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "09:00",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -7113,10 +7162,10 @@
    "title": "Davenport boys wrestling at Centex",
    "startDate": "2027-01-09",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Delco Center",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "09:00",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -7127,10 +7176,10 @@
    "title": "New Braunfels wrestling at Varsity Boys Individual Tournament Day 2",
    "startDate": "2027-01-09",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Berry Center",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -7141,10 +7190,10 @@
    "title": "New Braunfels wrestling at Varsity Girls Individual Tournament Day 2",
    "startDate": "2027-01-09",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Berry Center",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -7155,10 +7204,10 @@
    "title": "Long Creek girls soccer at TBD",
    "startDate": "2027-01-09",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "NEISD",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "19:15",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -7272,10 +7321,10 @@
    "title": "Davenport girls basketball vs. Bandera Varsity",
    "startDate": "2027-01-12",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Davenport High Main Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -7286,10 +7335,10 @@
    "title": "New Braunfels girls basketball vs. Lockhart",
    "startDate": "2027-01-12",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "NBHS Competition Gym",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -7300,10 +7349,10 @@
    "title": "New Braunfels boys basketball at Lockhart",
    "startDate": "2027-01-12",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Lockhart HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -7314,10 +7363,10 @@
    "title": "Long Creek boys basketball vs. Lehman LHS Var Basketball",
    "startDate": "2027-01-12",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Long Creek High School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -7328,10 +7377,10 @@
    "title": "Long Creek girls basketball at Lehman LHS Var Basketball",
    "startDate": "2027-01-12",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Lehman LHS Var Basketball",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -7342,10 +7391,10 @@
    "title": "Canyon boys soccer vs. Clark",
    "startDate": "2027-01-12",
    "tag": "Home",
+   "category": "hs-soccer",
    "location": "Cougar Stadium",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -7356,10 +7405,10 @@
    "title": "Long Creek boys soccer at Davenport",
    "startDate": "2027-01-12",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Davenport HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -7370,10 +7419,10 @@
    "title": "Canyon girls basketball at Pieper Warriors",
    "startDate": "2027-01-12",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Pieper Warriors",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -7384,10 +7433,10 @@
    "title": "Canyon boys basketball vs. Pieper Warriors",
    "startDate": "2027-01-12",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Cougar Den",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -7398,10 +7447,10 @@
    "title": "Canyon Lake girls basketball vs. Fredericksburg Basketball Girls Varsity",
    "startDate": "2027-01-12",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Canyon Lake Main Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -7412,10 +7461,10 @@
    "title": "Davenport boys wrestling at Madison",
    "startDate": "2027-01-13",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Madison High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "09:00",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -7426,10 +7475,10 @@
    "title": "Long Creek wrestling vs. New Braunfels",
    "startDate": "2027-01-13",
    "tag": "Home",
+   "category": "hs-sports",
    "location": "Long Creek High School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "17:00",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -7440,10 +7489,10 @@
    "title": "New Braunfels wrestling at Long Creek LC Varsity Boys Wrestling",
    "startDate": "2027-01-13",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Long Creek LC Varsity Boys Wrestling",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -7454,9 +7503,9 @@
    "title": "New Braunfels boys soccer at Copa Halcon Day 1",
    "startDate": "2027-01-14",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Copa Halcon Day 1",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -7467,10 +7516,10 @@
    "title": "Davenport boys swimming & diving at SAISD Invite",
    "startDate": "2027-01-14",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "SAISD Invite",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -7481,10 +7530,10 @@
    "title": "Davenport girls swimming & diving at SAISD Invite",
    "startDate": "2027-01-14",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "SAISD Invite",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -7532,10 +7581,10 @@
    "title": "Long Creek girls soccer at TBD",
    "startDate": "2027-01-14",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "SW Legacy HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "19:15",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -7546,9 +7595,9 @@
    "title": "New Braunfels boys soccer at Copa Halcon Day 2",
    "startDate": "2027-01-15",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Copa Halcon Day 2",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -7601,10 +7650,10 @@
    "title": "Canyon Lake wrestling at Lee Invitational JV Tournament",
    "startDate": "2027-01-15",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Lee High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
    "startTime": "13:00",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -7615,10 +7664,10 @@
    "title": "Canyon boys soccer vs. Churchill",
    "startDate": "2027-01-15",
    "tag": "Home",
+   "category": "hs-soccer",
    "location": "Cougar Stadium",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "18:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -7629,10 +7678,10 @@
    "title": "Davenport girls basketball at Wimberley Lady Texans",
    "startDate": "2027-01-15",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Wimberley HS",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -7643,10 +7692,10 @@
    "title": "New Braunfels girls basketball vs. Lehman",
    "startDate": "2027-01-15",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "NBHS Competition Gym",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -7657,10 +7706,10 @@
    "title": "New Braunfels boys basketball at Lehman LHS Var Basketball",
    "startDate": "2027-01-15",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Kyle Lehman HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -7671,10 +7720,10 @@
    "title": "Long Creek boys basketball vs. Veterans Memorial Patriots",
    "startDate": "2027-01-15",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Long Creek High School",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -7685,10 +7734,10 @@
    "title": "Long Creek girls basketball at veterans Memorial",
    "startDate": "2027-01-15",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Veterans Memorial HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "18:45",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -7699,10 +7748,10 @@
    "title": "Long Creek boys soccer vs. Kennedy",
    "startDate": "2027-01-15",
    "tag": "Home",
+   "category": "hs-soccer",
    "location": "Dragon Stadium",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -7713,10 +7762,10 @@
    "title": "Canyon girls basketball vs. Byron P. Steele II Lady Knights",
    "startDate": "2027-01-15",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Cougar Den",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -7727,10 +7776,10 @@
    "title": "Canyon boys basketball at Byron P. Steele II Knights",
    "startDate": "2027-01-15",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Byron P. Steele II Knights",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:canyon-hs"
    ],
@@ -7741,10 +7790,10 @@
    "title": "Canyon Lake girls basketball at Kerrville Tivy Antlers",
    "startDate": "2027-01-15",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Tivy High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -7755,10 +7804,10 @@
    "title": "New Braunfels girls soccer vs. Liberty Hill LHHS GSoc-Var",
    "startDate": "2027-01-15",
    "tag": "Home",
+   "category": "hs-soccer",
    "location": "Unicorn Stadium",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "19:15",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -7769,10 +7818,10 @@
    "title": "Long Creek girls soccer at TBD",
    "startDate": "2027-01-15",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "SW Legacy HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "19:15",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
@@ -7804,9 +7853,9 @@
    "title": "New Braunfels boys soccer at Copa Halcon Day 3",
    "startDate": "2027-01-16",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Copa Halcon Day 3",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -7817,10 +7866,10 @@
    "title": "New Braunfels wrestling at TBD Varsity Girls Opponent at TWCA State Duals",
    "startDate": "2027-01-16",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "TBD Varsity Girls Opponent at TWCA State Duals",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -7831,10 +7880,10 @@
    "title": "New Braunfels wrestling at Varsity Boys Individual Tournament",
    "startDate": "2027-01-16",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Davenport HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:new-braunfels-hs"
    ],
@@ -7845,10 +7894,10 @@
    "title": "Canyon Lake wrestling at Lee Invitational",
    "startDate": "2027-01-16",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Lee High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
    "startTime": "08:00",
-   "category": "school",
    "tags": [
     "school:canyon-lake-hs"
    ],
@@ -7886,10 +7935,10 @@
    "title": "Davenport boys wrestling vs. Alpha Wolf Tournament",
    "startDate": "2027-01-16",
    "tag": "Home",
+   "category": "hs-sports",
    "location": "Davenport High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "09:00",
-   "category": "school",
    "tags": [
     "school:davenport-hs"
    ],
@@ -7913,10 +7962,10 @@
    "title": "Long Creek girls soccer at TBD",
    "startDate": "2027-01-16",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "SW Legacy HS",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "19:15",
-   "category": "school",
    "tags": [
     "school:long-creek-hs"
    ],
