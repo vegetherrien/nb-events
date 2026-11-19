@@ -52,6 +52,9 @@ NB_SOURCES = [
     # Public library (LibCal): hundreds of storytimes and clubs, so only screenings.
     dict(name="New Braunfels Public Library", libcal="https://nbtexas.libcal.com", category="movies",
          location="New Braunfels Public Library", keep=MOVIE),
+    # Humane Society of the New Braunfels Area: adoption events, block parties, fundraisers.
+    dict(name="HSNBA", api="https://hsnba.org/wp-json/tribe/events/v1/events", category="pets",
+         location="HSNBA, 3353 Morningside Dr", drop=r"closed|visiting the blake"),
     # City of New Braunfels calendar (all departments). Mostly meetings; keep the public events.
     # catIDs: 14 main, 74 master, 22 downtown, 65 parks & rec, 42 special events.
     *[dict(name="City of New Braunfels",
@@ -83,7 +86,7 @@ BOERNE_SOURCES = [
     dict(name="The Boerne Life", api="https://theboernelife.com/wp-json/tribe/events/v1/events",
          location="Boerne",
          # Their categories → ours, first match wins. Events in none of these are skipped.
-         category_map=[("Holiday", "holiday"), ("Music", "music"), ("Shopping", "market"),
+         category_map=[("Pets", "pets"), ("Holiday", "holiday"), ("Music", "music"), ("Shopping", "market"),
                        ("Arts and Culture", "market"), ("Outdoors", "nature"), ("Sports", "fest"),
                        ("Kids and Family", "fest"), ("Fundraiser", "fest"), ("General", "fest")],
          drop=r"library|storytime|story time|trivia|karaoke|happy hour|networking|mastermind|meeting|book ?club|"
@@ -449,9 +452,19 @@ def main(path, apply=False):
             continue
         if src.get("recurring"):
             # Weekly regulars (trivia, wine-bar gigs) belong in "Every week" notes, not the calendar.
-            from collections import Counter
-            counts = Counter(clean_title(v.get("SUMMARY", "")).lower() for v in raw)
-            raw = [v for v in raw if counts[clean_title(v.get("SUMMARY", "")).lower()] <= src["recurring"]
+            # Monthly ones (a guided hike, a market) stay: a series is dropped only when it repeats
+            # more than src["recurring"] times and its dates average under three weeks apart.
+            days = {}
+            for v in raw:
+                days.setdefault(clean_title(v.get("SUMMARY", "")).lower(), set()).add(v["DTSTART"][0])
+
+            def regular(title):
+                d = sorted(days[title])
+                if len(d) <= src["recurring"]:
+                    return False
+                span = (date.fromisoformat(d[-1]) - date.fromisoformat(d[0])).days
+                return span / (len(d) - 1) < 21
+            raw = [v for v in raw if not regular(clean_title(v.get("SUMMARY", "")).lower())
                    or re.search(MOVIE, v.get("SUMMARY", ""), re.I)]
         for v in raw:
             if "DTSTART" not in v or not v.get("SUMMARY"):
@@ -476,7 +489,7 @@ def main(path, apply=False):
                     continue
             else:
                 cat = src["category"]
-            if cat not in ("hood", "nature"):
+            if cat not in ("hood", "nature", "pets"):
                 for pat, c in CATEGORY_HINTS:
                     if re.search(pat, title, re.I):
                         cat = c
