@@ -60,10 +60,59 @@
   },
   {
    "id": "school",
-   "name": "My schools",
+   "name": "School calendar",
    "light": "#1C5CA3",
    "dark": "#84B3EE",
-   "symbol": "graduationcap.fill"
+   "symbol": "graduationcap.fill",
+   "group": "My schools"
+  },
+  {
+   "id": "hs-basketball",
+   "name": "School basketball",
+   "light": "#B85000",
+   "dark": "#FF9A4D",
+   "symbol": "basketball.fill",
+   "group": "My schools"
+  },
+  {
+   "id": "hs-soccer",
+   "name": "School soccer",
+   "light": "#2E7D4F",
+   "dark": "#7BD4A0",
+   "symbol": "soccerball",
+   "group": "My schools"
+  },
+  {
+   "id": "hs-football",
+   "name": "School football",
+   "light": "#7A5200",
+   "dark": "#D9A441",
+   "symbol": "football.fill",
+   "group": "My schools"
+  },
+  {
+   "id": "hs-baseball",
+   "name": "School baseball & softball",
+   "light": "#A32C3A",
+   "dark": "#F08A96",
+   "symbol": "baseball.fill",
+   "group": "My schools"
+  },
+  {
+   "id": "hs-volleyball",
+   "name": "School volleyball",
+   "light": "#6845A3",
+   "dark": "#B99DF0",
+   "symbol": "volleyball.fill",
+   "group": "My schools"
+  },
+  {
+   "id": "hs-sports",
+   "name": "Other school sports",
+   "light": "#55616B",
+   "dark": "#B8C2CC",
+   "symbol": "figure.run",
+   "group": "My schools"
   },
   {
    "id": "fest",
@@ -187,9 +236,9 @@
    "title": "Boerne girls basketball at Saisd Tournament",
    "startDate": "2026-11-19",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Saisd Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -200,9 +249,9 @@
    "title": "Boerne golf at Wolves Invitational",
    "startDate": "2026-11-19",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Buckhorn GC",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -213,9 +262,9 @@
    "title": "Champion boys basketball at Marble Falls Tournament",
    "startDate": "2026-11-19",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Marble Falls High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -226,9 +275,9 @@
    "title": "Champion girls basketball at Southside Tournament",
    "startDate": "2026-11-19",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Southside Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -239,9 +288,9 @@
    "title": "Champion golf at Wolves Invitational",
    "startDate": "2026-11-19",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Buckhorn GC",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -266,10 +315,10 @@
    "title": "Champion swimming & diving at Tisca Diving",
    "startDate": "2026-11-19",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "FLOUR BLUFF NATATORIUM",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "17:00",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -317,10 +366,10 @@
    "title": "Boerne boys football at Mercedes",
    "startDate": "2026-11-19",
    "tag": "Away",
+   "category": "hs-football",
    "location": "SHIRLEY FIELD",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -331,10 +380,10 @@
    "title": "Champion boys football at McAllen",
    "startDate": "2026-11-19",
    "tag": "Away",
+   "category": "hs-football",
    "location": "BILL JOHNSON STADIUM",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -356,9 +405,9 @@
    "title": "Boerne girls basketball at Saisd Tournament",
    "startDate": "2026-11-20",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Saisd Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -369,9 +418,9 @@
    "title": "Champion boys basketball at Marble Falls Tournament",
    "startDate": "2026-11-20",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Marble Falls High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -382,9 +431,9 @@
    "title": "Champion girls basketball at Southside Tournament",
    "startDate": "2026-11-20",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Southside Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -395,9 +444,9 @@
    "title": "Champion golf at State Preview",
    "startDate": "2026-11-20",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "LEGACY HILLS GOLF CLUB",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -446,10 +495,10 @@
    "title": "Boerne swimming & diving at Hornet Tisca",
    "startDate": "2026-11-20",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "FLOUR BLUFF NATATORIUM",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "09:30",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -460,10 +509,10 @@
    "title": "Champion swimming & diving at Tisca Prelims",
    "startDate": "2026-11-20",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "FLOUR BLUFF NATATORIUM",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "09:30",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -496,10 +545,10 @@
    "title": "Boerne boys basketball at Kerrville-Tivy",
    "startDate": "2026-11-20",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Kerrville Tivy High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -548,9 +597,9 @@
    "title": "Boerne girls basketball at Saisd Tournament",
    "startDate": "2026-11-21",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Saisd Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -561,9 +610,9 @@
    "title": "Champion girls basketball at Southside Tournament",
    "startDate": "2026-11-21",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Southside Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -574,9 +623,9 @@
    "title": "Champion boys basketball at Marble Falls Tournament",
    "startDate": "2026-11-21",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Marble Falls High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -587,9 +636,9 @@
    "title": "Champion golf at State Preview",
    "startDate": "2026-11-21",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "LEGACY HILLS GOLF CLUB",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -624,10 +673,10 @@
    "title": "Boerne swimming & diving at Hornet Tisca",
    "startDate": "2026-11-21",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "FLOUR BLUFF NATATORIUM",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "09:30",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -638,10 +687,10 @@
    "title": "Champion swimming & diving at Tisca Finals",
    "startDate": "2026-11-21",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "FLOUR BLUFF NATATORIUM",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "09:30",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -760,9 +809,9 @@
    "title": "Boerne girls basketball at Churchill",
    "startDate": "2026-11-23",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "WINSTON CHURCHILL HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -811,10 +860,10 @@
    "title": "Champion girls basketball at Kerrville-Tivy",
    "startDate": "2026-11-23",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Kerrville Tivy High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "11:30",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -825,10 +874,10 @@
    "title": "Champion boys basketball vs. Churchill",
    "startDate": "2026-11-23",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Champion High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "13:00",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -861,9 +910,9 @@
    "title": "Boerne boys basketball at Marshall",
    "startDate": "2026-11-24",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "MARSHALL HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -888,10 +937,10 @@
    "title": "Champion girls basketball at Medina Valley",
    "startDate": "2026-11-24",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "MEDINA VALLEY HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "11:30",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -902,10 +951,10 @@
    "title": "Champion boys basketball vs. TAFT",
    "startDate": "2026-11-24",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Champion High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "13:00",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -1316,9 +1365,9 @@
    "title": "Champion golf at Tivy Invitational",
    "startDate": "2026-11-30",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "RIVERHILL COUNTRY CLUB",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -1349,10 +1398,10 @@
    "title": "Boerne boys basketball at Long Creek",
    "startDate": "2026-12-01",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "LONG CREEK HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -1363,10 +1412,10 @@
    "title": "Boerne girls basketball vs. Antonian College Preparatory",
    "startDate": "2026-12-01",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Boerne High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -1377,10 +1426,10 @@
    "title": "Champion girls basketball at Southside",
    "startDate": "2026-12-01",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "SOUTHSIDE HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -1391,10 +1440,10 @@
    "title": "Champion boys basketball vs. Kerrville-Tivy",
    "startDate": "2026-12-01",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Champion High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -1501,9 +1550,9 @@
    "title": "Boerne girls basketball at Georgetown Tournament",
    "startDate": "2026-12-03",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Georgetown Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -1514,9 +1563,9 @@
    "title": "Boerne boys basketball at Lorena Tournament",
    "startDate": "2026-12-03",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "LORENA HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -1527,9 +1576,9 @@
    "title": "Champion boys basketball at Border Olympics",
    "startDate": "2026-12-03",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Border Olympics",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -1656,9 +1705,9 @@
    "title": "Boerne boys basketball at Lorena Tournament",
    "startDate": "2026-12-04",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "LORENA HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -1669,9 +1718,9 @@
    "title": "Boerne girls basketball at Georgetown Tournament",
    "startDate": "2026-12-04",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Georgetown Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -1682,9 +1731,9 @@
    "title": "Boerne swimming & diving at Neisd South Zone Tisca Championship Meet",
    "startDate": "2026-12-04",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Josh Davis Natatorium",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -1695,9 +1744,9 @@
    "title": "Champion boys basketball at Border Olympics",
    "startDate": "2026-12-04",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Border Olympics",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -1708,9 +1757,9 @@
    "title": "Champion swimming & diving at South Zone",
    "startDate": "2026-12-04",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Josh Davis Natatorium",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -1907,9 +1956,9 @@
    "title": "Boerne girls basketball at Georgetown Tournament",
    "startDate": "2026-12-05",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Georgetown Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -1920,9 +1969,9 @@
    "title": "Boerne boys basketball at Lorena Tournament",
    "startDate": "2026-12-05",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "LORENA HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -1933,9 +1982,9 @@
    "title": "Champion swimming & diving at South Zone",
    "startDate": "2026-12-05",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Josh Davis Natatorium",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -1946,9 +1995,9 @@
    "title": "Champion boys basketball at Border Olympics",
    "startDate": "2026-12-05",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Border Olympics",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -2187,9 +2236,9 @@
    "title": "Boerne golf at Holiday Classic-Toys For Tots",
    "startDate": "2026-12-07",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Fair Oaks CC",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -2200,9 +2249,9 @@
    "title": "Champion golf at Holiday Classic - Toys For Tots",
    "startDate": "2026-12-07",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "Fair Oaks CC",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -2277,9 +2326,9 @@
    "title": "Boerne girls basketball vs. OPEN",
    "startDate": "2026-12-08",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Boerne High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -2328,10 +2377,10 @@
    "title": "Boerne boys basketball vs. Wimberley",
    "startDate": "2026-12-08",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Boerne High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -2342,10 +2391,10 @@
    "title": "Champion girls basketball at Seguin",
    "startDate": "2026-12-08",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Seguin High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -2370,10 +2419,10 @@
    "title": "Champion boys basketball at Sam Houston",
    "startDate": "2026-12-08",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "SAM HOUSTON HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "19:30",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -2396,9 +2445,9 @@
    "title": "Boerne boys basketball at Saisd Tournament",
    "startDate": "2026-12-10",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Saisd Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -2421,10 +2470,10 @@
    "title": "Boerne swimming & diving at Nisd Relay Meet",
    "startDate": "2026-12-10",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "NORTHSIDE NATATORIUM",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "09:00",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -2537,9 +2586,9 @@
    "title": "Boerne boys basketball at Saisd Tournament",
    "startDate": "2026-12-11",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Saisd Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -2550,9 +2599,9 @@
    "title": "Champion swimming & diving at Swisd Invitational",
    "startDate": "2026-12-11",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "SOUTHWEST ISD AQUATIC CENTER",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -2602,10 +2651,10 @@
    "title": "Champion girls soccer at Brandeis",
    "startDate": "2026-12-11",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "GUSTAFSON-NORTHSIDE STADIUM",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "18:00",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -2630,10 +2679,10 @@
    "title": "Boerne girls basketball vs. Madison",
    "startDate": "2026-12-11",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Boerne High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -2669,10 +2718,10 @@
    "title": "Boerne girls soccer vs. Fredericksburg",
    "startDate": "2026-12-11",
    "tag": "Home",
+   "category": "hs-soccer",
    "location": "Boerne ISD Stadium",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -2683,10 +2732,10 @@
    "title": "Champion boys soccer vs. Medina Valley",
    "startDate": "2026-12-11",
    "tag": "Home",
+   "category": "hs-soccer",
    "location": "Champion High School Stadium",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "19:15",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -2709,9 +2758,9 @@
    "title": "Boerne boys basketball at Saisd Tournament",
    "startDate": "2026-12-12",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Saisd Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -2846,10 +2895,10 @@
    "title": "Boerne boys soccer vs. Alumni Game",
    "startDate": "2026-12-12",
    "tag": "Home",
+   "category": "hs-soccer",
    "location": "Boerne ISD Stadium",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -2963,9 +3012,9 @@
    "title": "Boerne boys soccer vs. TBD",
    "startDate": "2026-12-15",
    "tag": "Home",
+   "category": "hs-soccer",
    "location": "Boerne ISD Stadium",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -3099,10 +3148,10 @@
    "title": "Boerne girls basketball vs. Harlandale",
    "startDate": "2026-12-15",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Boerne High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -3113,10 +3162,10 @@
    "title": "Champion girls basketball vs. John Jay",
    "startDate": "2026-12-15",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Champion High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -3137,10 +3186,10 @@
    "title": "Boerne girls soccer at Davenport",
    "startDate": "2026-12-15",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "DAVENPORT HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -3151,10 +3200,10 @@
    "title": "Champion girls soccer at Johnson",
    "startDate": "2026-12-15",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "JOHNSON HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -3165,10 +3214,10 @@
    "title": "Champion boys soccer at Roosevelt",
    "startDate": "2026-12-15",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "BLOSSOM ATHLETIC COMPLEX",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -3179,10 +3228,10 @@
    "title": "Champion boys basketball at Clemens",
    "startDate": "2026-12-15",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "CLEMENS HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -3311,9 +3360,9 @@
    "title": "Boerne girls basketball vs. BYE",
    "startDate": "2026-12-18",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Boerne High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -3380,10 +3429,10 @@
    "title": "Boerne boys soccer at LEE",
    "startDate": "2026-12-18",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "BLOSSOM ATHLETIC COMPLEX",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "14:00",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -3394,10 +3443,10 @@
    "title": "Champion girls soccer vs. Champion Jv",
    "startDate": "2026-12-18",
    "tag": "Home",
+   "category": "hs-soccer",
    "location": "Champion High School Stadium",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "14:00",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -3408,10 +3457,10 @@
    "title": "Boerne girls soccer at Lockhart",
    "startDate": "2026-12-18",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "LOCKHART HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "16:00",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -3422,10 +3471,10 @@
    "title": "Champion boys soccer at Veterans Memorial",
    "startDate": "2026-12-18",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "VETERANS MEMORIAL HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "17:15",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -3436,10 +3485,10 @@
    "title": "Champion girls basketball at Harlandale",
    "startDate": "2026-12-18",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "HARLANDALE ISD MULTI-CENTER",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "17:30",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -3450,10 +3499,10 @@
    "title": "Boerne boys basketball vs. Eagle Pass Winn",
    "startDate": "2026-12-18",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Boerne High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -3464,10 +3513,10 @@
    "title": "Champion boys basketball vs. Brandeis",
    "startDate": "2026-12-18",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Champion High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -3583,10 +3632,10 @@
    "title": "Boerne boys soccer at Memorial",
    "startDate": "2026-12-21",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "VETERANS STADIUM",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "12:00",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -3597,10 +3646,10 @@
    "title": "Champion boys basketball vs. Harlan",
    "startDate": "2026-12-21",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Champion High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "12:00",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -3620,9 +3669,9 @@
    "title": "Champion girls basketball vs. BYE",
    "startDate": "2026-12-22",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Samuel V. Champion High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -3633,10 +3682,10 @@
    "title": "Boerne girls basketball vs. South San",
    "startDate": "2026-12-22",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Boerne High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "12:00",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -3647,10 +3696,10 @@
    "title": "Boerne boys basketball at South San",
    "startDate": "2026-12-22",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "South San Athletic Complex",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "12:30",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -3755,9 +3804,9 @@
    "title": "Boerne boys soccer at Alamo Heights Bruce Fink Invitational",
    "startDate": "2026-12-28",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Alamo Heights Bruce Fink Invitational",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -3768,9 +3817,9 @@
    "title": "Boerne boys basketball vs. Boerne Isd Holiday Tournament",
    "startDate": "2026-12-28",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Boerne High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -3781,9 +3830,9 @@
    "title": "Boerne girls basketball vs. Boerne Isd Holiday Tournament",
    "startDate": "2026-12-28",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Boerne High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -3794,9 +3843,9 @@
    "title": "Champion girls basketball vs. Boerne Isd Holiday Tournament",
    "startDate": "2026-12-28",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Champion High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -3807,9 +3856,9 @@
    "title": "Champion boys basketball vs. Boerne Isd Holiday Tournament",
    "startDate": "2026-12-28",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Champion High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -3820,9 +3869,9 @@
    "title": "Boerne boys soccer at Alamo Heights Bruce Fink Invitational",
    "startDate": "2026-12-29",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Alamo Heights Bruce Fink Invitational",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -3833,9 +3882,9 @@
    "title": "Boerne boys basketball vs. Boerne Isd Holiday Tournament",
    "startDate": "2026-12-29",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Boerne High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -3846,9 +3895,9 @@
    "title": "Boerne girls basketball vs. Boerne Isd Holiday Tournament",
    "startDate": "2026-12-29",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Boerne High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -3859,9 +3908,9 @@
    "title": "Champion boys basketball vs. Boerne Isd Holiday Tournament",
    "startDate": "2026-12-29",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Champion High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -3872,9 +3921,9 @@
    "title": "Champion girls basketball vs. Boerne Isd Holiday Tournament",
    "startDate": "2026-12-29",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Champion High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -3894,9 +3943,9 @@
    "title": "Boerne boys soccer at Alamo Heights Bruce Fink Invitational",
    "startDate": "2026-12-30",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Alamo Heights Bruce Fink Invitational",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -3907,9 +3956,9 @@
    "title": "Boerne girls soccer at Northside Isd Tournament",
    "startDate": "2026-12-31",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Northside Isd Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -3920,10 +3969,10 @@
    "title": "Champion girls basketball at South San",
    "startDate": "2026-12-31",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "South San Athletic Complex",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "11:30",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -3955,9 +4004,9 @@
    "title": "Boerne girls soccer at Northside Isd Tournament",
    "startDate": "2027-01-01",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Northside Isd Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -3979,10 +4028,10 @@
    "title": "Boerne girls basketball at Mccollum",
    "startDate": "2027-01-01",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "HARLANDALE ISD MULTI-CENTER",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "11:30",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4002,9 +4051,9 @@
    "title": "Boerne girls soccer at Northside Isd Tournament",
    "startDate": "2027-01-02",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Northside Isd Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4015,10 +4064,10 @@
    "title": "Champion boys basketball vs. South San",
    "startDate": "2027-01-02",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Champion High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "13:00",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -4029,10 +4078,10 @@
    "title": "Boerne boys basketball vs. Mccollum",
    "startDate": "2027-01-02",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Boerne High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "14:00",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4052,10 +4101,10 @@
    "title": "Boerne girls soccer vs. Bastrop",
    "startDate": "2027-01-04",
    "tag": "Home",
+   "category": "hs-soccer",
    "location": "Boerne ISD Stadium",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "13:00",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4066,9 +4115,9 @@
    "title": "Boerne boys soccer vs. BYE",
    "startDate": "2027-01-05",
    "tag": "Home",
+   "category": "hs-soccer",
    "location": "Boerne High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4117,10 +4166,10 @@
    "title": "Boerne boys basketball at Alamo Heights",
    "startDate": "2027-01-05",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "ALAMO HEIGHTS HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4131,10 +4180,10 @@
    "title": "Boerne girls basketball vs. Alamo Heights",
    "startDate": "2027-01-05",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Boerne High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4145,10 +4194,10 @@
    "title": "Champion boys basketball at Mccollum",
    "startDate": "2027-01-05",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "HARLANDALE ISD MULTI-CENTER",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -4159,10 +4208,10 @@
    "title": "Champion girls basketball vs. Mccollum",
    "startDate": "2027-01-05",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Champion High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -4187,10 +4236,10 @@
    "title": "Champion boys soccer at Madison",
    "startDate": "2027-01-05",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "COMALANDER STADIUM",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -4224,9 +4273,9 @@
    "title": "Boerne girls soccer at Georgetown Tournament",
    "startDate": "2027-01-07",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Georgetown Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4237,9 +4286,9 @@
    "title": "Champion boys soccer at Harlandale Tournament",
    "startDate": "2027-01-07",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Harlandale Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -4250,10 +4299,10 @@
    "title": "Boerne boys soccer at Georgetown Governors Cup",
    "startDate": "2027-01-07",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Georgetown Governors Cup",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "16:20",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4264,10 +4313,10 @@
    "title": "Champion girls soccer at A+ Academy",
    "startDate": "2027-01-07",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "BENBROOK HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "17:40",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -4292,9 +4341,9 @@
    "title": "Boerne girls soccer at Georgetown Tournament",
    "startDate": "2027-01-08",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Georgetown Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4305,9 +4354,9 @@
    "title": "Champion boys soccer at Harlandale Tournament",
    "startDate": "2027-01-08",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Harlandale Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -4318,10 +4367,10 @@
    "title": "Boerne swimming & diving at Nisd Half And Half Meet",
    "startDate": "2027-01-08",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "NORTHSIDE NATATORIUM",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "11:00",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4332,10 +4381,10 @@
    "title": "Champion girls soccer at Dunbar High School",
    "startDate": "2027-01-08",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "BENBROOK HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "11:50",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -4346,10 +4395,10 @@
    "title": "Boerne boys soccer at Georgetown Governors Cup",
    "startDate": "2027-01-08",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Georgetown Governors Cup",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "17:00",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4360,10 +4409,10 @@
    "title": "Boerne boys basketball at Champion",
    "startDate": "2027-01-08",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Boerne Champion High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4374,10 +4423,10 @@
    "title": "Boerne girls basketball vs. Champion",
    "startDate": "2027-01-08",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Boerne High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4388,10 +4437,10 @@
    "title": "Champion girls basketball at Boerne",
    "startDate": "2027-01-08",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "Boerne High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -4402,10 +4451,10 @@
    "title": "Champion boys basketball vs. Boerne",
    "startDate": "2027-01-08",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Champion High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -4446,9 +4495,9 @@
    "title": "Boerne girls soccer at Georgetown Tournament",
    "startDate": "2027-01-09",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Georgetown Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4459,9 +4508,9 @@
    "title": "Champion boys soccer at Harlandale Tournament",
    "startDate": "2027-01-09",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Harlandale Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -4488,10 +4537,10 @@
    "title": "Champion girls soccer at Benbrook High School",
    "startDate": "2027-01-09",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "BENBROOK HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "10:30",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -4502,10 +4551,10 @@
    "title": "Boerne swimming & diving at Nisd Half And Half Meet",
    "startDate": "2027-01-09",
    "tag": "Away",
+   "category": "hs-sports",
    "location": "NORTHSIDE NATATORIUM",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "11:00",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4516,10 +4565,10 @@
    "title": "Boerne boys soccer at Georgetown Governors Cup",
    "startDate": "2027-01-09",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Georgetown Governors Cup",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "17:00",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4577,9 +4626,9 @@
    "title": "Boerne girls basketball at John Jay",
    "startDate": "2027-01-12",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "PAUL TAYLOR GYM",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4590,9 +4639,9 @@
    "title": "Boerne boys soccer vs. BYE",
    "startDate": "2027-01-12",
    "tag": "Home",
+   "category": "hs-soccer",
    "location": "Boerne High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4617,10 +4666,10 @@
    "title": "Boerne girls soccer at Lake Travis",
    "startDate": "2027-01-12",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Lake Travis High School",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "18:15",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4631,10 +4680,10 @@
    "title": "Boerne boys basketball vs. John Jay",
    "startDate": "2027-01-12",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Boerne High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4645,10 +4694,10 @@
    "title": "Champion boys basketball at Alamo Heights",
    "startDate": "2027-01-12",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "ALAMO HEIGHTS HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -4659,10 +4708,10 @@
    "title": "Champion girls basketball vs. Alamo Heights",
    "startDate": "2027-01-12",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Champion High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -4673,9 +4722,9 @@
    "title": "Champion boys soccer at Legacy Ranch Tournament",
    "startDate": "2027-01-14",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Legacy Ranch Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -4686,10 +4735,10 @@
    "title": "Champion girls soccer at Flour Bluff",
    "startDate": "2027-01-14",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "SOUTHWEST HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "11:00",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -4710,9 +4759,9 @@
    "title": "Champion girls soccer at Game 2 Dependent On W",
    "startDate": "2027-01-15",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "SOUTHWEST HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -4723,9 +4772,9 @@
    "title": "Champion boys soccer at Legacy Ranch Tournament",
    "startDate": "2027-01-15",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Legacy Ranch Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -4736,10 +4785,10 @@
    "title": "Boerne girls basketball at Harlandale",
    "startDate": "2027-01-15",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "HARLANDALE ISD MULTI-CENTER",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4750,10 +4799,10 @@
    "title": "Boerne boys basketball vs. Harlandale",
    "startDate": "2027-01-15",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Boerne High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4764,10 +4813,10 @@
    "title": "Champion girls basketball at John Jay",
    "startDate": "2027-01-15",
    "tag": "Away",
+   "category": "hs-basketball",
    "location": "PAUL TAYLOR GYM",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -4778,10 +4827,10 @@
    "title": "Champion boys basketball vs. John Jay",
    "startDate": "2027-01-15",
    "tag": "Home",
+   "category": "hs-basketball",
    "location": "Champion High School Gym",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "18:30",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -4792,10 +4841,10 @@
    "title": "Boerne girls soccer at Veterans Memorial",
    "startDate": "2027-01-15",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "VETERANS MEMORIAL HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4806,10 +4855,10 @@
    "title": "Boerne boys soccer vs. Clark",
    "startDate": "2027-01-15",
    "tag": "Home",
+   "category": "hs-soccer",
    "location": "Boerne ISD Stadium",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
    "startTime": "19:00",
-   "category": "school",
    "tags": [
     "school:boerne-hs"
    ],
@@ -4832,9 +4881,9 @@
    "title": "Champion boys soccer at Legacy Ranch Tournament",
    "startDate": "2027-01-16",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "Legacy Ranch Tournament",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
@@ -4845,9 +4894,9 @@
    "title": "Champion girls soccer at Game 3 Dependent On W",
    "startDate": "2027-01-16",
    "tag": "Away",
+   "category": "hs-soccer",
    "location": "SOUTHWEST HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "category": "school",
    "tags": [
     "school:champion-hs"
    ],
