@@ -1780,7 +1780,10 @@
    "description": "Class 4A Division I area round. Canyon Lake (8-2) vs. Port Lavaca Calhoun (7-4).",
    "tag": "UIL area round",
    "sourceURL": "https://tylerpaper.com/2026/11/17/state-high-school-football-pairings-4/",
-   "outdoor": false
+   "outdoor": false,
+   "tags": [
+    "school:canyon-lake-hs"
+   ]
   },
   {
    "id": "2026-11-20-playoffs-davenport-vs-cc-miller",
@@ -1792,7 +1795,10 @@
    "description": "Class 4A Division I area round. Davenport (8-3) vs. Corpus Christi Miller (8-3).",
    "tag": "UIL area round",
    "sourceURL": "https://tylerpaper.com/2026/11/17/state-high-school-football-pairings-4/",
-   "outdoor": false
+   "outdoor": false,
+   "tags": [
+    "school:davenport-hs"
+   ]
   },
   {
    "id": "2026-11-20-playoffs-round-rock-vs-sa-johnson",
@@ -2985,32 +2991,6 @@
    ],
    "audience": "local",
    "id": "sch-new-braunfels-hs-2026-12-03-new-braunfels-boys-basketball-at-orange-grove"
-  },
-  {
-   "title": "DHS 9th Grade Parent Meeting",
-   "startDate": "2026-12-03",
-   "startTime": "17:30",
-   "location": "Davenport High School",
-   "sourceURL": "https://www.comalisd.org/apps/events/60793249/",
-   "category": "school",
-   "tags": [
-    "school:davenport-hs"
-   ],
-   "audience": "local",
-   "id": "sch-davenport-hs-2026-12-03-dhs-9th-grade-parent-meeting"
-  },
-  {
-   "title": "DHS 9th Grade Parent Meeting",
-   "startDate": "2026-12-03",
-   "startTime": "17:30",
-   "location": "Danville Middle School",
-   "sourceURL": "https://www.comalisd.org/apps/events/60793249/",
-   "category": "school",
-   "tags": [
-    "school:danville-ms"
-   ],
-   "audience": "local",
-   "id": "sch-danville-ms-2026-12-03-dhs-9th-grade-parent-meeting"
   },
   {
    "title": "6th Grade Parent Night",
