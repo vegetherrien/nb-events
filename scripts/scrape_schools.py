@@ -11,6 +11,7 @@ and cancellations carry through. Hand-entered district items (ids starting "nbis
 import json
 import re
 import sys
+import time
 import urllib.request
 from collections import defaultdict
 from datetime import date, datetime, timedelta, timezone
@@ -25,13 +26,20 @@ GAME_DAYS = 60         # how far ahead varsity schedules are read
 DROP = re.compile(r"appreciation|awareness|\bmonth\b|\bweek\b(?!end)|national .* day|staff (meeting|development)|"
                   r"\bplc\b|faculty|lunch menu|\bA day\b|\bB day\b|birthday|tutorial|duty", re.I)
 HOLIDAY = re.compile(r"holiday|break|no school|early release|first day|last day|staff development|workday", re.I)
+# Team schedules that some districts copy into the campus calendar; games come from Rank One instead.
+SPORT_ROW = re.compile(r"\((F|M|C)\) - |\b(junior varsity|JV|9th grade|freshman|7th grade|8th grade)\b", re.I)
 SPORTS = {"(F)": "girls ", "(M)": "boys ", "(C)": ""}
 
 
-def fetch(url):
+def fetch(url, tries=3):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=40) as r:
-        return r.read().decode("utf-8", "replace")
+    for attempt in range(tries):
+        try:
+            with urllib.request.urlopen(req, timeout=40) as r:
+                return r.read().decode("utf-8", "replace")
+        except Exception:
+            if attempt == tries - 1: raise
+            time.sleep(3)
 
 
 def unescape(s):
@@ -95,7 +103,7 @@ def calendar_events(school, today):
     items = []
     for v in parse_ics(fetch(school["info"]["calendar"])):
         title = tidy(v.get("SUMMARY", ""))
-        if not title or v.get("STATUS") == "CANCELLED" or v.get("repeat") == -1 or DROP.search(title):
+        if not title or v.get("STATUS") == "CANCELLED" or v.get("repeat") == -1 or DROP.search(title) or SPORT_ROW.search(title):
             continue
         day, start = v["start"]
         if start is None:
@@ -141,9 +149,11 @@ def game_events(school, today):
         words = opponent.split()
         if len(words) > 1 and words[-1] in words[:-1]: words.pop()       # "Davenport Davenport"
         opponent = " ".join(words) or "TBA"
+        if opponent.isupper() and len(opponent) > 4: opponent = opponent.title()
         where = v.get("LOCATION", "")
         home = where.lower().startswith("home")
         venue = where.split("-", 1)[1].strip() if "-" in where else ""
+        if venue.upper() in ("TBA", "TBD"): venue = ""
         title = f"{short} {sport} {'vs.' if home else 'at'} {opponent}"
         if (title, day) in seen:
             continue
