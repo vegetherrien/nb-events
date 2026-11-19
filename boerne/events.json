@@ -987,17 +987,19 @@
    "startTime": "19:00",
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2026-11-22-cowboys-vs-titans",
    "category": "cowboys",
    "title": "Cowboys vs. Titans",
    "startDate": "2026-11-22",
-   "startTime": "12:00",
    "location": "AT&T Stadium, Arlington",
+   "tag": "Home",
    "sourceURL": "https://www.dallascowboys.com/schedule/",
-   "outdoor": false
+   "startTime": "12:00",
+   "tv": "FOX"
   },
   {
    "id": "2026-11-22-julian-escobedo-at-singing-water-vineyards",
@@ -1029,7 +1031,8 @@
    "startTime": "18:00",
    "location": "Salt Lake City",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "title": "Boerne girls basketball at Churchill",
@@ -1364,14 +1367,15 @@
    "id": "2026-11-26-cowboys-vs-eagles-thanksgiving",
    "category": "cowboys",
    "title": "Cowboys vs. Eagles (Thanksgiving)",
-   "shortTitle": "Cowboys vs. Eagles",
    "startDate": "2026-11-26",
-   "startTime": "15:30",
    "location": "AT&T Stadium, Arlington",
-   "description": "The Thanksgiving Day game.",
-   "featured": true,
+   "tag": "Home",
    "sourceURL": "https://www.dallascowboys.com/schedule/",
-   "outdoor": false
+   "startTime": "15:30",
+   "tv": "FOX",
+   "featured": true,
+   "description": "The Thanksgiving Day game.",
+   "shortTitle": "Cowboys vs. Eagles"
   },
   {
    "id": "2026-11-27-dickens-on-main",
@@ -1560,7 +1564,8 @@
    "startTime": "20:00",
    "location": "Phoenix",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2026-11-27-spurs-vs-lakers",
@@ -1786,7 +1791,8 @@
    "startTime": "19:00",
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2026-12-01-homegrown-holiday-festival-at-boerne-farmers-market",
@@ -1968,7 +1974,8 @@
    "startTime": "19:00",
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "downtown-boerne-2026-12-02-comedy-show-game-night",
@@ -2206,6 +2213,16 @@
    "id": "sch-champion-hs-2026-12-04-champion-swimming-diving-at-south-zone"
   },
   {
+   "id": "2026-12-04-miracle-on-34th-street",
+   "category": "arts",
+   "title": "Miracle On 34th Street",
+   "startDate": "2026-12-04",
+   "endDate": "2026-12-20",
+   "location": "Boerne Community Theatre, 907 E Blanco Rd",
+   "description": "Several performances; pick a date and time on the ticket page.",
+   "sourceURL": "https://buy.ticketstothecity.com/venue.php?org_id=389"
+  },
+  {
    "id": "2026-12-04-boerne-isd-cookies-cocoa-toy-drive-at-boerne-isd-central-off",
    "category": "fest",
    "title": "Boerne ISD Cookies & Cocoa Toy Drive at Boerne ISD Central Office",
@@ -2346,16 +2363,6 @@
     "community:tapatio-springs"
    ],
    "audience": "local"
-  },
-  {
-   "id": "2026-12-04-miracle-on-34th-street",
-   "category": "arts",
-   "title": "Miracle On 34th Street",
-   "startDate": "2026-12-04",
-   "endDate": "2026-12-20",
-   "location": "Boerne Community Theatre, 907 E Blanco Rd",
-   "description": "Several performances; pick a date and time on the ticket page.",
-   "sourceURL": "https://buy.ticketstothecity.com/venue.php?org_id=389"
   },
   {
    "id": "2026-12-05-holiday-hunger-5k-run-walk-at-bulverde-city-park",
@@ -2729,6 +2736,17 @@
    "id": "sch-champion-hs-2026-12-07-champion-golf-at-holiday-classic-toys-for-tots"
   },
   {
+   "id": "2026-12-07-movie-monday-rise-of-the-guardians-at-patrick-heath-public-l",
+   "category": "movies",
+   "title": "Movie Monday! – Rise of the Guardians at Patrick Heath Public Library",
+   "startDate": "2026-12-07",
+   "startTime": "16:00",
+   "endTime": "18:00",
+   "location": "Patrick Heath Public Library, 451 N. Main Street",
+   "description": "The Hub becomes a teen movie theater once a month during the school year, screening popular films rated G, PG or PG-13. This month’s feature is the live-action version of Rise of the Guardians. The movie shows Decembe…",
+   "sourceURL": "https://theboernelife.com/events/movie-monday-rise-of-the-guardians-at-patrick-heath-public-library/"
+  },
+  {
    "id": "2026-12-07-annual-boerne-chanukah-celebration-at-boerne-main-plaza",
    "category": "music",
    "title": "Annual Boerne Chanukah Celebration at Boerne Main Plaza",
@@ -2772,22 +2790,12 @@
    "category": "cowboys",
    "title": "Cowboys at Seahawks",
    "startDate": "2026-12-07",
-   "startTime": "19:15",
    "location": "Lumen Field, Seattle",
-   "description": "Monday Night Football.",
+   "tag": "Away",
    "sourceURL": "https://www.dallascowboys.com/schedule/",
-   "outdoor": false
-  },
-  {
-   "id": "2026-12-07-movie-monday-rise-of-the-guardians-at-patrick-heath-public-l",
-   "category": "movies",
-   "title": "Movie Monday! – Rise of the Guardians at Patrick Heath Public Library",
-   "startDate": "2026-12-07",
-   "startTime": "16:00",
-   "endTime": "18:00",
-   "location": "Patrick Heath Public Library, 451 N. Main Street",
-   "description": "The Hub becomes a teen movie theater once a month during the school year, screening popular films rated G, PG or PG-13. This month’s feature is the live-action version of Rise of the Guardians. The movie shows Decembe…",
-   "sourceURL": "https://theboernelife.com/events/movie-monday-rise-of-the-guardians-at-patrick-heath-public-library/"
+   "startTime": "19:15",
+   "tv": "ESPN",
+   "description": "Monday Night Football."
   },
   {
    "title": "Boerne girls basketball vs. OPEN",
@@ -3448,6 +3456,17 @@
    "sourceURL": "https://events.timely.fun/e6hnx1k2/event/a-very-merry-christmas-concert?instance_id=20261213160000"
   },
   {
+   "id": "2026-12-13-a-boerne-concert-band-christmas-at-boerne-high-school-audito",
+   "category": "music",
+   "title": "A Boerne Concert Band Christmas at Boerne High School Auditorium",
+   "startDate": "2026-12-13",
+   "startTime": "16:00",
+   "endTime": "17:30",
+   "location": "Boerne High School, 1 Greyhound Ln",
+   "description": "The Boerne Concert Band, directed by Larry Schmidt, performs a program of Christmas favorites. The ensemble brings together musicians from across the Texas Hill Country, including students, veterans, band directors an…",
+   "sourceURL": "https://theboernelife.com/events/a-boerne-concert-band-christmas-at-boerne-high-school-auditorium/"
+  },
+  {
    "id": "2026-12-13-rockets-at-bulls",
    "category": "rockets",
    "title": "Rockets at Bulls",
@@ -3468,17 +3487,6 @@
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
    "tv": "DAZN"
-  },
-  {
-   "id": "2026-12-13-a-boerne-concert-band-christmas-at-boerne-high-school-audito",
-   "category": "music",
-   "title": "A Boerne Concert Band Christmas at Boerne High School Auditorium",
-   "startDate": "2026-12-13",
-   "startTime": "16:00",
-   "endTime": "17:30",
-   "location": "Boerne High School, 1 Greyhound Ln",
-   "description": "The Boerne Concert Band, directed by Larry Schmidt, performs a program of Christmas favorites. The ensemble brings together musicians from across the Texas Hill Country, including students, veterans, band directors an…",
-   "sourceURL": "https://theboernelife.com/events/a-boerne-concert-band-christmas-at-boerne-high-school-auditorium/"
   },
   {
    "title": "BMSN Band Advanced Bands Holiday Concert",
@@ -3530,7 +3538,8 @@
    "startTime": "19:00",
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2026-12-14-rockets-vs-knicks",
@@ -3827,7 +3836,8 @@
    "startTime": "18:30",
    "location": "Brooklyn",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2026-12-16-rockets-vs-bucks",
@@ -4191,7 +4201,8 @@
    "startTime": "19:00",
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2026-12-20-texans-vs-jaguars",
@@ -4220,10 +4231,11 @@
    "category": "cowboys",
    "title": "Cowboys at Rams",
    "startDate": "2026-12-20",
-   "startTime": "15:25",
    "location": "SoFi Stadium, Inglewood, CA",
+   "tag": "Away",
    "sourceURL": "https://www.dallascowboys.com/schedule/",
-   "outdoor": false
+   "startTime": "15:25",
+   "tv": "CBS"
   },
   {
    "id": "2026-12-20-spurs-at-pelicans",
@@ -4365,7 +4377,8 @@
    "startTime": "21:00",
    "location": "Sacramento",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "tapatio-springs-2026-12-24-christmas-eve-day-dinner",
@@ -4480,11 +4493,12 @@
    "category": "cowboys",
    "title": "Cowboys vs. Jaguars",
    "startDate": "2026-12-27",
-   "startTime": "19:20",
    "location": "AT&T Stadium, Arlington",
-   "description": "Sunday Night Football.",
+   "tag": "Home",
    "sourceURL": "https://www.dallascowboys.com/schedule/",
-   "outdoor": false
+   "startTime": "19:20",
+   "tv": "NBC",
+   "description": "Sunday Night Football."
   },
   {
    "title": "Boerne boys soccer at Alamo Heights Bruce Fink…",
@@ -4821,7 +4835,8 @@
    "startTime": "19:30",
    "location": "Houston",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "title": "Boerne girls soccer at Northside Isd Tournament",
@@ -4896,6 +4911,17 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
+   "id": "2027-01-03-cowboys-vs-giants",
+   "category": "cowboys",
+   "title": "Cowboys vs. Giants",
+   "startDate": "2027-01-03",
+   "location": "AT&T Stadium, Arlington",
+   "tag": "Home",
+   "sourceURL": "https://www.dallascowboys.com/schedule/",
+   "startTime": "12:00",
+   "tv": "FOX"
+  },
+  {
    "id": "2027-01-03-spurs-at-timberwolves",
    "category": "spurs",
    "title": "Spurs at Timberwolves",
@@ -4939,7 +4965,8 @@
    "startTime": "19:00",
    "location": "New Orleans",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-01-04-texans-at-packers",
@@ -5180,7 +5207,8 @@
    "startTime": "19:00",
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-01-07-rockets-vs-grizzlies",
@@ -5494,7 +5522,8 @@
    "startTime": "17:00",
    "location": "Memphis",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "title": "PTO Luncheon",
@@ -5636,7 +5665,8 @@
    "startTime": "19:00",
    "location": "Memphis",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-01-12-horns-bb-vs-auburn",
@@ -5715,7 +5745,8 @@
    "startTime": "18:00",
    "location": "Detroit",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "title": "Champion girls soccer at Game 2 Dependent On W",
@@ -5997,7 +6028,8 @@
    "startTime": "19:00",
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-01-19-mavs-vs-hornets",
@@ -6124,7 +6156,8 @@
    "startTime": "19:00",
    "location": "New Orleans",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-01-22-spurs-vs-timberwolves",
@@ -6191,7 +6224,8 @@
    "startTime": "19:00",
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-01-24-spurs-vs-trail-blazers",
@@ -6237,7 +6271,8 @@
    "startTime": "19:00",
    "location": "Chicago",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "title": "Rising 6th Grade Parent Night",
@@ -6297,7 +6332,8 @@
    "startTime": "18:30",
    "location": "Toronto",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-01-27-horns-bb-at-south-carolina",
@@ -6376,7 +6412,8 @@
    "startTime": "19:00",
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-01-29-rockets-vs-magic",
@@ -6517,7 +6554,8 @@
    "startTime": "19:00",
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-02-02-spurs-at-clippers",
@@ -6694,7 +6732,8 @@
    "startTime": "14:00",
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-02-06-spurs-vs-lakers",
@@ -6725,7 +6764,8 @@
    "startTime": "15:30",
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-02-07-rockets-at-kings",
@@ -6816,7 +6856,8 @@
    "startTime": "19:00",
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-02-11-rockets-vs-kings",
@@ -7021,7 +7062,8 @@
    "startTime": "18:00",
    "location": "Orlando",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-02-17-spurs-at-grizzlies",
@@ -7205,7 +7247,8 @@
    "startTime": "21:00",
    "location": "Portland",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-02-27-austinfc-at-st-louis-city-sc",
@@ -7312,7 +7355,8 @@
    "startTime": "19:00",
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-03-03-fcdallas-vs-la-galaxy",
@@ -7496,7 +7540,8 @@
    "startTime": "20:30",
    "location": "Oklahoma City",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-03-08-rockets-at-clippers",
@@ -7528,7 +7573,8 @@
    "startTime": "19:00",
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-03-10-utsa-bb-at-american-conference-championships",
@@ -7570,7 +7616,8 @@
    "startTime": "19:00",
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-03-13-dynamo-vs-la-galaxy",
@@ -7613,7 +7660,8 @@
    "startTime": "19:00",
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-03-13-austinfc-at-portland-timbers",
@@ -7645,7 +7693,8 @@
    "startTime": "20:30",
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-03-16-spurs-at-rockets",
@@ -7809,7 +7858,8 @@
    "startTime": "21:30",
    "location": "Los Angeles",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-03-24-spurs-at-celtics",
@@ -7841,7 +7891,8 @@
    "startTime": "19:00",
    "location": "Minneapolis",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-03-25-astros-vs-rangers",
@@ -7913,7 +7964,8 @@
    "startTime": "19:00",
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-03-27-15th-annual-community-garage-sale",
@@ -8009,7 +8061,8 @@
    "startTime": "17:00",
    "location": "Washington",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-03-29-mavs-at-bucks",
@@ -8019,7 +8072,8 @@
    "startTime": "19:00",
    "location": "Milwaukee",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-03-29-astros-vs-red-sox",
@@ -8164,7 +8218,8 @@
    "startTime": "19:00",
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-04-02-rangers-vs-athletics",
@@ -8351,7 +8406,8 @@
    "startTime": "21:00",
    "location": "Los Angeles",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-04-07-astros-at-red-sox",
@@ -8424,7 +8480,8 @@
    "startTime": "21:00",
    "location": "Portland",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-04-08-rangers-vs-rays",
@@ -8485,7 +8542,8 @@
    "startTime": "21:00",
    "location": "Sacramento",
    "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-04-10-rangers-at-cubs",
@@ -8588,7 +8646,8 @@
    "startTime": "19:30",
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-04-13-rangers-at-reds",
