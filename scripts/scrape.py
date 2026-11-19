@@ -7,6 +7,7 @@ Each source below publishes an iCalendar (.ics) feed. Events already in events.j
 (same day, similar title) are skipped, so it's safe to run any time.
 """
 import json, os
+import difflib
 import re
 import sys
 import urllib.request
@@ -71,7 +72,7 @@ BOERNE_NOISE = (r"library|storytime|story time|trivia|karaoke|happy hour|network
                 r"support group|workshop|webinar|cigar|wing bar|mixer|downtown diy|crafts & corks|clay earrings|"
                 r"ornament painting|bangle|dis-carded|lobby stop|burger king|watercolor|volunteer|clean-?up|trailblazers|"
                 r"nature makers|author alley|drop-off|dinner|singer/songwriter|live music with|name that tune|"
-                r"council|commission|board\b|closed|office hours|tour\b|jazz night|brunch|tasting")
+                r"council|commission|board\b|closed|office hours|tour\b|jazz night|brunch|tasting|sold out|case sale|spades")
 
 BOERNE_SOURCES = [
     dict(name="Boerne Community Theatre", ttc="https://buy.ticketstothecity.com/venue.php?org_id=389", category="arts",
@@ -90,7 +91,7 @@ BOERNE_SOURCES = [
               r"burger night|ladies night|crafternoon|bookworms|memory lab|drawing group|potpourri|toastmasters|"
               r"support group|workshop|webinar|cigar|wing bar|mixer|downtown diy|crafts & corks|clay earrings|"
               r"ornament painting|bangle|dis-carded|lobby stop|burger king|watercolor|volunteer|clean-?up|trailblazers|"
-              r"nature makers|author alley|drop-off|dinner|singer/songwriter|live music with",
+              r"nature makers|author alley|drop-off|dinner|singer/songwriter|live music with|closed|sold out|case sale|name that tune|spades",
          recurring=2),
 ]
 
@@ -391,9 +392,14 @@ def is_duplicate(feed_events, day, title):
                 # Screenings often share a holiday word with other events that day; need two words in common.
                 if len(set(key) & set(other)) >= 2:
                     return True
-            elif key[0] == other[0] or set(key[:2]) & set(other[:2]):
+            elif same_word(key[0], other[0]) or any(same_word(a, b) for a in key[:2] for b in other[:2]):
                 return True
     return False
+
+
+def same_word(a, b):
+    """Equal, or a long word spelled slightly differently (Christkindlmarkt / Christkindlemarkt)."""
+    return a == b or (min(len(a), len(b)) >= 7 and difflib.SequenceMatcher(None, a, b).ratio() >= 0.85)
 
 
 def clean_title(t):
