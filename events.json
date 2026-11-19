@@ -178,13 +178,13 @@
   {
    "id": "movies",
    "name": "Movie nights",
-   "light": "#6B3FA0",
-   "dark": "#C3A4EC",
+   "light": "#2F5AA8",
+   "dark": "#93B4EE",
    "symbol": "film.fill"
   },
   {
    "id": "market",
-   "name": "Markets & arts",
+   "name": "Markets & shopping",
    "light": "#6845A3",
    "dark": "#B99DF0",
    "symbol": "basket.fill"
