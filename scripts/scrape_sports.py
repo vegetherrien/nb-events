@@ -173,7 +173,8 @@ def page_games(src, today):
                 network, venue = table[day]
                 if network and network.upper() not in ("TBD", "TBA"): e["tv"] = network
                 if not home and venue: e["location"] = venue
-            out.append(e)
+            if not any(x["id"] == e["id"] for x in out):       # some pages list a game twice
+                out.append(e)
     return out
 
 
