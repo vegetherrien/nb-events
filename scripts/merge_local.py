@@ -10,7 +10,8 @@ from communities-events.json; school events are added by scrape_schools.py inste
 import glob, json, os, sys
 from datetime import date
 
-KEEP = ['short', 'mascot', 'url', 'calendar', 'athletics', 'address', 'member', 'day', 'status']
+KEEP = ['short', 'mascot', 'url', 'calendar', 'athletics', 'address', 'member', 'day', 'status',
+        'weekday', 'recycleWeekday', 'recycleWeek', 'weekAStart']
 ORDER = ['communities', 'nbisd', 'comal-isd', 'boerne-isd', 'city']
 
 
@@ -26,6 +27,15 @@ def main(research, local_out, events_path):
             if f['layer'] == 'trash' and not i.get('day') and i.get('trash_day'):
                 rec = i['recycling_day'].split(',')[0]
                 i['day'] = f"{i['trash_day'].split(' ')[0]} · recycling {rec}s, Week {i['week']}"
+            if f['layer'] == 'trash':
+                # Structured pickup days, for the evening-before reminder.
+                if i.get('trash_day'):                       # New Braunfels: recycling every other week
+                    i['weekday'] = i['trash_day'].split(' ')[0]
+                    i['recycleWeekday'] = i['recycling_day'].split(',')[0]
+                    i['recycleWeek'] = i['week']
+                    i['weekAStart'] = '2026-01-05'           # Week A = the week starting this Monday, then every 14 days
+                elif i.get('trash'):                         # Boerne: recycling weekly on the trash day
+                    i['weekday'] = i['recycleWeekday'] = i['trash'].split(' ')[0]
             if f['layer'] == 'trash' and i.get('day'):
                 i['short'] = i['day']
             if f['layer'] == 'city':
