@@ -9067,5 +9067,39 @@
    "from": "2026-11-18",
    "until": "2026-12-13"
   }
+ ],
+ "newPlaces": [
+  {
+   "name": "Elevate Bistro",
+   "kind": "bar & restaurant",
+   "address": "161 S Main St",
+   "since": "2026-10-21",
+   "source": "Texas Alcoholic Beverage Commission",
+   "url": "https://data.texas.gov/Government-and-Taxes/TABC-License-Information/7hf9-qc9f"
+  },
+  {
+   "name": "Chipotle Mexican Grill",
+   "kind": "restaurant",
+   "address": "34674 Interstate 10 W",
+   "since": "2026-10-08",
+   "source": "Texas Alcoholic Beverage Commission",
+   "url": "https://data.texas.gov/Government-and-Taxes/TABC-License-Information/7hf9-qc9f"
+  },
+  {
+   "name": "The Cypress Bar",
+   "kind": "bar & restaurant",
+   "address": "170 S. Main St",
+   "since": "2026-08-11",
+   "source": "Texas Alcoholic Beverage Commission",
+   "url": "https://data.texas.gov/Government-and-Taxes/TABC-License-Information/7hf9-qc9f"
+  },
+  {
+   "name": "Boerne Grill",
+   "kind": "restaurant",
+   "address": "143 S Main St",
+   "since": "2026-07-27",
+   "source": "Texas Alcoholic Beverage Commission",
+   "url": "https://data.texas.gov/Government-and-Taxes/TABC-License-Information/7hf9-qc9f"
+  }
  ]
 }
