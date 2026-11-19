@@ -150,12 +150,36 @@
    "symbol": "leaf.fill"
   },
   {
+   "id": "spurs",
+   "name": "Spurs basketball",
+   "light": "#55616B",
+   "dark": "#B8C2CC",
+   "symbol": "basketball.fill",
+   "group": "Sports"
+  },
+  {
    "id": "horns",
    "name": "Longhorns football",
    "light": "#B85000",
    "dark": "#FF9A4D",
    "symbol": "football.fill",
-   "group": "Football"
+   "group": "Sports"
+  },
+  {
+   "id": "utsa",
+   "name": "UTSA football",
+   "light": "#0C2340",
+   "dark": "#F58A5B",
+   "symbol": "bird.fill",
+   "group": "Sports"
+  },
+  {
+   "id": "aggies",
+   "name": "Texas A&M football",
+   "light": "#500000",
+   "dark": "#E39A9A",
+   "symbol": "football.fill",
+   "group": "Sports"
   },
   {
    "id": "cowboys",
@@ -164,30 +188,7 @@
    "dark": "#9DB7E8",
    "symbol": "star.fill",
    "defaultHidden": true,
-   "group": "Football"
-  },
-  {
-   "id": "aggies",
-   "name": "Texas A&M football",
-   "light": "#500000",
-   "dark": "#E39A9A",
-   "symbol": "football.fill",
-   "group": "Football"
-  },
-  {
-   "id": "utsa",
-   "name": "UTSA football",
-   "light": "#0C2340",
-   "dark": "#F58A5B",
-   "symbol": "bird.fill",
-   "group": "Football"
-  },
-  {
-   "id": "spurs",
-   "name": "Spurs basketball",
-   "light": "#55616B",
-   "dark": "#B8C2CC",
-   "symbol": "basketball.fill"
+   "group": "Sports"
   }
  ],
  "seasons": [
