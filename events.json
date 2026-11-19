@@ -1094,18 +1094,6 @@
    "id": "sch-memorial-es-2026-11-16-scholastic-book-fair"
   },
   {
-   "title": "Fall Picture Retakes",
-   "startDate": "2026-11-18",
-   "location": "Legend Point Elementary",
-   "sourceURL": "https://nbisd.org/lpe/",
-   "category": "school",
-   "tags": [
-    "school:legend-point-es"
-   ],
-   "audience": "local",
-   "id": "sch-legend-point-es-2026-11-18-fall-picture-retakes"
-  },
-  {
    "title": "KRE-Books Before the Bell",
    "startDate": "2026-11-18",
    "startTime": "07:15",
@@ -1134,7 +1122,7 @@
    "id": "sch-voss-farms-es-2026-11-18-friendsgiving-luncheon-k-2-during-their-grade-level"
   },
   {
-   "title": "New Braunfels wrestling at TBD Varsity Boys Opponent at Westside Duals",
+   "title": "New Braunfels wrestling at Varsity",
    "startDate": "2026-11-18",
    "tag": "Away",
    "category": "hs-sports",
@@ -1145,24 +1133,10 @@
     "school:new-braunfels-hs"
    ],
    "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-11-18-new-braunfels-wrestling-at-tbd-varsity-boys-oppo"
+   "id": "sch-new-braunfels-hs-2026-11-18-new-braunfels-wrestling-at-varsity"
   },
   {
-   "title": "New Braunfels wrestling at Varsity Girls Scramble",
-   "startDate": "2026-11-18",
-   "tag": "Away",
-   "category": "hs-sports",
-   "location": "Lanier HS",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "startTime": "10:30",
-   "tags": [
-    "school:new-braunfels-hs"
-   ],
-   "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-11-18-new-braunfels-wrestling-at-varsity-girls-scrambl"
-  },
-  {
-   "title": "Canyon wrestling at Clemens Dual vs Clemens / Vets Memorial",
+   "title": "Canyon wrestling at Clemens Dual vs Clemens / Vets…",
    "startDate": "2026-11-18",
    "tag": "Away",
    "category": "hs-sports",
@@ -1173,7 +1147,17 @@
     "school:canyon-hs"
    ],
    "audience": "local",
-   "id": "sch-canyon-hs-2026-11-18-canyon-wrestling-at-clemens-dual-vs-clemens-vets-memori"
+   "id": "sch-canyon-hs-2026-11-18-canyon-wrestling-at-clemens-dual-vs-clemens-vets"
+  },
+  {
+   "id": "2026-11-18-rockets-at-pacers",
+   "category": "rockets",
+   "title": "Rockets at Pacers",
+   "startDate": "2026-11-18",
+   "startTime": "18:00",
+   "location": "Indianapolis",
+   "tag": "Away",
+   "sourceURL": "https://www.basketball-reference.com/teams/HOU/2027_games.html"
   },
   {
    "title": "Wse 4Th & 5Th Grade Choir Concert",
@@ -1188,16 +1172,6 @@
    ],
    "audience": "local",
    "id": "sch-walnut-springs-es-2026-11-18-wse-4th-5th-grade-choir-concert"
-  },
-  {
-   "id": "2026-11-18-rockets-at-pacers",
-   "category": "rockets",
-   "title": "Rockets at Pacers",
-   "startDate": "2026-11-18",
-   "startTime": "18:00",
-   "location": "Indianapolis",
-   "tag": "Away",
-   "sourceURL": "https://www.basketball-reference.com/teams/HOU/2027_games.html"
   },
   {
    "id": "2026-11-18-the-georges",
@@ -1240,19 +1214,6 @@
    "sourceURL": "https://www.basketball-reference.com/teams/DAL/2027_games.html"
   },
   {
-   "title": "Long Creek boys basketball at TBA",
-   "startDate": "2026-11-19",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "TBA",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
-   "tags": [
-    "school:long-creek-hs"
-   ],
-   "audience": "local",
-   "id": "sch-long-creek-hs-2026-11-19-long-creek-boys-basketball-at-tba"
-  },
-  {
    "title": "Canyon boys basketball at Joe Filoteo Classic",
    "startDate": "2026-11-19",
    "tag": "Away",
@@ -1264,19 +1225,6 @@
    ],
    "audience": "local",
    "id": "sch-canyon-hs-2026-11-19-canyon-boys-basketball-at-joe-filoteo-classic"
-  },
-  {
-   "title": "Davenport girls basketball at TBA",
-   "startDate": "2026-11-19",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "TBA",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
-   "tags": [
-    "school:davenport-hs"
-   ],
-   "audience": "local",
-   "id": "sch-davenport-hs-2026-11-19-davenport-girls-basketball-at-tba"
   },
   {
    "title": "New Braunfels girls basketball at Floresville Tournament",
@@ -1376,32 +1324,6 @@
    "sourceURL": "https://www.gruenetexas.com/event/h-d-gruene-mercantile-ladies-night-out/"
   },
   {
-   "title": "8A Girls Basketball Game",
-   "startDate": "2026-11-19",
-   "startTime": "17:00",
-   "location": "CHMS Main Gym",
-   "sourceURL": "https://www.comalisd.org/apps/events/61697108/",
-   "category": "school",
-   "tags": [
-    "school:church-hill-ms"
-   ],
-   "audience": "local",
-   "id": "sch-church-hill-ms-2026-11-19-8a-girls-basketball-game"
-  },
-  {
-   "title": "7A Girls Basketball Game",
-   "startDate": "2026-11-19",
-   "startTime": "17:00",
-   "location": "CMS Practice Gym",
-   "sourceURL": "https://www.comalisd.org/apps/events/61697129/",
-   "category": "school",
-   "tags": [
-    "school:canyon-ms"
-   ],
-   "audience": "local",
-   "id": "sch-canyon-ms-2026-11-19-7a-girls-basketball-game"
-  },
-  {
    "title": "Camp Freiheit Strategy Night",
    "startDate": "2026-11-19",
    "startTime": "17:00",
@@ -1440,19 +1362,6 @@
    "location": "NB Civic & Convention Center, 375 S Castell Ave",
    "description": "Preview party that opens the market.",
    "sourceURL": "https://sophienburg.com/weihnachtsmarkt/"
-  },
-  {
-   "title": "Board Meeting",
-   "startDate": "2026-11-19",
-   "startTime": "18:00",
-   "location": "All campuses",
-   "sourceURL": "https://www.comalisd.org/apps/events/46273161/",
-   "category": "school",
-   "tags": [
-    "district:comal-isd"
-   ],
-   "audience": "local",
-   "id": "sch-comal-isd-2026-11-19-board-meeting"
   },
   {
    "id": "2026-11-19-playoffs-westlake-vs-pieper",
@@ -1541,19 +1450,6 @@
    "sourceURL": "https://sophienburg.com/weihnachtsmarkt/"
   },
   {
-   "title": "Long Creek boys basketball at TBA",
-   "startDate": "2026-11-20",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "TBA",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
-   "tags": [
-    "school:long-creek-hs"
-   ],
-   "audience": "local",
-   "id": "sch-long-creek-hs-2026-11-20-long-creek-boys-basketball-at-tba"
-  },
-  {
    "title": "Substitute Educators Day",
    "startDate": "2026-11-20",
    "location": "All campuses",
@@ -1564,19 +1460,6 @@
    ],
    "audience": "local",
    "id": "sch-comal-isd-2026-11-20-substitute-educators-day"
-  },
-  {
-   "title": "Davenport girls basketball at TBA",
-   "startDate": "2026-11-20",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "TBA",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
-   "tags": [
-    "school:davenport-hs"
-   ],
-   "audience": "local",
-   "id": "sch-davenport-hs-2026-11-20-davenport-girls-basketball-at-tba"
   },
   {
    "title": "New Braunfels girls basketball at Floresville Tournament",
@@ -1607,18 +1490,18 @@
    "id": "sch-long-creek-hs-2026-11-20-long-creek-wrestling-at-capital-classic-tournament"
   },
   {
-   "title": "Canyon wrestling at Tournament @ Bowie Boys and Girls Varsity",
+   "title": "Canyon wrestling at Tournament @ Bowie",
    "startDate": "2026-11-20",
    "tag": "Away",
    "category": "hs-sports",
-   "location": "Tournament @ Bowie Boys and Girls Varsity",
+   "location": "Tournament @ Bowie",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "08:00",
    "tags": [
     "school:canyon-hs"
    ],
    "audience": "local",
-   "id": "sch-canyon-hs-2026-11-20-canyon-wrestling-at-tournament-bowie-boys-and-girls-var"
+   "id": "sch-canyon-hs-2026-11-20-canyon-wrestling-at-tournament-bowie"
   },
   {
    "title": "Davenport boys swimming & diving at 4A TISCA Meet",
@@ -1768,19 +1651,6 @@
    "sourceURL": "https://newbraunfels.gov/downtownlighting"
   },
   {
-   "title": "CLHS Girls Basketball Game",
-   "startDate": "2026-11-20",
-   "startTime": "18:00",
-   "location": "All campuses",
-   "sourceURL": "https://www.comalisd.org/apps/events/61695592/",
-   "category": "school",
-   "tags": [
-    "district:comal-isd"
-   ],
-   "audience": "local",
-   "id": "sch-comal-isd-2026-11-20-clhs-girls-basketball-game"
-  },
-  {
    "title": "Canyon Lake girls basketball vs. Luling Lady Eagles",
    "startDate": "2026-11-20",
    "tag": "Home",
@@ -1807,19 +1677,6 @@
    ],
    "audience": "local",
    "id": "sch-new-braunfels-hs-2026-11-20-new-braunfels-boys-basketball-at-davenport"
-  },
-  {
-   "title": "DHS Boys Basketball Game",
-   "startDate": "2026-11-20",
-   "startTime": "18:30",
-   "location": "All campuses",
-   "sourceURL": "https://www.comalisd.org/apps/events/61695593/",
-   "category": "school",
-   "tags": [
-    "district:comal-isd"
-   ],
-   "audience": "local",
-   "id": "sch-comal-isd-2026-11-20-dhs-boys-basketball-game"
   },
   {
    "id": "2026-11-20-playoffs-smithson-valley-vs-mcallen-rowe",
@@ -1921,19 +1778,6 @@
    "description": "Pac-12 home game for the Bobcats, about 20 minutes up I-35.",
    "outdoor": true,
    "sourceURL": "https://txst.com/sports/football/schedule/2026"
-  },
-  {
-   "title": "Davenport girls basketball at TBA",
-   "startDate": "2026-11-21",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "TBA",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
-   "tags": [
-    "school:davenport-hs"
-   ],
-   "audience": "local",
-   "id": "sch-davenport-hs-2026-11-21-davenport-girls-basketball-at-tba"
   },
   {
    "title": "New Braunfels girls basketball at Floresville Tournament",
@@ -2133,7 +1977,7 @@
    "sourceURL": "https://www.gruenetexas.com/event/owen-stroud-15/"
   },
   {
-   "title": "New Braunfels wrestling at Varsity Boys Individual Tournament",
+   "title": "New Braunfels wrestling at Varsity",
    "startDate": "2026-11-21",
    "tag": "Away",
    "category": "hs-sports",
@@ -2144,21 +1988,7 @@
     "school:new-braunfels-hs"
    ],
    "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-11-21-new-braunfels-wrestling-at-varsity-boys-individu"
-  },
-  {
-   "title": "New Braunfels wrestling at Varsity Girls Individual Tournament",
-   "startDate": "2026-11-21",
-   "tag": "Away",
-   "category": "hs-sports",
-   "location": "Churchill HS",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "startTime": "18:00",
-   "tags": [
-    "school:new-braunfels-hs"
-   ],
-   "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-11-21-new-braunfels-wrestling-at-varsity-girls-individ"
+   "id": "sch-new-braunfels-hs-2026-11-21-new-braunfels-wrestling-at-varsity"
   },
   {
    "id": "2026-11-21-utsa-at-uab",
@@ -2337,19 +2167,6 @@
    "id": "sch-long-creek-hs-2026-11-23-long-creek-boys-basketball-vs-davenport"
   },
   {
-   "title": "DHS Girls Basketball Game",
-   "startDate": "2026-11-23",
-   "startTime": "11:30",
-   "location": "All campuses",
-   "sourceURL": "https://www.comalisd.org/apps/events/62568129/",
-   "category": "school",
-   "tags": [
-    "district:comal-isd"
-   ],
-   "audience": "local",
-   "id": "sch-comal-isd-2026-11-23-dhs-girls-basketball-game"
-  },
-  {
    "title": "Davenport girls basketball vs. Samuel Clemens Lady Buffs",
    "startDate": "2026-11-23",
    "tag": "Home",
@@ -2378,11 +2195,11 @@
    "id": "sch-canyon-hs-2026-11-23-canyon-girls-basketball-at-lehman-lhs-var-basketball"
   },
   {
-   "title": "Canyon Lake girls basketball at St. Michael's Catholic Academy-Austin",
+   "title": "Canyon Lake girls basketball at St. Michael's Catholic…",
    "startDate": "2026-11-23",
    "tag": "Away",
    "category": "hs-basketball",
-   "location": "St. Michael's Catholic Academy-Austin",
+   "location": "St. Michael's Catholic…",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
    "startTime": "12:30",
    "tags": [
@@ -2434,19 +2251,6 @@
    "location": "Golden 1 Center, Sacramento",
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
-  },
-  {
-   "title": "CHS Girls Basketball Game",
-   "startDate": "2026-11-24",
-   "startTime": "10:00",
-   "location": "All campuses",
-   "sourceURL": "https://www.comalisd.org/apps/events/62568131/",
-   "category": "school",
-   "tags": [
-    "district:comal-isd"
-   ],
-   "audience": "local",
-   "id": "sch-comal-isd-2026-11-24-chs-girls-basketball-game"
   },
   {
    "title": "Canyon girls basketball vs. Roosevelt",
@@ -2551,19 +2355,6 @@
    ],
    "audience": "local",
    "id": "sch-new-braunfels-hs-2026-11-25-new-braunfels-boys-basketball-at-canyon-lake-clh"
-  },
-  {
-   "title": "CLHS Boys Basketball Game",
-   "startDate": "2026-11-25",
-   "startTime": "11:30",
-   "location": "All campuses",
-   "sourceURL": "https://www.comalisd.org/apps/events/62568138/",
-   "category": "school",
-   "tags": [
-    "district:comal-isd"
-   ],
-   "audience": "local",
-   "id": "sch-comal-isd-2026-11-25-clhs-boys-basketball-game"
   },
   {
    "id": "2026-11-25-txst-bb-vs-alcorn-state",
@@ -2974,6 +2765,16 @@
    "id": "sch-seele-es-2026-12-01-3rd-grade-cemex-field-trip"
   },
   {
+   "id": "2026-12-01-slim-bawb",
+   "category": "music",
+   "title": "Slim Bawb",
+   "startDate": "2026-12-01",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "sourceURL": "https://gruenehall.com/event/slim-bawb-12/"
+  },
+  {
    "title": "ORMS Band Concert",
    "startDate": "2026-12-01",
    "startTime": "18:00",
@@ -2986,16 +2787,6 @@
    ],
    "audience": "local",
    "id": "sch-oak-run-ms-2026-12-01-orms-band-concert"
-  },
-  {
-   "id": "2026-12-01-slim-bawb",
-   "category": "music",
-   "title": "Slim Bawb",
-   "startDate": "2026-12-01",
-   "startTime": "18:00",
-   "endTime": "21:00",
-   "location": "Gruene Hall, 1281 Gruene Rd",
-   "sourceURL": "https://gruenehall.com/event/slim-bawb-12/"
   },
   {
    "title": "New Braunfels girls basketball at Poth",
@@ -3040,19 +2831,6 @@
    "id": "sch-long-creek-hs-2026-12-01-long-creek-boys-basketball-vs-boerne-basketball"
   },
   {
-   "title": "DHS Girls Basketball Game",
-   "startDate": "2026-12-01",
-   "startTime": "18:30",
-   "location": "All campuses",
-   "sourceURL": "https://www.comalisd.org/apps/events/62568142/",
-   "category": "school",
-   "tags": [
-    "district:comal-isd"
-   ],
-   "audience": "local",
-   "id": "sch-comal-isd-2026-12-01-dhs-girls-basketball-game"
-  },
-  {
    "title": "Davenport girls basketball vs. Pieper Warriors",
    "startDate": "2026-12-01",
    "tag": "Home",
@@ -3065,19 +2843,6 @@
    ],
    "audience": "local",
    "id": "sch-davenport-hs-2026-12-01-davenport-girls-basketball-vs-pieper-warriors"
-  },
-  {
-   "title": "CLHS Girls Basketball Game",
-   "startDate": "2026-12-01",
-   "startTime": "18:30",
-   "location": "All campuses",
-   "sourceURL": "https://www.comalisd.org/apps/events/62568140/",
-   "category": "school",
-   "tags": [
-    "district:comal-isd"
-   ],
-   "audience": "local",
-   "id": "sch-comal-isd-2026-12-01-clhs-girls-basketball-game"
   },
   {
    "title": "Canyon Lake girls basketball vs. Ingram Tom Moore Warriors",
@@ -3108,18 +2873,18 @@
    "id": "sch-new-braunfels-hs-2026-12-01-new-braunfels-boys-basketball-vs-comal-canyon"
   },
   {
-   "title": "Canyon boys basketball at New Braunfels Varsity Boys Basketball",
+   "title": "Canyon boys basketball at New Braunfels",
    "startDate": "2026-12-01",
    "tag": "Away",
    "category": "hs-basketball",
-   "location": "New Braunfels Varsity Boys Basketball",
+   "location": "New Braunfels",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
    "startTime": "19:00",
    "tags": [
     "school:canyon-hs"
    ],
    "audience": "local",
-   "id": "sch-canyon-hs-2026-12-01-canyon-boys-basketball-at-new-braunfels-varsity-boys-ba"
+   "id": "sch-canyon-hs-2026-12-01-canyon-boys-basketball-at-new-braunfels"
   },
   {
    "id": "2026-12-01-mariachi-herencia-de-mexico-a-mariachi-christmas",
@@ -3153,34 +2918,6 @@
    "tv": "ESPN2"
   },
   {
-   "title": "Legendary Leader Mtg",
-   "startDate": "2026-12-02",
-   "startTime": "07:00",
-   "endTime": "07:30",
-   "location": "Memorial Elementary",
-   "sourceURL": "https://nbisd.org/me/",
-   "category": "school",
-   "tags": [
-    "school:memorial-es"
-   ],
-   "audience": "local",
-   "id": "sch-memorial-es-2026-12-02-legendary-leader-mtg"
-  },
-  {
-   "title": "Last Wse Choir Rehearsal In Music Room",
-   "startDate": "2026-12-02",
-   "startTime": "15:10",
-   "endTime": "15:45",
-   "location": "Walnut Springs Elementary",
-   "sourceURL": "https://nbisd.org/wse/",
-   "category": "school",
-   "tags": [
-    "school:walnut-springs-es"
-   ],
-   "audience": "local",
-   "id": "sch-walnut-springs-es-2026-12-02-last-wse-choir-rehearsal-in-music-room"
-  },
-  {
    "title": "Global Holiday Traditions",
    "startDate": "2026-12-02",
    "startTime": "16:30",
@@ -3208,7 +2945,7 @@
    "id": "sch-garden-ridge-es-2026-12-02-pta-family-fun-night"
   },
   {
-   "title": "Canyon wrestling at Clemens Dual vs Clemens/ Madison / Steele",
+   "title": "Canyon wrestling at Clemens Dual vs Clemens/ Madison…",
    "startDate": "2026-12-02",
    "tag": "Away",
    "category": "hs-sports",
@@ -3219,7 +2956,7 @@
     "school:canyon-hs"
    ],
    "audience": "local",
-   "id": "sch-canyon-hs-2026-12-02-canyon-wrestling-at-clemens-dual-vs-clemens-madison-ste"
+   "id": "sch-canyon-hs-2026-12-02-canyon-wrestling-at-clemens-dual-vs-clemens-madison"
   },
   {
    "title": "Davenport boys wrestling at Hays",
@@ -3234,32 +2971,6 @@
    ],
    "audience": "local",
    "id": "sch-davenport-hs-2026-12-02-davenport-boys-wrestling-at-hays"
-  },
-  {
-   "title": "7A Girls Basketball Game",
-   "startDate": "2026-12-02",
-   "startTime": "17:00",
-   "location": "CHMS Main Gym",
-   "sourceURL": "https://www.comalisd.org/apps/events/62570270/",
-   "category": "school",
-   "tags": [
-    "school:church-hill-ms"
-   ],
-   "audience": "local",
-   "id": "sch-church-hill-ms-2026-12-02-7a-girls-basketball-game"
-  },
-  {
-   "title": "8A Girls Basketball Game",
-   "startDate": "2026-12-02",
-   "startTime": "17:00",
-   "location": "Canyon Middle School",
-   "sourceURL": "https://www.comalisd.org/apps/events/62568217/",
-   "category": "school",
-   "tags": [
-    "school:canyon-ms"
-   ],
-   "audience": "local",
-   "id": "sch-canyon-ms-2026-12-02-8a-girls-basketball-game"
   },
   {
    "id": "2026-12-02-dallas-moore",
@@ -3303,32 +3014,6 @@
    ],
    "audience": "local",
    "id": "sch-canyon-hs-2026-12-03-canyon-boys-basketball-at-austin-bowie-classic"
-  },
-  {
-   "title": "Davenport girls basketball at TBA",
-   "startDate": "2026-12-03",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "TBA",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
-   "tags": [
-    "school:davenport-hs"
-   ],
-   "audience": "local",
-   "id": "sch-davenport-hs-2026-12-03-davenport-girls-basketball-at-tba"
-  },
-  {
-   "title": "Canyon Lake girls basketball at TBD",
-   "startDate": "2026-12-03",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Llano High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
-   "tags": [
-    "school:canyon-lake-hs"
-   ],
-   "audience": "local",
-   "id": "sch-canyon-lake-hs-2026-12-03-canyon-lake-girls-basketball-at-tbd"
   },
   {
    "title": "New Braunfels girls basketball at Northside/Northeast Tournament",
@@ -3399,7 +3084,7 @@
    "sourceURL": "https://www.hillcountrypassport.com/events/place-new-braunfels-tx/page-3/"
   },
   {
-   "title": "New Braunfels wrestling at La Vernia Varsity Girls",
+   "title": "New Braunfels wrestling at La Vernia",
    "startDate": "2026-12-03",
    "tag": "Away",
    "category": "hs-sports",
@@ -3410,10 +3095,10 @@
     "school:new-braunfels-hs"
    ],
    "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-12-03-new-braunfels-wrestling-at-la-vernia-varsity-gir"
+   "id": "sch-new-braunfels-hs-2026-12-03-new-braunfels-wrestling-at-la-vernia"
   },
   {
-   "title": "New Braunfels wrestling at MacArthur Varsity Girls",
+   "title": "New Braunfels wrestling at MacArthur",
    "startDate": "2026-12-03",
    "tag": "Away",
    "category": "hs-sports",
@@ -3424,35 +3109,7 @@
     "school:new-braunfels-hs"
    ],
    "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-12-03-new-braunfels-wrestling-at-macarthur-varsity-gir"
-  },
-  {
-   "title": "New Braunfels wrestling at La Vernia Varsity Boys",
-   "startDate": "2026-12-03",
-   "tag": "Away",
-   "category": "hs-sports",
-   "location": "La Vernia High School",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "startTime": "18:00",
-   "tags": [
-    "school:new-braunfels-hs"
-   ],
-   "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-12-03-new-braunfels-wrestling-at-la-vernia-varsity-boy"
-  },
-  {
-   "title": "New Braunfels wrestling at MacArthur Varsity Boys",
-   "startDate": "2026-12-03",
-   "tag": "Away",
-   "category": "hs-sports",
-   "location": "La Vernia High School",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "startTime": "18:00",
-   "tags": [
-    "school:new-braunfels-hs"
-   ],
-   "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-12-03-new-braunfels-wrestling-at-macarthur-varsity-boy"
+   "id": "sch-new-braunfels-hs-2026-12-03-new-braunfels-wrestling-at-macarthur"
   },
   {
    "title": "Winter Orchestra Concert",
@@ -3563,32 +3220,6 @@
    ],
    "audience": "local",
    "id": "sch-comal-isd-2026-12-04-comal-speaks-finals"
-  },
-  {
-   "title": "Davenport girls basketball at TBA",
-   "startDate": "2026-12-04",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "TBA",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
-   "tags": [
-    "school:davenport-hs"
-   ],
-   "audience": "local",
-   "id": "sch-davenport-hs-2026-12-04-davenport-girls-basketball-at-tba"
-  },
-  {
-   "title": "Canyon Lake girls basketball at TBD",
-   "startDate": "2026-12-04",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Llano High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
-   "tags": [
-    "school:canyon-lake-hs"
-   ],
-   "audience": "local",
-   "id": "sch-canyon-lake-hs-2026-12-04-canyon-lake-girls-basketball-at-tbd"
   },
   {
    "title": "Holiday Parties",
@@ -3744,32 +3375,6 @@
    "id": "sch-davenport-hs-2026-12-05-jrotc-military-ball"
   },
   {
-   "title": "Davenport girls basketball at TBA",
-   "startDate": "2026-12-05",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "TBA",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
-   "tags": [
-    "school:davenport-hs"
-   ],
-   "audience": "local",
-   "id": "sch-davenport-hs-2026-12-05-davenport-girls-basketball-at-tba"
-  },
-  {
-   "title": "Canyon Lake girls basketball at TBD",
-   "startDate": "2026-12-05",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Llano High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
-   "tags": [
-    "school:canyon-lake-hs"
-   ],
-   "audience": "local",
-   "id": "sch-canyon-lake-hs-2026-12-05-canyon-lake-girls-basketball-at-tbd"
-  },
-  {
    "id": "2026-12-05-bulky-goods-drop-off",
    "category": "fest",
    "title": "City Bulky Goods Drop Off",
@@ -3811,7 +3416,7 @@
    "id": "sch-long-creek-hs-2026-12-05-long-creek-wrestling-at-sv-tournament"
   },
   {
-   "title": "Canyon wrestling at Smithson Valley Clarkson Classic Tournament Varsity Boys and Girls",
+   "title": "Canyon wrestling at Smithson Valley Clarkson Classic…",
    "startDate": "2026-12-05",
    "tag": "Away",
    "category": "hs-sports",
@@ -3822,7 +3427,7 @@
     "school:canyon-hs"
    ],
    "audience": "local",
-   "id": "sch-canyon-hs-2026-12-05-canyon-wrestling-at-smithson-valley-clarkson-classic-to"
+   "id": "sch-canyon-hs-2026-12-05-canyon-wrestling-at-smithson-valley-clarkson-classic"
   },
   {
    "title": "Davenport boys wrestling at Varsity - Clarkson Classic",
@@ -3866,6 +3471,17 @@
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
   },
   {
+   "id": "2026-12-05-castell-st-market",
+   "category": "market",
+   "title": "Castell St. Market",
+   "startDate": "2026-12-05",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "First Protestant Church, 296 S Seguin Ave",
+   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
+   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2026-12-05/"
+  },
+  {
    "title": "Long Creek swimming at TISCA Day 2",
    "startDate": "2026-12-05",
    "tag": "Away",
@@ -3878,17 +3494,6 @@
    ],
    "audience": "local",
    "id": "sch-long-creek-hs-2026-12-05-long-creek-swimming-at-tisca-day-2"
-  },
-  {
-   "id": "2026-12-05-castell-st-market",
-   "category": "market",
-   "title": "Castell St. Market",
-   "startDate": "2026-12-05",
-   "startTime": "09:00",
-   "endTime": "13:00",
-   "location": "First Protestant Church, 296 S Seguin Ave",
-   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
-   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2026-12-05/"
   },
   {
    "id": "2026-12-05-gruene-christmas-market-days",
@@ -4070,20 +3675,6 @@
    "id": "sch-comal-isd-2026-12-07-pearl-harbor-day"
   },
   {
-   "title": "Marathon Monday",
-   "startDate": "2026-12-07",
-   "startTime": "07:00",
-   "endTime": "07:30",
-   "location": "Memorial Elementary",
-   "sourceURL": "https://nbisd.org/me/",
-   "category": "school",
-   "tags": [
-    "school:memorial-es"
-   ],
-   "audience": "local",
-   "id": "sch-memorial-es-2026-12-07-marathon-monday"
-  },
-  {
    "title": "Senior Picture Makeup Day",
    "startDate": "2026-12-07",
    "startTime": "07:00",
@@ -4124,20 +3715,6 @@
    ],
    "audience": "local",
    "id": "sch-danville-ms-2026-12-07-choir-winter-concert"
-  },
-  {
-   "title": "PTA Board Mtg",
-   "startDate": "2026-12-07",
-   "startTime": "18:00",
-   "endTime": "19:00",
-   "location": "Memorial Elementary",
-   "sourceURL": "https://nbisd.org/me/",
-   "category": "school",
-   "tags": [
-    "school:memorial-es"
-   ],
-   "audience": "local",
-   "id": "sch-memorial-es-2026-12-07-pta-board-mtg"
   },
   {
    "id": "2026-12-07-bret-graham",
@@ -4186,18 +3763,6 @@
    "description": "Monday Night Football.",
    "sourceURL": "https://www.dallascowboys.com/schedule/",
    "outdoor": false
-  },
-  {
-   "title": "Progress Reports on Parent Portal",
-   "startDate": "2026-12-08",
-   "location": "Memorial Elementary",
-   "sourceURL": "https://nbisd.org/me/",
-   "category": "school",
-   "tags": [
-    "school:memorial-es"
-   ],
-   "audience": "local",
-   "id": "sch-memorial-es-2026-12-08-progress-reports-on-parent-portal"
   },
   {
    "title": "Senior Pictures with CADY",
@@ -4252,6 +3817,21 @@
    "id": "sch-legend-point-es-2026-12-08-5th-grade-music-performance-fine-arts-night"
   },
   {
+   "id": "2026-12-08-design-review-tutorial-workshop",
+   "category": "hood",
+   "title": "Design Review Tutorial Workshop",
+   "startDate": "2026-12-08",
+   "startTime": "17:30",
+   "endTime": "18:30",
+   "location": "Veramendi Welcome Center",
+   "description": "Learn more about the design review process and how to submit your application, what materials are needed to submit with your application, and how to ensure your application is processed smoothly. Save Your Spot here",
+   "sourceURL": "https://lifeatveramendi.org/event/design-review-tutorial-workshop-3/",
+   "tags": [
+    "community:veramendi"
+   ],
+   "audience": "local"
+  },
+  {
    "title": "NBMS Band - Holiday Concert, cafe",
    "startDate": "2026-12-08",
    "startTime": "17:30",
@@ -4279,19 +3859,14 @@
    "id": "sch-comal-creek-es-2026-12-08-winter-wonderland"
   },
   {
-   "id": "2026-12-08-design-review-tutorial-workshop",
-   "category": "hood",
-   "title": "Design Review Tutorial Workshop",
+   "id": "2026-12-08-andi-holleman-friends-song-swap",
+   "category": "music",
+   "title": "Andi Holleman & Friends Song Swap",
    "startDate": "2026-12-08",
-   "startTime": "17:30",
-   "endTime": "18:30",
-   "location": "Veramendi Welcome Center",
-   "description": "Learn more about the design review process and how to submit your application, what materials are needed to submit with your application, and how to ensure your application is processed smoothly. Save Your Spot here",
-   "sourceURL": "https://lifeatveramendi.org/event/design-review-tutorial-workshop-3/",
-   "tags": [
-    "community:veramendi"
-   ],
-   "audience": "local"
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "sourceURL": "https://gruenehall.com/event/andi-holleman-friends-song-swap/"
   },
   {
    "title": "Christmas Band Concert",
@@ -4305,16 +3880,6 @@
    ],
    "audience": "local",
    "id": "sch-danville-ms-2026-12-08-christmas-band-concert"
-  },
-  {
-   "id": "2026-12-08-andi-holleman-friends-song-swap",
-   "category": "music",
-   "title": "Andi Holleman & Friends Song Swap",
-   "startDate": "2026-12-08",
-   "startTime": "18:00",
-   "endTime": "21:00",
-   "location": "Gruene Hall, 1281 Gruene Rd",
-   "sourceURL": "https://gruenehall.com/event/andi-holleman-friends-song-swap/"
   },
   {
    "title": "New Braunfels girls basketball vs. Roosevelt",
@@ -4385,34 +3950,6 @@
    "id": "sch-canyon-ms-2026-12-08-advanced-band-christmas-concert"
   },
   {
-   "title": "Canyon boys basketball vs. Carrizo Springs Wildcat Basketball Varsity",
-   "startDate": "2026-12-08",
-   "tag": "Home",
-   "category": "hs-basketball",
-   "location": "Cougar Den",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
-   "startTime": "19:00",
-   "tags": [
-    "school:canyon-hs"
-   ],
-   "audience": "local",
-   "id": "sch-canyon-hs-2026-12-08-canyon-boys-basketball-vs-carrizo-springs-wildcat-baske"
-  },
-  {
-   "title": "Choir Concert",
-   "startDate": "2026-12-08",
-   "startTime": "19:00",
-   "endTime": "21:00",
-   "location": "CLHS PAC",
-   "sourceURL": "https://www.comalisd.org/apps/events/51257705/",
-   "category": "school",
-   "tags": [
-    "school:canyon-lake-hs"
-   ],
-   "audience": "local",
-   "id": "sch-canyon-lake-hs-2026-12-08-choir-concert"
-  },
-  {
    "id": "2026-12-08-txst-bb-vs-utrgv",
    "category": "txst-bb",
    "title": "Bobcats vs. UTRGV",
@@ -4444,11 +3981,39 @@
    "startTime": "19:00"
   },
   {
-   "title": "Davenport girls basketball at Liberal Arts and Science Academy Liberal Arts & Science",
+   "title": "Canyon boys basketball vs. Carrizo Springs Wildcat Basketball",
+   "startDate": "2026-12-08",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Cougar Den",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
+   "startTime": "19:00",
+   "tags": [
+    "school:canyon-hs"
+   ],
+   "audience": "local",
+   "id": "sch-canyon-hs-2026-12-08-canyon-boys-basketball-vs-carrizo-springs-wildcat-baske"
+  },
+  {
+   "title": "Choir Concert",
+   "startDate": "2026-12-08",
+   "startTime": "19:00",
+   "endTime": "21:00",
+   "location": "CLHS PAC",
+   "sourceURL": "https://www.comalisd.org/apps/events/51257705/",
+   "category": "school",
+   "tags": [
+    "school:canyon-lake-hs"
+   ],
+   "audience": "local",
+   "id": "sch-canyon-lake-hs-2026-12-08-choir-concert"
+  },
+  {
+   "title": "Davenport girls basketball at Liberal Arts and Science Academy…",
    "startDate": "2026-12-08",
    "tag": "Away",
    "category": "hs-basketball",
-   "location": "Liberal Arts and Science Academy Liberal Arts & Science",
+   "location": "Liberal Arts and Science Academy…",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
    "startTime": "19:30",
    "tags": [
@@ -4472,21 +4037,17 @@
    "id": "sch-canyon-lake-hs-2026-12-09-canyon-lake-wrestling-at-highlands-macarthur"
   },
   {
-   "title": "SLC Meeting",
+   "id": "2026-12-09-neal-stranahan",
+   "category": "music",
+   "title": "Neal Stranahan",
    "startDate": "2026-12-09",
-   "startTime": "15:15",
-   "endTime": "16:15",
-   "location": "Memorial Elementary",
-   "sourceURL": "https://nbisd.org/me/",
-   "category": "school",
-   "tags": [
-    "school:memorial-es"
-   ],
-   "audience": "local",
-   "id": "sch-memorial-es-2026-12-09-slc-meeting"
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "sourceURL": "https://gruenehall.com/event/neal-stranahan-6/"
   },
   {
-   "title": "New Braunfels wrestling vs. Reagan Varsity Girls",
+   "title": "New Braunfels wrestling vs. Reagan",
    "startDate": "2026-12-09",
    "tag": "Home",
    "category": "hs-sports",
@@ -4497,10 +4058,10 @@
     "school:new-braunfels-hs"
    ],
    "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-12-09-new-braunfels-wrestling-vs-reagan-varsity-girls"
+   "id": "sch-new-braunfels-hs-2026-12-09-new-braunfels-wrestling-vs-reagan"
   },
   {
-   "title": "New Braunfels wrestling vs. Kyle Lehman Varsity Girls",
+   "title": "New Braunfels wrestling vs. Kyle Lehman",
    "startDate": "2026-12-09",
    "tag": "Home",
    "category": "hs-sports",
@@ -4511,35 +4072,7 @@
     "school:new-braunfels-hs"
    ],
    "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-12-09-new-braunfels-wrestling-vs-kyle-lehman-varsity-g"
-  },
-  {
-   "title": "New Braunfels wrestling vs. Reagan Varsity Boys",
-   "startDate": "2026-12-09",
-   "tag": "Home",
-   "category": "hs-sports",
-   "location": "New Braunfels High School",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "startTime": "18:00",
-   "tags": [
-    "school:new-braunfels-hs"
-   ],
-   "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-12-09-new-braunfels-wrestling-vs-reagan-varsity-boys"
-  },
-  {
-   "title": "New Braunfels wrestling vs. Kyle Lehman Varsity Boys",
-   "startDate": "2026-12-09",
-   "tag": "Home",
-   "category": "hs-sports",
-   "location": "New Braunfels High School",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "startTime": "18:00",
-   "tags": [
-    "school:new-braunfels-hs"
-   ],
-   "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-12-09-new-braunfels-wrestling-vs-kyle-lehman-varsity-b"
+   "id": "sch-new-braunfels-hs-2026-12-09-new-braunfels-wrestling-vs-kyle-lehman"
   },
   {
    "title": "Dance Winter Show",
@@ -4553,16 +4086,6 @@
    ],
    "audience": "local",
    "id": "sch-davenport-hs-2026-12-09-dance-winter-show"
-  },
-  {
-   "id": "2026-12-09-neal-stranahan",
-   "category": "music",
-   "title": "Neal Stranahan",
-   "startDate": "2026-12-09",
-   "startTime": "18:00",
-   "endTime": "21:00",
-   "location": "Gruene Hall, 1281 Gruene Rd",
-   "sourceURL": "https://gruenehall.com/event/neal-stranahan-6/"
   },
   {
    "title": "Choir Concert",
@@ -4590,32 +4113,6 @@
    "id": "sch-voss-farms-es-2026-12-10-pta-pictures-with-santa"
   },
   {
-   "title": "Long Creek boys basketball at TBA",
-   "startDate": "2026-12-10",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Navarro HS",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
-   "tags": [
-    "school:long-creek-hs"
-   ],
-   "audience": "local",
-   "id": "sch-long-creek-hs-2026-12-10-long-creek-boys-basketball-at-tba"
-  },
-  {
-   "title": "Canyon Lake girls basketball at TBD",
-   "startDate": "2026-12-10",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "TBD",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
-   "tags": [
-    "school:canyon-lake-hs"
-   ],
-   "audience": "local",
-   "id": "sch-canyon-lake-hs-2026-12-10-canyon-lake-girls-basketball-at-tbd"
-  },
-  {
    "title": "KRE-Choir Hallway Performance",
    "startDate": "2026-12-10",
    "startTime": "07:00",
@@ -4628,20 +4125,6 @@
    ],
    "audience": "local",
    "id": "sch-klein-road-es-2026-12-10-kre-choir-hallway-performance"
-  },
-  {
-   "title": "NBMS - Retakes Picture Day",
-   "startDate": "2026-12-10",
-   "startTime": "08:00",
-   "endTime": "12:00",
-   "location": "New Braunfels Middle School",
-   "sourceURL": "https://nbisd.org/nbms/",
-   "category": "school",
-   "tags": [
-    "school:new-braunfels-ms"
-   ],
-   "audience": "local",
-   "id": "sch-new-braunfels-ms-2026-12-10-nbms-retakes-picture-day"
   },
   {
    "title": "Davenport boys swimming & diving at NISD Relays",
@@ -4742,19 +4225,6 @@
    "id": "sch-new-braunfels-hs-2026-12-10-new-braunfels-boys-basketball-at-odem"
   },
   {
-   "title": "Board Meeting",
-   "startDate": "2026-12-10",
-   "startTime": "18:00",
-   "location": "All campuses",
-   "sourceURL": "https://www.comalisd.org/apps/events/46273170/",
-   "category": "school",
-   "tags": [
-    "district:comal-isd"
-   ],
-   "audience": "local",
-   "id": "sch-comal-isd-2026-12-10-board-meeting"
-  },
-  {
    "id": "2026-12-10-seth-van-dover",
    "category": "music",
    "title": "Seth Van Dover",
@@ -4809,19 +4279,6 @@
    "id": "sch-carl-schurz-es-2026-12-11-donuts-w-grown-ups-sponsored-by-pta"
   },
   {
-   "title": "Long Creek boys basketball at TBA",
-   "startDate": "2026-12-11",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Navarro HS",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
-   "tags": [
-    "school:long-creek-hs"
-   ],
-   "audience": "local",
-   "id": "sch-long-creek-hs-2026-12-11-long-creek-boys-basketball-at-tba"
-  },
-  {
    "title": "Orchestra Concert",
    "startDate": "2026-12-11",
    "location": "Davenport High School",
@@ -4832,19 +4289,6 @@
    ],
    "audience": "local",
    "id": "sch-davenport-hs-2026-12-11-orchestra-concert"
-  },
-  {
-   "title": "Canyon Lake girls basketball at TBD",
-   "startDate": "2026-12-11",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "TBD",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
-   "tags": [
-    "school:canyon-lake-hs"
-   ],
-   "audience": "local",
-   "id": "sch-canyon-lake-hs-2026-12-11-canyon-lake-girls-basketball-at-tbd"
   },
   {
    "title": "Davenport boys wrestling at JV - Ultimate Warrior",
@@ -4861,7 +4305,7 @@
    "id": "sch-davenport-hs-2026-12-11-davenport-boys-wrestling-at-jv-ultimate-warrior"
   },
   {
-   "title": "Canyon Lake wrestling at Ultimate Warrior JV Tournament",
+   "title": "Canyon Lake wrestling at Ultimate Warrior",
    "startDate": "2026-12-11",
    "tag": "Away",
    "category": "hs-sports",
@@ -4872,7 +4316,7 @@
     "school:canyon-lake-hs"
    ],
    "audience": "local",
-   "id": "sch-canyon-lake-hs-2026-12-11-canyon-lake-wrestling-at-ultimate-warrior-jv-tourn"
+   "id": "sch-canyon-lake-hs-2026-12-11-canyon-lake-wrestling-at-ultimate-warrior"
   },
   {
    "id": "2026-12-11-utsa-bb-vs-denver",
@@ -5010,7 +4454,7 @@
    "id": "sch-long-creek-hs-2026-12-11-long-creek-girls-basketball-vs-veterans-memorial"
   },
   {
-   "title": "Canyon boys soccer at Hays HHS Var Boys Soccer",
+   "title": "Canyon boys soccer at Hays HHS Var",
    "startDate": "2026-12-11",
    "tag": "Away",
    "category": "hs-soccer",
@@ -5021,7 +4465,7 @@
     "school:canyon-hs"
    ],
    "audience": "local",
-   "id": "sch-canyon-hs-2026-12-11-canyon-boys-soccer-at-hays-hhs-var-boys-soccer"
+   "id": "sch-canyon-hs-2026-12-11-canyon-boys-soccer-at-hays-hhs-var"
   },
   {
    "title": "Canyon girls basketball at Byron P. Steele II Lady Knights",
@@ -5090,19 +4534,6 @@
    "sourceURL": "https://gruenehall.com/event/briscoe/"
   },
   {
-   "title": "Canyon Lake girls basketball at TBD",
-   "startDate": "2026-12-12",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "TBD",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
-   "tags": [
-    "school:canyon-lake-hs"
-   ],
-   "audience": "local",
-   "id": "sch-canyon-lake-hs-2026-12-12-canyon-lake-girls-basketball-at-tbd"
-  },
-  {
    "id": "gruene-2026-12-12-annual-jingle-bell-run-walk",
    "category": "holiday",
    "title": "Annual Jingle Bell Run/Walk",
@@ -5114,34 +4545,6 @@
    "tags": [
     "community:gruene"
    ]
-  },
-  {
-   "title": "New Braunfels wrestling at TBD Varsity Boys Opponent at Houston Dual Championship",
-   "startDate": "2026-12-12",
-   "tag": "Away",
-   "category": "hs-sports",
-   "location": "TBD Varsity Boys Opponent at Houston Dual Championship",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "startTime": "08:00",
-   "tags": [
-    "school:new-braunfels-hs"
-   ],
-   "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-12-12-new-braunfels-wrestling-at-tbd-varsity-boys-oppo"
-  },
-  {
-   "title": "New Braunfels wrestling at TBD Varsity Girls Opponent at Houston Dual Championship",
-   "startDate": "2026-12-12",
-   "tag": "Away",
-   "category": "hs-sports",
-   "location": "TBD Varsity Girls Opponent at Houston Dual Championship",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "startTime": "08:00",
-   "tags": [
-    "school:new-braunfels-hs"
-   ],
-   "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-12-12-new-braunfels-wrestling-at-tbd-varsity-girls-opp"
   },
   {
    "title": "Long Creek wrestling at Dripping Springs Tournament",
@@ -5158,7 +4561,7 @@
    "id": "sch-long-creek-hs-2026-12-12-long-creek-wrestling-at-dripping-springs-tournament"
   },
   {
-   "title": "Canyon wrestling at Cedar Park Pin A Palooza Tournament Varsity Boys and Girls",
+   "title": "Canyon wrestling at Cedar Park Pin A Palooza…",
    "startDate": "2026-12-12",
    "tag": "Away",
    "category": "hs-sports",
@@ -5169,7 +4572,7 @@
     "school:canyon-hs"
    ],
    "audience": "local",
-   "id": "sch-canyon-hs-2026-12-12-canyon-wrestling-at-cedar-park-pin-a-palooza-tournament"
+   "id": "sch-canyon-hs-2026-12-12-canyon-wrestling-at-cedar-park-pin-a-palooza"
   },
   {
    "title": "Davenport boys wrestling at V - Ultimate Warrior",
@@ -5376,30 +4779,14 @@
    "audience": "local"
   },
   {
-   "title": "Marathon Monday",
-   "startDate": "2026-12-14",
-   "location": "Memorial Elementary",
-   "sourceURL": "https://nbisd.org/me/",
-   "category": "school",
-   "tags": [
-    "school:memorial-es"
-   ],
-   "audience": "local",
-   "id": "sch-memorial-es-2026-12-14-marathon-monday"
-  },
-  {
-   "title": "NBISD Board Mtg",
+   "id": "2026-12-14-chris-ruest",
+   "category": "music",
+   "title": "Chris Ruest",
    "startDate": "2026-12-14",
    "startTime": "18:00",
-   "endTime": "19:00",
-   "location": "Memorial Elementary",
-   "sourceURL": "https://nbisd.org/me/",
-   "category": "school",
-   "tags": [
-    "school:memorial-es"
-   ],
-   "audience": "local",
-   "id": "sch-memorial-es-2026-12-14-nbisd-board-mtg"
+   "endTime": "21:00",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "sourceURL": "https://gruenehall.com/event/chris-ruest-15/"
   },
   {
    "title": "Piano Recital",
@@ -5414,16 +4801,6 @@
    ],
    "audience": "local",
    "id": "sch-canyon-lake-hs-2026-12-14-piano-recital"
-  },
-  {
-   "id": "2026-12-14-chris-ruest",
-   "category": "music",
-   "title": "Chris Ruest",
-   "startDate": "2026-12-14",
-   "startTime": "18:00",
-   "endTime": "21:00",
-   "location": "Gruene Hall, 1281 Gruene Rd",
-   "sourceURL": "https://gruenehall.com/event/chris-ruest-15/"
   },
   {
    "id": "2026-12-14-mavs-vs-bucks",
@@ -5538,6 +4915,16 @@
    "id": "sch-garden-ridge-es-2026-12-15-3rd-grade-performance-light-up-the-world"
   },
   {
+   "id": "2026-12-15-utsa-bb-vs-our-lady-of-the-lake",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Our Lady of the Lake",
+   "startDate": "2026-12-15",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "18:30"
+  },
+  {
    "title": "New Braunfels boys basketball at Buda Johnson",
    "startDate": "2026-12-15",
    "tag": "Away",
@@ -5563,16 +4950,6 @@
    ],
    "audience": "local",
    "id": "sch-canyon-ms-2026-12-15-beginner-band-christmas-concert"
-  },
-  {
-   "id": "2026-12-15-utsa-bb-vs-our-lady-of-the-lake",
-   "category": "utsa-bb",
-   "title": "UTSA vs. Our Lady of the Lake",
-   "startDate": "2026-12-15",
-   "location": "Convocation Center, San Antonio",
-   "tag": "Home",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "18:30"
   },
   {
    "title": "New Braunfels girls basketball vs. Long Creek",
@@ -5643,6 +5020,17 @@
    ],
    "audience": "local",
    "id": "sch-canyon-hs-2026-12-15-canyon-boys-soccer-vs-davenport"
+  },
+  {
+   "id": "2026-12-15-spurs-at-cavaliers",
+   "category": "spurs",
+   "title": "Spurs at Cavaliers",
+   "startDate": "2026-12-15",
+   "startTime": "19:00",
+   "location": "Rocket Arena, Cleveland",
+   "tag": "Away",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "title": "New Braunfels girls soccer at Canyon",
@@ -5728,22 +5116,11 @@
    "id": "sch-mountain-valley-ms-2026-12-15-orchestra-concert"
   },
   {
-   "id": "2026-12-15-spurs-at-cavaliers",
-   "category": "spurs",
-   "title": "Spurs at Cavaliers",
-   "startDate": "2026-12-15",
-   "startTime": "19:00",
-   "location": "Rocket Arena, Cleveland",
-   "tag": "Away",
-   "tv": "NBC",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
-  },
-  {
-   "title": "Long Creek girls soccer at Navarro Navarro Lady Panther Soccer",
+   "title": "Long Creek girls soccer at Navarro Navarro Lady Panther…",
    "startDate": "2026-12-15",
    "tag": "Away",
    "category": "hs-soccer",
-   "location": "Navarro Navarro Lady Panther Soccer",
+   "location": "Navarro Navarro Lady Panther…",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
    "startTime": "19:15",
    "tags": [
@@ -5751,18 +5128,6 @@
    ],
    "audience": "local",
    "id": "sch-long-creek-hs-2026-12-15-long-creek-girls-soccer-at-navarro-navarro-lady-pan"
-  },
-  {
-   "title": "Class School Pictures and Retakes",
-   "startDate": "2026-12-16",
-   "location": "Voss Farms Elementary",
-   "sourceURL": "https://nbisd.org/vfe/",
-   "category": "school",
-   "tags": [
-    "school:voss-farms-es"
-   ],
-   "audience": "local",
-   "id": "sch-voss-farms-es-2026-12-16-class-school-pictures-and-retakes"
   },
   {
    "title": "Winter Pictures w/Santa 8 - 12pm",
@@ -5789,7 +5154,7 @@
    "id": "sch-mountain-valley-ms-2026-12-16-choir-and-orchestra-caroling-trip"
   },
   {
-   "title": "New Braunfels wrestling at Highlands Varsity Girls",
+   "title": "New Braunfels wrestling at Highlands",
    "startDate": "2026-12-16",
    "tag": "Away",
    "category": "hs-sports",
@@ -5800,10 +5165,10 @@
     "school:new-braunfels-hs"
    ],
    "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-12-16-new-braunfels-wrestling-at-highlands-varsity-gir"
+   "id": "sch-new-braunfels-hs-2026-12-16-new-braunfels-wrestling-at-highlands"
   },
   {
-   "title": "New Braunfels wrestling at Uvalde Varsity Girls",
+   "title": "New Braunfels wrestling at Uvalde",
    "startDate": "2026-12-16",
    "tag": "Away",
    "category": "hs-sports",
@@ -5814,35 +5179,7 @@
     "school:new-braunfels-hs"
    ],
    "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-12-16-new-braunfels-wrestling-at-uvalde-varsity-girls"
-  },
-  {
-   "title": "New Braunfels wrestling at Highlands Varsity Boys",
-   "startDate": "2026-12-16",
-   "tag": "Away",
-   "category": "hs-sports",
-   "location": "Highlands HS",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "startTime": "17:00",
-   "tags": [
-    "school:new-braunfels-hs"
-   ],
-   "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-12-16-new-braunfels-wrestling-at-highlands-varsity-boy"
-  },
-  {
-   "title": "New Braunfels wrestling at Uvalde Varsity Boys",
-   "startDate": "2026-12-16",
-   "tag": "Away",
-   "category": "hs-sports",
-   "location": "Highlands HS",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "startTime": "17:00",
-   "tags": [
-    "school:new-braunfels-hs"
-   ],
-   "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-12-16-new-braunfels-wrestling-at-uvalde-varsity-boys"
+   "id": "sch-new-braunfels-hs-2026-12-16-new-braunfels-wrestling-at-uvalde"
   },
   {
    "title": "Davenport boys wrestling vs. San Marcos Rattlers",
@@ -5872,6 +5209,16 @@
    "id": "sch-davenport-hs-2026-12-16-fall-sports-ceremony"
   },
   {
+   "id": "2026-12-16-tony-taylor",
+   "category": "music",
+   "title": "Tony Taylor",
+   "startDate": "2026-12-16",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "sourceURL": "https://gruenehall.com/event/tony-taylor-7/"
+  },
+  {
    "title": "NBMS Band - Dragon Pans at Gruene",
    "startDate": "2026-12-16",
    "startTime": "18:00",
@@ -5898,16 +5245,6 @@
    ],
    "audience": "local",
    "id": "sch-canyon-lake-hs-2026-12-16-cheer-showcase"
-  },
-  {
-   "id": "2026-12-16-tony-taylor",
-   "category": "music",
-   "title": "Tony Taylor",
-   "startDate": "2026-12-16",
-   "startTime": "18:00",
-   "endTime": "21:00",
-   "location": "Gruene Hall, 1281 Gruene Rd",
-   "sourceURL": "https://gruenehall.com/event/tony-taylor-7/"
   },
   {
    "id": "2026-12-16-spurs-at-raptors",
@@ -6073,18 +5410,6 @@
    "audience": "local"
   },
   {
-   "title": "End of 9wks",
-   "startDate": "2026-12-18",
-   "location": "Memorial Elementary",
-   "sourceURL": "https://nbisd.org/me/",
-   "category": "school",
-   "tags": [
-    "school:memorial-es"
-   ],
-   "audience": "local",
-   "id": "sch-memorial-es-2026-12-18-end-of-9wks"
-  },
-  {
    "title": "Two Hours Student Early Release",
    "startDate": "2026-12-18",
    "location": "All campuses",
@@ -6123,7 +5448,7 @@
    "id": "sch-veramendi-es-2026-12-18-book-fair"
   },
   {
-   "title": "Canyon Lake girls basketball at Marble Falls Varsity GBB",
+   "title": "Canyon Lake girls basketball at Marble Falls",
    "startDate": "2026-12-18",
    "tag": "Away",
    "category": "hs-basketball",
@@ -6134,7 +5459,7 @@
     "school:canyon-lake-hs"
    ],
    "audience": "local",
-   "id": "sch-canyon-lake-hs-2026-12-18-canyon-lake-girls-basketball-at-marble-falls-varsi"
+   "id": "sch-canyon-lake-hs-2026-12-18-canyon-lake-girls-basketball-at-marble-falls"
   },
   {
    "id": "2026-12-18-food-truck-friday-cousins-maine-lobster",
@@ -6263,6 +5588,26 @@
    "sourceURL": "https://brauntex.org/event/ballet-texas-presents-the-nutcracker-10/"
   },
   {
+   "id": "2026-12-18-spurs-vs-bulls",
+   "category": "spurs",
+   "title": "Spurs vs. Bulls",
+   "startDate": "2026-12-18",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-12-18-rockets-at-grizzlies",
+   "category": "rockets",
+   "title": "Rockets at Grizzlies",
+   "startDate": "2026-12-18",
+   "startTime": "19:00",
+   "location": "Memphis",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
    "title": "New Braunfels boys soccer at Davenport",
    "startDate": "2026-12-18",
    "tag": "Away",
@@ -6277,7 +5622,7 @@
    "id": "sch-new-braunfels-hs-2026-12-18-new-braunfels-boys-soccer-at-davenport"
   },
   {
-   "title": "Canyon girls basketball vs. EAST CENTRAL HIGH SCHOOL Lady Hornets",
+   "title": "Canyon girls basketball vs. EAST CENTRAL HIGH SCHOOL Lady…",
    "startDate": "2026-12-18",
    "tag": "Home",
    "category": "hs-basketball",
@@ -6305,26 +5650,6 @@
    "id": "sch-canyon-hs-2026-12-18-canyon-boys-basketball-at-east-central-high-school-horn"
   },
   {
-   "id": "2026-12-18-spurs-vs-bulls",
-   "category": "spurs",
-   "title": "Spurs vs. Bulls",
-   "startDate": "2026-12-18",
-   "startTime": "19:00",
-   "location": "Frost Bank Center, San Antonio",
-   "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
-  },
-  {
-   "id": "2026-12-18-rockets-at-grizzlies",
-   "category": "rockets",
-   "title": "Rockets at Grizzlies",
-   "startDate": "2026-12-18",
-   "startTime": "19:00",
-   "location": "Memphis",
-   "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
-  },
-  {
    "id": "2026-12-18-william-clark-green-the-good-time-tour-full-band",
    "category": "music",
    "title": "William Clark Green: The Good Time Tour (Full Band)",
@@ -6349,7 +5674,7 @@
    "id": "sch-long-creek-hs-2026-12-19-long-creek-wrestling-at-macarthur-tournament"
   },
   {
-   "title": "Canyon wrestling at MacArthur Reindeer Classic Varsity Boys and Girls",
+   "title": "Canyon wrestling at MacArthur Reindeer Classic",
    "startDate": "2026-12-19",
    "tag": "Away",
    "category": "hs-sports",
@@ -6360,7 +5685,7 @@
     "school:canyon-hs"
    ],
    "audience": "local",
-   "id": "sch-canyon-hs-2026-12-19-canyon-wrestling-at-macarthur-reindeer-classic-varsity-"
+   "id": "sch-canyon-hs-2026-12-19-canyon-wrestling-at-macarthur-reindeer-classic"
   },
   {
    "title": "Davenport boys wrestling at Rumble In The Jungle",
@@ -6415,7 +5740,7 @@
    "sourceURL": "https://firstprotestant.com/event/castell-st-market/2026-12-19/"
   },
   {
-   "title": "New Braunfels wrestling at Varsity Boys Individual Tournament",
+   "title": "New Braunfels wrestling at Varsity",
    "startDate": "2026-12-19",
    "tag": "Away",
    "category": "hs-sports",
@@ -6426,21 +5751,7 @@
     "school:new-braunfels-hs"
    ],
    "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-12-19-new-braunfels-wrestling-at-varsity-boys-individu"
-  },
-  {
-   "title": "New Braunfels wrestling at Varsity Girls Individual Tournament",
-   "startDate": "2026-12-19",
-   "tag": "Away",
-   "category": "hs-sports",
-   "location": "Vista Ridge HS",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "startTime": "09:15",
-   "tags": [
-    "school:new-braunfels-hs"
-   ],
-   "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-12-19-new-braunfels-wrestling-at-varsity-girls-individ"
+   "id": "sch-new-braunfels-hs-2026-12-19-new-braunfels-wrestling-at-varsity"
   },
   {
    "id": "gruene-2026-12-19-photos-with-cowboy-kringle",
@@ -6634,6 +5945,16 @@
    "id": "sch-long-creek-hs-2026-12-22-long-creek-girls-basketball-vs-smithson-valley-rang"
   },
   {
+   "id": "2026-12-22-utsa-bb-vs-huston-tillotson",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Huston-Tillotson",
+   "startDate": "2026-12-22",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "12:00"
+  },
+  {
    "title": "New Braunfels girls basketball at MacArthuur",
    "startDate": "2026-12-22",
    "tag": "Away",
@@ -6646,16 +5967,6 @@
    ],
    "audience": "local",
    "id": "sch-new-braunfels-hs-2026-12-22-new-braunfels-girls-basketball-at-macarthuur"
-  },
-  {
-   "id": "2026-12-22-utsa-bb-vs-huston-tillotson",
-   "category": "utsa-bb",
-   "title": "UTSA vs. Huston-Tillotson",
-   "startDate": "2026-12-22",
-   "location": "Convocation Center, San Antonio",
-   "tag": "Home",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "12:00"
   },
   {
    "title": "New Braunfels boys basketball vs. MacArthur",
@@ -6853,32 +6164,6 @@
    "id": "sch-comal-isd-2026-12-28-winter-break"
   },
   {
-   "title": "Davenport girls basketball at TBA",
-   "startDate": "2026-12-28",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "TBA",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
-   "tags": [
-    "school:davenport-hs"
-   ],
-   "audience": "local",
-   "id": "sch-davenport-hs-2026-12-28-davenport-girls-basketball-at-tba"
-  },
-  {
-   "title": "Canyon Lake girls basketball at TBD",
-   "startDate": "2026-12-28",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Johnson City High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
-   "tags": [
-    "school:canyon-lake-hs"
-   ],
-   "audience": "local",
-   "id": "sch-canyon-lake-hs-2026-12-28-canyon-lake-girls-basketball-at-tbd"
-  },
-  {
    "title": "Canyon boys soccer at Cornerstone Christian CCS Warriors",
    "startDate": "2026-12-28",
    "tag": "Away",
@@ -6920,19 +6205,6 @@
    "id": "sch-new-braunfels-hs-2026-12-29-new-braunfels-boys-basketball-at-hays-tournament"
   },
   {
-   "title": "Long Creek boys basketball at TBA",
-   "startDate": "2026-12-29",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "TBA",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
-   "tags": [
-    "school:long-creek-hs"
-   ],
-   "audience": "local",
-   "id": "sch-long-creek-hs-2026-12-29-long-creek-boys-basketball-at-tba"
-  },
-  {
    "title": "Canyon boys basketball at Franklin Holiday Tourney",
    "startDate": "2026-12-29",
    "tag": "Away",
@@ -6944,32 +6216,6 @@
    ],
    "audience": "local",
    "id": "sch-canyon-hs-2026-12-29-canyon-boys-basketball-at-franklin-holiday-tourney"
-  },
-  {
-   "title": "Davenport girls basketball at TBA",
-   "startDate": "2026-12-29",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "TBA",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
-   "tags": [
-    "school:davenport-hs"
-   ],
-   "audience": "local",
-   "id": "sch-davenport-hs-2026-12-29-davenport-girls-basketball-at-tba"
-  },
-  {
-   "title": "Canyon Lake girls basketball at TBD",
-   "startDate": "2026-12-29",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Johnson City High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
-   "tags": [
-    "school:canyon-lake-hs"
-   ],
-   "audience": "local",
-   "id": "sch-canyon-lake-hs-2026-12-29-canyon-lake-girls-basketball-at-tbd"
   },
   {
    "title": "Canyon girls basketball vs. Gonzales Lady Apaches",
@@ -7050,45 +6296,6 @@
    ],
    "audience": "local",
    "id": "sch-new-braunfels-hs-2026-12-30-new-braunfels-boys-basketball-at-hays-tournament"
-  },
-  {
-   "title": "Long Creek boys basketball at TBA",
-   "startDate": "2026-12-30",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "TBA",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
-   "tags": [
-    "school:long-creek-hs"
-   ],
-   "audience": "local",
-   "id": "sch-long-creek-hs-2026-12-30-long-creek-boys-basketball-at-tba"
-  },
-  {
-   "title": "Canyon boys soccer at TBA",
-   "startDate": "2026-12-30",
-   "tag": "Away",
-   "category": "hs-soccer",
-   "location": "Seguin High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
-   "tags": [
-    "school:canyon-hs"
-   ],
-   "audience": "local",
-   "id": "sch-canyon-hs-2026-12-30-canyon-boys-soccer-at-tba"
-  },
-  {
-   "title": "Davenport girls basketball at TBA",
-   "startDate": "2026-12-30",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "TBA",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
-   "tags": [
-    "school:davenport-hs"
-   ],
-   "audience": "local",
-   "id": "sch-davenport-hs-2026-12-30-davenport-girls-basketball-at-tba"
   },
   {
    "title": "Canyon wrestling at Reagan Dual Matches",
@@ -7237,7 +6444,7 @@
    "id": "sch-new-braunfels-hs-2027-01-02-new-braunfels-girls-soccer-at-scuc-tournament"
   },
   {
-   "title": "New Braunfels wrestling at Varsity Boys Individual Tournament",
+   "title": "New Braunfels wrestling at Varsity",
    "startDate": "2027-01-02",
    "tag": "Away",
    "category": "hs-sports",
@@ -7248,21 +6455,7 @@
     "school:new-braunfels-hs"
    ],
    "audience": "local",
-   "id": "sch-new-braunfels-hs-2027-01-02-new-braunfels-wrestling-at-varsity-boys-individu"
-  },
-  {
-   "title": "New Braunfels wrestling at Varsity Girls Individual Tournament",
-   "startDate": "2027-01-02",
-   "tag": "Away",
-   "category": "hs-sports",
-   "location": "Canyon High School",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "startTime": "08:00",
-   "tags": [
-    "school:new-braunfels-hs"
-   ],
-   "audience": "local",
-   "id": "sch-new-braunfels-hs-2027-01-02-new-braunfels-wrestling-at-varsity-girls-individ"
+   "id": "sch-new-braunfels-hs-2027-01-02-new-braunfels-wrestling-at-varsity"
   },
   {
    "title": "Long Creek wrestling at New Years Tournament",
@@ -7279,7 +6472,7 @@
    "id": "sch-long-creek-hs-2027-01-02-long-creek-wrestling-at-new-years-tournament"
   },
   {
-   "title": "Canyon wrestling at San Marcos (we are host) New Years Rumble Tournament JV and Varsity Bo",
+   "title": "Canyon wrestling at San Marcos (we are host) New…",
    "startDate": "2027-01-02",
    "tag": "Away",
    "category": "hs-sports",
@@ -7290,7 +6483,7 @@
     "school:canyon-hs"
    ],
    "audience": "local",
-   "id": "sch-canyon-hs-2027-01-02-canyon-wrestling-at-san-marcos-we-are-host-new-years-ru"
+   "id": "sch-canyon-hs-2027-01-02-canyon-wrestling-at-san-marcos-we-are-host-new"
   },
   {
    "id": "2027-01-02-new-braunfels-farmers-market",
@@ -7306,7 +6499,18 @@
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
   },
   {
-   "title": "Davenport boys wrestling at JV and Varsity - Canyon Classic",
+   "id": "2027-01-02-castell-st-market",
+   "category": "market",
+   "title": "Castell St. Market",
+   "startDate": "2027-01-02",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "First Protestant Church, 296 S Seguin Ave",
+   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
+   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-01-02/"
+  },
+  {
+   "title": "Davenport boys wrestling at JV and",
    "startDate": "2027-01-02",
    "tag": "Away",
    "category": "hs-sports",
@@ -7317,18 +6521,7 @@
     "school:davenport-hs"
    ],
    "audience": "local",
-   "id": "sch-davenport-hs-2027-01-02-davenport-boys-wrestling-at-jv-and-varsity-canyon-cl"
-  },
-  {
-   "id": "2027-01-02-castell-st-market",
-   "category": "market",
-   "title": "Castell St. Market",
-   "startDate": "2027-01-02",
-   "startTime": "09:00",
-   "endTime": "13:00",
-   "location": "First Protestant Church, 296 S Seguin Ave",
-   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
-   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-01-02/"
+   "id": "sch-davenport-hs-2027-01-02-davenport-boys-wrestling-at-jv-and"
   },
   {
    "title": "Canyon boys basketball vs. San Marcos Rattlers",
@@ -7478,7 +6671,7 @@
    "audience": "local"
   },
   {
-   "title": "New Braunfels wrestling at Smithson Valley Varsity Boys",
+   "title": "New Braunfels wrestling at Smithson Valley",
    "startDate": "2027-01-05",
    "tag": "Away",
    "category": "hs-sports",
@@ -7489,7 +6682,7 @@
     "school:new-braunfels-hs"
    ],
    "audience": "local",
-   "id": "sch-new-braunfels-hs-2027-01-05-new-braunfels-wrestling-at-smithson-valley-varsi"
+   "id": "sch-new-braunfels-hs-2027-01-05-new-braunfels-wrestling-at-smithson-valley"
   },
   {
    "title": "New Braunfels girls basketball vs. Veterans Memorial",
@@ -7548,6 +6741,17 @@
    "id": "sch-long-creek-hs-2027-01-05-long-creek-girls-basketball-at-lockhart"
   },
   {
+   "id": "2027-01-05-rockets-vs-timberwolves",
+   "category": "rockets",
+   "title": "Rockets vs. Timberwolves",
+   "startDate": "2027-01-05",
+   "startTime": "19:00",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
    "title": "Canyon girls basketball at Samuel Clemens Lady Buffs",
    "startDate": "2027-01-05",
    "tag": "Away",
@@ -7604,17 +6808,6 @@
    "id": "sch-canyon-lake-hs-2027-01-05-canyon-lake-girls-basketball-at-davenport"
   },
   {
-   "id": "2027-01-05-rockets-vs-timberwolves",
-   "category": "rockets",
-   "title": "Rockets vs. Timberwolves",
-   "startDate": "2027-01-05",
-   "startTime": "19:00",
-   "location": "Toyota Center, Houston",
-   "tag": "Home",
-   "tv": "NBC",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
-  },
-  {
    "title": "Long Creek boys soccer vs. Patriots",
    "startDate": "2027-01-05",
    "tag": "Home",
@@ -7639,30 +6832,6 @@
    "startTime": "20:00"
   },
   {
-   "title": "Report Cards on Parent Portal",
-   "startDate": "2027-01-06",
-   "location": "Memorial Elementary",
-   "sourceURL": "https://nbisd.org/me/",
-   "category": "school",
-   "tags": [
-    "school:memorial-es"
-   ],
-   "audience": "local",
-   "id": "sch-memorial-es-2027-01-06-report-cards-on-parent-portal"
-  },
-  {
-   "title": "RLA MAPS Testing",
-   "startDate": "2027-01-06",
-   "location": "Oak Run Middle School, 415 Oak Run Point, New Braunfels, TX 78132, USA",
-   "sourceURL": "https://nbisd.org/orms/",
-   "category": "school",
-   "tags": [
-    "school:oak-run-ms"
-   ],
-   "audience": "local",
-   "id": "sch-oak-run-ms-2027-01-06-rla-maps-testing"
-  },
-  {
    "id": "2027-01-06-txst-bb-at-colorado-state",
    "category": "txst-bb",
    "title": "Bobcats at Colorado State",
@@ -7670,20 +6839,6 @@
    "location": "Fort Collins, CO",
    "tag": "Away",
    "sourceURL": "https://txst.com/sports/mens-basketball/schedule"
-  },
-  {
-   "title": "Legendary Leader Meeting",
-   "startDate": "2027-01-06",
-   "startTime": "07:00",
-   "endTime": "07:30",
-   "location": "Memorial Elementary",
-   "sourceURL": "https://nbisd.org/me/",
-   "category": "school",
-   "tags": [
-    "school:memorial-es"
-   ],
-   "audience": "local",
-   "id": "sch-memorial-es-2027-01-06-legendary-leader-meeting"
   },
   {
    "id": "2027-01-06-spurs-vs-pacers",
@@ -7694,18 +6849,6 @@
    "location": "Frost Bank Center, San Antonio",
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
-  },
-  {
-   "title": "Math MAPS Testing",
-   "startDate": "2027-01-07",
-   "location": "Oak Run Middle School, 415 Oak Run Point, New Braunfels, TX 78132, USA",
-   "sourceURL": "https://nbisd.org/orms/",
-   "category": "school",
-   "tags": [
-    "school:oak-run-ms"
-   ],
-   "audience": "local",
-   "id": "sch-oak-run-ms-2027-01-07-math-maps-testing"
   },
   {
    "title": "New Braunfels boys soccer at Byron Nelson Tournament Day 1",
@@ -7760,20 +6903,6 @@
    ],
    "audience": "local",
    "id": "sch-voss-farms-es-2027-01-07-1st-grade-semester-awards"
-  },
-  {
-   "title": "Long Creek girls soccer at TBD",
-   "startDate": "2027-01-07",
-   "tag": "Away",
-   "category": "hs-soccer",
-   "location": "NEISD",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
-   "startTime": "10:00",
-   "tags": [
-    "school:long-creek-hs"
-   ],
-   "audience": "local",
-   "id": "sch-long-creek-hs-2027-01-07-long-creek-girls-soccer-at-tbd"
   },
   {
    "title": "Canyon boys soccer at Vista Ridge VRHS",
@@ -7938,7 +7067,7 @@
    "id": "sch-long-creek-hs-2027-01-08-long-creek-wrestling-at-cy-fair-tournament"
   },
   {
-   "title": "New Braunfels wrestling at Varsity Boys Individual Tournament Day 1",
+   "title": "New Braunfels wrestling at Varsity",
    "startDate": "2027-01-08",
    "tag": "Away",
    "category": "hs-sports",
@@ -7949,21 +7078,7 @@
     "school:new-braunfels-hs"
    ],
    "audience": "local",
-   "id": "sch-new-braunfels-hs-2027-01-08-new-braunfels-wrestling-at-varsity-boys-individu"
-  },
-  {
-   "title": "New Braunfels wrestling at Varsity Girls Individual Tournament Day 1",
-   "startDate": "2027-01-08",
-   "tag": "Away",
-   "category": "hs-sports",
-   "location": "Berry Center",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "startTime": "08:30",
-   "tags": [
-    "school:new-braunfels-hs"
-   ],
-   "audience": "local",
-   "id": "sch-new-braunfels-hs-2027-01-08-new-braunfels-wrestling-at-varsity-girls-individ"
+   "id": "sch-new-braunfels-hs-2027-01-08-new-braunfels-wrestling-at-varsity"
   },
   {
    "title": "5th Grade Semester Awards",
@@ -8050,7 +7165,7 @@
    "id": "sch-davenport-hs-2027-01-08-davenport-girls-basketball-at-kerrville-tivy-antlers"
   },
   {
-   "title": "Canyon Lake girls basketball at Bandera Varsity",
+   "title": "Canyon Lake girls basketball at Bandera",
    "startDate": "2027-01-08",
    "tag": "Away",
    "category": "hs-basketball",
@@ -8061,7 +7176,7 @@
     "school:canyon-lake-hs"
    ],
    "audience": "local",
-   "id": "sch-canyon-lake-hs-2027-01-08-canyon-lake-girls-basketball-at-bandera-varsity"
+   "id": "sch-canyon-lake-hs-2027-01-08-canyon-lake-girls-basketball-at-bandera"
   },
   {
    "title": "New Braunfels girls basketball at Seguin",
@@ -8120,6 +7235,16 @@
    "id": "sch-long-creek-hs-2027-01-08-long-creek-girls-basketball-vs-macarthur"
   },
   {
+   "id": "2027-01-08-spurs-vs-grizzlies",
+   "category": "spurs",
+   "title": "Spurs vs. Grizzlies",
+   "startDate": "2027-01-08",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
    "title": "Canyon girls basketball vs. Wagner Thunderbirds",
    "startDate": "2027-01-08",
    "tag": "Home",
@@ -8146,30 +7271,6 @@
    ],
    "audience": "local",
    "id": "sch-canyon-hs-2027-01-08-canyon-boys-basketball-at-wagner-thunderbirds"
-  },
-  {
-   "id": "2027-01-08-spurs-vs-grizzlies",
-   "category": "spurs",
-   "title": "Spurs vs. Grizzlies",
-   "startDate": "2027-01-08",
-   "startTime": "19:00",
-   "location": "Frost Bank Center, San Antonio",
-   "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
-  },
-  {
-   "title": "Long Creek girls soccer at TBD",
-   "startDate": "2027-01-08",
-   "tag": "Away",
-   "category": "hs-soccer",
-   "location": "NEISD",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
-   "startTime": "19:15",
-   "tags": [
-    "school:long-creek-hs"
-   ],
-   "audience": "local",
-   "id": "sch-long-creek-hs-2027-01-08-long-creek-girls-soccer-at-tbd"
   },
   {
    "id": "2027-01-08-mavs-vs-suns",
@@ -8218,19 +7319,6 @@
    "id": "sch-new-braunfels-hs-2027-01-09-new-braunfels-girls-soccer-at-governor-s-cup"
   },
   {
-   "title": "Canyon boys soccer at TBA",
-   "startDate": "2027-01-09",
-   "tag": "Away",
-   "category": "hs-soccer",
-   "location": "Burger Stadium",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
-   "tags": [
-    "school:canyon-hs"
-   ],
-   "audience": "local",
-   "id": "sch-canyon-hs-2027-01-09-canyon-boys-soccer-at-tba"
-  },
-  {
    "title": "Canyon Lake wrestling at Brack Brawl",
    "startDate": "2027-01-09",
    "tag": "Away",
@@ -8256,6 +7344,17 @@
    "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
    "outdoor": true,
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
+  },
+  {
+   "id": "2027-01-09-castell-st-market",
+   "category": "market",
+   "title": "Castell St. Market",
+   "startDate": "2027-01-09",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "First Protestant Church, 296 S Seguin Ave",
+   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
+   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-01-09/"
   },
   {
    "title": "Long Creek swimming at 1/2 and 1/2 Day 2",
@@ -8286,17 +7385,6 @@
    "id": "sch-davenport-hs-2027-01-09-davenport-boys-wrestling-at-centex"
   },
   {
-   "id": "2027-01-09-castell-st-market",
-   "category": "market",
-   "title": "Castell St. Market",
-   "startDate": "2027-01-09",
-   "startTime": "09:00",
-   "endTime": "13:00",
-   "location": "First Protestant Church, 296 S Seguin Ave",
-   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
-   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-01-09/"
-  },
-  {
    "id": "2027-01-09-horns-bb-at-ole-miss",
    "category": "horns-bb",
    "title": "Texas at Ole Miss",
@@ -8318,7 +7406,7 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
-   "title": "New Braunfels wrestling at Varsity Boys Individual Tournament Day 2",
+   "title": "New Braunfels wrestling at Varsity",
    "startDate": "2027-01-09",
    "tag": "Away",
    "category": "hs-sports",
@@ -8329,35 +7417,7 @@
     "school:new-braunfels-hs"
    ],
    "audience": "local",
-   "id": "sch-new-braunfels-hs-2027-01-09-new-braunfels-wrestling-at-varsity-boys-individu"
-  },
-  {
-   "title": "New Braunfels wrestling at Varsity Girls Individual Tournament Day 2",
-   "startDate": "2027-01-09",
-   "tag": "Away",
-   "category": "hs-sports",
-   "location": "Berry Center",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "startTime": "18:00",
-   "tags": [
-    "school:new-braunfels-hs"
-   ],
-   "audience": "local",
-   "id": "sch-new-braunfels-hs-2027-01-09-new-braunfels-wrestling-at-varsity-girls-individ"
-  },
-  {
-   "title": "Long Creek girls soccer at TBD",
-   "startDate": "2027-01-09",
-   "tag": "Away",
-   "category": "hs-soccer",
-   "location": "NEISD",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
-   "startTime": "19:15",
-   "tags": [
-    "school:long-creek-hs"
-   ],
-   "audience": "local",
-   "id": "sch-long-creek-hs-2027-01-09-long-creek-girls-soccer-at-tbd"
+   "id": "sch-new-braunfels-hs-2027-01-09-new-braunfels-wrestling-at-varsity"
   },
   {
    "category": "fest",
@@ -8424,62 +7484,6 @@
    "audience": "local"
   },
   {
-   "title": "Marathon Monday",
-   "startDate": "2027-01-11",
-   "startTime": "07:00",
-   "endTime": "07:30",
-   "location": "Memorial Elementary",
-   "sourceURL": "https://nbisd.org/me/",
-   "category": "school",
-   "tags": [
-    "school:memorial-es"
-   ],
-   "audience": "local",
-   "id": "sch-memorial-es-2027-01-11-marathon-monday"
-  },
-  {
-   "title": "ORMS Boys Basketball vs. NBMS",
-   "startDate": "2027-01-11",
-   "startTime": "17:00",
-   "endTime": "19:30",
-   "location": "Oak Run Middle School",
-   "sourceURL": "https://nbisd.org/orms/",
-   "category": "school",
-   "tags": [
-    "school:oak-run-ms"
-   ],
-   "audience": "local",
-   "id": "sch-oak-run-ms-2027-01-11-orms-boys-basketball-vs-nbms"
-  },
-  {
-   "title": "PTA Board Mtg",
-   "startDate": "2027-01-11",
-   "startTime": "18:00",
-   "endTime": "19:00",
-   "location": "Memorial Elementary",
-   "sourceURL": "https://nbisd.org/me/",
-   "category": "school",
-   "tags": [
-    "school:memorial-es"
-   ],
-   "audience": "local",
-   "id": "sch-memorial-es-2027-01-11-pta-board-mtg"
-  },
-  {
-   "title": "NBISD Board Mtg",
-   "startDate": "2027-01-11",
-   "startTime": "18:00",
-   "endTime": "19:00",
-   "location": "Memorial Elementary",
-   "sourceURL": "https://nbisd.org/me/",
-   "category": "school",
-   "tags": [
-    "school:memorial-es"
-   ],
-   "audience": "local",
-   "id": "sch-memorial-es-2027-01-11-nbisd-board-mtg"
-  },
-  {
    "id": "2027-01-11-rockets-at-celtics",
    "category": "rockets",
    "title": "Rockets at Celtics",
@@ -8504,7 +7508,7 @@
    "id": "sch-lamar-es-2027-01-12-choir-concert"
   },
   {
-   "title": "Davenport girls basketball vs. Bandera Varsity",
+   "title": "Davenport girls basketball vs. Bandera",
    "startDate": "2027-01-12",
    "tag": "Home",
    "category": "hs-basketball",
@@ -8515,7 +7519,7 @@
     "school:davenport-hs"
    ],
    "audience": "local",
-   "id": "sch-davenport-hs-2027-01-12-davenport-girls-basketball-vs-bandera-varsity"
+   "id": "sch-davenport-hs-2027-01-12-davenport-girls-basketball-vs-bandera"
   },
   {
    "title": "New Braunfels girls basketball vs. Lockhart",
@@ -8588,6 +7592,16 @@
    "id": "sch-canyon-hs-2027-01-12-canyon-boys-soccer-vs-clark"
   },
   {
+   "id": "2027-01-12-mavs-at-grizzlies",
+   "category": "mavs",
+   "title": "Mavericks at Grizzlies",
+   "startDate": "2027-01-12",
+   "startTime": "19:00",
+   "location": "Memphis",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
    "title": "Long Creek boys soccer at Davenport",
    "startDate": "2027-01-12",
    "tag": "Away",
@@ -8630,7 +7644,7 @@
    "id": "sch-canyon-hs-2027-01-12-canyon-boys-basketball-vs-pieper-warriors"
   },
   {
-   "title": "Canyon Lake girls basketball vs. Fredericksburg Basketball Girls Varsity",
+   "title": "Canyon Lake girls basketball vs. Fredericksburg Basketball",
    "startDate": "2027-01-12",
    "tag": "Home",
    "category": "hs-basketball",
@@ -8642,16 +7656,6 @@
    ],
    "audience": "local",
    "id": "sch-canyon-lake-hs-2027-01-12-canyon-lake-girls-basketball-vs-fredericksburg-bas"
-  },
-  {
-   "id": "2027-01-12-mavs-at-grizzlies",
-   "category": "mavs",
-   "title": "Mavericks at Grizzlies",
-   "startDate": "2027-01-12",
-   "startTime": "19:00",
-   "location": "Memphis",
-   "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "id": "2027-01-12-horns-bb-vs-auburn",
@@ -8692,20 +7696,6 @@
    "id": "sch-long-creek-hs-2027-01-13-long-creek-wrestling-vs-new-braunfels"
   },
   {
-   "title": "New Braunfels wrestling at Long Creek LC Varsity Boys Wrestling",
-   "startDate": "2027-01-13",
-   "tag": "Away",
-   "category": "hs-sports",
-   "location": "Long Creek LC Varsity Boys Wrestling",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "startTime": "18:00",
-   "tags": [
-    "school:new-braunfels-hs"
-   ],
-   "audience": "local",
-   "id": "sch-new-braunfels-hs-2027-01-13-new-braunfels-wrestling-at-long-creek-lc-varsity"
-  },
-  {
    "id": "2027-01-13-utsa-bb-at-charlotte",
    "category": "utsa-bb",
    "title": "UTSA at Charlotte",
@@ -8714,6 +7704,20 @@
    "tag": "Away",
    "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
    "startTime": "18:00"
+  },
+  {
+   "title": "New Braunfels wrestling at Long Creek LC",
+   "startDate": "2027-01-13",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "Long Creek LC",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "startTime": "18:00",
+   "tags": [
+    "school:new-braunfels-hs"
+   ],
+   "audience": "local",
+   "id": "sch-new-braunfels-hs-2027-01-13-new-braunfels-wrestling-at-long-creek-lc"
   },
   {
    "id": "2027-01-13-rockets-at-thunder",
@@ -8813,33 +7817,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
-   "title": "Board Workshop",
-   "startDate": "2027-01-14",
-   "startTime": "18:30",
-   "location": "All campuses",
-   "sourceURL": "https://www.comalisd.org/apps/events/46273175/",
-   "category": "school",
-   "tags": [
-    "district:comal-isd"
-   ],
-   "audience": "local",
-   "id": "sch-comal-isd-2027-01-14-board-workshop"
-  },
-  {
-   "title": "Long Creek girls soccer at TBD",
-   "startDate": "2027-01-14",
-   "tag": "Away",
-   "category": "hs-soccer",
-   "location": "SW Legacy HS",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
-   "startTime": "19:15",
-   "tags": [
-    "school:long-creek-hs"
-   ],
-   "audience": "local",
-   "id": "sch-long-creek-hs-2027-01-14-long-creek-girls-soccer-at-tbd"
-  },
-  {
    "title": "New Braunfels boys soccer at Copa Halcon Day 2",
    "startDate": "2027-01-15",
    "tag": "Away",
@@ -8895,7 +7872,7 @@
    "id": "sch-new-braunfels-ms-2027-01-15-nbms-ta-uil-oap-public-show-cafe"
   },
   {
-   "title": "Canyon Lake wrestling at Lee Invitational JV Tournament",
+   "title": "Canyon Lake wrestling at Lee Invitational",
    "startDate": "2027-01-15",
    "tag": "Away",
    "category": "hs-sports",
@@ -8906,7 +7883,7 @@
     "school:canyon-lake-hs"
    ],
    "audience": "local",
-   "id": "sch-canyon-lake-hs-2027-01-15-canyon-lake-wrestling-at-lee-invitational-jv-tourn"
+   "id": "sch-canyon-lake-hs-2027-01-15-canyon-lake-wrestling-at-lee-invitational"
   },
   {
    "title": "Canyon boys soccer vs. Churchill",
@@ -9063,20 +8040,6 @@
    "id": "sch-new-braunfels-hs-2027-01-15-new-braunfels-girls-soccer-vs-liberty-hill-lhhs-"
   },
   {
-   "title": "Long Creek girls soccer at TBD",
-   "startDate": "2027-01-15",
-   "tag": "Away",
-   "category": "hs-soccer",
-   "location": "SW Legacy HS",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
-   "startTime": "19:15",
-   "tags": [
-    "school:long-creek-hs"
-   ],
-   "audience": "local",
-   "id": "sch-long-creek-hs-2027-01-15-long-creek-girls-soccer-at-tbd"
-  },
-  {
    "id": "2027-01-15-rockets-vs-wizards",
    "category": "rockets",
    "title": "Rockets vs. Wizards",
@@ -9121,21 +8084,7 @@
    "id": "sch-new-braunfels-hs-2027-01-16-new-braunfels-boys-soccer-at-copa-halcon-day-3"
   },
   {
-   "title": "New Braunfels wrestling at TBD Varsity Girls Opponent at TWCA State Duals",
-   "startDate": "2027-01-16",
-   "tag": "Away",
-   "category": "hs-sports",
-   "location": "TBD Varsity Girls Opponent at TWCA State Duals",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "startTime": "08:00",
-   "tags": [
-    "school:new-braunfels-hs"
-   ],
-   "audience": "local",
-   "id": "sch-new-braunfels-hs-2027-01-16-new-braunfels-wrestling-at-tbd-varsity-girls-opp"
-  },
-  {
-   "title": "New Braunfels wrestling at Varsity Boys Individual Tournament",
+   "title": "New Braunfels wrestling at Varsity",
    "startDate": "2027-01-16",
    "tag": "Away",
    "category": "hs-sports",
@@ -9146,7 +8095,7 @@
     "school:new-braunfels-hs"
    ],
    "audience": "local",
-   "id": "sch-new-braunfels-hs-2027-01-16-new-braunfels-wrestling-at-varsity-boys-individu"
+   "id": "sch-new-braunfels-hs-2027-01-16-new-braunfels-wrestling-at-varsity"
   },
   {
    "title": "Canyon Lake wrestling at Lee Invitational",
@@ -9176,18 +8125,15 @@
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
   },
   {
-   "title": "ORMS Boys Basketball vs. MVMS and PRMS",
+   "id": "2027-01-16-castell-st-market",
+   "category": "market",
+   "title": "Castell St. Market",
    "startDate": "2027-01-16",
    "startTime": "09:00",
-   "endTime": "11:30",
-   "location": "Oak Run Middle School",
-   "sourceURL": "https://nbisd.org/orms/",
-   "category": "school",
-   "tags": [
-    "school:oak-run-ms"
-   ],
-   "audience": "local",
-   "id": "sch-oak-run-ms-2027-01-16-orms-boys-basketball-vs-mvms-and-prms"
+   "endTime": "13:00",
+   "location": "First Protestant Church, 296 S Seguin Ave",
+   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
+   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-01-16/"
   },
   {
    "title": "Davenport boys wrestling vs. Alpha Wolf Tournament",
@@ -9202,17 +8148,6 @@
    ],
    "audience": "local",
    "id": "sch-davenport-hs-2027-01-16-davenport-boys-wrestling-vs-alpha-wolf-tournament"
-  },
-  {
-   "id": "2027-01-16-castell-st-market",
-   "category": "market",
-   "title": "Castell St. Market",
-   "startDate": "2027-01-16",
-   "startTime": "09:00",
-   "endTime": "13:00",
-   "location": "First Protestant Church, 296 S Seguin Ave",
-   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
-   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-01-16/"
   },
   {
    "id": "2027-01-16-horns-bb-vs-oklahoma",
@@ -9247,20 +8182,6 @@
    "tag": "Away",
    "tv": "NBA TV",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
-  },
-  {
-   "title": "Long Creek girls soccer at TBD",
-   "startDate": "2027-01-16",
-   "tag": "Away",
-   "category": "hs-soccer",
-   "location": "SW Legacy HS",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
-   "startTime": "19:15",
-   "tags": [
-    "school:long-creek-hs"
-   ],
-   "audience": "local",
-   "id": "sch-long-creek-hs-2027-01-16-long-creek-girls-soccer-at-tbd"
   },
   {
    "category": "music",
@@ -9431,20 +8352,6 @@
    "tag": "Away",
    "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
    "startTime": "21:00"
-  },
-  {
-   "title": "ORMS Boys Basketball vs. CMS",
-   "startDate": "2027-01-21",
-   "startTime": "17:00",
-   "endTime": "19:30",
-   "location": "Oak Run Middle School",
-   "sourceURL": "https://nbisd.org/orms/",
-   "category": "school",
-   "tags": [
-    "school:oak-run-ms"
-   ],
-   "audience": "local",
-   "id": "sch-oak-run-ms-2027-01-21-orms-boys-basketball-vs-cms"
   },
   {
    "category": "music",
@@ -9640,20 +8547,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
-   "title": "Marathon Monday",
-   "startDate": "2027-01-25",
-   "startTime": "07:00",
-   "endTime": "07:30",
-   "location": "Memorial Elementary",
-   "sourceURL": "https://nbisd.org/me/",
-   "category": "school",
-   "tags": [
-    "school:memorial-es"
-   ],
-   "audience": "local",
-   "id": "sch-memorial-es-2027-01-25-marathon-monday"
-  },
-  {
    "id": "2027-01-25-mavs-at-bulls",
    "category": "mavs",
    "title": "Mavericks at Bulls",
@@ -9662,18 +8555,6 @@
    "location": "Chicago",
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
-  },
-  {
-   "title": "Progress Reports on Parent Portal",
-   "startDate": "2027-01-26",
-   "location": "Memorial Elementary",
-   "sourceURL": "https://nbisd.org/me/",
-   "category": "school",
-   "tags": [
-    "school:memorial-es"
-   ],
-   "audience": "local",
-   "id": "sch-memorial-es-2027-01-26-progress-reports-on-parent-portal"
   },
   {
    "id": "2027-01-26-spurs-vs-rockets",
@@ -9696,18 +8577,6 @@
    "tag": "Away",
    "tv": "NBC",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
-  },
-  {
-   "title": "Group Pictures/Retakes",
-   "startDate": "2027-01-27",
-   "location": "Veramendi Elementary",
-   "sourceURL": "https://nbisd.org/ve/",
-   "category": "school",
-   "tags": [
-    "school:veramendi-es"
-   ],
-   "audience": "local",
-   "id": "sch-veramendi-es-2027-01-27-group-pictures-retakes"
   },
   {
    "id": "2027-01-27-mavs-at-raptors",
@@ -9759,33 +8628,6 @@
    "location": "Toyota Center, Houston",
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
-  },
-  {
-   "title": "ORMS Boys Basketball vs. DMS",
-   "startDate": "2027-01-28",
-   "startTime": "17:00",
-   "endTime": "19:30",
-   "location": "Oak Run Middle School",
-   "sourceURL": "https://nbisd.org/orms/",
-   "category": "school",
-   "tags": [
-    "school:oak-run-ms"
-   ],
-   "audience": "local",
-   "id": "sch-oak-run-ms-2027-01-28-orms-boys-basketball-vs-dms"
-  },
-  {
-   "title": "Board Meeting",
-   "startDate": "2027-01-28",
-   "startTime": "18:00",
-   "location": "All campuses",
-   "sourceURL": "https://www.comalisd.org/apps/events/46273180/",
-   "category": "school",
-   "tags": [
-    "district:comal-isd"
-   ],
-   "audience": "local",
-   "id": "sch-comal-isd-2027-01-28-board-meeting"
   },
   {
    "category": "music",
@@ -9990,18 +8832,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "title": "RLA Benchmark Testing",
-   "startDate": "2027-02-02",
-   "location": "Oak Run Middle School, 415 Oak Run Point, New Braunfels, TX 78132, USA",
-   "sourceURL": "https://nbisd.org/orms/",
-   "category": "school",
-   "tags": [
-    "school:oak-run-ms"
-   ],
-   "audience": "local",
-   "id": "sch-oak-run-ms-2027-02-02-rla-benchmark-testing"
-  },
-  {
    "title": "Groundhog Day",
    "startDate": "2027-02-02",
    "location": "All campuses",
@@ -10055,20 +8885,6 @@
    "tag": "Home",
    "tv": "ESPN",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
-  },
-  {
-   "title": "ORMS Boys Basketball vs. PRMS",
-   "startDate": "2027-02-04",
-   "startTime": "17:00",
-   "endTime": "19:30",
-   "location": "Oak Run Middle School",
-   "sourceURL": "https://nbisd.org/orms/",
-   "category": "school",
-   "tags": [
-    "school:oak-run-ms"
-   ],
-   "audience": "local",
-   "id": "sch-oak-run-ms-2027-02-04-orms-boys-basketball-vs-prms"
   },
   {
    "title": "Glow Bingo Family Night",
@@ -10356,33 +9172,6 @@
    "tag": "Away",
    "tv": "NBC",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
-  },
-  {
-   "title": "ORMS Boys Basketball vs. CHMS",
-   "startDate": "2027-02-10",
-   "startTime": "17:00",
-   "endTime": "19:30",
-   "location": "Oak Run Middle School",
-   "sourceURL": "https://nbisd.org/orms/",
-   "category": "school",
-   "tags": [
-    "school:oak-run-ms"
-   ],
-   "audience": "local",
-   "id": "sch-oak-run-ms-2027-02-10-orms-boys-basketball-vs-chms"
-  },
-  {
-   "title": "Board Workshop",
-   "startDate": "2027-02-11",
-   "startTime": "18:30",
-   "location": "All campuses",
-   "sourceURL": "https://www.comalisd.org/apps/events/46273186/",
-   "category": "school",
-   "tags": [
-    "district:comal-isd"
-   ],
-   "audience": "local",
-   "id": "sch-comal-isd-2027-02-11-board-workshop"
   },
   {
    "id": "2027-02-11-txst-bb-vs-san-diego-state",
