@@ -103,7 +103,7 @@ CATEGORY_HINTS = [
     (r"music in the cave|live music|concert", "music"),
     (r"market days|vendor|craft fair|antique", "market"),
     (r"christmas|holiday|santa|wassail|lighting|nutcracker|polar express|new year", "holiday"),
-    (r"ladies night|shopping|sale\b|5k|fun run|festival|blood drive", "fest"),
+    (r"ladies night|shopping|sale\b|5k|fun run|festival|faire?\b|blood drive", "fest"),
 ]
 
 
@@ -238,9 +238,12 @@ def drop_weekly(raw):
         merged["DTSTART"] = (ds[0], None)
         merged["DTEND"] = (ds[-1], None)
         merged["MULTI"] = True                         # inclusive end date, like the JSON API
-        merged["DESCRIPTION"] = (f"Select dates {DayLabel(ds[0])} to {DayLabel(ds[-1])}, "
-                                 f"{first['DTSTART'][1] and _ampm(first['DTSTART'][1]) or 'see times'}"
-                                 f"{' to ' + _ampm(first['DTEND'][1]) if first['DTEND'][1] else ''}. Check the source for each night.")
+        times = {(v["DTSTART"][1], v["DTEND"][1]) for v in vs}
+        if len(times) == 1 and first["DTSTART"][1]:
+            hours = _ampm(first["DTSTART"][1]) + (" to " + _ampm(first["DTEND"][1]) if first["DTEND"][1] else "")
+        else:
+            hours = "times vary"
+        merged["DESCRIPTION"] = f"Select dates {DayLabel(ds[0])} to {DayLabel(ds[-1])}, {hours}. Check the source for each day."
         out.append(merged)
     return out
 
