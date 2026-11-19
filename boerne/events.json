@@ -504,6 +504,16 @@
    "sourceURL": "https://theboernelife.com/events/name-that-tune-at-la-cascada-table-bar-2/2026-11-19/"
   },
   {
+   "id": "2026-11-19-custom-cowboy-hat-experience",
+   "category": "fest",
+   "title": "Custom Cowboy Hat Experience",
+   "startDate": "2026-11-19",
+   "startTime": "18:00",
+   "location": "Smoky Justice Cigar Lounge @ 32840 Interstate 10, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/IMG_3693_KfIm.jpeg' /></div><p style='margin:0px 0px 12px;font-style:normal;font-size:19px;l…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/custom-cowboy-hat-experience?instance_id=20261119180000"
+  },
+  {
    "title": "Boerne girls basketball at Saisd Tournament",
    "startDate": "2026-11-20",
    "tag": "Away",
@@ -1445,6 +1455,28 @@
    "tag": "Home",
    "tv": "Prime Video",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-11-27-old-west-christmas-light-fest",
+   "category": "holiday",
+   "title": "Old West Christmas Light Fest",
+   "startDate": "2026-11-27",
+   "startTime": "17:00",
+   "endTime": "22:00",
+   "location": "Enchanted Springs Ranch @ 242 Texas 46, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Old-West-Christmas-Light-Fest-Trick-Roper_8gc8.jpg' /></div><p>Christmas comes to the Old We…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/old-west-christmas-light-fest-5?instance_id=20261127170000"
+  },
+  {
+   "id": "2026-11-27-live-music-at-indulge-with-hip-tones",
+   "category": "music",
+   "title": "Live Music at Indulge with Hip Tones",
+   "startDate": "2026-11-27",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Indulge Wine Bar @ 21 Truss Drive, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Indulge%20Live%20Music%20SQUARE%2012_5bcZ.png' /></div><p>The holiday weekend calls for good…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/live-music-at-indulge-with-hip-tones?instance_id=20261127180000"
   },
   {
    "id": "2026-11-28-breakfast-with-santa-at-la-cascada-table-bar",
@@ -3200,6 +3232,17 @@
    ],
    "audience": "local",
    "id": "sch-boerne-hs-2026-12-12-boerne-boys-soccer-vs-alumni-game"
+  },
+  {
+   "id": "2026-12-12-sold-out-music-in-the-cave-nordic-christmas",
+   "category": "music",
+   "title": "SOLD OUT - Music in the Cave - Nordic Christmas",
+   "startDate": "2026-12-12",
+   "startTime": "19:00",
+   "endTime": "21:00",
+   "location": "Cave Without a Name @ 325 Kreutzberg Road, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/cello%20choir%20on%20stage_JLPN.jpg' /></div><p class='MsoNormal'>Set deep within the stunni…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/sold-out-music-in-the-cave-nordic-christmas?instance_id=20261212190000"
   },
   {
    "id": "2026-12-13-texans-at-commanders",
@@ -5642,6 +5685,17 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "id": "2027-01-16-music-in-the-cave-of-strings-and-silence",
+   "category": "music",
+   "title": "Music in the Cave - Of Strings and Silence",
+   "startDate": "2027-01-16",
+   "startTime": "19:00",
+   "endTime": "20:30",
+   "location": "Cave Without a Name @ 325 Kreutzberg Road, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Men%20playing%20stringed%20instruments_iTia.png' /></div><div style='margin:0px;padding:0px;…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/music-in-the-cave-of-strings-and-silence?instance_id=20270116190000"
+  },
+  {
    "id": "2027-01-17-spurs-at-pelicans-nba-manchester-game",
    "category": "spurs",
    "title": "Spurs at Pelicans (NBA Manchester Game)",
@@ -6554,6 +6608,17 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
+   "id": "2027-02-13-music-in-the-cave-for-valentine-s-an-evening-with-slaid-clea",
+   "category": "music",
+   "title": "Music in the Cave for Valentine's - an Evening with Slaid Cleaves",
+   "startDate": "2027-02-13",
+   "startTime": "19:00",
+   "endTime": "20:30",
+   "location": "Cave Without a Name @ 325 Kreutzberg Road, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Slaid_dining1_credit_Todd_Fox_Ql5Z.jpg' /></div><p><span style='font-family:arial, helvetica…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/music-in-the-cave-for-valentines-an-evening-with-slaid-cleaves?instance_id=20270213190000"
+  },
+  {
    "id": "2027-02-14-rockets-vs-nuggets",
    "category": "rockets",
    "title": "Rockets vs. Nuggets",
@@ -7245,6 +7310,17 @@
    "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
   },
   {
+   "id": "2027-03-20-music-in-the-cave-spring-equinox",
+   "category": "music",
+   "title": "Music in the Cave - Spring Equinox",
+   "startDate": "2027-03-20",
+   "startTime": "19:00",
+   "endTime": "20:30",
+   "location": "Cave Without a Name @ 325 Kreutzberg Road, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Rudi%20%20the%20Rudiments%2005-02-21%20-%20Copy_eWac.jpeg' /></div><p class='MsoNormal'>Enjo…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/music-in-the-cave-spring-equinox-2?instance_id=20270320190000"
+  },
+  {
    "id": "2027-03-21-spurs-at-76ers",
    "category": "spurs",
    "title": "Spurs at 76ers",
@@ -7450,6 +7526,17 @@
    "tag": "Away",
    "tv": "Apple TV",
    "sourceURL": "https://houstondynamofc.com/news/houston-dynamo-fc-announce-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-03-27-15th-annual-community-garage-sale",
+   "category": "fest",
+   "title": "15th Annual Community Garage Sale",
+   "startDate": "2027-03-27",
+   "startTime": "08:00",
+   "endTime": "16:00",
+   "location": "Kendall County Fairgrounds @ 1307 River Road, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Garage%20Sale_Cpa4.jpg' /></div><p>Keep an eye out for some amazing treasures at this popula…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/15th-annual-community-garage-sale?instance_id=20270327080000"
   },
   {
    "id": "2027-03-28-rockets-vs-lakers",
@@ -8163,6 +8250,17 @@
    "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
   },
   {
+   "id": "2027-04-17-texas-corvette-association-open-car-show",
+   "category": "fest",
+   "title": "Texas Corvette Association Open Car Show",
+   "startDate": "2027-04-17",
+   "startTime": "08:00",
+   "endTime": "16:30",
+   "location": "Hill Country Mile @ 100 North Main Street, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Calendar-TCA%20Car%20Show_Jk2n.jpg' /></div><p>Nearly 500 colorful Corvettes and classic veh…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/texas-corvette-association-open-car-show-6?instance_id=20270417080000"
+  },
+  {
    "id": "2027-04-18-rangers-vs-cardinals",
    "category": "rangers",
    "title": "Rangers vs. Cardinals",
@@ -8458,12 +8556,6 @@
   }
  ],
  "notDated": [
-  {
-   "category": "fest",
-   "title": "Boerne Chocolate Walk",
-   "detail": "Chocolate tastings at shops along historic downtown, held each February. The 2027 date isn't posted yet.",
-   "sourceURL": "https://communityimpact.com/san-antonio/events/discover-these-10-events-going-on-around-boerne-fair-oaks-ranch-in-january-february/"
-  },
   {
    "category": "fest",
    "title": "Spring and summer dates",
