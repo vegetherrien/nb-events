@@ -12185,5 +12185,71 @@
    "from": "2026-11-18",
    "until": "2027-01-31"
   }
+ ],
+ "newPlaces": [
+  {
+   "name": "The Roo Pub",
+   "kind": "bar & restaurant",
+   "address": "2055 Central Plaza",
+   "since": "2026-10-26",
+   "source": "Texas Alcoholic Beverage Commission",
+   "url": "https://data.texas.gov/Government-and-Taxes/TABC-License-Information/7hf9-qc9f"
+  },
+  {
+   "name": "Sip 'n Putt",
+   "kind": "bar & restaurant",
+   "address": "225 Watson Lane",
+   "since": "2026-10-09",
+   "source": "Texas Alcoholic Beverage Commission",
+   "url": "https://data.texas.gov/Government-and-Taxes/TABC-License-Information/7hf9-qc9f"
+  },
+  {
+   "name": "Backyard In Gruene",
+   "kind": "restaurant",
+   "address": "1706 Hunter Rd",
+   "since": "2026-09-21",
+   "source": "Texas Alcoholic Beverage Commission",
+   "url": "https://data.texas.gov/Government-and-Taxes/TABC-License-Information/7hf9-qc9f"
+  },
+  {
+   "name": "Sip Society - Daiquiri Depot",
+   "kind": "restaurant",
+   "address": "857 S Tx-46",
+   "since": "2026-09-21",
+   "source": "Texas Alcoholic Beverage Commission",
+   "url": "https://data.texas.gov/Government-and-Taxes/TABC-License-Information/7hf9-qc9f"
+  },
+  {
+   "name": "McIntyre's River Mill",
+   "kind": "bar & restaurant",
+   "address": "478 Porter St",
+   "since": "2026-09-08",
+   "source": "Texas Alcoholic Beverage Commission",
+   "url": "https://data.texas.gov/Government-and-Taxes/TABC-License-Information/7hf9-qc9f"
+  },
+  {
+   "name": "Mattenga's Pizzeria",
+   "kind": "restaurant",
+   "address": "675 N Business IH-35",
+   "since": "2026-09-08",
+   "source": "Texas Alcoholic Beverage Commission",
+   "url": "https://data.texas.gov/Government-and-Taxes/TABC-License-Information/7hf9-qc9f"
+  },
+  {
+   "name": "Blacks Beverage Co",
+   "kind": "bar & restaurant",
+   "address": "1310 E Common St",
+   "since": "2026-08-27",
+   "source": "Texas Alcoholic Beverage Commission",
+   "url": "https://data.texas.gov/Government-and-Taxes/TABC-License-Information/7hf9-qc9f"
+  },
+  {
+   "name": "The Hideaway New Braunfels",
+   "kind": "bar & restaurant",
+   "address": "262 W Jahn St",
+   "since": "2026-08-21",
+   "source": "Texas Alcoholic Beverage Commission",
+   "url": "https://data.texas.gov/Government-and-Taxes/TABC-License-Information/7hf9-qc9f"
+  }
  ]
 }
