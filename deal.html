@@ -17,14 +17,22 @@
   .ok { color: var(--ok); } .no { color: var(--no); }
   .muted { color: var(--muted); font-size: 15px; }
   .offer { margin: 16px 0; font-size: 17px; }
+  button { font: inherit; font-weight: 600; border: 0; border-radius: 14px; padding: 14px 22px; margin-top: 8px;
+           background: var(--ok); color: #fff; width: 100%; }
+  button:disabled { opacity: 0.5; }
 </style>
 </head>
 <body>
 <main>
   <div class="card" id="card"><p class="muted">Checking…</p></div>
-  <p class="muted" style="text-align:center">NB Events · this page only checks the deal; it records nothing.</p>
+  <p class="muted" style="text-align:center" id="foot">NB Events · this page only checks the deal; it records nothing.</p>
 </main>
 <script>
+// The redemption server. Empty until it's deployed; the page then just checks the deal.
+var SERVER = "";
+if (SERVER) document.addEventListener("DOMContentLoaded", function () {
+  document.getElementById("foot").textContent = "NB Events · marking a deal used saves only the deal and a random code, nothing about the customer.";
+});
 (function () {
   var q = new URLSearchParams(location.search);
   var id = q.get("o") || "", day = q.get("d") || "", token = q.get("t") || "", city = q.get("c") || "";
@@ -48,7 +56,25 @@
       (o.sample ? '<p class="no">Sample offer for testing only.</p>' : '');
     if (!running) return show(false, "This deal has ended", body);
     if (day !== today) return show(false, "Code is from another day", body + '<p class="muted">Ask the customer to open the deal in the app again.</p>');
-    show(true, "Valid today", body);
+    if (!SERVER) return show(true, "Valid today", body);
+    // Let the cashier mark it used, so it can't be used again (once a day, or once ever).
+    var limit = o.limit === "once" ? "once" : "day";
+    show(true, "Valid today", body + '<button id="use">Mark as used</button>' +
+      '<p class="muted">' + (limit === "once" ? "One use per customer." : "One use per customer per day.") + '</p>');
+    document.getElementById("use").onclick = function () {
+      var btn = this; btn.disabled = true; btn.textContent = "Checking…";
+      fetch(SERVER + "/redeem", { method: "POST", headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ offer: id, day: day, token: token, limit: limit }) })
+        .then(function (r) { return r.json(); })
+        .then(function (res) {
+          var when = res.at ? new Date(res.at).toLocaleTimeString([], { hour: "numeric", minute: "2-digit" }) : "";
+          if (res.status === "redeemed") show(true, "Used. Enjoy!", body + '<p class="muted">Marked used at ' + esc(when) + '.</p>');
+          else if (res.status === "already-used") show(false, "Already used", body + '<p class="muted">This customer used this deal ' + (limit === "once" ? "before" : "earlier today") + (when ? " (at " + esc(when) + ")" : "") + '.</p>');
+          else if (res.status === "wrong-day") show(false, "Code is from another day", body);
+          else { btn.disabled = false; btn.textContent = "Try again"; }
+        })
+        .catch(function () { btn.disabled = false; btn.textContent = "No connection. Try again"; });
+    };
   }).catch(function () { show(false, "Couldn’t check", '<p class="muted">No connection to NB Events. Try again in a moment.</p>'); });
 })();
 </script>
