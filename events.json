@@ -162,6 +162,13 @@
    "symbol": "music.note"
   },
   {
+   "id": "arts",
+   "name": "Theater & arts",
+   "light": "#9C2F5E",
+   "dark": "#EE9AC0",
+   "symbol": "theatermasks.fill"
+  },
+  {
    "id": "holiday",
    "name": "Holiday & seasonal",
    "light": "#AE2239",
@@ -1709,6 +1716,26 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "id": "2026-11-20-mary-poppins-jr",
+   "category": "arts",
+   "title": "Mary Poppins Jr.",
+   "startDate": "2026-11-20",
+   "endDate": "2026-11-22",
+   "location": "Circle Arts Theatre, 124 Elizabeth Ave",
+   "description": "Several performances; pick a date and time on the ticket page.",
+   "sourceURL": "https://buy.ticketstothecity.com/venue.php?org_id=37"
+  },
+  {
+   "id": "2026-11-20-gumbo-ya-ya-live-at-krause-s-cafe",
+   "category": "music",
+   "title": "Gumbo Ya Ya live at Krause's Cafe",
+   "startDate": "2026-11-20",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Krause's Cafe & Biergarten, 148 S Castell Ave",
+   "sourceURL": "https://www.visitnbtx.com/events/gumbo-ya-ya-3"
+  },
+  {
    "id": "2026-11-21-texas-state-vs-washington-state",
    "category": "txst",
    "title": "Texas State vs. Washington State",
@@ -2009,6 +2036,26 @@
    "sourceURL": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42"
   },
   {
+   "id": "2026-11-21-movin-melvin-brown-live-at-krause-s-cafe",
+   "category": "music",
+   "title": "Movin' Melvin Brown live at Krause's Cafe",
+   "startDate": "2026-11-21",
+   "startTime": "11:30",
+   "endTime": "14:30",
+   "location": "Krause's Cafe & Biergarten, 148 S Castell Ave",
+   "sourceURL": "https://www.visitnbtx.com/events/movin-melvin-brown-6"
+  },
+  {
+   "id": "2026-11-21-rochelle-the-sidewinders-live-krause-s-cafe",
+   "category": "music",
+   "title": "Rochelle & The Sidewinders live Krause's Cafe",
+   "startDate": "2026-11-21",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Krause's Cafe & Biergarten, 148 S Castell Ave",
+   "sourceURL": "https://www.visitnbtx.com/events/rochelle-the-sidewinders-7"
+  },
+  {
    "id": "gruene-2026-11-22-photos-with-cowboy-kringle",
    "category": "holiday",
    "title": "Photos with Cowboy Kringle",
@@ -2113,6 +2160,26 @@
    "location": "New Braunfels Civic and Convention Center - 375 S Castell Ave  New Braunfels TX 78130",
    "description": "Join us as we celebrate the season with a Holiday Tea, Sunday, November 22, from 1:00-3:00 pm. You will be immersed in festive holiday decor, seated in our beautifully decorated “tearoom,” including elegantly set tabl…",
    "sourceURL": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42"
+  },
+  {
+   "id": "2026-11-22-alli-mattice-duo-live-at-krause-s-cafe",
+   "category": "music",
+   "title": "Alli Mattice Duo live at Krause's Cafe",
+   "startDate": "2026-11-22",
+   "startTime": "11:00",
+   "endTime": "14:00",
+   "location": "Krause's Cafe & Biergarten, 148 S Castell Ave",
+   "sourceURL": "https://www.visitnbtx.com/events/alli-mattice-duo-6"
+  },
+  {
+   "id": "2026-11-22-cactus-country-live-at-krause-s-cafe",
+   "category": "music",
+   "title": "Cactus Country live at Krause's Cafe",
+   "startDate": "2026-11-22",
+   "startTime": "15:00",
+   "endTime": "18:00",
+   "location": "Krause's Cafe & Biergarten, 148 S Castell Ave",
+   "sourceURL": "https://www.visitnbtx.com/events/cactus-country-14"
   },
   {
    "id": "nbisd-2026-11-23-thanksgiving-break-no-school",
@@ -2390,6 +2457,36 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
+   "id": "2026-11-25-new-braunfels-farmers-market-s-holiday-market",
+   "category": "holiday",
+   "title": "New Braunfels Farmers Market's Holiday Market",
+   "startDate": "2026-11-25",
+   "endDate": "2026-12-23",
+   "location": "Krause's Cafe parking lot, 186 S Castell Ave",
+   "description": "Select dates Nov 25 to Dec 23, 5 PM to 9 PM. Check the source for each night.",
+   "sourceURL": "https://www.visitnbtx.com/events/new-braunfels-farmers-markets-holiday-market-2"
+  },
+  {
+   "id": "2026-11-25-21st-annual-sisoian-turkey-fry-drive",
+   "category": "market",
+   "title": "21st Annual Sisoian Turkey Fry & Drive",
+   "startDate": "2026-11-25",
+   "startTime": "17:00",
+   "endTime": "23:00",
+   "location": "DUESY'S TAVERN, 1190 GRUENE RD NEW BRAUNFELS, TEXAS 78130",
+   "sourceURL": "https://www.visitnbtx.com/events/21st-annual-sisoian-turkey-fry-drive"
+  },
+  {
+   "id": "2026-11-25-lederhosen-junkies-live-at-krause-s-cafe",
+   "category": "music",
+   "title": "Lederhosen Junkies live at Krause's Cafe",
+   "startDate": "2026-11-25",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Krause's Cafe & Biergarten, 148 S Castell Ave",
+   "sourceURL": "https://www.visitnbtx.com/events/lederhosen-junkies-30"
+  },
+  {
    "id": "2026-11-26-gruene-turkey-trot-5k-kids-turkey-chase",
    "category": "fest",
    "title": "Gruene Turkey Trot 5K & Kids Turkey Chase",
@@ -2526,6 +2623,16 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
+   "id": "2026-11-27-tiffiny-dawn-at-krause-s-cafe",
+   "category": "music",
+   "title": "Tiffiny Dawn at Krause's Cafe",
+   "startDate": "2026-11-27",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Krause's Cafe, 148 S Castell Ave",
+   "sourceURL": "https://www.visitnbtx.com/events/tiffiny-dawn-at-krauses-cafe"
+  },
+  {
    "id": "2026-11-28-texas-state-flex-game",
    "category": "txst",
    "title": "Texas State at Pac-12 opponent (TBA)",
@@ -2619,6 +2726,16 @@
    "sourceURL": "https://www.fcdallas.com/news/fc-dallas-kickoff-times-and-dates-set-for-audi-2026-mls-cup-playoffs-round-one-best-of-3-series-against-the-portland-timbers"
   },
   {
+   "id": "2026-11-28-passing-strangers-at-krause-s-cafe",
+   "category": "music",
+   "title": "Passing Strangers at Krause's Cafe",
+   "startDate": "2026-11-28",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Krause's Cafe, 148 S Castell Ave",
+   "sourceURL": "https://www.visitnbtx.com/events/passing-strangers-at-krauses-cafe"
+  },
+  {
    "id": "gruene-2026-11-29-photos-with-cowboy-kringle",
    "category": "holiday",
    "title": "Photos with Cowboy Kringle",
@@ -2682,6 +2799,26 @@
    "location": "Gruene Hall, 1281 Gruene Rd",
    "description": "Doors: 6pm Special Guest: Jake Watson 7pm Aaron Watson: 8:30pm",
    "sourceURL": "https://gruenehall.com/event/aaron-watson-horse-named-texas-tour-w-special-guest-jake-watson-3/"
+  },
+  {
+   "id": "2026-11-29-jeffrey-ryan-vaughn-at-krause-s-cafe",
+   "category": "music",
+   "title": "Jeffrey Ryan Vaughn at Krause's Cafe",
+   "startDate": "2026-11-29",
+   "startTime": "11:00",
+   "endTime": "14:00",
+   "location": "Krause's Cafe, 148 S Castell Ave",
+   "sourceURL": "https://www.visitnbtx.com/events/jeffrey-ryan-vaughn-at-krauses-cafe"
+  },
+  {
+   "id": "2026-11-29-the-prairie-rattlers-at-krause-s-cafe",
+   "category": "music",
+   "title": "The Prairie Rattlers at Krause's Cafe",
+   "startDate": "2026-11-29",
+   "startTime": "15:00",
+   "endTime": "18:00",
+   "location": "Krause's Cafe, 148 S Castell Ave",
+   "sourceURL": "https://www.visitnbtx.com/events/the-prairie-rattlers-at-krauses-cafe"
   },
   {
    "id": "nbisd-2026-11-30-student-holiday-staff-professional-devel",
@@ -3020,6 +3157,26 @@
    "sourceURL": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14"
   },
   {
+   "id": "2026-12-02-annual-detour-of-homes",
+   "category": "holiday",
+   "title": "Annual Detour of Homes",
+   "startDate": "2026-12-02",
+   "startTime": "17:30",
+   "endTime": "20:30",
+   "location": "Max's Haus",
+   "sourceURL": "https://www.visitnbtx.com/events/annual-detour-of-homes"
+  },
+  {
+   "id": "2026-12-02-off-the-grid-at-krause-s-cafe",
+   "category": "music",
+   "title": "Off The Grid at Krause's Cafe",
+   "startDate": "2026-12-02",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Krause's Cafe, 148 S Castell Ave",
+   "sourceURL": "https://www.visitnbtx.com/events/off-the-grid-at-krauses-cafe"
+  },
+  {
    "title": "Canyon boys basketball at Austin Bowie Classic",
    "startDate": "2026-12-03",
    "tag": "Away",
@@ -3202,6 +3359,16 @@
    ],
    "audience": "local",
    "id": "sch-new-braunfels-ms-2026-12-03-choir-wassailfest-main-plaza-stage"
+  },
+  {
+   "id": "2026-12-03-kade-isakson-band-at-krause-s-cafe",
+   "category": "music",
+   "title": "Kade Isakson Band at Krause's Cafe",
+   "startDate": "2026-12-03",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Krause's Cafe, 148 S Castell Ave",
+   "sourceURL": "https://www.visitnbtx.com/events/kade-isakson-band-at-krauses-cafe"
   },
   {
    "title": "4Th & 5Th Grade Choir Caroling Field Trip 2026",
@@ -3391,6 +3558,37 @@
    "location": "<p>Parking Lot in front of former NBU building on the Main Plaza</p> - 263 Main Plaza  New",
    "description": "Join us for Art Haus during First Fridays, a free monthly celebration of art, music, and community in the heart of downtown New Braunfels. https://www.newbraunfels.gov/calendar.aspx?EID=12082",
    "sourceURL": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14"
+  },
+  {
+   "id": "2026-12-04-new-braunfels-renaissance-faire",
+   "category": "market",
+   "title": "New Braunfels Renaissance Faire",
+   "startDate": "2026-12-04",
+   "endDate": "2026-12-13",
+   "location": "New Braunfels Renaissance Faire",
+   "description": "Select dates Dec 4 to Dec 13, 5 PM to 10 PM. Check the source for each night.",
+   "sourceURL": "https://www.visitnbtx.com/events/new-braunfels-renaissance-faire-4",
+   "featured": true
+  },
+  {
+   "id": "2026-12-04-first-friday",
+   "category": "fest",
+   "title": "First Friday",
+   "startDate": "2026-12-04",
+   "startTime": "17:00",
+   "endTime": "20:00",
+   "location": "Downtown New Braunfels",
+   "sourceURL": "https://www.visitnbtx.com/events/first-friday"
+  },
+  {
+   "id": "2026-12-04-alli-mattice-band-at-krause-s-cafe",
+   "category": "music",
+   "title": "Alli Mattice Band at Krause's Cafe",
+   "startDate": "2026-12-04",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Krause's Cafe, 148 S Castell Ave",
+   "sourceURL": "https://www.visitnbtx.com/events/alli-mattice-band-at-krauses-cafe"
   },
   {
    "title": "New Braunfels boys basketball at CCCA Tournament@Corpus Chrisiti",
@@ -3660,6 +3858,47 @@
    "sourceURL": "https://gruenehall.com/event/an-evening-of-jerry-jeff-walker-music-featuring-django-walker-the-jerry-jeff-walker-band-4/"
   },
   {
+   "id": "2026-12-05-christmas-at-the-caverns",
+   "category": "holiday",
+   "title": "Christmas at the Caverns",
+   "startDate": "2026-12-05",
+   "endDate": "2026-12-23",
+   "location": "Natural Bridge Caverns",
+   "description": "Select dates Dec 5 to Dec 23, 4:30 PM to 9:30 PM. Check the source for each night.",
+   "sourceURL": "https://www.visitnbtx.com/events/christmas-at-the-caverns"
+  },
+  {
+   "id": "2026-12-05-dbd-christmas-festival",
+   "category": "holiday",
+   "title": "DbD Christmas Festival",
+   "startDate": "2026-12-05",
+   "startTime": "10:00",
+   "endTime": "18:00",
+   "location": "New Braunfels Civic and Convention Center - 375 S Castell Ave  New Braunfels TX 78130",
+   "description": "Entry bracelets are $16/adult and $8/child and can be pre-purchased online until December 1st. Tickets can be purchased at the door will be $20/adult and $10/child. Bracelets must be worn to enter the performance spac…",
+   "sourceURL": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42"
+  },
+  {
+   "id": "2026-12-05-bucksnort-boogie-boys-at-krause-s-cafe",
+   "category": "music",
+   "title": "Bucksnort Boogie Boys at Krause's Cafe",
+   "startDate": "2026-12-05",
+   "startTime": "11:30",
+   "endTime": "14:30",
+   "location": "Krause's Cafe, 148 S Castell Ave",
+   "sourceURL": "https://www.visitnbtx.com/events/bucksnort-boogie-boys-at-krauses-cafe"
+  },
+  {
+   "id": "2026-12-05-whole-lotta-zep-at-krause-s-cafe",
+   "category": "music",
+   "title": "Whole Lotta Zep at Krause's Cafe",
+   "startDate": "2026-12-05",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Krause's Cafe, 148 S Castell Ave",
+   "sourceURL": "https://www.visitnbtx.com/events/whole-lotta-zep-at-krauses-cafe"
+  },
+  {
    "id": "gruene-2026-12-06-photos-with-cowboy-kringle",
    "category": "holiday",
    "title": "Photos with Cowboy Kringle",
@@ -3692,6 +3931,16 @@
    "location": "Gruene Hall, 1281 Gruene Rd",
    "description": "Doors: 7pm Opener: Wild Horses 8pm Josiah and the Bonnevilles: 9pm",
    "sourceURL": "https://gruenehall.com/event/josiah-and-the-bonnevilles/"
+  },
+  {
+   "id": "2026-12-06-december-plant-swap",
+   "category": "market",
+   "title": "December Plant Swap",
+   "startDate": "2026-12-06",
+   "startTime": "13:00",
+   "endTime": "16:00",
+   "location": "Duesy’s Tavern, 1190 Gruene Rd",
+   "sourceURL": "https://www.visitnbtx.com/events/december-plant-swap-2"
   },
   {
    "title": "PTA Holiday Shop",
@@ -4589,6 +4838,16 @@
    "sourceURL": "https://nbtexas.libcal.com/event/17953570"
   },
   {
+   "id": "2026-12-11-chestnuts-roasted",
+   "category": "arts",
+   "title": "Chestnuts Roasted",
+   "startDate": "2026-12-11",
+   "endDate": "2026-12-13",
+   "location": "Circle Arts Theatre, 124 Elizabeth Ave",
+   "description": "Several performances; pick a date and time on the ticket page.",
+   "sourceURL": "https://buy.ticketstothecity.com/venue.php?org_id=37"
+  },
+  {
    "id": "gruene-2026-12-12-annual-jingle-bell-run-walk",
    "category": "holiday",
    "title": "Annual Jingle Bell Run/Walk",
@@ -4768,6 +5027,26 @@
    "sourceURL": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=65"
   },
   {
+   "id": "2026-12-12-monte-good-at-krause-s-cafe",
+   "category": "music",
+   "title": "Monte Good at Krause's Cafe",
+   "startDate": "2026-12-12",
+   "startTime": "11:30",
+   "endTime": "14:30",
+   "location": "Krause's Cafe, 148 S Castell Ave",
+   "sourceURL": "https://www.visitnbtx.com/events/monte-good-at-krauses-cafe"
+  },
+  {
+   "id": "2026-12-12-the-craze-at-krause-s-cafe",
+   "category": "music",
+   "title": "The Craze at Krause's Cafe",
+   "startDate": "2026-12-12",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Krause's Cafe, 148 S Castell Ave",
+   "sourceURL": "https://www.visitnbtx.com/events/the-craze-at-krauses-cafe"
+  },
+  {
    "id": "2026-12-13-txst-bb-vs-north-texas",
    "category": "txst-bb",
    "title": "Bobcats vs. North Texas",
@@ -4831,6 +5110,16 @@
    "location": "Gruene Hall, 1281 Gruene Rd",
    "description": "*Presale On Sale: Wednesday, Sept 23rd at 10AM *Public On Sale: Friday, Sept 25th at 10AM Doors: 7pm Show: The Mavericks & Friends: 8pm",
    "sourceURL": "https://gruenehall.com/event/the-mavericks-friends-2/"
+  },
+  {
+   "id": "2026-12-13-elysha-lemaster-at-krause-s-cafe",
+   "category": "music",
+   "title": "Elysha LeMaster at Krause's Cafe",
+   "startDate": "2026-12-13",
+   "startTime": "11:00",
+   "endTime": "14:00",
+   "location": "Krause's Cafe, 148 S Castell Ave",
+   "sourceURL": "https://www.visitnbtx.com/events/elysha-lemaster-at-krauses-cafe"
   },
   {
    "id": "nbisd-2026-12-14-board-meeting-sustainability",
@@ -5757,6 +6046,26 @@
    "sourceURL": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42"
   },
   {
+   "id": "2026-12-18-mckenna-s-christmas-concert",
+   "category": "music",
+   "title": "McKenna's Christmas Concert",
+   "startDate": "2026-12-18",
+   "startTime": "14:00",
+   "location": "McKenna Children's Museum, 801 W San Antonio St",
+   "description": "McKenna's Christmas Concert - Friday, December 18th at 2pm Join us for a festive, family-friendly holiday concert featuring TIO TOTO !!! **Included with Museum admission**",
+   "sourceURL": "https://tockify.com/mckennamuseum/detail/2515/1797624000000"
+  },
+  {
+   "id": "2026-12-18-light-up-landa",
+   "category": "holiday",
+   "title": "Light Up Landa",
+   "startDate": "2026-12-18",
+   "startTime": "18:00",
+   "endTime": "19:30",
+   "location": "Landa Park",
+   "sourceURL": "https://www.visitnbtx.com/events/light-up-landa-2"
+  },
+  {
    "title": "Long Creek wrestling at MacArthur Tournament",
    "startDate": "2026-12-19",
    "tag": "Away",
@@ -5939,6 +6248,17 @@
    "location": "New Braunfels Civic and Convention Center - 375 S Castell Ave  New Braunfels TX 78130",
    "description": "SCBD is delighted to present Tchaikovsky's beloved Christmas ballet, \"The Nutcracker\", a holiday classic for the whole family! https://www.newbraunfels.gov/calendar.aspx?EID=12163",
    "sourceURL": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42"
+  },
+  {
+   "id": "2026-12-19-mckenna-s-breakfast-w-santa",
+   "category": "holiday",
+   "title": "McKenna's Breakfast w/ Santa",
+   "startDate": "2026-12-19",
+   "startTime": "09:00",
+   "endTime": "11:00",
+   "location": "McKenna Children's Museum, 801 W San Antonio St",
+   "description": "Breakfast w/ Santa - Saturday, December 19th from 9am-11am Join us for a magical breakfast with Santa event hosted by the McKenna Children's Museum!!! * -Breakfast catered by Forty Six Cafe * -Photos w/ Santa * -Ginge…",
+   "sourceURL": "https://tockify.com/mckennamuseum/detail/2508/1797692400000"
   },
   {
    "id": "gruene-2026-12-20-photos-with-cowboy-kringle",
@@ -6583,6 +6903,26 @@
    "location": "Houston",
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-01-01-first-friday",
+   "category": "fest",
+   "title": "First Friday",
+   "startDate": "2027-01-01",
+   "startTime": "17:00",
+   "endTime": "20:00",
+   "location": "Downtown New Braunfels",
+   "sourceURL": "https://www.visitnbtx.com/events/first-friday"
+  },
+  {
+   "id": "2027-01-01-art-haus-in-downtown-nb",
+   "category": "market",
+   "title": "ART HAUS in Downtown NB",
+   "startDate": "2027-01-01",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Downtown New Braunfels",
+   "sourceURL": "https://www.visitnbtx.com/events/art-haus-in-downtown-nb"
   },
   {
    "title": "New Braunfels girls soccer at SCUC Tournament",
@@ -8936,6 +9276,16 @@
    "sourceURL": "https://gruenehall.com/event/bill-murray-his-blood-brothers/"
   },
   {
+   "id": "2027-01-29-mckenna-kid-s-spelling-bee",
+   "category": "fest",
+   "title": "McKenna Kid's Spelling Bee",
+   "startDate": "2027-01-29",
+   "startTime": "11:00",
+   "location": "McKenna Children's Museum, 801 W San Antonio St",
+   "description": "McKenna Kid's Spelling Bee - Friday, January 29th at 11am Watch McKenna's best spellers compete against one another!!! The winner will be taking home a 1st place trophy and a $50 gift certificate to the Museum Gift Sh…",
+   "sourceURL": "https://tockify.com/mckennamuseum/detail/2519/1801242000000"
+  },
+  {
    "title": "NBMS -UIL Meet #1 @ Dobie Junior High",
    "startDate": "2027-01-30",
    "location": "New Braunfels Middle School",
@@ -9260,6 +9610,26 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "id": "2027-02-05-first-friday",
+   "category": "fest",
+   "title": "First Friday",
+   "startDate": "2027-02-05",
+   "startTime": "17:00",
+   "endTime": "20:00",
+   "location": "Downtown New Braunfels",
+   "sourceURL": "https://www.visitnbtx.com/events/first-friday"
+  },
+  {
+   "id": "2027-02-05-art-haus-in-downtown-nb",
+   "category": "market",
+   "title": "ART HAUS in Downtown NB",
+   "startDate": "2027-02-05",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Downtown New Braunfels",
+   "sourceURL": "https://www.visitnbtx.com/events/art-haus-in-downtown-nb"
   },
   {
    "id": "2027-02-06-new-braunfels-farmers-market",
@@ -10293,6 +10663,26 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "id": "2027-03-05-first-friday",
+   "category": "fest",
+   "title": "First Friday",
+   "startDate": "2027-03-05",
+   "startTime": "17:00",
+   "endTime": "20:00",
+   "location": "Downtown New Braunfels",
+   "sourceURL": "https://www.visitnbtx.com/events/first-friday"
+  },
+  {
+   "id": "2027-03-05-art-haus-in-downtown-nb",
+   "category": "market",
+   "title": "ART HAUS in Downtown NB",
+   "startDate": "2027-03-05",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Downtown New Braunfels",
+   "sourceURL": "https://www.visitnbtx.com/events/art-haus-in-downtown-nb"
+  },
+  {
    "id": "2027-03-06-castell-st-market",
    "category": "market",
    "title": "Castell St. Market",
@@ -11166,6 +11556,26 @@
    "tv": "DAZN"
   },
   {
+   "id": "2027-04-02-first-friday",
+   "category": "fest",
+   "title": "First Friday",
+   "startDate": "2027-04-02",
+   "startTime": "17:00",
+   "endTime": "20:00",
+   "location": "Downtown New Braunfels",
+   "sourceURL": "https://www.visitnbtx.com/events/first-friday"
+  },
+  {
+   "id": "2027-04-02-art-haus-in-downtown-nb",
+   "category": "market",
+   "title": "ART HAUS in Downtown NB",
+   "startDate": "2027-04-02",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Downtown New Braunfels",
+   "sourceURL": "https://www.visitnbtx.com/events/art-haus-in-downtown-nb"
+  },
+  {
    "id": "2027-04-03-castell-st-market",
    "category": "market",
    "title": "Castell St. Market",
@@ -11622,6 +12032,16 @@
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-04-11-mid-texas-symphony-presents-bravo-broadway",
+   "category": "music",
+   "title": "Mid-Texas Symphony presents BRAVO! Broadway",
+   "startDate": "2027-04-11",
+   "startTime": "16:00",
+   "endTime": "18:00",
+   "location": "New Braunfels Civic/Convention Center, 375 S Castell Ave New Braunfels, Texas 78130",
+   "sourceURL": "https://www.visitnbtx.com/events/mid-texas-symphony-presents-bravo-broadway"
   },
   {
    "id": "2027-04-13-rangers-at-reds",
@@ -12149,6 +12569,18 @@
  ],
  "weekly": [
   {
+   "category": "movies",
+   "title": "Tuesday movie nights at Muck & Fuss",
+   "detail": "Tuesdays at 5:45 PM in the biergarten downtown, with free popcorn and hot chocolate and $6.95 kids' meals. Weekly since January 2026; check before you go.",
+   "sourceURL": "https://www.visitnbtx.com/events/muck-fuss-introduces-weekly-tuesday-movie-nights"
+  },
+  {
+   "category": "music",
+   "title": "Friday Afternoon Club at Gruene Hall",
+   "detail": "Fridays 4–7 PM, free.",
+   "sourceURL": "https://www.visitnbtx.com/events/friday-afternoon-club-at-gruene-hall-2"
+  },
+  {
    "category": "music",
    "title": "Free live music at Gruene Hall",
    "detail": "Afternoon and evening sets most days, plus $12 swing and line dance lessons on some weeknights.",
@@ -12157,7 +12589,7 @@
   {
    "category": "music",
    "title": "Live music at Krause's & the Faust Hotel",
-   "detail": "Most nights downtown. The calendar shows their posted acts through late October.",
+   "detail": "Most nights downtown. Posted shows at Krause's are on the calendar.",
    "sourceURL": "https://www.hillcountrypassport.com/events/place-new-braunfels-tx/"
   },
   {
