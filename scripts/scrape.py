@@ -14,6 +14,10 @@ from datetime import date, datetime, timedelta
 
 UA = "Mozilla/5.0 (compatible; nb-events-feed-bot)"
 
+# Special screenings (movie in the park, library movie parties, film nights). Regular theater
+# showtimes are deliberately not collected.
+MOVIE = r"\b(movies?|films?|cinema|screenings?|flicks)\b"
+
 # Sources per city (the feed's city.id picks the list).
 # ics sources: url, category, location fallback, keep/drop regexes on titles, after (earliest start time).
 # api sources (WordPress "The Events Calendar" JSON): category_map from their categories to ours.
@@ -29,6 +33,17 @@ NB_SOURCES = [
          location="Gruene Historic District", after="17:00", drop=r"\b(gruene hall|dance lessons?)\b"),
     dict(name="Castell St. Market", url="https://firstprotestant.com/events/?ical=1", category="market",
          location="First Protestant Church, 296 S Seguin Ave", keep=r"\bmarket\b"),
+    # Public library (LibCal): hundreds of storytimes and clubs, so only screenings.
+    dict(name="New Braunfels Public Library", libcal="https://nbtexas.libcal.com", category="movies",
+         location="New Braunfels Public Library", keep=MOVIE),
+    # City of New Braunfels calendar (all departments). Mostly meetings; keep the public events.
+    # catIDs: 14 main, 74 master, 22 downtown, 65 parks & rec, 42 special events.
+    *[dict(name="City of New Braunfels",
+         url=f"https://www.newbraunfels.gov/common/modules/iCalendar/iCalendar.aspx?catID={c}&feed=calendar",
+         category="fest", location="New Braunfels",
+         drop=r"meeting|council|commission|board\b|committee|holiday:|training|workshop|hearing|session|budget|"
+              r"drop[- ]?off|closed|zoning|advisory|cdbg|town hall|bond|open house|presentation|101\b|recycling|mulching|pick ?up")
+      for c in (14, 74, 22, 65, 42)],
     dict(name="Veramendi", url="https://lifeatveramendi.org/events/?ical=1", category="hood",
          location="Veramendi", drop=r"\b(closed|closure)\b",
          # Resident events: only people whose home area is Veramendi see them.
@@ -66,6 +81,7 @@ SOURCES = {"new-braunfels": NB_SOURCES, "boerne": BOERNE_SOURCES}
 
 # Title words that mean the event belongs in another category.
 CATEGORY_HINTS = [
+    (MOVIE, "movies"),
     (r"music in the cave|live music|concert", "music"),
     (r"market days|vendor|craft fair|antique", "market"),
     (r"christmas|holiday|santa|wassail|lighting|nutcracker|polar express|new year", "holiday"),
@@ -104,6 +120,27 @@ def fetch_api(src, start, end):
         if page >= int(data.get("total_pages") or 1):
             break
         page += 1
+    return out
+
+
+def fetch_libcal(src):
+    """Upcoming events from a LibCal site's public list, normalized like parse_ics()."""
+    out = []
+    for page in range(1, 8):
+        data = json.loads(fetch(f"{src['libcal']}/ajax/calendar/list?c=-1&date=0000-00-00&perpage=100&page={page}"))
+        for e in data.get("results", []):
+            sd, ed = e.get("startdt", ""), e.get("enddt", "")
+            allday = bool(e.get("all_day"))
+            out.append({
+                "SUMMARY": unescape_html(e.get("title", "")),
+                "DTSTART": (sd[:10], None if allday else sd[11:16]),
+                "DTEND": (ed[:10], None if allday else ed[11:16]),
+                "LOCATION": unescape_html(f"{src['location']}, {e['location']}" if e.get("location") else ""),
+                "DESCRIPTION": strip_html(e.get("shortdesc") or e.get("description") or ""),
+                "URL": e.get("url"),
+            })
+        if page * 100 >= int(data.get("total_results") or 0):
+            break
     return out
 
 
@@ -196,7 +233,13 @@ def is_duplicate(feed_events, day, title):
     for e in feed_events:
         if e["startDate"] <= day <= e.get("endDate", e["startDate"]):
             other = norm(e["title"])
-            if key and other and (key[0] == other[0] or set(key[:2]) & set(other[:2])):
+            if not (key and other):
+                continue
+            if re.search(MOVIE, title, re.I):
+                # Screenings often share a holiday word with other events that day; need two words in common.
+                if len(set(key) & set(other)) >= 2:
+                    return True
+            elif key[0] == other[0] or set(key[:2]) & set(other[:2]):
                 return True
     return False
 
@@ -237,7 +280,8 @@ def main(path, apply=False):
 
     for src in SOURCES.get(city, []):
         try:
-            raw = fetch_api(src, today, until) if src.get("api") else fetch_ics(src["url"], today, until)
+            raw = (fetch_api(src, today, until) if src.get("api") else fetch_libcal(src) if src.get("libcal")
+                   else fetch_ics(src["url"], today, until))
         except Exception as ex:  # one bad source shouldn't stop the rest
             print(f"! {src['name']}: {ex}")
             continue
@@ -245,7 +289,8 @@ def main(path, apply=False):
             # Weekly regulars (trivia, wine-bar gigs) belong in "Every week" notes, not the calendar.
             from collections import Counter
             counts = Counter(clean_title(v.get("SUMMARY", "")).lower() for v in raw)
-            raw = [v for v in raw if counts[clean_title(v.get("SUMMARY", "")).lower()] <= src["recurring"]]
+            raw = [v for v in raw if counts[clean_title(v.get("SUMMARY", "")).lower()] <= src["recurring"]
+                   or re.search(MOVIE, v.get("SUMMARY", ""), re.I)]
         for v in raw:
             if "DTSTART" not in v or not v.get("SUMMARY"):
                 continue
@@ -255,7 +300,7 @@ def main(path, apply=False):
             title = clean_title(v["SUMMARY"])
             if src.get("keep") and not re.search(src["keep"], title, re.I):
                 continue
-            if src.get("drop") and re.search(src["drop"], title, re.I):
+            if src.get("drop") and re.search(src["drop"], title, re.I) and not re.search(MOVIE, title, re.I):
                 continue
             if src.get("after") and (start is None or start < src["after"]):
                 continue
@@ -288,7 +333,7 @@ def main(path, apply=False):
             desc = re.sub(r"\s+", " ", v.get("DESCRIPTION", "")).strip()
             if desc:
                 e["description"] = (desc[:217] + "…") if len(desc) > 220 else desc
-            e["sourceURL"] = v.get("URL") or src["url"].split("?")[0]
+            e["sourceURL"] = v.get("URL") or (src.get("url") or src.get("libcal") or src.get("api", "")).split("?")[0]
             if src.get("tags"): e["tags"] = list(src["tags"])
             if src.get("audience"): e["audience"] = src["audience"]
             e["source"] = src["name"]  # shown in the report only, removed before saving
