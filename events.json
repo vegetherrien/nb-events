@@ -12239,5 +12239,52 @@
    "asOf": "2026-11-18",
    "collector": "utilities"
   }
+ ],
+ "offers": [
+  {
+   "id": "sample-coffee-downtown",
+   "business": "Sample Coffee Co.",
+   "sample": true,
+   "text": "Downtown for the holiday kickoff? Warm up with half off any drink, two blocks from Main Plaza.",
+   "code": "WEIHNACHTEN",
+   "titleContains": [
+    "Weihnachtsmarkt",
+    "Downtown Lighting",
+    "Wassailfest"
+   ],
+   "leadDays": 1,
+   "from": "2026-11-18",
+   "until": "2026-12-06"
+  },
+  {
+   "id": "sample-slush-games",
+   "business": "Sample Drive-In",
+   "sample": true,
+   "text": "Headed to the game? 2-for-1 slushes on the way. Show this screen at the window.",
+   "categories": [
+    "hs-basketball",
+    "hs-football",
+    "hsfb"
+   ],
+   "tags": [
+    "school:new-braunfels-hs",
+    "school:long-creek-hs",
+    "school:canyon-hs"
+   ],
+   "leadDays": 0,
+   "from": "2026-11-18",
+   "until": "2027-02-28"
+  },
+  {
+   "id": "sample-realty-veramendi",
+   "business": "Sample Realty",
+   "sample": true,
+   "text": "Thinking about moving within Veramendi? A free home value estimate from a neighbor who knows the streets.",
+   "tags": [
+    "community:veramendi"
+   ],
+   "from": "2026-11-18",
+   "until": "2027-01-31"
+  }
  ]
 }
