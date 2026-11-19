@@ -9184,7 +9184,11 @@
     "sample": true,
     "lat": 29.7951,
     "lon": -98.7314,
-    "text": "Out for an event downtown? Free dessert with dinner, steps from Main Plaza."
+    "text": "Out for an event downtown? Free dessert with dinner, steps from Main Plaza.",
+    "when": [
+     "midday",
+     "evening"
+    ]
    }
   ]
  }
