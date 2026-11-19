@@ -30,10 +30,23 @@ NB_SOURCES = [
     dict(name="Castell St. Market", url="https://firstprotestant.com/events/?ical=1", category="market",
          location="First Protestant Church, 296 S Seguin Ave", keep=r"\bmarket\b"),
     dict(name="Veramendi", url="https://lifeatveramendi.org/events/?ical=1", category="hood",
-         location="Veramendi", drop=r"\b(closed|closure)\b"),
+         location="Veramendi", drop=r"\b(closed|closure)\b",
+         # Resident events: only people whose home area is Veramendi see them.
+         tags=["community:veramendi"], audience="local"),
 ]
 
+BOERNE_NOISE = (r"library|storytime|story time|trivia|karaoke|happy hour|networking|mastermind|meeting|book ?club|"
+                r"mahjong|yoga|tech (time|help)|game on|pok[eé]mon|open play|class\b|lessons?\b|run club|bingo|singo|"
+                r"burger night|ladies night|crafternoon|bookworms|memory lab|drawing group|potpourri|toastmasters|"
+                r"support group|workshop|webinar|cigar|wing bar|mixer|downtown diy|crafts & corks|clay earrings|"
+                r"ornament painting|bangle|dis-carded|lobby stop|burger king|watercolor|volunteer|clean-?up|trailblazers|"
+                r"nature makers|author alley|drop-off|dinner|singer/songwriter|live music with|name that tune|"
+                r"council|commission|board\b|closed|office hours|tour\b|jazz night|brunch|tasting")
+
 BOERNE_SOURCES = [
+    # The City of Boerne's "Visit Boerne" calendar (Timely). Covers the whole town.
+    dict(name="Visit Boerne", url="https://events.timely.fun/api/calendars/54730033/export?format=ics",
+         category="fest", location="Boerne", drop=BOERNE_NOISE, recurring=2),
     dict(name="The Boerne Life", api="https://theboernelife.com/wp-json/tribe/events/v1/events",
          location="Boerne",
          # Their categories → ours, first match wins. Events in none of these are skipped.
@@ -53,6 +66,7 @@ SOURCES = {"new-braunfels": NB_SOURCES, "boerne": BOERNE_SOURCES}
 
 # Title words that mean the event belongs in another category.
 CATEGORY_HINTS = [
+    (r"music in the cave|live music|concert", "music"),
     (r"market days|vendor|craft fair|antique", "market"),
     (r"christmas|holiday|santa|wassail|lighting|nutcracker|polar express|new year", "holiday"),
     (r"ladies night|shopping|sale\b|5k|fun run|festival|blood drive", "fest"),
@@ -144,6 +158,29 @@ def parse_ics(text):
     return events
 
 
+def fetch_ics(url, start, end):
+    """An .ics feed. The Events Calendar's plain feed stops after 30 items, so for those sites
+    each month up to the end date is read too."""
+    events, seen = [], set()
+    urls = [url]
+    if "/events/?ical=1" in url:
+        y, m = int(start[:4]), int(start[5:7])
+        while f"{y}-{m:02d}" <= end[:7]:
+            urls.append(url.replace("/events/?ical=1", f"/events/month/{y}-{m:02d}/?ical=1"))
+            y, m = (y + 1, 1) if m == 12 else (y, m + 1)
+    for i, u in enumerate(urls):
+        try:
+            batch = parse_ics(fetch(u))
+        except Exception:
+            if i == 0: raise
+            continue          # a month page that doesn't exist is fine
+        for v in batch:
+            key = (v.get("UID"), v.get("DTSTART"), v.get("SUMMARY"))
+            if key not in seen:
+                seen.add(key); events.append(v)
+    return events
+
+
 def slug(s):
     return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")[:60]
 
@@ -200,7 +237,7 @@ def main(path, apply=False):
 
     for src in SOURCES.get(city, []):
         try:
-            raw = fetch_api(src, today, until) if src.get("api") else parse_ics(fetch(src["url"]))
+            raw = fetch_api(src, today, until) if src.get("api") else fetch_ics(src["url"], today, until)
         except Exception as ex:  # one bad source shouldn't stop the rest
             print(f"! {src['name']}: {ex}")
             continue
@@ -252,6 +289,8 @@ def main(path, apply=False):
             if desc:
                 e["description"] = (desc[:217] + "…") if len(desc) > 220 else desc
             e["sourceURL"] = v.get("URL") or src["url"].split("?")[0]
+            if src.get("tags"): e["tags"] = list(src["tags"])
+            if src.get("audience"): e["audience"] = src["audience"]
             e["source"] = src["name"]  # shown in the report only, removed before saving
             if e["id"] in have_ids:
                 continue
