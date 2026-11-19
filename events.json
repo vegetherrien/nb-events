@@ -12037,6 +12037,138 @@
  ],
  "notices": [
   {
+   "id": "nb-road-downtown-holiday-lighting-2026-11-20",
+   "kind": "road",
+   "title": "Street closure Fri Nov 20: Downtown Holiday Lighting",
+   "detail": "Fri Nov 20: The streets around the Main Plaza will close at 4:30pm and the program begins at 6pm including festive holiday music performed by the New Braunfels Community Band.",
+   "level": "warn",
+   "url": "https://www.newbraunfels.gov/CivicAlerts.aspx?aid=4176",
+   "source": "City of New Braunfels",
+   "until": "2026-11-20",
+   "asOf": "2026-11-18",
+   "collector": "civic"
+  },
+  {
+   "id": "nb-agenda-council-2026-11-23",
+   "kind": "agenda",
+   "title": "City Council meets Mon Nov 23, 6:00 PM",
+   "detail": "New Braunfels City Council regular meeting Mon Nov 23 at 6:00 PM, City Hall - Council Chambers. The agenda is posted; tap to read it.",
+   "level": "info",
+   "url": "https://newbraunfels.legistar1.com/newbraunfels/meetings/2026/11/6047_A_City_Council_26-11-23_Agenda.pdf",
+   "source": "City of New Braunfels",
+   "until": "2026-11-23",
+   "asOf": "2026-11-18",
+   "collector": "civic"
+  },
+  {
+   "id": "nb-agenda-council-2026-11-23-approval-of-a-resolution",
+   "kind": "agenda",
+   "title": "On the Mon Nov 23 council agenda near you",
+   "detail": "Mon Nov 23 council agenda item: “Approval of a resolution authorizing the City Manager to enter into an Advanced Funding Agreement between the City of New Braunfels and the Texas Department of…”",
+   "level": "info",
+   "url": "https://newbraunfels.legistar1.com/newbraunfels/meetings/2026/11/6047_A_City_Council_26-11-23_Agenda.pdf",
+   "source": "City of New Braunfels",
+   "until": "2026-11-23",
+   "tags": [
+    "community:gruene"
+   ],
+   "audience": "local",
+   "asOf": "2026-11-18",
+   "collector": "civic"
+  },
+  {
+   "id": "nb-agenda-council-2026-11-23-approval-of-a-license-ag",
+   "kind": "agenda",
+   "title": "On the Mon Nov 23 council agenda near you",
+   "detail": "Mon Nov 23 council agenda item: “Approval of a license agreement between the City of New Braunfels and Summerwood Property Owners Association for the purpose of allowing a non-conforming sign to be…”",
+   "level": "info",
+   "url": "https://newbraunfels.legistar1.com/newbraunfels/meetings/2026/11/6047_A_City_Council_26-11-23_Agenda.pdf",
+   "source": "City of New Braunfels",
+   "until": "2026-11-23",
+   "tags": [
+    "community:summerwood"
+   ],
+   "audience": "local",
+   "asOf": "2026-11-18",
+   "collector": "civic"
+  },
+  {
+   "id": "nb-agenda-council-2026-11-23-approval-of-the-second-a",
+   "kind": "agenda",
+   "title": "On the Mon Nov 23 council agenda near you",
+   "detail": "Mon Nov 23 council agenda item: “Approval of the second and final reading of an ordinance, in accordance with the requirements in adopted agreements with the property owner, to annex for limited…”",
+   "level": "info",
+   "url": "https://newbraunfels.legistar1.com/newbraunfels/meetings/2026/11/6047_A_City_Council_26-11-23_Agenda.pdf",
+   "source": "City of New Braunfels",
+   "until": "2026-11-23",
+   "tags": [
+    "community:veramendi"
+   ],
+   "audience": "local",
+   "asOf": "2026-11-18",
+   "collector": "civic"
+  },
+  {
+   "id": "nb-agenda-comal-isd-2026-11-19",
+   "kind": "agenda",
+   "title": "Comal ISD board meets Thu Nov 19, 7:00 PM",
+   "detail": "Comal ISD board of trustees regular meeting Thu Nov 19 at 7:00 PM, Comal ISD, 1404 IH-35 North. The agenda is posted; tap to read it.",
+   "level": "info",
+   "url": "https://meetings.boardbook.org/Public/Agenda/1083?meeting=773345",
+   "source": "Comal ISD (BoardBook)",
+   "until": "2026-11-19",
+   "asOf": "2026-11-18",
+   "collector": "civic"
+  },
+  {
+   "id": "nb-pet-77685",
+   "kind": "pets",
+   "title": "Adoptable: Sweater, young adult Domestic Short Hair",
+   "detail": "Cat available for adoption at HSNBA, 3353 Morningside Dr. Photos and adoption steps are on the listing.",
+   "level": "info",
+   "url": "https://hsnba.org/listing/77685-sweater-nfc202612188/",
+   "source": "Humane Society of the New Braunfels Area",
+   "until": "2026-11-19",
+   "asOf": "2026-11-18",
+   "collector": "civic"
+  },
+  {
+   "id": "nb-pet-77686",
+   "kind": "pets",
+   "title": "Adoptable: Lighthouse, young adult Domestic Short Hair",
+   "detail": "Cat available for adoption at HSNBA, 3353 Morningside Dr. Photos and adoption steps are on the listing.",
+   "level": "info",
+   "url": "https://hsnba.org/listing/77686-lighthouse-cfc20261877/",
+   "source": "Humane Society of the New Braunfels Area",
+   "until": "2026-11-19",
+   "asOf": "2026-11-18",
+   "collector": "civic"
+  },
+  {
+   "id": "nb-pet-77701",
+   "kind": "pets",
+   "title": "Adoptable: Tesoro, adult Domestic Medium Hair",
+   "detail": "Cat available for adoption at HSNBA, 3353 Morningside Dr. Photos and adoption steps are on the listing.",
+   "level": "info",
+   "url": "https://hsnba.org/listing/77701-tesoro-nfc202612191/",
+   "source": "Humane Society of the New Braunfels Area",
+   "until": "2026-11-19",
+   "asOf": "2026-11-18",
+   "collector": "civic"
+  },
+  {
+   "id": "nb-opening-northeast-lakeview-college-2026-11-18",
+   "kind": "opening",
+   "title": "Ribbon cutting: Northeast Lakeview College",
+   "detail": "Ribbon cutting Wed Nov 18 at 10:00 AM, 2049 Sundance Parkway. Posted by the City of New Braunfels as a notice that council members may attend.",
+   "level": "info",
+   "url": "https://newbraunfels.legistar1.com/newbraunfels/meetings/2026/11/6382_A_Notice_of_Possible_Quorum_26-11-18_Agenda.pdf",
+   "source": "City of New Braunfels",
+   "until": "2026-11-18",
+   "asOf": "2026-11-18",
+   "collector": "civic"
+  },
+  {
    "id": "new-braunfels-school-comal-isd-planned-2026-11-23",
    "kind": "school",
    "title": "No school Nov 23 to 27 (Comal ISD)",
