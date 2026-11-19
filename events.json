@@ -50,10 +50,17 @@
  "categories": [
   {
    "id": "hood",
-   "name": "Veramendi",
+   "name": "My neighborhood",
    "light": "#3B7833",
    "dark": "#82C676",
    "symbol": "house.fill"
+  },
+  {
+   "id": "school",
+   "name": "My schools",
+   "light": "#1C5CA3",
+   "dark": "#84B3EE",
+   "symbol": "graduationcap.fill"
   },
   {
    "id": "fest",
@@ -222,7 +229,11 @@
    "location": "Veramendi",
    "description": "Hands-on training with Lone Star 24-HR Emergency. Space is limited.",
    "tag": "Residents · RSVP",
-   "sourceURL": "https://lifeatveramendi.org/events/"
+   "sourceURL": "https://lifeatveramendi.org/events/",
+   "tags": [
+    "community:veramendi"
+   ],
+   "audience": "local"
   },
   {
    "id": "2026-10-10-bucksnort-boogie-boys",
@@ -281,6 +292,16 @@
    "sourceURL": "https://gruenehall.com/tickets/"
   },
   {
+   "id": "2026-10-11-trunk-monkeys",
+   "category": "music",
+   "title": "Trunk Monkeys",
+   "startDate": "2026-10-11",
+   "timeTBA": true,
+   "location": "Krause's Cafe & Biergarten, 148 S Castell Ave",
+   "description": "Blues and rock guitar duo. Set time not posted.",
+   "sourceURL": "https://www.hillcountrypassport.com/events/place-new-braunfels-tx/"
+  },
+  {
    "id": "2026-10-11-elysha-lemaster",
    "category": "music",
    "title": "Elysha LeMaster",
@@ -304,16 +325,6 @@
    "sourceURL": "https://gruenehall.com/tickets/"
   },
   {
-   "id": "2026-10-11-trunk-monkeys",
-   "category": "music",
-   "title": "Trunk Monkeys",
-   "startDate": "2026-10-11",
-   "timeTBA": true,
-   "location": "Krause's Cafe & Biergarten, 148 S Castell Ave",
-   "description": "Blues and rock guitar duo. Set time not posted.",
-   "sourceURL": "https://www.hillcountrypassport.com/events/place-new-braunfels-tx/"
-  },
-  {
    "id": "2026-10-15-sweet-treat-thursday",
    "category": "hood",
    "title": "Sweet Treat Thursday",
@@ -324,7 +335,11 @@
    "location": "The Ledge, Veramendi",
    "description": "A new sweet treat each week, with neighbors at The Ledge.",
    "tag": "Residents",
-   "sourceURL": "https://lifeatveramendi.org/events/"
+   "sourceURL": "https://lifeatveramendi.org/events/",
+   "tags": [
+    "community:veramendi"
+   ],
+   "audience": "local"
   },
   {
    "id": "2026-10-15-london-baileigh",
@@ -371,6 +386,16 @@
    "sourceURL": "https://gruenehall.com/tickets/"
   },
   {
+   "id": "2026-10-17-tony-taylor",
+   "category": "music",
+   "title": "Tony Taylor",
+   "startDate": "2026-10-17",
+   "timeTBA": true,
+   "location": "Krause's Cafe & Biergarten, 148 S Castell Ave",
+   "description": "Americana roots singer-songwriter. Set time not posted.",
+   "sourceURL": "https://www.hillcountrypassport.com/events/place-new-braunfels-tx/"
+  },
+  {
    "id": "2026-10-17-gruene-market-days",
    "category": "market",
    "title": "Gruene Market Days",
@@ -394,7 +419,11 @@
    "location": "Veramendi",
    "description": "Build your own rain barrel with NBU's conservation team.",
    "tag": "Residents · RSVP",
-   "sourceURL": "https://lifeatveramendi.org/events/"
+   "sourceURL": "https://lifeatveramendi.org/events/",
+   "tags": [
+    "community:veramendi"
+   ],
+   "audience": "local"
   },
   {
    "id": "2026-10-17-texas-vs-florida",
@@ -440,16 +469,6 @@
    "location": "Gruene Hall, 1281 Gruene Rd",
    "price": "$20",
    "sourceURL": "https://gruenehall.com/tickets/"
-  },
-  {
-   "id": "2026-10-17-tony-taylor",
-   "category": "music",
-   "title": "Tony Taylor",
-   "startDate": "2026-10-17",
-   "timeTBA": true,
-   "location": "Krause's Cafe & Biergarten, 148 S Castell Ave",
-   "description": "Americana roots singer-songwriter. Set time not posted.",
-   "sourceURL": "https://www.hillcountrypassport.com/events/place-new-braunfels-tx/"
   },
   {
    "id": "2026-10-18-alli-mattice-duo",
@@ -528,7 +547,11 @@
    "location": "The Ledge, Veramendi",
    "description": "A new sweet treat each week, with neighbors at The Ledge.",
    "tag": "Residents",
-   "sourceURL": "https://lifeatveramendi.org/events/"
+   "sourceURL": "https://lifeatveramendi.org/events/",
+   "tags": [
+    "community:veramendi"
+   ],
+   "audience": "local"
   },
   {
    "id": "2026-10-22-andrew-lopez",
@@ -585,6 +608,16 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
+   "id": "2026-10-24-texas-vs-ole-miss",
+   "category": "horns",
+   "title": "Texas vs. Ole Miss",
+   "startDate": "2026-10-24",
+   "timeNote": "Afternoon or night",
+   "location": "DKR Texas Memorial Stadium, Austin",
+   "description": "Kickoff falls in the 2:30–3:30 PM or 5–7 PM window. The exact time is set about six days out.",
+   "sourceURL": "https://texaslonghorns.com/news/2026/6/10/additional-kickoff-times-tv-window-assignments-announced-for-football"
+  },
+  {
    "id": "2026-10-24-workshop-landscape-water-tips",
    "category": "hood",
    "title": "Workshop: Landscape & Water Tips",
@@ -595,7 +628,11 @@
    "location": "Veramendi",
    "description": "Tips for landscaping and saving water.",
    "tag": "Residents · RSVP",
-   "sourceURL": "https://lifeatveramendi.org/events/"
+   "sourceURL": "https://lifeatveramendi.org/events/",
+   "tags": [
+    "community:veramendi"
+   ],
+   "audience": "local"
   },
   {
    "id": "2026-10-24-texas-clay-festival-34th-annual",
@@ -634,7 +671,10 @@
    "description": "Veramendi's fall signature event: face painting, balloon art, food trucks, live music and a vendor market.",
    "tag": "Residents",
    "featured": true,
-   "sourceURL": "https://lifeatveramendi.org/events/"
+   "sourceURL": "https://lifeatveramendi.org/events/",
+   "tags": [
+    "community:veramendi"
+   ]
   },
   {
    "id": "2026-10-24-spurs-at-mavericks",
@@ -654,16 +694,6 @@
    "location": "Gruene Hall, 1281 Gruene Rd",
    "price": "$25",
    "sourceURL": "https://gruenehall.com/tickets/"
-  },
-  {
-   "id": "2026-10-24-texas-vs-ole-miss",
-   "category": "horns",
-   "title": "Texas vs. Ole Miss",
-   "startDate": "2026-10-24",
-   "timeNote": "Afternoon or night",
-   "location": "DKR Texas Memorial Stadium, Austin",
-   "description": "Kickoff falls in the 2:30–3:30 PM or 5–7 PM window. The exact time is set about six days out.",
-   "sourceURL": "https://texaslonghorns.com/news/2026/6/10/additional-kickoff-times-tv-window-assignments-announced-for-football"
   },
   {
    "id": "2026-10-25-two-rivers-half-marathon-ryan-bielke-5k",
@@ -696,7 +726,11 @@
    "location": "Veramendi",
    "description": "Coffee with neighbors and the Cohere Community Life team. This month's topic: 2027 community events.",
    "tag": "Residents",
-   "sourceURL": "https://lifeatveramendi.org/events/"
+   "sourceURL": "https://lifeatveramendi.org/events/",
+   "tags": [
+    "community:veramendi"
+   ],
+   "audience": "local"
   },
   {
    "id": "2026-10-28-spurs-at-jazz",
@@ -717,7 +751,11 @@
    "location": "The Ledge, Veramendi",
    "description": "A new sweet treat each week, with neighbors at The Ledge.",
    "tag": "Residents",
-   "sourceURL": "https://lifeatveramendi.org/events/"
+   "sourceURL": "https://lifeatveramendi.org/events/",
+   "tags": [
+    "community:veramendi"
+   ],
+   "audience": "local"
   },
   {
    "id": "2026-10-29-downtown-spooktacular",
@@ -742,26 +780,6 @@
    "sourceURL": "https://gruenehall.com/tickets/"
   },
   {
-   "id": "2026-10-31-river-chase-5k-for-homes-for-our-troops",
-   "category": "fest",
-   "title": "River Chase 5K for Homes For Our Troops",
-   "shortTitle": "River Chase 5K",
-   "startDate": "2026-10-31",
-   "startTime": "09:00",
-   "location": "River Chase Clubhouse, 436 River Chase Way",
-   "description": "5K run/walk raising money for Homes For Our Troops. Packet pickup is Oct 30 at the clubhouse.",
-   "sourceURL": "https://www.endurancegrid.com/race/river-chase-5k-fundraiser-for-homes-for-our-troops-new-braunfels-tx-131458"
-  },
-  {
-   "id": "2026-10-31-spurs-vs-timberwolves",
-   "category": "spurs",
-   "title": "Spurs vs. Timberwolves",
-   "startDate": "2026-10-31",
-   "startTime": "19:00",
-   "location": "Frost Bank Center, San Antonio",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
-  },
-  {
    "id": "2026-10-31-miles-for-smiles-5k-10k-kids-candy-dash",
    "category": "fest",
    "title": "Miles For Smiles: 5K, 10K & Kids Candy Dash",
@@ -782,6 +800,26 @@
    "location": "DKR Texas Memorial Stadium, Austin",
    "description": "Halloween night game. The exact kickoff is set about six days out.",
    "sourceURL": "https://texaslonghorns.com/news/2026/6/10/additional-kickoff-times-tv-window-assignments-announced-for-football"
+  },
+  {
+   "id": "2026-10-31-river-chase-5k-for-homes-for-our-troops",
+   "category": "fest",
+   "title": "River Chase 5K for Homes For Our Troops",
+   "shortTitle": "River Chase 5K",
+   "startDate": "2026-10-31",
+   "startTime": "09:00",
+   "location": "River Chase Clubhouse, 436 River Chase Way",
+   "description": "5K run/walk raising money for Homes For Our Troops. Packet pickup is Oct 30 at the clubhouse.",
+   "sourceURL": "https://www.endurancegrid.com/race/river-chase-5k-fundraiser-for-homes-for-our-troops-new-braunfels-tx-131458"
+  },
+  {
+   "id": "2026-10-31-spurs-vs-timberwolves",
+   "category": "spurs",
+   "title": "Spurs vs. Timberwolves",
+   "startDate": "2026-10-31",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2026-11-02-spurs-vs-jazz",
@@ -812,7 +850,11 @@
    "location": "The Ledge, Veramendi",
    "description": "A new sweet treat each week, with neighbors at The Ledge.",
    "tag": "Residents",
-   "sourceURL": "https://lifeatveramendi.org/events/"
+   "sourceURL": "https://lifeatveramendi.org/events/",
+   "tags": [
+    "community:veramendi"
+   ],
+   "audience": "local"
   },
   {
    "id": "2026-11-05-veramendi-annual-meeting",
@@ -825,7 +867,23 @@
    "location": "The Ledge, then Veramendi Elementary cafeteria",
    "description": "A food truck parks in front of The Ledge from 4 to 7 PM, with the Community Life team on hand for resident website and amenity fob help. The annual meeting runs 7 to 8:30 PM in the Veramendi Elementary cafeteria.",
    "tag": "Residents",
-   "sourceURL": "https://lifeatveramendi.org/events/"
+   "sourceURL": "https://lifeatveramendi.org/events/",
+   "tags": [
+    "community:veramendi"
+   ],
+   "audience": "local"
+  },
+  {
+   "id": "2026-11-06-wurstfest",
+   "category": "fest",
+   "title": "Wurstfest",
+   "shortTitle": "Wurstfest",
+   "startDate": "2026-11-06",
+   "endDate": "2026-11-15",
+   "location": "Wurstfest Grounds, Landa Park, 120 Landa St",
+   "description": "Ten days of German-Texan food, music, dancing and carnival rides by the Comal River. Opening ceremonies on Nov 6 include the sausage bite and keg tapping. Hours vary by day.",
+   "featured": true,
+   "sourceURL": "https://www.hillcountrypassport.com/events/place-new-braunfels-tx/page-3/"
   },
   {
    "id": "2026-11-06-james-mcmurtry-with-bettysoo",
@@ -848,16 +906,14 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "2026-11-06-wurstfest",
-   "category": "fest",
-   "title": "Wurstfest",
-   "shortTitle": "Wurstfest",
-   "startDate": "2026-11-06",
-   "endDate": "2026-11-15",
-   "location": "Wurstfest Grounds, Landa Park, 120 Landa St",
-   "description": "Ten days of German-Texan food, music, dancing and carnival rides by the Comal River. Opening ceremonies on Nov 6 include the sausage bite and keg tapping. Hours vary by day.",
-   "featured": true,
-   "sourceURL": "https://www.hillcountrypassport.com/events/place-new-braunfels-tx/page-3/"
+   "id": "2026-11-07-texas-at-missouri",
+   "category": "horns",
+   "title": "Texas at Missouri",
+   "startDate": "2026-11-07",
+   "timeNote": "11 AM–noon window",
+   "location": "Faurot Field, Columbia, MO",
+   "description": "Early window. The exact kickoff is set about six days out.",
+   "sourceURL": "https://texaslonghorns.com/news/2026/6/10/additional-kickoff-times-tv-window-assignments-announced-for-football"
   },
   {
    "id": "2026-11-07-veterans-day-parade-ceremony",
@@ -889,16 +945,6 @@
    "startTime": "21:00",
    "location": "Away in Portland",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
-  },
-  {
-   "id": "2026-11-07-texas-at-missouri",
-   "category": "horns",
-   "title": "Texas at Missouri",
-   "startDate": "2026-11-07",
-   "timeNote": "11 AM–noon window",
-   "location": "Faurot Field, Columbia, MO",
-   "description": "Early window. The exact kickoff is set about six days out.",
-   "sourceURL": "https://texaslonghorns.com/news/2026/6/10/additional-kickoff-times-tv-window-assignments-announced-for-football"
   },
   {
    "id": "2026-11-08-mid-texas-symphony-mozart-tchaikovsky",
@@ -940,7 +986,11 @@
    "location": "The Ledge, Veramendi",
    "description": "A new sweet treat each week, with neighbors at The Ledge.",
    "tag": "Residents",
-   "sourceURL": "https://lifeatveramendi.org/events/"
+   "sourceURL": "https://lifeatveramendi.org/events/",
+   "tags": [
+    "community:veramendi"
+   ],
+   "audience": "local"
   },
   {
    "id": "2026-11-13-ray-wylie-hubbard-friends-80th-birthday-celebrat",
@@ -964,6 +1014,16 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
+   "id": "2026-11-14-texas-at-lsu",
+   "category": "horns",
+   "title": "Texas at LSU",
+   "startDate": "2026-11-14",
+   "timeNote": "Afternoon or night",
+   "location": "Tiger Stadium, Baton Rouge",
+   "description": "Kickoff falls in the 2:30–3:30 PM or 5–7 PM window.",
+   "sourceURL": "https://texaslonghorns.com/news/2026/6/10/additional-kickoff-times-tv-window-assignments-announced-for-football"
+  },
+  {
    "id": "2026-11-14-ray-wylie-hubbard-friends-80th-birthday-celebrat",
    "category": "music",
    "title": "Ray Wylie Hubbard & Friends: 80th Birthday Celebration",
@@ -973,16 +1033,6 @@
    "location": "Gruene Hall, 1281 Gruene Rd",
    "price": "$59.50",
    "sourceURL": "https://gruenehall.com/tickets/"
-  },
-  {
-   "id": "2026-11-14-texas-at-lsu",
-   "category": "horns",
-   "title": "Texas at LSU",
-   "startDate": "2026-11-14",
-   "timeNote": "Afternoon or night",
-   "location": "Tiger Stadium, Baton Rouge",
-   "description": "Kickoff falls in the 2:30–3:30 PM or 5–7 PM window.",
-   "sourceURL": "https://texaslonghorns.com/news/2026/6/10/additional-kickoff-times-tv-window-assignments-announced-for-football"
   },
   {
    "id": "2026-11-15-new-braunfels-half-marathon-10k-5k",
@@ -1036,7 +1086,21 @@
    "location": "Oak Run Pkwy near Geneva & Caddie St",
    "description": "Look for the Cori Jean trailer on Oak Run Parkway.",
    "tag": "Residents",
-   "sourceURL": "https://lifeatveramendi.org/events/"
+   "sourceURL": "https://lifeatveramendi.org/events/",
+   "tags": [
+    "community:veramendi"
+   ],
+   "audience": "local"
+  },
+  {
+   "id": "2026-11-19-h-d-gruene-mercantile-ladies-night-out",
+   "category": "fest",
+   "title": "H.D. Gruene Mercantile Ladies Night Out",
+   "startDate": "2026-11-19",
+   "startTime": "17:00",
+   "endTime": "19:00",
+   "location": "H.D. Gruene Mercantile",
+   "sourceURL": "https://www.gruenetexas.com/event/h-d-gruene-mercantile-ladies-night-out/"
   },
   {
    "id": "2026-11-19-weihnachtsmarkt-gala",
@@ -1072,16 +1136,6 @@
    "outdoor": false
   },
   {
-   "id": "2026-11-19-h-d-gruene-mercantile-ladies-night-out",
-   "category": "fest",
-   "title": "H.D. Gruene Mercantile Ladies Night Out",
-   "startDate": "2026-11-19",
-   "startTime": "17:00",
-   "endTime": "19:00",
-   "location": "H.D. Gruene Mercantile",
-   "sourceURL": "https://www.gruenetexas.com/event/h-d-gruene-mercantile-ladies-night-out/"
-  },
-  {
    "id": "2026-11-19-isaac-jacob-band",
    "category": "music",
    "title": "Isaac Jacob Band",
@@ -1113,6 +1167,28 @@
    "sourceURL": "https://gruenehall.com/event/chuck-briseno-3/"
   },
   {
+   "id": "2026-11-20-weihnachtsmarkt",
+   "category": "holiday",
+   "title": "Weihnachtsmarkt",
+   "shortTitle": "Weihnachtsmarkt",
+   "startDate": "2026-11-20",
+   "endDate": "2026-11-22",
+   "location": "NB Civic & Convention Center, 375 S Castell Ave",
+   "description": "Juried German-style Christmas market and the largest fundraiser for the Sophienburg Museum & Archives.",
+   "featured": true,
+   "sourceURL": "https://sophienburg.com/weihnachtsmarkt/"
+  },
+  {
+   "id": "2026-11-20-clayton-chapin",
+   "category": "music",
+   "title": "Clayton Chapin",
+   "startDate": "2026-11-20",
+   "startTime": "17:00",
+   "endTime": "20:00",
+   "location": "Gruene Historic District",
+   "sourceURL": "https://www.gruenetexas.com/event/clayton-chapin-22/"
+  },
+  {
    "id": "2026-11-20-visitor-center-at-the-hinman-house-grand-opening",
    "category": "fest",
    "title": "Visitor Center at the Hinman House: Grand Opening",
@@ -1136,6 +1212,36 @@
    "description": "Holiday music, a small vendor market, free photos with Santa, then the downtown lights come on and Santa arrives. A free shuttle runs from City Hall (550 Landa St) from 5:30 to 9:30 PM.",
    "featured": true,
    "sourceURL": "https://newbraunfels.gov/downtownlighting"
+  },
+  {
+   "id": "comal-canyon-lake-hs-2026-11-20-clhs-hawks-vs-luling-high-school-lady-eagles-bas",
+   "category": "school",
+   "title": "CLHS Hawks vs Luling High School Lady Eagles - Basketball (F) (Varsity)",
+   "startDate": "2026-11-20",
+   "startTime": "18:00",
+   "location": "Canyon Lake Main Gym, Canyon Lake High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Sp=26&Tm=13711&L=1&Mt=0",
+   "description": "Home game from the Rank One athletics schedule (iCal feed).",
+   "tags": [
+    "school:canyon-lake-hs",
+    "district:comal-isd"
+   ],
+   "audience": "local"
+  },
+  {
+   "id": "comal-davenport-hs-2026-11-20-dhs-boys-basketball-game",
+   "category": "school",
+   "title": "DHS Boys Basketball Game",
+   "startDate": "2026-11-20",
+   "startTime": "18:30",
+   "location": "Davenport High School, 23255 FM 3009, San Antonio",
+   "sourceURL": "https://www.comalisd.org/apps/events/61695593/",
+   "description": "From the davenport-hs campus calendar (Edlio iCal).",
+   "tags": [
+    "school:davenport-hs",
+    "district:comal-isd"
+   ],
+   "audience": "local"
   },
   {
    "id": "2026-11-20-playoffs-smithson-valley-vs-mcallen-rowe",
@@ -1210,26 +1316,55 @@
    "sourceURL": "https://gruenehall.com/tickets/"
   },
   {
-   "id": "2026-11-20-weihnachtsmarkt",
-   "category": "holiday",
-   "title": "Weihnachtsmarkt",
-   "shortTitle": "Weihnachtsmarkt",
-   "startDate": "2026-11-20",
-   "endDate": "2026-11-22",
-   "location": "NB Civic & Convention Center, 375 S Castell Ave",
-   "description": "Juried German-style Christmas market and the largest fundraiser for the Sophienburg Museum & Archives.",
-   "featured": true,
-   "sourceURL": "https://sophienburg.com/weihnachtsmarkt/"
+   "id": "2026-11-21-texas-state-vs-washington-state",
+   "category": "txst",
+   "title": "Texas State vs. Washington State",
+   "shortTitle": "Bobcats vs. Wazzu",
+   "startDate": "2026-11-21",
+   "timeNote": "Evening kickoff, 5 or 6 PM (listings differ). On USA Network.",
+   "location": "UFCU Stadium, San Marcos",
+   "description": "Pac-12 home game for the Bobcats, about 20 minutes up I-35.",
+   "outdoor": true,
+   "sourceURL": "https://txst.com/sports/football/schedule/2026"
   },
   {
-   "id": "2026-11-20-clayton-chapin",
-   "category": "music",
-   "title": "Clayton Chapin",
-   "startDate": "2026-11-20",
-   "startTime": "17:00",
-   "endTime": "20:00",
-   "location": "Gruene Historic District",
-   "sourceURL": "https://www.gruenetexas.com/event/clayton-chapin-22/"
+   "id": "2026-11-21-new-braunfels-farmers-market",
+   "category": "market",
+   "title": "New Braunfels Farmers Market",
+   "shortTitle": "Farmers market",
+   "startDate": "2026-11-21",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "New Braunfels Farmers Market, 186 S Castell Ave",
+   "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
+   "outdoor": true,
+   "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
+  },
+  {
+   "id": "2026-11-21-castell-st-market",
+   "category": "market",
+   "title": "Castell St. Market",
+   "startDate": "2026-11-21",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "First Protestant Church, 296 S Seguin Ave",
+   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
+   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2026-11-21/"
+  },
+  {
+   "id": "2026-11-21-south-tx-blood-drive",
+   "category": "hood",
+   "title": "South TX Blood Drive",
+   "startDate": "2026-11-21",
+   "startTime": "09:00",
+   "endTime": "14:00",
+   "location": "Winslet Provisions",
+   "description": "Join us for the Veramendi Blood Drive on Saturday, Nov. 21, from 9 a.m. – 2 p.m. in front of Winslet Provisions and help make a lifesaving difference in our community. As a thank-you, every blood donor will receive a …",
+   "sourceURL": "https://lifeatveramendi.org/event/south-tx-blood-drive/",
+   "tags": [
+    "community:veramendi"
+   ],
+   "audience": "local"
   },
   {
    "id": "2026-11-21-gruene-market-days",
@@ -1243,6 +1378,19 @@
    "location": "Gruene Historic District",
    "description": "About 100 artisans selling handmade goods and packaged Texas foods. Free admission and parking.",
    "sourceURL": "https://www.thecraftmap.com/fairs/texas/new-braunfels/holiday-craft-fairs"
+  },
+  {
+   "id": "gruene-2026-11-21-photos-with-cowboy-kringle",
+   "category": "holiday",
+   "title": "Photos with Cowboy Kringle",
+   "startDate": "2026-11-21",
+   "startTime": "10:00",
+   "location": "Gruene Historic District",
+   "sourceURL": "https://www.gruenetexas.com/event/holidays-in-gruene-photos-with-cowboy-kringle-36/2026-11-21/",
+   "description": "Create a lasting Christmas memory with photos with Cowboy Kringle, Gruene’s own brand of Santa! Reserve a spot in advance for photo packages, Christmas cards and other special order items. Photos taken November 14th and 15th will benefit a local non-profit. Visit…",
+   "tags": [
+    "community:gruene"
+   ]
   },
   {
    "id": "2026-11-21-texas-vs-arkansas",
@@ -1266,72 +1414,6 @@
    "outdoor": false
   },
   {
-   "id": "2026-11-21-spurs-vs-pelicans",
-   "category": "spurs",
-   "title": "Spurs vs. Pelicans",
-   "startDate": "2026-11-21",
-   "startTime": "19:00",
-   "location": "Frost Bank Center, San Antonio",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
-  },
-  {
-   "id": "2026-11-21-utsa-at-uab",
-   "category": "utsa",
-   "title": "UTSA at UAB",
-   "startDate": "2026-11-21",
-   "startTime": "19:00",
-   "location": "Protective Stadium, Birmingham, AL",
-   "sourceURL": "https://goutsa.com/sports/football/schedule",
-   "outdoor": false
-  },
-  {
-   "id": "2026-11-21-new-braunfels-farmers-market",
-   "category": "market",
-   "title": "New Braunfels Farmers Market",
-   "shortTitle": "Farmers market",
-   "startDate": "2026-11-21",
-   "startTime": "09:00",
-   "endTime": "13:00",
-   "location": "New Braunfels Farmers Market, 186 S Castell Ave",
-   "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
-   "outdoor": true,
-   "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
-  },
-  {
-   "id": "2026-11-21-texas-state-vs-washington-state",
-   "category": "txst",
-   "title": "Texas State vs. Washington State",
-   "shortTitle": "Bobcats vs. Wazzu",
-   "startDate": "2026-11-21",
-   "timeNote": "Evening kickoff, 5 or 6 PM (listings differ). On USA Network.",
-   "location": "UFCU Stadium, San Marcos",
-   "description": "Pac-12 home game for the Bobcats, about 20 minutes up I-35.",
-   "outdoor": true,
-   "sourceURL": "https://txst.com/sports/football/schedule/2026"
-  },
-  {
-   "id": "2026-11-21-castell-st-market",
-   "category": "market",
-   "title": "Castell St. Market",
-   "startDate": "2026-11-21",
-   "startTime": "09:00",
-   "endTime": "13:00",
-   "location": "First Protestant Church, 296 S Seguin Ave",
-   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
-   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2026-11-21/"
-  },
-  {
-   "id": "2026-11-21-south-tx-blood-drive",
-   "category": "hood",
-   "title": "South TX Blood Drive",
-   "startDate": "2026-11-21",
-   "startTime": "09:00",
-   "endTime": "14:00",
-   "location": "Winslet Provisions",
-   "description": "Join us for the Veramendi Blood Drive on Saturday, Nov. 21, from 9 a.m. – 2 p.m. in front of Winslet Provisions and help make a lifesaving difference in our community. As a thank-you, every blood donor will receive a …",
-   "sourceURL": "https://lifeatveramendi.org/event/south-tx-blood-drive/"
-  },
-  {
    "id": "2026-11-21-reagan-hicks-band",
    "category": "music",
    "title": "Reagan Hicks Band",
@@ -1352,6 +1434,25 @@
    "sourceURL": "https://www.gruenetexas.com/event/owen-stroud-15/"
   },
   {
+   "id": "2026-11-21-spurs-vs-pelicans",
+   "category": "spurs",
+   "title": "Spurs vs. Pelicans",
+   "startDate": "2026-11-21",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-11-21-utsa-at-uab",
+   "category": "utsa",
+   "title": "UTSA at UAB",
+   "startDate": "2026-11-21",
+   "startTime": "19:00",
+   "location": "Protective Stadium, Birmingham, AL",
+   "sourceURL": "https://goutsa.com/sports/football/schedule",
+   "outdoor": false
+  },
+  {
    "id": "2026-11-21-giovannie-the-hired-guns",
    "category": "music",
    "title": "Giovannie & The Hired Guns",
@@ -1360,6 +1461,19 @@
    "location": "Gruene Hall, 1281 Gruene Rd",
    "description": "Doors: 8pm Opener: Keaton Adams 9pm Giovannie & The Hired Guns: 10:30pm",
    "sourceURL": "https://gruenehall.com/event/giovannie-the-hired-guns-6/"
+  },
+  {
+   "id": "gruene-2026-11-22-photos-with-cowboy-kringle",
+   "category": "holiday",
+   "title": "Photos with Cowboy Kringle",
+   "startDate": "2026-11-22",
+   "startTime": "10:00",
+   "location": "Gruene Historic District",
+   "sourceURL": "https://www.gruenetexas.com/event/holidays-in-gruene-photos-with-cowboy-kringle-36/2026-11-22/",
+   "description": "Create a lasting Christmas memory with photos with Cowboy Kringle, Gruene’s own brand of Santa! Reserve a spot in advance for photo packages, Christmas cards and other special order items. Photos taken November 14th and 15th will benefit a local non-profit. Visit…",
+   "tags": [
+    "community:gruene"
+   ]
   },
   {
    "id": "2026-11-22-cowboys-vs-titans",
@@ -1413,13 +1527,60 @@
    "sourceURL": "https://gruenehall.com/event/lowland-revelry-5/"
   },
   {
-   "id": "2026-11-23-spurs-at-kings",
-   "category": "spurs",
-   "title": "Spurs at Kings",
+   "id": "nbisd-2026-11-23-thanksgiving-break-no-school",
+   "title": "Thanksgiving Break (no school)",
    "startDate": "2026-11-23",
-   "startTime": "21:00",
-   "location": "Away in Sacramento",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "location": "New Braunfels ISD (all campuses)",
+   "sourceURL": "https://nbisd.org/wp-content/uploads/2026/03/26-27-School-Calendar-English-1-30-26-9-weeks.pdf",
+   "description": "NBISD student/staff holiday, all campuses. Source: NBISD 2026-27 school calendar (PDF).",
+   "tags": [
+    "district:nbisd"
+   ],
+   "endDate": "2026-11-27",
+   "category": "school",
+   "audience": "local"
+  },
+  {
+   "id": "comal-isd-2026-11-23-thanksgiving-break",
+   "category": "school",
+   "title": "Thanksgiving Break",
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-27",
+   "location": "Comal ISD (all campuses)",
+   "sourceURL": "https://www.comalisd.org/apps/events/46144257/",
+   "description": "Thanksgiving Break, no school. Comal ISD Academic Calendar lists it Nov 23-27.",
+   "tags": [
+    "district:comal-isd"
+   ],
+   "audience": "local"
+  },
+  {
+   "id": "nbisd-long-creek-hs-2026-11-23-lc-varsity-basketball-vs-davenport-high-",
+   "title": "LC Varsity Basketball vs Davenport High School Davenport - Basketball (M) - Varsity",
+   "startDate": "2026-11-23",
+   "location": "Home - Long Creek High School",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
+   "description": "RankOne athletics feed. Long Creek High School - Basketball (M) - Varsity - LC Varsity Basketball vs. Davenport High School Davenport",
+   "tags": [
+    "school:long-creek-hs"
+   ],
+   "startTime": "11:30",
+   "category": "school",
+   "audience": "local"
+  },
+  {
+   "id": "nbisd-new-braunfels-hs-2026-11-23-varsity-boys-basketball-vs-highlands-bas",
+   "title": "Varsity Boys Basketball vs Highlands - Basketball (M) - Varsity",
+   "startDate": "2026-11-23",
+   "location": "Home - NBHS Competition Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "description": "RankOne athletics feed. New Braunfels HS - Basketball (M) - Varsity - Varsity Boys Basketball vs. Highlands",
+   "tags": [
+    "school:new-braunfels-hs"
+   ],
+   "startTime": "13:30",
+   "category": "school",
+   "audience": "local"
   },
   {
    "id": "2026-11-23-lee-mathis-duo",
@@ -1430,6 +1591,15 @@
    "endTime": "21:00",
    "location": "Gruene Hall, 1281 Gruene Rd",
    "sourceURL": "https://gruenehall.com/event/lee-mathis-duo-5/"
+  },
+  {
+   "id": "2026-11-23-spurs-at-kings",
+   "category": "spurs",
+   "title": "Spurs at Kings",
+   "startDate": "2026-11-23",
+   "startTime": "21:00",
+   "location": "Away in Sacramento",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2026-11-24-two-ton-tuesday-thanksgiving-show",
@@ -1444,16 +1614,6 @@
    "sourceURL": "https://gruenehall.com/events/"
   },
   {
-   "id": "2026-11-25-spurs-at-trail-blazers",
-   "category": "spurs",
-   "title": "Spurs at Trail Blazers",
-   "startDate": "2026-11-25",
-   "startTime": "21:00",
-   "location": "Away in Portland",
-   "tv": "ESPN",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
-  },
-  {
    "id": "2026-11-25-shinyribs",
    "category": "music",
    "title": "Shinyribs",
@@ -1462,6 +1622,16 @@
    "location": "Gruene Hall, 1281 Gruene Rd",
    "description": "Doors: 7pm Opener: Scott Strickland 8pm Shinyribs: 9pm",
    "sourceURL": "https://gruenehall.com/event/shinyribs-6/"
+  },
+  {
+   "id": "2026-11-25-spurs-at-trail-blazers",
+   "category": "spurs",
+   "title": "Spurs at Trail Blazers",
+   "startDate": "2026-11-25",
+   "startTime": "21:00",
+   "location": "Away in Portland",
+   "tv": "ESPN",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2026-11-26-gruene-turkey-trot-5k-kids-turkey-chase",
@@ -1486,6 +1656,19 @@
    "featured": true,
    "sourceURL": "https://www.dallascowboys.com/schedule/",
    "outdoor": false
+  },
+  {
+   "id": "gruene-2026-11-27-photos-with-cowboy-kringle",
+   "category": "holiday",
+   "title": "Photos with Cowboy Kringle",
+   "startDate": "2026-11-27",
+   "startTime": "10:00",
+   "location": "Gruene Historic District",
+   "sourceURL": "https://www.gruenetexas.com/event/holidays-in-gruene-photos-with-cowboy-kringle-36/2026-11-27/",
+   "description": "Create a lasting Christmas memory with photos with Cowboy Kringle, Gruene’s own brand of Santa! Reserve a spot in advance for photo packages, Christmas cards and other special order items. Photos taken November 14th and 15th will benefit a local non-profit. Visit…",
+   "tags": [
+    "community:gruene"
+   ]
   },
   {
    "id": "2026-11-27-utsa-vs-tulsa",
@@ -1525,16 +1708,6 @@
    "outdoor": false
   },
   {
-   "id": "2026-11-27-spurs-vs-lakers",
-   "category": "spurs",
-   "title": "Spurs vs. Lakers",
-   "startDate": "2026-11-27",
-   "startTime": "20:30",
-   "location": "Frost Bank Center, San Antonio",
-   "tv": "Prime Video",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
-  },
-  {
    "id": "2026-11-27-aaron-watson-horse-named-texas-tour-w-special-guest-jake-wat",
    "category": "music",
    "title": "Aaron Watson: Horse Named Texas Tour w/ special guest Jake Watson",
@@ -1545,17 +1718,14 @@
    "sourceURL": "https://gruenehall.com/event/aaron-watson-horse-named-texas-tour-w-special-guest-jake-watson/"
   },
   {
-   "id": "2026-11-28-new-braunfels-farmers-market",
-   "category": "market",
-   "title": "New Braunfels Farmers Market",
-   "shortTitle": "Farmers market",
-   "startDate": "2026-11-28",
-   "startTime": "09:00",
-   "endTime": "13:00",
-   "location": "New Braunfels Farmers Market, 186 S Castell Ave",
-   "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
-   "outdoor": true,
-   "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
+   "id": "2026-11-27-spurs-vs-lakers",
+   "category": "spurs",
+   "title": "Spurs vs. Lakers",
+   "startDate": "2026-11-27",
+   "startTime": "20:30",
+   "location": "Frost Bank Center, San Antonio",
+   "tv": "Prime Video",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2026-11-28-texas-state-flex-game",
@@ -1571,6 +1741,19 @@
    "sourceURL": "https://txst.com/sports/football/schedule/2026"
   },
   {
+   "id": "2026-11-28-new-braunfels-farmers-market",
+   "category": "market",
+   "title": "New Braunfels Farmers Market",
+   "shortTitle": "Farmers market",
+   "startDate": "2026-11-28",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "New Braunfels Farmers Market, 186 S Castell Ave",
+   "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
+   "outdoor": true,
+   "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
+  },
+  {
    "id": "2026-11-28-castell-st-market",
    "category": "market",
    "title": "Castell St. Market",
@@ -1580,6 +1763,19 @@
    "location": "First Protestant Church, 296 S Seguin Ave",
    "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
    "sourceURL": "https://firstprotestant.com/event/castell-st-market/2026-11-28/"
+  },
+  {
+   "id": "gruene-2026-11-28-photos-with-cowboy-kringle",
+   "category": "holiday",
+   "title": "Photos with Cowboy Kringle",
+   "startDate": "2026-11-28",
+   "startTime": "10:00",
+   "location": "Gruene Historic District",
+   "sourceURL": "https://www.gruenetexas.com/event/holidays-in-gruene-photos-with-cowboy-kringle-36/2026-11-28/",
+   "description": "Create a lasting Christmas memory with photos with Cowboy Kringle, Gruene’s own brand of Santa! Reserve a spot in advance for photo packages, Christmas cards and other special order items. Photos taken November 14th and 15th will benefit a local non-profit. Visit…",
+   "tags": [
+    "community:gruene"
+   ]
   },
   {
    "id": "2026-11-28-aaron-watson-horse-named-texas-tour-w-special-guest-jake-wat",
@@ -1592,6 +1788,19 @@
    "sourceURL": "https://gruenehall.com/event/aaron-watson-horse-named-texas-tour-w-special-guest-jake-watson-2/"
   },
   {
+   "id": "gruene-2026-11-29-photos-with-cowboy-kringle",
+   "category": "holiday",
+   "title": "Photos with Cowboy Kringle",
+   "startDate": "2026-11-29",
+   "startTime": "10:00",
+   "location": "Gruene Historic District",
+   "sourceURL": "https://www.gruenetexas.com/event/holidays-in-gruene-photos-with-cowboy-kringle-36/2026-11-29/",
+   "description": "Create a lasting Christmas memory with photos with Cowboy Kringle, Gruene’s own brand of Santa! Reserve a spot in advance for photo packages, Christmas cards and other special order items. Photos taken November 14th and 15th will benefit a local non-profit. Visit…",
+   "tags": [
+    "community:gruene"
+   ]
+  },
+  {
    "id": "2026-11-29-spurs-vs-celtics",
    "category": "spurs",
    "title": "Spurs vs. Celtics",
@@ -1602,6 +1811,19 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
+   "id": "nbisd-2026-11-30-student-holiday-staff-professional-devel",
+   "title": "Student Holiday / Staff Professional Development",
+   "startDate": "2026-11-30",
+   "location": "New Braunfels ISD (all campuses)",
+   "sourceURL": "https://nbisd.org/wp-content/uploads/2026/03/26-27-School-Calendar-English-1-30-26-9-weeks.pdf",
+   "description": "No school for NBISD students. Source: NBISD 2026-27 school calendar (PDF).",
+   "tags": [
+    "district:nbisd"
+   ],
+   "category": "school",
+   "audience": "local"
+  },
+  {
    "id": "2026-11-30-spurs-at-bucks",
    "category": "spurs",
    "title": "Spurs at Bucks",
@@ -1609,6 +1831,49 @@
    "startTime": "19:00",
    "location": "Away in Milwaukee",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "nbisd-long-creek-hs-2026-12-01-lc-varsity-basketball-vs-boerne-high-sch",
+   "title": "LC Varsity Basketball vs Boerne High School Basketball - Basketball (M) - Varsity",
+   "startDate": "2026-12-01",
+   "location": "Home - Long Creek High School",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
+   "description": "RankOne athletics feed. Long Creek High School - Basketball (M) - Varsity - LC Varsity Basketball vs. Boerne High School Basketball",
+   "tags": [
+    "school:long-creek-hs"
+   ],
+   "startTime": "18:30",
+   "category": "school",
+   "audience": "local"
+  },
+  {
+   "id": "comal-davenport-hs-2026-12-01-davenport-vs-pieper-high-school-warriors-basketbal",
+   "category": "school",
+   "title": "Davenport vs Pieper High School Warriors - Basketball (F) (Varsity)",
+   "startDate": "2026-12-01",
+   "startTime": "18:30",
+   "location": "Davenport High Main Gym, Davenport High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Sp=26&Tm=132083&L=1&Mt=0",
+   "description": "Home game from the Rank One athletics schedule (iCal feed).",
+   "tags": [
+    "school:davenport-hs",
+    "district:comal-isd"
+   ],
+   "audience": "local"
+  },
+  {
+   "id": "nbisd-new-braunfels-hs-2026-12-01-varsity-boys-basketball-vs-comal-canyon-",
+   "title": "Varsity Boys Basketball vs Comal Canyon High School - Basketball (M) - Varsity",
+   "startDate": "2026-12-01",
+   "location": "Home - NBHS Competition Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "description": "RankOne athletics feed. New Braunfels HS - Basketball (M) - Varsity - Varsity Boys Basketball vs. Comal Canyon High School",
+   "tags": [
+    "school:new-braunfels-hs"
+   ],
+   "startTime": "19:00",
+   "category": "school",
+   "audience": "local"
   },
   {
    "id": "2026-12-01-mariachi-herencia-de-mexico-a-mariachi-christmas",
@@ -1634,6 +1899,36 @@
    "sourceURL": "https://www.hillcountrypassport.com/events/place-new-braunfels-tx/page-3/"
   },
   {
+   "id": "comal-canyon-hs-2026-12-03-winter-orchestra-concert",
+   "category": "school",
+   "title": "Winter Orchestra Concert",
+   "startDate": "2026-12-03",
+   "startTime": "18:30",
+   "location": "Canyon High School, 1510 IH 35 East, New Braunfels",
+   "sourceURL": "https://www.comalisd.org/apps/events/60796394/",
+   "description": "From the canyon-hs campus calendar (Edlio iCal).",
+   "tags": [
+    "school:canyon-hs",
+    "district:comal-isd"
+   ],
+   "audience": "local"
+  },
+  {
+   "id": "comal-davenport-hs-2026-12-03-orchestra-concert",
+   "category": "school",
+   "title": "Orchestra Concert",
+   "startDate": "2026-12-03",
+   "startTime": "18:30",
+   "location": "Davenport High School, 23255 FM 3009, San Antonio",
+   "sourceURL": "https://www.comalisd.org/apps/events/60793252/",
+   "description": "From the davenport-hs campus calendar (Edlio iCal).",
+   "tags": [
+    "school:davenport-hs",
+    "district:comal-isd"
+   ],
+   "audience": "local"
+  },
+  {
    "id": "2026-12-03-spurs-vs-raptors",
    "category": "spurs",
    "title": "Spurs vs. Raptors",
@@ -1641,6 +1936,22 @@
    "startTime": "19:00",
    "location": "Frost Bank Center, San Antonio",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "comal-canyon-lake-hs-2026-12-04-theater-holiday-show",
+   "category": "school",
+   "title": "Theater Holiday Show",
+   "startDate": "2026-12-04",
+   "endDate": "2026-12-05",
+   "startTime": "19:00",
+   "location": "Canyon Lake High School, 8555 FM 32, Fischer",
+   "sourceURL": "https://www.comalisd.org/apps/events/51257700/",
+   "description": "From the canyon-lake-hs campus calendar (Edlio iCal).",
+   "tags": [
+    "school:canyon-lake-hs",
+    "district:comal-isd"
+   ],
+   "audience": "local"
   },
   {
    "id": "2026-12-04-grand-ol-christmas-show",
@@ -1652,6 +1963,32 @@
    "location": "Brauntex Theatre, 290 W San Antonio St",
    "description": "Country, gospel and Christmas classics in the style of a vintage holiday special.",
    "sourceURL": "https://concertfix.com/concerts/new-braunfels-tx+december-2026"
+  },
+  {
+   "id": "2026-12-05-bulky-goods-drop-off",
+   "category": "fest",
+   "title": "City Bulky Goods Drop Off",
+   "shortTitle": "Bulky goods drop off",
+   "startDate": "2026-12-05",
+   "startTime": "07:00",
+   "endTime": "11:00",
+   "location": "City Hall, 550 Landa St (also NBU Service Center, 355 FM 306)",
+   "description": "Free for New Braunfels residents. Bring a photo ID and a current NBU or GVEC utility bill. One load per household: up to 5 large items and 4 rimless car tires. No trailers at city sites, no mattresses at the NBU Service Center. No electronics, appliances, yard waste or construction debris. Check the city's listing for the final site list before you go.",
+   "outdoor": true,
+   "sourceURL": "https://newbraunfels.gov/recycling"
+  },
+  {
+   "id": "2026-12-05-new-braunfels-farmers-market",
+   "category": "market",
+   "title": "New Braunfels Farmers Market",
+   "shortTitle": "Farmers market",
+   "startDate": "2026-12-05",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "New Braunfels Farmers Market, 186 S Castell Ave",
+   "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
+   "outdoor": true,
+   "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
   },
   {
    "id": "2026-12-05-gruene-christmas-market-days",
@@ -1666,6 +2003,47 @@
    "description": "The holiday edition of Market Days: nearly 100 vendors with gifts, crafts and packaged Texas foods.",
    "featured": true,
    "sourceURL": "https://www.thecraftmap.com/fairs/texas/new-braunfels/holiday-craft-fairs"
+  },
+  {
+   "id": "mayfair-2026-12-05-holidays-in-mayfair",
+   "category": "hood",
+   "title": "Holidays in Mayfair",
+   "startDate": "2026-12-05",
+   "startTime": "10:00",
+   "endTime": "14:00",
+   "location": "Mayfair, New Braunfels",
+   "sourceURL": "https://mayfairtx.com/community-updates/event/holidays-in-mayfair/",
+   "description": "Holiday market, snow slide, kids' cookie decorating and crafts, holiday DJ, photos with Santa (10 a.m. to noon), a Nutcracker stilt walker, a sneak peek at Ollie's Market, and trolley home tours.",
+   "tags": [
+    "community:mayfair"
+   ],
+   "audience": "local"
+  },
+  {
+   "id": "gruene-2026-12-05-photos-with-cowboy-kringle",
+   "category": "holiday",
+   "title": "Photos with Cowboy Kringle",
+   "startDate": "2026-12-05",
+   "startTime": "10:00",
+   "location": "Gruene Historic District",
+   "sourceURL": "https://www.gruenetexas.com/event/holidays-in-gruene-photos-with-cowboy-kringle-36/2026-12-05/",
+   "description": "Create a lasting Christmas memory with photos with Cowboy Kringle, Gruene’s own brand of Santa! Reserve a spot in advance for photo packages, Christmas cards and other special order items. Photos taken November 14th and 15th will benefit a local non-profit. Visit…",
+   "tags": [
+    "community:gruene"
+   ]
+  },
+  {
+   "id": "gruene-2026-12-05-25th-annual-gruene-pony-express-ride",
+   "category": "holiday",
+   "title": "25th Annual Gruene Pony Express Ride",
+   "startDate": "2026-12-05",
+   "startTime": "10:00",
+   "location": "Gruene Historic District",
+   "sourceURL": "https://www.gruenetexas.com/event/holidays-in-gruene-25th-annual-gruene-pony-express-ride/",
+   "description": "Gruene Historic District will receive a Pony Express rider from the Heritage Trail Ride Association of New Braunfels at 10am. Relay riders carry a “Christmas Greetings” message from the Governor of Texas. A temporary Post Office will be set up next to Gruene Outfitters in Gruene…",
+   "tags": [
+    "community:gruene"
+   ]
   },
   {
    "id": "2026-12-05-sec-championship-game",
@@ -1704,30 +2082,31 @@
    "sourceURL": "https://concertfix.com/concerts/new-braunfels-tx+december-2026"
   },
   {
-   "id": "2026-12-05-new-braunfels-farmers-market",
-   "category": "market",
-   "title": "New Braunfels Farmers Market",
-   "shortTitle": "Farmers market",
-   "startDate": "2026-12-05",
-   "startTime": "09:00",
-   "endTime": "13:00",
-   "location": "New Braunfels Farmers Market, 186 S Castell Ave",
-   "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
-   "outdoor": true,
-   "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
+   "id": "gruene-2026-12-06-photos-with-cowboy-kringle",
+   "category": "holiday",
+   "title": "Photos with Cowboy Kringle",
+   "startDate": "2026-12-06",
+   "startTime": "10:00",
+   "location": "Gruene Historic District",
+   "sourceURL": "https://www.gruenetexas.com/event/holidays-in-gruene-photos-with-cowboy-kringle-36/2026-12-06/",
+   "description": "Create a lasting Christmas memory with photos with Cowboy Kringle, Gruene’s own brand of Santa! Reserve a spot in advance for photo packages, Christmas cards and other special order items. Photos taken November 14th and 15th will benefit a local non-profit. Visit…",
+   "tags": [
+    "community:gruene"
+   ]
   },
   {
-   "id": "2026-12-05-bulky-goods-drop-off",
-   "category": "fest",
-   "title": "City Bulky Goods Drop Off",
-   "shortTitle": "Bulky goods drop off",
-   "startDate": "2026-12-05",
+   "id": "nbisd-long-creek-hs-2026-12-07-senior-picture-makeup-day",
+   "title": "Senior Picture Makeup Day",
+   "startDate": "2026-12-07",
+   "location": "Long Creek High School",
+   "sourceURL": "https://calendar.google.com/calendar/ical/nbisdcalendar-ngc%40nbisd.org/public/basic.ics",
+   "description": "Campus Google Calendar. ",
+   "tags": [
+    "school:long-creek-hs"
+   ],
    "startTime": "07:00",
-   "endTime": "11:00",
-   "location": "City Hall, 550 Landa St (also NBU Service Center, 355 FM 306)",
-   "description": "Free for New Braunfels residents. Bring a photo ID and a current NBU or GVEC utility bill. One load per household: up to 5 large items and 4 rimless car tires. No trailers at city sites, no mattresses at the NBU Service Center. No electronics, appliances, yard waste or construction debris. Check the city's listing for the final site list before you go.",
-   "outdoor": true,
-   "sourceURL": "https://newbraunfels.gov/recycling"
+   "category": "school",
+   "audience": "local"
   },
   {
    "id": "2026-12-07-cowboys-at-seahawks",
@@ -1739,6 +2118,94 @@
    "description": "Monday Night Football.",
    "sourceURL": "https://www.dallascowboys.com/schedule/",
    "outdoor": false
+  },
+  {
+   "id": "nbisd-new-braunfels-hs-2026-12-08-new-braunfels-vs-roosevelt-basketball-f-",
+   "title": "New Braunfels vs Roosevelt - Basketball (F) - Varsity",
+   "startDate": "2026-12-08",
+   "location": "Home - NBHS Competition Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "description": "RankOne athletics feed. New Braunfels HS - Basketball (F) - Varsity - New Braunfels vs. Roosevelt",
+   "tags": [
+    "school:new-braunfels-hs"
+   ],
+   "startTime": "18:30",
+   "category": "school",
+   "audience": "local"
+  },
+  {
+   "id": "comal-canyon-lake-hs-2026-12-08-choir-concert",
+   "category": "school",
+   "title": "Choir Concert",
+   "startDate": "2026-12-08",
+   "startTime": "19:00",
+   "location": "Canyon Lake High School, 8555 FM 32, Fischer",
+   "sourceURL": "https://www.comalisd.org/apps/events/51257705/",
+   "description": "From the canyon-lake-hs campus calendar (Edlio iCal).",
+   "tags": [
+    "school:canyon-lake-hs",
+    "district:comal-isd"
+   ],
+   "audience": "local"
+  },
+  {
+   "id": "comal-canyon-hs-2026-12-08-chs-cougars-vs-carrizo-springs-hs-wildcat-basketball-",
+   "category": "school",
+   "title": "CHS Cougars vs Carrizo Springs HS Wildcat Basketball Varsity - Basketball (M) (Varsity)",
+   "startDate": "2026-12-08",
+   "startTime": "19:00",
+   "location": "Cougar Den, Canyon High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Sp=7&Tm=13586&L=1&Mt=0",
+   "description": "Home game from the Rank One athletics schedule (iCal feed).",
+   "tags": [
+    "school:canyon-hs",
+    "district:comal-isd"
+   ],
+   "audience": "local"
+  },
+  {
+   "id": "nbisd-new-braunfels-hs-2026-12-09-new-braunfels-wrestling-vs-kyle-lehman-v",
+   "title": "New Braunfels Wrestling vs Kyle Lehman Varsity Boys - Wrestling (C) - Varsity",
+   "startDate": "2026-12-09",
+   "location": "Home - New Braunfels High School",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "description": "RankOne athletics feed. New Braunfels HS - Wrestling (C) - Varsity - New Braunfels Wrestling vs. Kyle Lehman Varsity Boys Special Note: Varsity Boys Tri",
+   "tags": [
+    "school:new-braunfels-hs"
+   ],
+   "startTime": "18:00",
+   "category": "school",
+   "audience": "local"
+  },
+  {
+   "id": "comal-canyon-hs-2026-12-09-choir-concert",
+   "category": "school",
+   "title": "Choir Concert",
+   "startDate": "2026-12-09",
+   "startTime": "18:30",
+   "location": "Canyon High School, 1510 IH 35 East, New Braunfels",
+   "sourceURL": "https://www.comalisd.org/apps/events/60796396/",
+   "description": "From the canyon-hs campus calendar (Edlio iCal).",
+   "tags": [
+    "school:canyon-hs",
+    "district:comal-isd"
+   ],
+   "audience": "local"
+  },
+  {
+   "id": "comal-canyon-hs-2026-12-10-band-holiday-concert",
+   "category": "school",
+   "title": "Band Holiday Concert",
+   "startDate": "2026-12-10",
+   "startTime": "18:30",
+   "location": "Canyon High School, 1510 IH 35 East, New Braunfels",
+   "sourceURL": "https://www.comalisd.org/apps/events/60796404/",
+   "description": "From the canyon-hs campus calendar (Edlio iCal).",
+   "tags": [
+    "school:canyon-hs",
+    "district:comal-isd"
+   ],
+   "audience": "local"
   },
   {
    "id": "2026-12-10-under-the-streetlamp",
@@ -1760,30 +2227,59 @@
    "sourceURL": "https://concertfix.com/tours/texas-cellos+brauntex-performing-arts-theatre+new-braunfels-tx"
   },
   {
-   "id": "2026-12-12-hill-country-holiday",
-   "category": "hood",
-   "title": "Hill Country Holiday",
-   "shortTitle": "Hill Country Holiday",
-   "startDate": "2026-12-12",
-   "startTime": "10:00",
-   "endTime": "13:00",
-   "location": "Veramendi",
-   "description": "Veramendi's holiday signature event.",
-   "tag": "Residents",
-   "featured": true,
-   "sourceURL": "https://lifeatveramendi.org/events/"
+   "id": "nbisd-klein-road-es-2026-12-11-kre-pta-jingle-jamboree",
+   "title": "KRE-PTA Jingle Jamboree",
+   "startDate": "2026-12-11",
+   "location": "Klein Road Elementary",
+   "sourceURL": "https://calendar.google.com/calendar/ical/nbisdcalendar-kre%40nbisd.org/public/basic.ics",
+   "description": "Campus Google Calendar. ",
+   "tags": [
+    "school:klein-road-es"
+   ],
+   "startTime": "17:00",
+   "category": "school",
+   "audience": "local"
   },
   {
-   "id": "2026-12-12-an-evening-with-peter-billingsley-a-christmas-st",
+   "id": "nbisd-new-braunfels-hs-2026-12-11-new-braunfels-vs-byron-p-steele-ii-high-",
+   "title": "New Braunfels vs Byron P. Steele II High School Lady Knights - Soccer (F) - Varsity",
+   "startDate": "2026-12-11",
+   "location": "Home - Unicorn Stadium",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "description": "RankOne athletics feed. New Braunfels HS - Soccer (F) - Varsity - New Braunfels vs. Byron P. Steele II High School Lady Knights",
+   "tags": [
+    "school:new-braunfels-hs"
+   ],
+   "startTime": "19:15",
+   "category": "school",
+   "audience": "local"
+  },
+  {
+   "id": "nbisd-long-creek-hs-2026-12-11-lc-girls-varsity-soccer-vs-la-vernia-soc",
+   "title": "LC Girls Varsity Soccer vs La Vernia - Soccer (F) - Varsity",
+   "startDate": "2026-12-11",
+   "location": "Home - Dragon Stadium",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
+   "description": "RankOne athletics feed. Long Creek High School - Soccer (F) - Varsity - LC Girls Varsity Soccer vs. La Vernia",
+   "tags": [
+    "school:long-creek-hs"
+   ],
+   "startTime": "19:15",
+   "category": "school",
+   "audience": "local"
+  },
+  {
+   "id": "gruene-2026-12-12-annual-jingle-bell-run-walk",
    "category": "holiday",
-   "title": "An Evening with Peter Billingsley + A Christmas Story",
-   "shortTitle": "A Christmas Story + Billingsley",
+   "title": "Annual Jingle Bell Run/Walk",
    "startDate": "2026-12-12",
-   "startTime": "19:30",
-   "location": "Brauntex Theatre, 290 W San Antonio St",
-   "description": "Screening of the film with Ralphie himself.",
-   "featured": true,
-   "sourceURL": "https://www.tickpick.com/buy-an-evening-with-peter-billingsley-and-screening-of-a-christmas-story-tickets-brauntex-performing-arts-theatre-12-12-26-7pm/7977145/"
+   "startTime": "08:00",
+   "location": "Gruene Historic District",
+   "sourceURL": "https://www.gruenetexas.com/event/holidays-in-gruene-annual-jingle-bell-run-walk-4/",
+   "description": "This 5K Run/Walk and Kid’s Ks event benefits St. Jude’s Ranch for Children. Awards will be given to the top male and female finisher, the top male and female masters, the top 3 finishers in each age group (All ages – 5 year increments through 75+), and the top three wheelchair…",
+   "tags": [
+    "community:gruene"
+   ]
   },
   {
    "id": "2026-12-12-new-braunfels-farmers-market",
@@ -1799,6 +2295,76 @@
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
   },
   {
+   "id": "2026-12-12-hill-country-holiday",
+   "category": "hood",
+   "title": "Hill Country Holiday",
+   "shortTitle": "Hill Country Holiday",
+   "startDate": "2026-12-12",
+   "startTime": "10:00",
+   "endTime": "13:00",
+   "location": "Veramendi",
+   "description": "Veramendi's holiday signature event.",
+   "tag": "Residents",
+   "featured": true,
+   "sourceURL": "https://lifeatveramendi.org/events/",
+   "tags": [
+    "community:veramendi"
+   ]
+  },
+  {
+   "id": "gruene-2026-12-12-photos-with-cowboy-kringle",
+   "category": "holiday",
+   "title": "Photos with Cowboy Kringle",
+   "startDate": "2026-12-12",
+   "startTime": "10:00",
+   "location": "Gruene Historic District",
+   "sourceURL": "https://www.gruenetexas.com/event/holidays-in-gruene-photos-with-cowboy-kringle-36/2026-12-12/",
+   "description": "Create a lasting Christmas memory with photos with Cowboy Kringle, Gruene’s own brand of Santa! Reserve a spot in advance for photo packages, Christmas cards and other special order items. Photos taken November 14th and 15th will benefit a local non-profit. Visit…",
+   "tags": [
+    "community:gruene"
+   ]
+  },
+  {
+   "id": "comal-canyon-lake-hs-2026-12-12-band-concert-after-the-sattler-parade",
+   "category": "school",
+   "title": "Band Concert after the Sattler Parade",
+   "startDate": "2026-12-12",
+   "startTime": "14:30",
+   "location": "Canyon Lake High School, 8555 FM 32, Fischer",
+   "sourceURL": "https://www.comalisd.org/apps/events/51257719/",
+   "description": "From the canyon-lake-hs campus calendar (Edlio iCal).",
+   "tags": [
+    "school:canyon-lake-hs",
+    "district:comal-isd"
+   ],
+   "audience": "local"
+  },
+  {
+   "id": "2026-12-12-an-evening-with-peter-billingsley-a-christmas-st",
+   "category": "holiday",
+   "title": "An Evening with Peter Billingsley + A Christmas Story",
+   "shortTitle": "A Christmas Story + Billingsley",
+   "startDate": "2026-12-12",
+   "startTime": "19:30",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "description": "Screening of the film with Ralphie himself.",
+   "featured": true,
+   "sourceURL": "https://www.tickpick.com/buy-an-evening-with-peter-billingsley-and-screening-of-a-christmas-story-tickets-brauntex-performing-arts-theatre-12-12-26-7pm/7977145/"
+  },
+  {
+   "id": "gruene-2026-12-13-photos-with-cowboy-kringle",
+   "category": "holiday",
+   "title": "Photos with Cowboy Kringle",
+   "startDate": "2026-12-13",
+   "startTime": "10:00",
+   "location": "Gruene Historic District",
+   "sourceURL": "https://www.gruenetexas.com/event/holidays-in-gruene-photos-with-cowboy-kringle-36/2026-12-13/",
+   "description": "Create a lasting Christmas memory with photos with Cowboy Kringle, Gruene’s own brand of Santa! Reserve a spot in advance for photo packages, Christmas cards and other special order items. Photos taken November 14th and 15th will benefit a local non-profit. Visit…",
+   "tags": [
+    "community:gruene"
+   ]
+  },
+  {
    "id": "2026-12-13-spurs-vs-clippers",
    "category": "spurs",
    "title": "Spurs vs. Clippers",
@@ -1806,6 +2372,92 @@
    "startTime": "18:00",
    "location": "Frost Bank Center, San Antonio",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "nbisd-2026-12-14-board-meeting-sustainability",
+   "title": "NBISD Board Meeting (Long Range Sustainability / elementary consolidation)",
+   "startDate": "2026-12-14",
+   "location": "NBISD Board of Trustees",
+   "sourceURL": "https://nbisd.org/sustainability/",
+   "description": "Board meeting listed in the Long Range Sustainability timeline; elementary campus consolidation is under consideration. Start time not listed on the source page.",
+   "tags": [
+    "district:nbisd"
+   ],
+   "category": "school",
+   "audience": "local"
+  },
+  {
+   "id": "nbisd-veramendi-es-2026-12-15-holiday-festival-1st-grade",
+   "title": "Holiday Festival - 1st Grade",
+   "startDate": "2026-12-15",
+   "location": "Veramendi Elementary",
+   "sourceURL": "https://calendar.google.com/calendar/ical/nbisdcalendar-ve%40nbisd.org/public/basic.ics",
+   "description": "Campus Google Calendar. ",
+   "tags": [
+    "school:veramendi-es"
+   ],
+   "startTime": "17:30",
+   "category": "school",
+   "audience": "local"
+  },
+  {
+   "id": "comal-davenport-hs-2026-12-15-theatre-christmas-performance",
+   "category": "school",
+   "title": "Theatre Christmas Performance",
+   "startDate": "2026-12-15",
+   "startTime": "18:00",
+   "location": "Davenport High School, 23255 FM 3009, San Antonio",
+   "sourceURL": "https://www.comalisd.org/apps/events/60793295/",
+   "description": "From the davenport-hs campus calendar (Edlio iCal).",
+   "tags": [
+    "school:davenport-hs",
+    "district:comal-isd"
+   ],
+   "audience": "local"
+  },
+  {
+   "id": "nbisd-new-braunfels-hs-2026-12-15-new-braunfels-vs-long-creek-basketball-f",
+   "title": "New Braunfels vs Long Creek - Basketball (F) - Varsity",
+   "startDate": "2026-12-15",
+   "location": "Home - NBHS Competition Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "description": "RankOne athletics feed. New Braunfels HS - Basketball (F) - Varsity - New Braunfels vs. Long Creek",
+   "tags": [
+    "school:long-creek-hs",
+    "school:new-braunfels-hs"
+   ],
+   "startTime": "18:45",
+   "category": "school",
+   "audience": "local"
+  },
+  {
+   "id": "nbisd-new-braunfels-hs-2026-12-15-new-braunfels-vs-san-marcos-high-school-",
+   "title": "New Braunfels vs San Marcos High School Rattlers - Soccer (M) - Varsity",
+   "startDate": "2026-12-15",
+   "location": "Home - Unicorn Stadium",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "description": "RankOne athletics feed. New Braunfels HS - Soccer (M) - Varsity - New Braunfels vs. San Marcos High School Rattlers",
+   "tags": [
+    "school:new-braunfels-hs"
+   ],
+   "startTime": "18:45",
+   "category": "school",
+   "audience": "local"
+  },
+  {
+   "id": "comal-canyon-hs-2026-12-15-chs-cougars-vs-davenport-high-school-davenport-soccer",
+   "category": "school",
+   "title": "CHS Cougars vs Davenport High School Davenport - Soccer (M) (Varsity)",
+   "startDate": "2026-12-15",
+   "startTime": "18:45",
+   "location": "Cougar Stadium, Canyon High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Sp=4&Tm=13577&L=1&Mt=0",
+   "description": "Home game from the Rank One athletics schedule (iCal feed).",
+   "tags": [
+    "school:canyon-hs",
+    "district:comal-isd"
+   ],
+   "audience": "local"
   },
   {
    "id": "2026-12-15-spurs-at-cavaliers",
@@ -1818,6 +2470,21 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
+   "id": "comal-canyon-hs-2026-12-15-chs-cougarettes-vs-judson-high-school-judson-basketba",
+   "category": "school",
+   "title": "CHS Cougarettes vs Judson High School Judson - Basketball (F) (Varsity)",
+   "startDate": "2026-12-15",
+   "startTime": "19:00",
+   "location": "Cougar Den, Canyon High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Sp=26&Tm=13579&L=1&Mt=0",
+   "description": "Home game from the Rank One athletics schedule (iCal feed).",
+   "tags": [
+    "school:canyon-hs",
+    "district:comal-isd"
+   ],
+   "audience": "local"
+  },
+  {
    "id": "2026-12-16-spurs-at-raptors",
    "category": "spurs",
    "title": "Spurs at Raptors",
@@ -1825,6 +2492,19 @@
    "startTime": "18:30",
    "location": "Away in Toronto",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "gruene-2026-12-17-come-and-taste-it-meet-texas-best-winemakers-brewe",
+   "category": "holiday",
+   "title": "COME AND TASTE IT – Meet Texas’ Best Winemakers & Brewers “HOLIDAY EDITION”",
+   "startDate": "2026-12-17",
+   "startTime": "17:00",
+   "location": "Gruene Historic District",
+   "sourceURL": "https://www.gruenetexas.com/event/come-and-taste-it-meet-texas-best-winemakers-brewers-holiday-edition-3/",
+   "description": "Join us in The Grapevine Garden to taste some of our favorite Texas wine and craft beers! Free and open to the public, this event features live music and complimentary tastings by up to 3 wineries and 3 breweries hand-selected by the Grapevine staff. It’s the perfect opportunity…",
+   "tags": [
+    "community:gruene"
+   ]
   },
   {
    "id": "2026-12-17-ballet-texas-presents-the-nutcracker",
@@ -1838,6 +2518,47 @@
    "sourceURL": "https://brauntex.org/event/ballet-texas-presents-the-nutcracker-11/"
   },
   {
+   "id": "comal-davenport-hs-2026-12-17-choir-winter-concert",
+   "category": "school",
+   "title": "Choir Winter Concert",
+   "startDate": "2026-12-17",
+   "startTime": "19:30",
+   "location": "Davenport High School, 23255 FM 3009, San Antonio",
+   "sourceURL": "https://www.comalisd.org/apps/events/60793303/",
+   "description": "From the davenport-hs campus calendar (Edlio iCal).",
+   "tags": [
+    "school:davenport-hs",
+    "district:comal-isd"
+   ],
+   "audience": "local"
+  },
+  {
+   "id": "nbisd-2026-12-18-early-release-3-hours-all-nbisd-schools",
+   "title": "Early Release (3 hours), all NBISD schools",
+   "startDate": "2026-12-18",
+   "location": "New Braunfels ISD (all campuses)",
+   "sourceURL": "https://nbisd.org/wp-content/uploads/2026/03/26-27-School-Calendar-English-1-30-26-9-weeks.pdf",
+   "description": "Last day before Holiday Break. Source: NBISD 2026-27 school calendar (PDF).",
+   "tags": [
+    "district:nbisd"
+   ],
+   "category": "school",
+   "audience": "local"
+  },
+  {
+   "id": "comal-isd-2026-12-18-two-hours-student-early-release",
+   "category": "school",
+   "title": "Two Hours Student Early Release",
+   "startDate": "2026-12-18",
+   "location": "Comal ISD (all campuses)",
+   "sourceURL": "https://www.comalisd.org/apps/events/46144270/",
+   "description": "Students released two hours early on the last day before winter break.",
+   "tags": [
+    "district:comal-isd"
+   ],
+   "audience": "local"
+  },
+  {
    "id": "2026-12-18-food-truck-friday-cousins-maine-lobster",
    "category": "hood",
    "title": "Food Truck Friday: Cousins Maine Lobster",
@@ -1848,7 +2569,25 @@
    "location": "Oak Run Pkwy, in front of Winslet Provisions",
    "description": "Grab dinner and eat at The Ledge with neighbors.",
    "tag": "Residents",
-   "sourceURL": "https://lifeatveramendi.org/events/"
+   "sourceURL": "https://lifeatveramendi.org/events/",
+   "tags": [
+    "community:veramendi"
+   ],
+   "audience": "local"
+  },
+  {
+   "id": "nbisd-long-creek-hs-2026-12-18-lc-varsity-basketball-vs-seguin-high-sch",
+   "title": "LC Varsity Basketball vs Seguin High School BBB Matadors - Basketball (M) - Varsity",
+   "startDate": "2026-12-18",
+   "location": "Home - Long Creek High School",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
+   "description": "RankOne athletics feed. Long Creek High School - Basketball (M) - Varsity - LC Varsity Basketball vs. Seguin High School BBB Matadors",
+   "tags": [
+    "school:long-creek-hs"
+   ],
+   "startTime": "18:45",
+   "category": "school",
+   "audience": "local"
   },
   {
    "id": "2026-12-18-spurs-vs-bulls",
@@ -1884,6 +2623,19 @@
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
   },
   {
+   "id": "gruene-2026-12-19-photos-with-cowboy-kringle",
+   "category": "holiday",
+   "title": "Photos with Cowboy Kringle",
+   "startDate": "2026-12-19",
+   "startTime": "10:00",
+   "location": "Gruene Historic District",
+   "sourceURL": "https://www.gruenetexas.com/event/holidays-in-gruene-photos-with-cowboy-kringle-36/2026-12-19/",
+   "description": "Create a lasting Christmas memory with photos with Cowboy Kringle, Gruene’s own brand of Santa! Reserve a spot in advance for photo packages, Christmas cards and other special order items. Photos taken November 14th and 15th will benefit a local non-profit. Visit…",
+   "tags": [
+    "community:gruene"
+   ]
+  },
+  {
    "id": "2026-12-19-ballet-texas-presents-the-nutcracker",
    "category": "holiday",
    "title": "Ballet Texas Presents the Nutcracker",
@@ -1893,6 +2645,30 @@
    "location": "Brauntex Theatre, 290 W San Antonio St",
    "description": "Nothing captures the holiday magic better than Ballet Texas’ production of The Nutcracker! Enjoy the magic as Clara dreams that her beloved nutcracker toy has come to life. Swords clash as her nutcracker prince leads …",
    "sourceURL": "https://brauntex.org/event/ballet-texas-presents-the-nutcracker-9/"
+  },
+  {
+   "id": "gruene-2026-12-20-photos-with-cowboy-kringle",
+   "category": "holiday",
+   "title": "Photos with Cowboy Kringle",
+   "startDate": "2026-12-20",
+   "startTime": "10:00",
+   "location": "Gruene Historic District",
+   "sourceURL": "https://www.gruenetexas.com/event/holidays-in-gruene-photos-with-cowboy-kringle-36/2026-12-20/",
+   "description": "Create a lasting Christmas memory with photos with Cowboy Kringle, Gruene’s own brand of Santa! Reserve a spot in advance for photo packages, Christmas cards and other special order items. Photos taken November 14th and 15th will benefit a local non-profit. Visit…",
+   "tags": [
+    "community:gruene"
+   ]
+  },
+  {
+   "id": "2026-12-20-ballet-texas-presents-the-nutcracker",
+   "category": "holiday",
+   "title": "Ballet Texas Presents the Nutcracker",
+   "startDate": "2026-12-20",
+   "startTime": "14:00",
+   "endTime": "16:00",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "description": "Nothing captures the holiday magic better than Ballet Texas’ production of The Nutcracker! Enjoy the magic as Clara dreams that her beloved nutcracker toy has come to life. Swords clash as her nutcracker prince leads …",
+   "sourceURL": "https://brauntex.org/event/ballet-texas-presents-the-nutcracker-7/"
   },
   {
    "id": "2026-12-20-cowboys-at-rams",
@@ -1914,15 +2690,32 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "2026-12-20-ballet-texas-presents-the-nutcracker",
-   "category": "holiday",
-   "title": "Ballet Texas Presents the Nutcracker",
-   "startDate": "2026-12-20",
-   "startTime": "14:00",
-   "endTime": "16:00",
-   "location": "Brauntex Theatre, 290 W San Antonio St",
-   "description": "Nothing captures the holiday magic better than Ballet Texas’ production of The Nutcracker! Enjoy the magic as Clara dreams that her beloved nutcracker toy has come to life. Swords clash as her nutcracker prince leads …",
-   "sourceURL": "https://brauntex.org/event/ballet-texas-presents-the-nutcracker-7/"
+   "id": "nbisd-2026-12-21-holiday-break-no-school",
+   "title": "Holiday Break (no school)",
+   "startDate": "2026-12-21",
+   "location": "New Braunfels ISD (all campuses)",
+   "sourceURL": "https://nbisd.org/wp-content/uploads/2026/03/26-27-School-Calendar-English-1-30-26-9-weeks.pdf",
+   "description": "NBISD student/staff holiday. Source: NBISD 2026-27 school calendar (PDF).",
+   "tags": [
+    "district:nbisd"
+   ],
+   "endDate": "2027-01-01",
+   "category": "school",
+   "audience": "local"
+  },
+  {
+   "id": "comal-isd-2026-12-21-winter-break",
+   "category": "school",
+   "title": "Winter Break",
+   "startDate": "2026-12-21",
+   "endDate": "2027-01-01",
+   "location": "Comal ISD (all campuses)",
+   "sourceURL": "https://www.comalisd.org/apps/events/46144271/",
+   "description": "Winter Break. Feed lists Dec 21-25 and Dec 28-Jan 1 as Winter Break.",
+   "tags": [
+    "district:comal-isd"
+   ],
+   "audience": "local"
   },
   {
    "id": "2026-12-21-spurs-vs-bucks",
@@ -2021,6 +2814,19 @@
    "sourceURL": "https://www.prekindle.com/events/gruene-hall-presents"
   },
   {
+   "id": "gruene-2027-01-01-hair-of-the-dog-day",
+   "category": "music",
+   "title": "Hair of the Dog Day",
+   "startDate": "2027-01-01",
+   "startTime": "11:00",
+   "location": "Gruene Historic District",
+   "sourceURL": "https://www.gruenetexas.com/event/hair-of-the-dog-day-4/",
+   "description": "| FREE! Live music all day at Gruene Hall on New Year’s Day. Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live",
+   "tags": [
+    "community:gruene"
+   ]
+  },
+  {
    "category": "spurs",
    "title": "Spurs at Wizards",
    "startDate": "2027-01-01",
@@ -2061,6 +2867,60 @@
    "id": "2027-01-03-spurs-at-timberwolves"
   },
   {
+   "id": "nbisd-2027-01-04-student-holiday-staff-work-day",
+   "title": "Student Holiday / Staff Work Day",
+   "startDate": "2027-01-04",
+   "location": "New Braunfels ISD (all campuses)",
+   "sourceURL": "https://nbisd.org/wp-content/uploads/2026/03/26-27-School-Calendar-English-1-30-26-9-weeks.pdf",
+   "description": "No school for NBISD students. Source: NBISD 2026-27 school calendar (PDF).",
+   "tags": [
+    "district:nbisd"
+   ],
+   "category": "school",
+   "audience": "local"
+  },
+  {
+   "id": "comal-isd-2027-01-04-student-holiday",
+   "category": "school",
+   "title": "Student Holiday",
+   "startDate": "2027-01-04",
+   "location": "Comal ISD (all campuses)",
+   "sourceURL": "https://www.comalisd.org/apps/events/46145264/",
+   "description": "Student holiday (Comal ISD Academic Calendar).",
+   "tags": [
+    "district:comal-isd"
+   ],
+   "audience": "local"
+  },
+  {
+   "id": "nbisd-2027-01-05-students-return-from-break",
+   "title": "Students Return from Break",
+   "startDate": "2027-01-05",
+   "location": "New Braunfels ISD (all campuses)",
+   "sourceURL": "https://nbisd.org/wp-content/uploads/2026/03/26-27-School-Calendar-English-1-30-26-9-weeks.pdf",
+   "description": "Classes resume at all NBISD campuses. Source: NBISD 2026-27 school calendar (PDF).",
+   "tags": [
+    "district:nbisd"
+   ],
+   "category": "school",
+   "audience": "local"
+  },
+  {
+   "id": "comal-davenport-hs-2027-01-05-davenport-vs-canyon-lake-hs-clhs-hawks-basketball-",
+   "category": "school",
+   "title": "Davenport vs Canyon Lake HS CLHS Hawks - Basketball (F) (Varsity)",
+   "startDate": "2027-01-05",
+   "startTime": "19:00",
+   "location": "Davenport High Main Gym, Davenport High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Sp=26&Tm=132083&L=1&Mt=0",
+   "description": "Home game from the Rank One athletics schedule (iCal feed).",
+   "tags": [
+    "school:davenport-hs",
+    "district:comal-isd"
+   ],
+   "audience": "local"
+  },
+  {
    "category": "spurs",
    "title": "Spurs vs. Pacers",
    "startDate": "2027-01-06",
@@ -2068,15 +2928,6 @@
    "location": "Frost Bank Center, San Antonio",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
    "id": "2027-01-06-spurs-vs-pacers"
-  },
-  {
-   "category": "spurs",
-   "title": "Spurs vs. Grizzlies",
-   "startDate": "2027-01-08",
-   "startTime": "19:00",
-   "location": "Frost Bank Center, San Antonio",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-01-08-spurs-vs-grizzlies"
   },
   {
    "category": "market",
@@ -2102,6 +2953,39 @@
    "id": "2027-01-08-huser-brothers"
   },
   {
+   "category": "spurs",
+   "title": "Spurs vs. Grizzlies",
+   "startDate": "2027-01-08",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-08-spurs-vs-grizzlies"
+  },
+  {
+   "id": "comal-canyon-hs-2027-01-08-chs-cougarettes-vs-wagner-high-school-thunderbirds-ba",
+   "category": "school",
+   "title": "CHS Cougarettes vs Wagner High School Thunderbirds - Basketball (F) (Varsity)",
+   "startDate": "2027-01-08",
+   "startTime": "19:00",
+   "location": "Cougar Den, Canyon High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Sp=26&Tm=13579&L=1&Mt=0",
+   "description": "Home game from the Rank One athletics schedule (iCal feed).",
+   "tags": [
+    "school:canyon-hs",
+    "district:comal-isd"
+   ],
+   "audience": "local"
+  },
+  {
+   "category": "music",
+   "title": "Sammy Arriaga",
+   "startDate": "2027-01-09",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "sourceURL": "https://gruenehall.com/calendar/",
+   "timeTBA": true,
+   "id": "2027-01-09-sammy-arriaga"
+  },
+  {
    "id": "2027-01-09-new-braunfels-farmers-market",
    "category": "market",
    "title": "New Braunfels Farmers Market",
@@ -2115,13 +2999,15 @@
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
   },
   {
-   "category": "music",
-   "title": "Sammy Arriaga",
-   "startDate": "2027-01-09",
-   "location": "Gruene Hall, 1281 Gruene Rd",
-   "sourceURL": "https://gruenehall.com/calendar/",
-   "timeTBA": true,
-   "id": "2027-01-09-sammy-arriaga"
+   "category": "fest",
+   "title": "Time Travel Half Marathon",
+   "startDate": "2027-01-10",
+   "timeNote": "Morning start; see listing",
+   "location": "New Braunfels",
+   "description": "Half marathon and shorter distances through the Hill Country. Register ahead.",
+   "outdoor": true,
+   "sourceURL": "https://www.runningintheusa.com/classic/list/map/table/new%20braunfels-tx/half-marathon/sort-by-name/upcoming",
+   "id": "2027-01-10-time-travel-half-marathon"
   },
   {
    "category": "spurs",
@@ -2133,15 +3019,76 @@
    "id": "2027-01-10-spurs-at-hawks"
   },
   {
-   "category": "fest",
-   "title": "Time Travel Half Marathon",
-   "startDate": "2027-01-10",
-   "timeNote": "Morning start; see listing",
-   "location": "New Braunfels",
-   "description": "Half marathon and shorter distances through the Hill Country. Register ahead.",
-   "outdoor": true,
-   "sourceURL": "https://www.runningintheusa.com/classic/list/map/table/new%20braunfels-tx/half-marathon/sort-by-name/upcoming",
-   "id": "2027-01-10-time-travel-half-marathon"
+   "id": "nbisd-2027-01-11-board-meeting-sustainability",
+   "title": "NBISD Board Meeting (Long Range Sustainability / elementary consolidation)",
+   "startDate": "2027-01-11",
+   "location": "NBISD Board of Trustees",
+   "sourceURL": "https://nbisd.org/sustainability/",
+   "description": "Board meeting listed in the Long Range Sustainability timeline; elementary campus consolidation is under consideration. Start time not listed on the source page.",
+   "tags": [
+    "district:nbisd"
+   ],
+   "category": "school",
+   "audience": "local"
+  },
+  {
+   "id": "nbisd-lamar-es-2027-01-12-choir-concert",
+   "title": "Choir Concert",
+   "startDate": "2027-01-12",
+   "location": "Lamar Elementary",
+   "sourceURL": "https://calendar.google.com/calendar/ical/nbisdcalendar-le%40nbisd.org/public/basic.ics",
+   "description": "Campus Google Calendar. ",
+   "tags": [
+    "school:lamar-es"
+   ],
+   "startTime": "18:00",
+   "category": "school",
+   "audience": "local"
+  },
+  {
+   "id": "comal-canyon-hs-2027-01-12-chs-cougars-vs-pieper-high-school-warriors-basketball",
+   "category": "school",
+   "title": "CHS Cougars vs Pieper High School Warriors - Basketball (M) (Varsity)",
+   "startDate": "2027-01-12",
+   "startTime": "19:00",
+   "location": "Cougar Den, Canyon High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Sp=7&Tm=13586&L=1&Mt=0",
+   "description": "Home game from the Rank One athletics schedule (iCal feed).",
+   "tags": [
+    "school:canyon-hs",
+    "district:comal-isd"
+   ],
+   "audience": "local"
+  },
+  {
+   "id": "comal-canyon-lake-hs-2027-01-12-clhs-hawks-vs-fredericksburg-high-school-basketb",
+   "category": "school",
+   "title": "CLHS Hawks vs Fredericksburg High School Basketball Girls Varsity - Basketball (F) (Varsity)",
+   "startDate": "2027-01-12",
+   "startTime": "19:00",
+   "location": "Canyon Lake Main Gym, Canyon Lake High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Sp=26&Tm=13711&L=1&Mt=0",
+   "description": "Home game from the Rank One athletics schedule (iCal feed).",
+   "tags": [
+    "school:canyon-lake-hs",
+    "district:comal-isd"
+   ],
+   "audience": "local"
+  },
+  {
+   "id": "nbisd-long-creek-hs-2027-01-13-lc-varsity-wrestling-vs-new-braunfels-hs",
+   "title": "LC Varsity Wrestling vs New Braunfels HS - Wrestling (C) - Varsity",
+   "startDate": "2027-01-13",
+   "location": "Home - Long Creek High School",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
+   "description": "RankOne athletics feed. Long Creek High School - Wrestling (C) - Varsity - LC Varsity Wrestling vs. New Braunfels HS",
+   "tags": [
+    "school:long-creek-hs",
+    "school:new-braunfels-hs"
+   ],
+   "startTime": "17:00",
+   "category": "school",
+   "audience": "local"
   },
   {
    "category": "spurs",
@@ -2163,6 +3110,18 @@
    "id": "2027-01-15-kruse-brothers"
   },
   {
+   "category": "fest",
+   "title": "Retromania Comic-Con",
+   "shortTitle": "Retromania",
+   "startDate": "2027-01-16",
+   "endDate": "2027-01-17",
+   "location": "NB Civic & Convention Center, 375 S Castell Ave",
+   "price": "$35",
+   "description": "Comics, toys, retro games and guests at the Civic Center. Kids 11 and under free.",
+   "sourceURL": "https://www.heritageeventcompany.com/new-braunfels-retromania-comiccon-2027.html",
+   "id": "2027-01-16-retromania-comic-con"
+  },
+  {
    "id": "2027-01-16-new-braunfels-farmers-market",
    "category": "market",
    "title": "New Braunfels Farmers Market",
@@ -2174,18 +3133,6 @@
    "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
    "outdoor": true,
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
-  },
-  {
-   "category": "fest",
-   "title": "Retromania Comic-Con",
-   "shortTitle": "Retromania",
-   "startDate": "2027-01-16",
-   "endDate": "2027-01-17",
-   "location": "NB Civic & Convention Center, 375 S Castell Ave",
-   "price": "$35",
-   "description": "Comics, toys, retro games and guests at the Civic Center. Kids 11 and under free.",
-   "sourceURL": "https://www.heritageeventcompany.com/new-braunfels-retromania-comiccon-2027.html",
-   "id": "2027-01-16-retromania-comic-con"
   },
   {
    "category": "music",
@@ -2217,6 +3164,62 @@
    "id": "2027-01-17-spurs-at-pelicans-nba-manchester-game"
   },
   {
+   "id": "nbisd-2027-01-18-student-staff-holiday-mlk-day",
+   "title": "Student/Staff Holiday: MLK Day",
+   "startDate": "2027-01-18",
+   "location": "New Braunfels ISD (all campuses)",
+   "sourceURL": "https://nbisd.org/wp-content/uploads/2026/03/26-27-School-Calendar-English-1-30-26-9-weeks.pdf",
+   "description": "No school. Source: NBISD 2026-27 school calendar (PDF).",
+   "tags": [
+    "district:nbisd"
+   ],
+   "category": "school",
+   "audience": "local"
+  },
+  {
+   "id": "comal-isd-2027-01-18-martin-luther-king-jr-day",
+   "category": "school",
+   "title": "Martin Luther King Jr. Day",
+   "startDate": "2027-01-18",
+   "location": "Comal ISD (all campuses)",
+   "sourceURL": "https://www.comalisd.org/apps/events/46145268/",
+   "description": "Listed on the Comal ISD Academic Calendar.",
+   "tags": [
+    "district:comal-isd"
+   ],
+   "audience": "local"
+  },
+  {
+   "id": "comal-davenport-hs-2027-01-19-davenport-vs-fredericksburg-high-school-basketball",
+   "category": "school",
+   "title": "Davenport vs Fredericksburg High School Basketball Girls Varsity - Basketball (F) (Varsity)",
+   "startDate": "2027-01-19",
+   "startTime": "18:30",
+   "location": "Davenport High Main Gym, Davenport High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Sp=26&Tm=132083&L=1&Mt=0",
+   "description": "Home game from the Rank One athletics schedule (iCal feed).",
+   "tags": [
+    "school:davenport-hs",
+    "district:comal-isd"
+   ],
+   "audience": "local"
+  },
+  {
+   "id": "nbisd-long-creek-hs-2027-01-19-lc-girls-varsity-basketball-vs-new-braun",
+   "title": "LC Girls Varsity Basketball vs New Braunfels HS New Braunfels - Basketball (F) - Varsity",
+   "startDate": "2027-01-19",
+   "location": "Home - Long Creek High School",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
+   "description": "RankOne athletics feed. Long Creek High School - Basketball (F) - Varsity - LC Girls Varsity Basketball vs. New Braunfels HS New Braunfels",
+   "tags": [
+    "school:long-creek-hs",
+    "school:new-braunfels-hs"
+   ],
+   "startTime": "18:45",
+   "category": "school",
+   "audience": "local"
+  },
+  {
    "category": "spurs",
    "title": "Spurs vs. Heat",
    "startDate": "2027-01-20",
@@ -2234,6 +3237,36 @@
    "timeNote": "Dates from ticket listings; confirm at brauntex.org",
    "sourceURL": "https://brauntex.org/",
    "id": "2027-01-21-the-zmed-brothers-everly-brothers-experience"
+  },
+  {
+   "id": "comal-canyon-hs-2027-01-22-chs-cougars-vs-east-central-high-school-hornets-baske",
+   "category": "school",
+   "title": "CHS Cougars vs EAST CENTRAL HIGH SCHOOL Hornets - Basketball (M) (Varsity)",
+   "startDate": "2027-01-22",
+   "startTime": "19:00",
+   "location": "Cougar Den, Canyon High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Sp=7&Tm=13586&L=1&Mt=0",
+   "description": "Home game from the Rank One athletics schedule (iCal feed).",
+   "tags": [
+    "school:canyon-hs",
+    "district:comal-isd"
+   ],
+   "audience": "local"
+  },
+  {
+   "id": "comal-canyon-lake-hs-2027-01-22-clhs-hawks-vs-davenport-high-school-davenport-ba",
+   "category": "school",
+   "title": "CLHS Hawks vs Davenport High School Davenport - Basketball (F) (Varsity)",
+   "startDate": "2027-01-22",
+   "startTime": "19:00",
+   "location": "Canyon Lake Main Gym, Canyon Lake High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Sp=26&Tm=13711&L=1&Mt=0",
+   "description": "Home game from the Rank One athletics schedule (iCal feed).",
+   "tags": [
+    "school:canyon-lake-hs",
+    "district:comal-isd"
+   ],
+   "audience": "local"
   },
   {
    "category": "spurs",
@@ -2277,15 +3310,6 @@
    "id": "2027-01-23-pecos-the-rooftops"
   },
   {
-   "category": "spurs",
-   "title": "Spurs vs. Trail Blazers",
-   "startDate": "2027-01-24",
-   "startTime": "14:30",
-   "location": "Frost Bank Center, San Antonio",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-01-24-spurs-vs-trail-blazers"
-  },
-  {
    "category": "fest",
    "title": "Das Dreizehn.Eins Half Marathon",
    "shortTitle": "Dreizehn.Eins Half",
@@ -2296,6 +3320,15 @@
    "outdoor": true,
    "sourceURL": "https://www.runningintheusa.com/classic/list/map/table/new%20braunfels-tx/half-marathon/sort-by-name/upcoming",
    "id": "2027-01-24-das-dreizehn-eins-half-marathon"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Trail Blazers",
+   "startDate": "2027-01-24",
+   "startTime": "14:30",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-24-spurs-vs-trail-blazers"
   },
   {
    "category": "spurs",
@@ -2317,6 +3350,15 @@
   },
   {
    "category": "music",
+   "title": "Bill Murray & His Blood Brothers",
+   "startDate": "2027-01-28",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "sourceURL": "https://gruenehall.com/calendar/",
+   "startTime": "19:00",
+   "id": "2027-01-28-bill-murray-his-blood-brothers"
+  },
+  {
+   "category": "music",
    "title": "Liverpool Legends: The Complete Beatles Experience",
    "startDate": "2027-01-28",
    "startTime": "19:30",
@@ -2327,15 +3369,6 @@
   },
   {
    "category": "music",
-   "title": "Bill Murray & His Blood Brothers",
-   "startDate": "2027-01-28",
-   "location": "Gruene Hall, 1281 Gruene Rd",
-   "sourceURL": "https://gruenehall.com/calendar/",
-   "startTime": "19:00",
-   "id": "2027-01-28-bill-murray-his-blood-brothers"
-  },
-  {
-   "category": "music",
    "title": "The Bellamy Brothers",
    "startDate": "2027-01-29",
    "startTime": "19:30",
@@ -2343,15 +3376,6 @@
    "timeNote": "Dates from ticket listings; confirm at brauntex.org",
    "sourceURL": "https://brauntex.org/",
    "id": "2027-01-29-the-bellamy-brothers"
-  },
-  {
-   "category": "spurs",
-   "title": "Spurs at Warriors",
-   "startDate": "2027-01-30",
-   "startTime": "16:30",
-   "location": "Away in San Francisco",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-01-30-spurs-at-warriors"
   },
   {
    "id": "2027-01-30-new-braunfels-farmers-market",
@@ -2365,6 +3389,15 @@
    "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
    "outdoor": true,
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs at Warriors",
+   "startDate": "2027-01-30",
+   "startTime": "16:30",
+   "location": "Away in San Francisco",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-01-30-spurs-at-warriors"
   },
   {
    "id": "2027-01-30-a-tribute-to-the-piano-men-jerry-lee-elton-joel-and-more",
@@ -2416,6 +3449,21 @@
    "sourceURL": "https://brauntex.org/event/a-tribute-to-the-music-memories-of-tony-bennett-starring-steve-leeds/"
   },
   {
+   "id": "comal-canyon-hs-2027-02-05-chs-cougarettes-vs-pieper-high-school-warriors-basket",
+   "category": "school",
+   "title": "CHS Cougarettes vs Pieper High School Warriors - Basketball (F) (Varsity)",
+   "startDate": "2027-02-05",
+   "startTime": "19:00",
+   "location": "Cougar Den, Canyon High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Sp=26&Tm=13579&L=1&Mt=0",
+   "description": "Home game from the Rank One athletics schedule (iCal feed).",
+   "tags": [
+    "school:canyon-hs",
+    "district:comal-isd"
+   ],
+   "audience": "local"
+  },
+  {
    "category": "music",
    "title": "Sons of the Pioneers",
    "startDate": "2027-02-05",
@@ -2424,15 +3472,6 @@
    "timeNote": "Dates from ticket listings; confirm at brauntex.org",
    "sourceURL": "https://brauntex.org/",
    "id": "2027-02-05-sons-of-the-pioneers"
-  },
-  {
-   "category": "spurs",
-   "title": "Spurs vs. Lakers",
-   "startDate": "2027-02-06",
-   "startTime": "19:30",
-   "location": "Frost Bank Center, San Antonio",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-02-06-spurs-vs-lakers"
   },
   {
    "id": "2027-02-06-new-braunfels-farmers-market",
@@ -2446,6 +3485,15 @@
    "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
    "outdoor": true,
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
+  },
+  {
+   "category": "spurs",
+   "title": "Spurs vs. Lakers",
+   "startDate": "2027-02-06",
+   "startTime": "19:30",
+   "location": "Frost Bank Center, San Antonio",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-02-06-spurs-vs-lakers"
   },
   {
    "id": "2027-02-06-uptown-a-celebration-of-motown-soul",
@@ -2477,6 +3525,32 @@
    "id": "2027-02-11-spurs-at-thunder"
   },
   {
+   "id": "nbisd-2027-02-12-student-holiday-staff-professional-devel",
+   "title": "Student Holiday / Staff Professional Development",
+   "startDate": "2027-02-12",
+   "location": "New Braunfels ISD (all campuses)",
+   "sourceURL": "https://nbisd.org/wp-content/uploads/2026/03/26-27-School-Calendar-English-1-30-26-9-weeks.pdf",
+   "description": "No school for NBISD students. Source: NBISD 2026-27 school calendar (PDF).",
+   "tags": [
+    "district:nbisd"
+   ],
+   "category": "school",
+   "audience": "local"
+  },
+  {
+   "id": "comal-isd-2027-02-12-student-holiday-staff-development",
+   "category": "school",
+   "title": "Student Holiday/Staff Development",
+   "startDate": "2027-02-12",
+   "location": "Comal ISD (all campuses)",
+   "sourceURL": "https://www.comalisd.org/apps/events/46208198/",
+   "description": "Student holiday / staff development day.",
+   "tags": [
+    "district:comal-isd"
+   ],
+   "audience": "local"
+  },
+  {
    "id": "2027-02-12-the-fabulous-equinox-orchestra",
    "category": "music",
    "title": "The Fabulous Equinox Orchestra",
@@ -2486,15 +3560,6 @@
    "location": "Brauntex Theatre, 290 W San Antonio St",
    "description": "Sponsored by Spotlight Concessions Led by Jeremy Davis and Clay Johnson, this sophisticated big band show is unlike any other, featuring original arrangements that range from Motown to Texas Swing. Inspired by the swa…",
    "sourceURL": "https://brauntex.org/event/the-fabulous-equinox-orchestra/"
-  },
-  {
-   "category": "spurs",
-   "title": "Spurs at Magic",
-   "startDate": "2027-02-13",
-   "startTime": "18:00",
-   "location": "Away in Orlando",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-02-13-spurs-at-magic"
   },
   {
    "id": "2027-02-13-new-braunfels-farmers-market",
@@ -2510,6 +3575,15 @@
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
   },
   {
+   "category": "spurs",
+   "title": "Spurs at Magic",
+   "startDate": "2027-02-13",
+   "startTime": "18:00",
+   "location": "Away in Orlando",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
+   "id": "2027-02-13-spurs-at-magic"
+  },
+  {
    "id": "2027-02-13-gino-vannelli",
    "category": "music",
    "title": "Gino Vannelli",
@@ -2519,6 +3593,32 @@
    "location": "Brauntex Theatre, 290 W San Antonio St",
    "description": "Grammy-nominated composer, vocalist, and arranger Gino Vannelli brings his captivating live performance and genre-blending artistry to our stage. Known for passionate vocals and enduring hits like “I Just Wanna Stop” …",
    "sourceURL": "https://brauntex.org/event/gino-vannelli/"
+  },
+  {
+   "id": "nbisd-2027-02-15-student-staff-holiday-presidents-day",
+   "title": "Student/Staff Holiday: Presidents' Day",
+   "startDate": "2027-02-15",
+   "location": "New Braunfels ISD (all campuses)",
+   "sourceURL": "https://nbisd.org/wp-content/uploads/2026/03/26-27-School-Calendar-English-1-30-26-9-weeks.pdf",
+   "description": "No school. Source: NBISD 2026-27 school calendar (PDF).",
+   "tags": [
+    "district:nbisd"
+   ],
+   "category": "school",
+   "audience": "local"
+  },
+  {
+   "id": "comal-isd-2027-02-15-president-s-day",
+   "category": "school",
+   "title": "President's Day",
+   "startDate": "2027-02-15",
+   "location": "Comal ISD (all campuses)",
+   "sourceURL": "https://www.comalisd.org/apps/events/46208202/",
+   "description": "Listed on the Comal ISD Academic Calendar as President's Day.",
+   "tags": [
+    "district:comal-isd"
+   ],
+   "audience": "local"
   },
   {
    "category": "spurs",
@@ -2607,6 +3707,20 @@
    "location": "Brauntex Theatre, 290 W San Antonio St",
    "description": "Raised in Tupelo, Mississippi, as the son of a preacher and a former professional boxer, Paul Thorn brings an earthy, one-of-a-kind blend of Southern rock, gritty blues, and Americana. His live shows are famous for sh…",
    "sourceURL": "https://brauntex.org/event/paul-thorn-2/"
+  },
+  {
+   "id": "nbisd-klein-road-es-2027-02-25-kre-kinder-music-program-bunches-of-bunn",
+   "title": "KRE-Kinder Music Program \"Bunches of Bunnies\"",
+   "startDate": "2027-02-25",
+   "location": "Klein Road Elementary",
+   "sourceURL": "https://calendar.google.com/calendar/ical/nbisdcalendar-kre%40nbisd.org/public/basic.ics",
+   "description": "Campus Google Calendar. ",
+   "tags": [
+    "school:klein-road-es"
+   ],
+   "startTime": "17:30",
+   "category": "school",
+   "audience": "local"
   },
   {
    "category": "spurs",
