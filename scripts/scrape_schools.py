@@ -28,6 +28,36 @@ DROP = re.compile(r"appreciation|awareness|\bmonth\b|\bweek\b(?!end)|national .*
 HOLIDAY = re.compile(r"holiday|break|no school|early release|first day|last day|staff development|workday", re.I)
 # Team schedules that some districts copy into the campus calendar; games come from Rank One instead.
 SPORT_ROW = re.compile(r"\((F|M|C)\) - |\b(junior varsity|JV|9th grade|freshman|7th grade|8th grade)\b", re.I)
+# Games get a category per sport, all in the "My schools" filter group, so one tap hides
+# every school item or just one sport.
+GROUP = "My schools"
+SPORT_CATEGORIES = [
+    ("hs-basketball", "School basketball", r"basketball", "basketball.fill", "#B85000", "#FF9A4D"),
+    ("hs-soccer", "School soccer", r"soccer", "soccerball", "#2E7D4F", "#7BD4A0"),
+    ("hs-football", "School football", r"football", "football.fill", "#7A5200", "#D9A441"),
+    ("hs-baseball", "School baseball & softball", r"baseball|softball", "baseball.fill", "#A32C3A", "#F08A96"),
+    ("hs-volleyball", "School volleyball", r"volleyball", "volleyball.fill", "#6845A3", "#B99DF0"),
+    ("hs-sports", "Other school sports", r".", "figure.run", "#55616B", "#B8C2CC"),
+]
+
+
+def sport_category(sport):
+    return next(c[0] for c in SPORT_CATEGORIES if re.search(c[2], sport))
+
+
+def ensure_categories(feed):
+    """Adds the school categories to the feed (after "school") and groups them."""
+    cats = feed["categories"]
+    for c in cats:
+        if c["id"] == "school":
+            c["name"], c["group"] = "School calendar", GROUP
+    at = next((i for i, c in enumerate(cats) if c["id"] == "school"), 0) + 1
+    have = {c["id"] for c in cats}
+    for cid, name, _, symbol, light, dark in reversed(SPORT_CATEGORIES):
+        if cid not in have:
+            cats.insert(at, {"id": cid, "name": name, "light": light, "dark": dark, "symbol": symbol, "group": GROUP})
+
+
 SPORTS = {"(F)": "girls ", "(M)": "boys ", "(C)": ""}
 
 
@@ -159,6 +189,7 @@ def game_events(school, today):
             continue
         seen.add((title, day))
         e = {"title": tidy(title), "startDate": day.isoformat(), "tag": "Home" if home else "Away",
+             "category": sport_category(sport),
              "location": venue or (school["name"] if home else opponent),
              "sourceURL": school["info"]["athletics"]}
         if start and start != "00:00": e["startTime"] = start
@@ -188,7 +219,8 @@ def main(feed_path, local_path, apply=False):
                 continue
             print(f"  {s['id']:<22} {kind:<9} {len(items)}")
             for e in items:
-                e.update(category="school", tags=[own], audience="local", _school=s["id"], _district=district)
+                e.setdefault("category", "school")
+                e.update(tags=[own], audience="local", _school=s["id"], _district=district)
                 by_key[(district, e["title"].lower(), e["startDate"])].append(e)
 
     for (district, _, _), group in by_key.items():
@@ -217,6 +249,7 @@ def main(feed_path, local_path, apply=False):
     print(f"\n{len(found)} school event(s) through {today + timedelta(days=CALENDAR_DAYS)}; "
           f"{sum(1 for e in found if e.get('tag'))} are varsity games.")
     if apply:
+        ensure_categories(feed)
         feed["events"] = sorted(kept + found, key=lambda e: (e["startDate"], e.get("startTime") or ""))
         feed["updated"] = today.isoformat()
         with open(feed_path, "w", encoding="utf-8") as f:
