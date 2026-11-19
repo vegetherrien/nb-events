@@ -140,12 +140,20 @@
    "symbol": "basket.fill"
   },
   {
+   "id": "spurs",
+   "name": "Spurs basketball",
+   "light": "#55616B",
+   "dark": "#B8C2CC",
+   "symbol": "basketball.fill",
+   "group": "Sports"
+  },
+  {
    "id": "horns",
    "name": "Longhorns football",
    "light": "#B85000",
    "dark": "#FF9A4D",
    "symbol": "football.fill",
-   "group": "Football"
+   "group": "Sports"
   },
   {
    "id": "txst",
@@ -153,7 +161,31 @@
    "light": "#6A1B2A",
    "dark": "#D9A441",
    "symbol": "pawprint.fill",
-   "group": "Football"
+   "group": "Sports"
+  },
+  {
+   "id": "txst-bb",
+   "name": "Texas State basketball",
+   "light": "#6B2D1A",
+   "dark": "#D9A441",
+   "symbol": "basketball.fill",
+   "group": "Sports"
+  },
+  {
+   "id": "utsa",
+   "name": "UTSA football",
+   "light": "#0C2340",
+   "dark": "#F58A5B",
+   "symbol": "bird.fill",
+   "group": "Sports"
+  },
+  {
+   "id": "aggies",
+   "name": "Texas A&M football",
+   "light": "#500000",
+   "dark": "#E39A9A",
+   "symbol": "football.fill",
+   "group": "Sports"
   },
   {
    "id": "cowboys",
@@ -162,23 +194,7 @@
    "dark": "#9DB7E8",
    "symbol": "star.fill",
    "defaultHidden": true,
-   "group": "Football"
-  },
-  {
-   "id": "aggies",
-   "name": "Texas A&M football",
-   "light": "#500000",
-   "dark": "#E39A9A",
-   "symbol": "football.fill",
-   "group": "Football"
-  },
-  {
-   "id": "utsa",
-   "name": "UTSA football",
-   "light": "#0C2340",
-   "dark": "#F58A5B",
-   "symbol": "bird.fill",
-   "group": "Football"
+   "group": "Sports"
   },
   {
    "id": "hsfb",
@@ -186,14 +202,7 @@
    "light": "#7A5C00",
    "dark": "#E6C452",
    "symbol": "sportscourt.fill",
-   "group": "Football"
-  },
-  {
-   "id": "spurs",
-   "name": "Spurs basketball",
-   "light": "#55616B",
-   "dark": "#B8C2CC",
-   "symbol": "basketball.fill"
+   "group": "Sports"
   }
  ],
  "seasons": [
@@ -1247,6 +1256,16 @@
    "sourceURL": "https://gruenehall.com/event/the-georges-110/"
   },
   {
+   "id": "2026-11-18-txst-bb-uiw",
+   "category": "txst-bb",
+   "title": "Bobcats vs. UIW",
+   "startDate": "2026-11-18",
+   "location": "Strahan Arena, San Marcos",
+   "tag": "Home",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
+  },
+  {
    "title": "Long Creek boys basketball at TBA",
    "startDate": "2026-11-19",
    "tag": "Away",
@@ -2166,6 +2185,16 @@
    "outdoor": false
   },
   {
+   "id": "2026-11-22-txst-bb-mcneese",
+   "category": "txst-bb",
+   "title": "Bobcats vs. McNeese",
+   "startDate": "2026-11-22",
+   "location": "Strahan Arena, San Marcos",
+   "tag": "Home",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "14:30"
+  },
+  {
    "id": "2026-11-22-the-polar-express-experience",
    "category": "holiday",
    "title": "The Polar Express Experience",
@@ -2444,6 +2473,16 @@
    "id": "sch-comal-isd-2026-11-25-clhs-boys-basketball-game"
   },
   {
+   "id": "2026-11-25-txst-bb-alcorn-state",
+   "category": "txst-bb",
+   "title": "Bobcats vs. Alcorn State",
+   "startDate": "2026-11-25",
+   "location": "Strahan Arena, San Marcos",
+   "tag": "Home",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "16:00"
+  },
+  {
    "id": "2026-11-25-shinyribs",
    "category": "music",
    "title": "Shinyribs",
@@ -2510,6 +2549,16 @@
    "description": "Regular season finale, the day after Thanksgiving.",
    "sourceURL": "https://goutsa.com/sports/football/schedule",
    "outdoor": false
+  },
+  {
+   "id": "2026-11-27-txst-bb-louisiana-tech",
+   "category": "txst-bb",
+   "title": "Bobcats at Louisiana Tech",
+   "startDate": "2026-11-27",
+   "location": "Ruston, LA",
+   "tag": "Away",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "14:00"
   },
   {
    "id": "2026-11-27-texas-at-texas-a-m-lone-star-showdown",
@@ -2639,6 +2688,16 @@
    "location": "Frost Bank Center, San Antonio",
    "tv": "NBA TV",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-11-29-txst-bb-nicholls",
+   "category": "txst-bb",
+   "title": "Bobcats vs. Nicholls",
+   "startDate": "2026-11-29",
+   "location": "Strahan Arena, San Marcos",
+   "tag": "Home",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "16:00"
   },
   {
    "id": "nbisd-2026-11-30-student-holiday-staff-professional-devel",
@@ -2959,6 +3018,16 @@
    ],
    "audience": "local",
    "id": "sch-canyon-ms-2026-12-02-8a-girls-basketball-game"
+  },
+  {
+   "id": "2026-12-02-txst-bb-louisiana-tech",
+   "category": "txst-bb",
+   "title": "Bobcats vs. Louisiana Tech",
+   "startDate": "2026-12-02",
+   "location": "Strahan Arena, San Marcos",
+   "tag": "Home",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
   },
   {
    "title": "Canyon boys basketball at Austin Bowie Classic",
@@ -3596,6 +3665,16 @@
    "sourceURL": "https://en.wikipedia.org/wiki/2026_Southeastern_Conference_football_season"
   },
   {
+   "id": "2026-12-05-txst-bb-houston",
+   "category": "txst-bb",
+   "title": "Bobcats at Houston",
+   "startDate": "2026-12-05",
+   "location": "Houston, TX",
+   "tag": "Away",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "16:30"
+  },
+  {
    "id": "2026-12-05-gruene-town-lighting-cowboy-kringle-43rd-annual",
    "category": "holiday",
    "title": "Gruene Town Lighting & Cowboy Kringle (43rd annual)",
@@ -3948,6 +4027,16 @@
    ],
    "audience": "local",
    "id": "sch-canyon-lake-hs-2026-12-08-choir-concert"
+  },
+  {
+   "id": "2026-12-08-txst-bb-utrgv",
+   "category": "txst-bb",
+   "title": "Bobcats vs. UTRGV",
+   "startDate": "2026-12-08",
+   "location": "Strahan Arena, San Marcos",
+   "tag": "Home",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
   },
   {
    "title": "Davenport girls basketball at Liberal Arts and Science Academy Liberal Arts & Science",
@@ -4735,6 +4824,15 @@
    "sourceURL": "https://www.tickpick.com/buy-an-evening-with-peter-billingsley-and-screening-of-a-christmas-story-tickets-brauntex-performing-arts-theatre-12-12-26-7pm/7977145/"
   },
   {
+   "id": "2026-12-13-txst-bb-north-texas",
+   "category": "txst-bb",
+   "title": "Bobcats vs. North Texas",
+   "startDate": "2026-12-13",
+   "location": "Strahan Arena, San Marcos",
+   "tag": "Home",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule"
+  },
+  {
    "id": "gruene-2026-12-13-photos-with-cowboy-kringle",
    "category": "holiday",
    "title": "Photos with Cowboy Kringle",
@@ -5262,6 +5360,16 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
+   "id": "2026-12-16-txst-bb-san-francisco",
+   "category": "txst-bb",
+   "title": "Bobcats vs. San Francisco",
+   "startDate": "2026-12-16",
+   "location": "Strahan Arena, San Marcos",
+   "tag": "Home",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "19:30"
+  },
+  {
    "title": "5th Grade Canyon Lake Gorge Field Trip",
    "startDate": "2026-12-17",
    "startTime": "10:00",
@@ -5702,6 +5810,16 @@
    "tags": [
     "community:gruene"
    ]
+  },
+  {
+   "id": "2026-12-19-txst-bb-texas-southern",
+   "category": "txst-bb",
+   "title": "Bobcats vs. Texas Southern",
+   "startDate": "2026-12-19",
+   "location": "Strahan Arena, San Marcos",
+   "tag": "Home",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "13:30"
   },
   {
    "id": "2026-12-19-ballet-texas-presents-the-nutcracker",
@@ -6602,6 +6720,15 @@
    "id": "sch-oak-run-ms-2027-01-06-rla-maps-testing"
   },
   {
+   "id": "2027-01-06-txst-bb-colorado-state",
+   "category": "txst-bb",
+   "title": "Bobcats at Colorado State",
+   "startDate": "2027-01-06",
+   "location": "Fort Collins, CO",
+   "tag": "Away",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule"
+  },
+  {
    "title": "Legendary Leader Meeting",
    "startDate": "2027-01-06",
    "startTime": "07:00",
@@ -7226,6 +7353,16 @@
    "id": "2027-01-10-time-travel-half-marathon"
   },
   {
+   "id": "2027-01-10-txst-bb-utah-state",
+   "category": "txst-bb",
+   "title": "Bobcats vs. Utah State",
+   "startDate": "2027-01-10",
+   "location": "Strahan Arena, San Marcos",
+   "tag": "Home",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "12:00"
+  },
+  {
    "category": "spurs",
    "title": "Spurs at Hawks",
    "startDate": "2027-01-10",
@@ -7563,6 +7700,16 @@
    ],
    "audience": "local",
    "id": "sch-walnut-springs-es-2027-01-14-family-art-night"
+  },
+  {
+   "id": "2027-01-14-txst-bb-oregon-state",
+   "category": "txst-bb",
+   "title": "Bobcats vs. Oregon State",
+   "startDate": "2027-01-14",
+   "location": "Strahan Arena, San Marcos",
+   "tag": "Home",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "18:00"
   },
   {
    "title": "Board Workshop",
@@ -8048,6 +8195,16 @@
    "id": "2027-01-20-spurs-vs-heat"
   },
   {
+   "id": "2027-01-20-txst-bb-san-diego-state",
+   "category": "txst-bb",
+   "title": "Bobcats at San Diego State",
+   "startDate": "2027-01-20",
+   "location": "San Diego, CA",
+   "tag": "Away",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "21:00"
+  },
+  {
    "title": "ORMS Boys Basketball vs. CMS",
    "startDate": "2027-01-21",
    "startTime": "17:00",
@@ -8142,6 +8299,16 @@
    "id": "2027-01-23-buckets-n-boards"
   },
   {
+   "id": "2027-01-23-txst-bb-fresno-state",
+   "category": "txst-bb",
+   "title": "Bobcats at Fresno State",
+   "startDate": "2027-01-23",
+   "location": "Fresno, CA",
+   "tag": "Away",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "15:30"
+  },
+  {
    "category": "music",
    "title": "Pecos & the Rooftops",
    "startDate": "2027-01-23",
@@ -8226,6 +8393,16 @@
    "location": "Frost Bank Center, San Antonio",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
    "id": "2027-01-27-spurs-vs-hornets"
+  },
+  {
+   "id": "2027-01-27-txst-bb-colorado-state",
+   "category": "txst-bb",
+   "title": "Bobcats vs. Colorado State",
+   "startDate": "2027-01-27",
+   "location": "Strahan Arena, San Marcos",
+   "tag": "Home",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
   },
   {
    "title": "ORMS Boys Basketball vs. DMS",
@@ -8321,6 +8498,16 @@
    "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
    "outdoor": true,
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
+  },
+  {
+   "id": "2027-01-30-txst-bb-boise-state",
+   "category": "txst-bb",
+   "title": "Bobcats vs. Boise State",
+   "startDate": "2027-01-30",
+   "location": "Strahan Arena, San Marcos",
+   "tag": "Home",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "13:30"
   },
   {
    "category": "spurs",
@@ -8445,6 +8632,16 @@
    "sourceURL": "https://brauntex.org/event/a-tribute-to-the-music-memories-of-tony-bennett-starring-steve-leeds/"
   },
   {
+   "id": "2027-02-04-txst-bb-gonzaga",
+   "category": "txst-bb",
+   "title": "Bobcats at Gonzaga",
+   "startDate": "2027-02-04",
+   "location": "Spokane, WA",
+   "tag": "Away",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "21:00"
+  },
+  {
    "title": "Wear Red for Heart Health",
    "startDate": "2027-02-05",
    "location": "All campuses",
@@ -8498,6 +8695,16 @@
    "location": "Brauntex Theatre, 290 W San Antonio St",
    "description": "Sponsored by Leslie Lammers & Tom Tumlinson Fusing top-tier vocals with wall-to-wall choreography, UPTOWN combines smooth R&B stylings with the fresh radio hits of today. Born in the epicenter of soul, New York City, …",
    "sourceURL": "https://brauntex.org/event/uptown-a-celebration-of-motown-soul/"
+  },
+  {
+   "id": "2027-02-06-txst-bb-washington-state",
+   "category": "txst-bb",
+   "title": "Bobcats at Washington State",
+   "startDate": "2027-02-06",
+   "location": "Pullman, WA",
+   "tag": "Away",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "20:00"
   },
   {
    "title": "Brauntex",
@@ -8562,6 +8769,16 @@
    ],
    "audience": "local",
    "id": "sch-comal-isd-2027-02-11-board-workshop"
+  },
+  {
+   "id": "2027-02-11-txst-bb-san-diego-state",
+   "category": "txst-bb",
+   "title": "Bobcats vs. San Diego State",
+   "startDate": "2027-02-11",
+   "location": "Strahan Arena, San Marcos",
+   "tag": "Home",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
   },
   {
    "category": "spurs",
@@ -8656,6 +8873,16 @@
    "id": "sch-comal-isd-2027-02-14-valentine-s-day"
   },
   {
+   "id": "2027-02-14-txst-bb-oregon-state",
+   "category": "txst-bb",
+   "title": "Bobcats at Oregon State",
+   "startDate": "2027-02-14",
+   "location": "Corvallis, OR",
+   "tag": "Away",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "14:30"
+  },
+  {
    "id": "nbisd-2027-02-15-student-staff-holiday-presidents-day",
    "title": "Student/Staff Holiday: Presidents' Day",
    "startDate": "2027-02-15",
@@ -8708,6 +8935,16 @@
    "id": "2027-02-18-spurs-at-timberwolves"
   },
   {
+   "id": "2027-02-18-txst-bb-fresno-state",
+   "category": "txst-bb",
+   "title": "Bobcats vs. Fresno State",
+   "startDate": "2027-02-18",
+   "location": "Strahan Arena, San Marcos",
+   "tag": "Home",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
+  },
+  {
    "id": "2027-02-18-3-decades-rewind",
    "category": "music",
    "title": "3 Decades Rewind",
@@ -8758,6 +8995,16 @@
    "id": "2027-02-20-gruene-market-days"
   },
   {
+   "id": "2027-02-20-txst-bb-boise-state",
+   "category": "txst-bb",
+   "title": "Bobcats at Boise State",
+   "startDate": "2027-02-20",
+   "location": "Boise, ID",
+   "tag": "Away",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "17:30"
+  },
+  {
    "id": "2027-02-20-paul-thorn",
    "category": "music",
    "title": "Paul Thorn",
@@ -8767,6 +9014,16 @@
    "location": "Brauntex Theatre, 290 W San Antonio St",
    "description": "Raised in Tupelo, Mississippi, as the son of a preacher and a former professional boxer, Paul Thorn brings an earthy, one-of-a-kind blend of Southern rock, gritty blues, and Americana. His live shows are famous for sh…",
    "sourceURL": "https://brauntex.org/event/paul-thorn-2/"
+  },
+  {
+   "id": "2027-02-25-txst-bb-gonzaga",
+   "category": "txst-bb",
+   "title": "Bobcats vs. Gonzaga",
+   "startDate": "2027-02-25",
+   "location": "Strahan Arena, San Marcos",
+   "tag": "Home",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
   },
   {
    "category": "spurs",
@@ -8792,6 +9049,16 @@
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
   },
   {
+   "id": "2027-02-27-txst-bb-washington-state",
+   "category": "txst-bb",
+   "title": "Bobcats vs. Washington State",
+   "startDate": "2027-02-27",
+   "location": "Strahan Arena, San Marcos",
+   "tag": "Home",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "13:15"
+  },
+  {
    "category": "spurs",
    "title": "Spurs vs. Nuggets (Austin)",
    "startDate": "2027-02-28",
@@ -8800,6 +9067,16 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
    "description": "Sunday matinee at the Moody Center, the second of the Austin games.",
    "id": "2027-02-28-spurs-vs-nuggets-austin"
+  },
+  {
+   "id": "2027-03-03-txst-bb-utah-state",
+   "category": "txst-bb",
+   "title": "Bobcats at Utah State",
+   "startDate": "2027-03-03",
+   "location": "Logan, UT",
+   "tag": "Away",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
   }
  ],
  "notDated": [
