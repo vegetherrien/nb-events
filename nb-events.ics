@@ -33,7 +33,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-10-08-gruene-music-wine-fest-40th-annual@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Gruene Music & Wine Fest (40th annual)
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261012
@@ -48,7 +48,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-friends-of-the-library-book-sale@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Friends of the Library Book Sale
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261011
@@ -62,7 +62,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-walk-to-end-alzheimer-s@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Walk to End Alzheimer's
 DTSTART;TZID=America/Chicago:20261010T080000
 DTEND;TZID=America/Chicago:20261010T100000
@@ -74,20 +74,8 @@ DESCRIPTION:Registration opens at 8 AM\, the opening ceremony is at 9 and w
 CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-10-workshop-cpr-first-aid-training@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Workshop: CPR & First Aid Training
-DTSTART;TZID=America/Chicago:20261010T090000
-DTEND;TZID=America/Chicago:20261010T130000
-LOCATION:Veramendi
-URL:https://lifeatveramendi.org/events/
-DESCRIPTION:Hands-on training with Lone Star 24-HR Emergency. Space is limi
- ted.\nhttps://lifeatveramendi.org/events/
-CATEGORIES:Veramendi
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-10-bucksnort-boogie-boys@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Bucksnort Boogie Boys
 DTSTART;TZID=America/Chicago:20261010T113000
 DTEND;TZID=America/Chicago:20261010T143000
@@ -99,7 +87,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-texas-vs-oklahoma-red-river-rivalry@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Texas vs. Oklahoma (Red River Rivalry)
 DTSTART;TZID=America/Chicago:20261010T143000
 DTEND;TZID=America/Chicago:20261010T163000
@@ -113,7 +101,7 @@ CATEGORIES:Longhorns football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-the-klocks@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:The Klocks
 DTSTART;TZID=America/Chicago:20261010T180000
 DTEND;TZID=America/Chicago:20261010T210000
@@ -125,7 +113,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-trevor-underwood@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Trevor Underwood
 DTSTART;TZID=America/Chicago:20261010T190000
 DTEND;TZID=America/Chicago:20261010T220000
@@ -137,7 +125,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-the-steeldrivers@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:The SteelDrivers
 DTSTART;TZID=America/Chicago:20261010T210000
 DTEND;TZID=America/Chicago:20261010T230000
@@ -148,8 +136,20 @@ DESCRIPTION:Doors 8 PM. Gloria Anderson opens at 9\; The SteelDrivers go on
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-11-trunk-monkeys@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Trunk Monkeys
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+LOCATION:Krause's Cafe & Biergarten\, 148 S Castell Ave
+URL:https://www.hillcountrypassport.com/events/place-new-braunfels-tx/
+DESCRIPTION:Blues and rock guitar duo. Set time not posted.\nhttps://www.hi
+ llcountrypassport.com/events/place-new-braunfels-tx/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-11-elysha-lemaster@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Elysha LeMaster
 DTSTART;TZID=America/Chicago:20261011T110000
 DTEND;TZID=America/Chicago:20261011T140000
@@ -161,7 +161,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-11-sunday-all-star-playlist@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Sunday All-Star Playlist
 DTSTART;TZID=America/Chicago:20261011T130000
 DTEND;TZID=America/Chicago:20261011T150000
@@ -172,32 +172,8 @@ DESCRIPTION:Official Music & Wine Fest show with KNBT 92.1\, benefiting Uni
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-11-trunk-monkeys@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Trunk Monkeys
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-LOCATION:Krause's Cafe & Biergarten\, 148 S Castell Ave
-URL:https://www.hillcountrypassport.com/events/place-new-braunfels-tx/
-DESCRIPTION:Blues and rock guitar duo. Set time not posted.\nhttps://www.hi
- llcountrypassport.com/events/place-new-braunfels-tx/
-CATEGORIES:Live music
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-15-sweet-treat-thursday@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Sweet Treat Thursday
-DTSTART;TZID=America/Chicago:20261015T150000
-DTEND;TZID=America/Chicago:20261015T170000
-LOCATION:The Ledge\, Veramendi
-URL:https://lifeatveramendi.org/events/
-DESCRIPTION:A new sweet treat each week\, with neighbors at The Ledge.\nhtt
- ps://lifeatveramendi.org/events/
-CATEGORIES:Veramendi
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-15-london-baileigh@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:London Baileigh
 DTSTART;TZID=America/Chicago:20261015T190000
 DTEND;TZID=America/Chicago:20261015T220000
@@ -209,7 +185,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-library-kids-fan-club-it-s-the-great-pumpkin-cha@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Library Kids Fan Club: It's the Great Pumpkin\, Charlie Brown
 DTSTART;TZID=America/Chicago:20261016T163000
 DTEND;TZID=America/Chicago:20261016T173000
@@ -223,7 +199,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-tiffiny-dawn@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Tiffiny Dawn
 DTSTART;TZID=America/Chicago:20261016T180000
 DTEND;TZID=America/Chicago:20261016T210000
@@ -235,7 +211,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-dylan-wheeler@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Dylan Wheeler
 DTSTART;TZID=America/Chicago:20261016T200000
 DTEND;TZID=America/Chicago:20261016T220000
@@ -245,8 +221,20 @@ DESCRIPTION:Price: $25.50\nhttps://gruenehall.com/tickets/
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-17-tony-taylor@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Tony Taylor
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+LOCATION:Krause's Cafe & Biergarten\, 148 S Castell Ave
+URL:https://www.hillcountrypassport.com/events/place-new-braunfels-tx/
+DESCRIPTION:Americana roots singer-songwriter. Set time not posted.\nhttps:
+ //www.hillcountrypassport.com/events/place-new-braunfels-tx/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-17-gruene-market-days@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Gruene Market Days
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
@@ -259,20 +247,8 @@ DESCRIPTION:About 100 artisans selling handmade goods and packaged Texas fo
 CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-17-workshop-diy-rain-barrel@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Workshop: DIY Rain Barrel
-DTSTART;TZID=America/Chicago:20261017T100000
-DTEND;TZID=America/Chicago:20261017T120000
-LOCATION:Veramendi
-URL:https://lifeatveramendi.org/events/
-DESCRIPTION:Build your own rain barrel with NBU's conservation team.\nhttps
- ://lifeatveramendi.org/events/
-CATEGORIES:Veramendi
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-17-texas-vs-florida@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Texas vs. Florida
 DTSTART;TZID=America/Chicago:20261017T110000
 DTEND;TZID=America/Chicago:20261017T130000
@@ -286,7 +262,7 @@ CATEGORIES:Longhorns football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-dia-de-los-muertos-festival@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Día de los Muertos Festival
 DTSTART;TZID=America/Chicago:20261017T120000
 DTEND;TZID=America/Chicago:20261017T220000
@@ -299,7 +275,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-the-lonely-hearts-club@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:The Lonely Hearts Club
 DTSTART;TZID=America/Chicago:20261017T180000
 DTEND;TZID=America/Chicago:20261017T210000
@@ -311,7 +287,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-max-stalling-with-owen-temple@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Max Stalling with Owen Temple
 DTSTART;TZID=America/Chicago:20261017T203000
 DTEND;TZID=America/Chicago:20261017T223000
@@ -321,20 +297,8 @@ DESCRIPTION:Price: $20\nhttps://gruenehall.com/tickets/
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-17-tony-taylor@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Tony Taylor
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-LOCATION:Krause's Cafe & Biergarten\, 148 S Castell Ave
-URL:https://www.hillcountrypassport.com/events/place-new-braunfels-tx/
-DESCRIPTION:Americana roots singer-songwriter. Set time not posted.\nhttps:
- //www.hillcountrypassport.com/events/place-new-braunfels-tx/
-CATEGORIES:Live music
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-18-alli-mattice-duo@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Alli Mattice Duo
 DTSTART;TZID=America/Chicago:20261018T110000
 DTEND;TZID=America/Chicago:20261018T140000
@@ -346,7 +310,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-18-kade-isakson@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Kade Isakson
 DTSTART;TZID=America/Chicago:20261018T150000
 DTEND;TZID=America/Chicago:20261018T180000
@@ -358,7 +322,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-karaoke-night-at-krause-s@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Karaoke Night at Krause's
 DTSTART;TZID=America/Chicago:20261019T180000
 DTEND;TZID=America/Chicago:20261019T210000
@@ -370,7 +334,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-spurs-vs-thunder@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs vs. Thunder
 DTSTART;TZID=America/Chicago:20261020T203000
 DTEND;TZID=America/Chicago:20261020T223000
@@ -382,7 +346,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-san-antonio-dutchmen@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:San Antonio Dutchmen
 DTSTART;TZID=America/Chicago:20261021T180000
 DTEND;TZID=America/Chicago:20261021T210000
@@ -394,7 +358,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-cody-bolden-the-roadhands-ft-gus-clark@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Cody Bolden & The Roadhands ft. Gus Clark
 DTSTART;TZID=America/Chicago:20261021T200000
 DTEND;TZID=America/Chicago:20261021T230000
@@ -405,20 +369,8 @@ DESCRIPTION:Atlanta country and honky-tonk.\nhttps://www.hillcountrypasspor
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-22-sweet-treat-thursday@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Sweet Treat Thursday
-DTSTART;TZID=America/Chicago:20261022T150000
-DTEND;TZID=America/Chicago:20261022T170000
-LOCATION:The Ledge\, Veramendi
-URL:https://lifeatveramendi.org/events/
-DESCRIPTION:A new sweet treat each week\, with neighbors at The Ledge.\nhtt
- ps://lifeatveramendi.org/events/
-CATEGORIES:Veramendi
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-22-andrew-lopez@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Andrew Lopez
 DTSTART;TZID=America/Chicago:20261022T190000
 DTEND;TZID=America/Chicago:20261022T220000
@@ -430,7 +382,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-soul-sessions@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Soul Sessions
 DTSTART;TZID=America/Chicago:20261023T180000
 DTEND;TZID=America/Chicago:20261023T210000
@@ -442,7 +394,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-ace-pepper-band@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Ace Pepper Band
 DTSTART;TZID=America/Chicago:20261023T190000
 DTEND;TZID=America/Chicago:20261023T220000
@@ -454,7 +406,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-cody-hibbard@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Cody Hibbard
 DTSTART;TZID=America/Chicago:20261023T200000
 DTEND;TZID=America/Chicago:20261023T220000
@@ -465,7 +417,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-spurs-vs-rockets@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs vs. Rockets
 DTSTART;TZID=America/Chicago:20261023T203000
 DTEND;TZID=America/Chicago:20261023T223000
@@ -477,82 +429,8 @@ DESCRIPTION:I-35 Series home game played at Moody Center in Austin.\nTV: Pr
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-24-workshop-landscape-water-tips@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Workshop: Landscape & Water Tips
-DTSTART;TZID=America/Chicago:20261024T100000
-DTEND;TZID=America/Chicago:20261024T120000
-LOCATION:Veramendi
-URL:https://lifeatveramendi.org/events/
-DESCRIPTION:Tips for landscaping and saving water.\nhttps://lifeatveramendi
- .org/events/
-CATEGORIES:Veramendi
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-24-texas-clay-festival-34th-annual@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Texas Clay Festival (34th annual)
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-LOCATION:Gruene Historic District
-URL:https://www.hillcountrypassport.com/events/place-new-braunfels-tx/
-DESCRIPTION:Work from more than 80 Texas potters and clay artists\, on view
-  and for sale.\nDaily 10:00–17:00\nhttps://www.hillcountrypassport.com/e
- vents/place-new-braunfels-tx/
-CATEGORIES:Markets & arts
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-24-new-braunfels-jamboree-train-show@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:New Braunfels “Jamboree” Train Show
-DTSTART;TZID=America/Chicago:20261024T100000
-DTEND;TZID=America/Chicago:20261024T170000
-LOCATION:See listing for venue
-URL:https://www.hillcountrypassport.com/events/place-new-braunfels-tx/
-DESCRIPTION:Fall show from the New Braunfels Railroad Museum for rail fans 
- and model railroaders.\nhttps://www.hillcountrypassport.com/events/place-n
- ew-braunfels-tx/
-CATEGORIES:Festivals & community
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-24-fall-jubilee@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Fall Jubilee
-DTSTART;TZID=America/Chicago:20261024T170000
-DTEND;TZID=America/Chicago:20261024T200000
-LOCATION:Veramendi
-URL:https://lifeatveramendi.org/events/
-DESCRIPTION:Veramendi's fall signature event: face painting\, balloon art\,
-  food trucks\, live music and a vendor market.\nhttps://lifeatveramendi.or
- g/events/
-CATEGORIES:Veramendi
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-24-spurs-at-mavericks@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Spurs at Mavericks
-DTSTART;TZID=America/Chicago:20261024T190000
-DTEND;TZID=America/Chicago:20261024T210000
-LOCATION:Away in Dallas
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-24-tyler-halverson@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Tyler Halverson
-DTSTART;TZID=America/Chicago:20261024T210000
-DTEND;TZID=America/Chicago:20261024T230000
-LOCATION:Gruene Hall\, 1281 Gruene Rd
-URL:https://gruenehall.com/tickets/
-DESCRIPTION:Price: $25\nhttps://gruenehall.com/tickets/
-CATEGORIES:Live music
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-24-texas-vs-ole-miss@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Texas vs. Ole Miss
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
@@ -566,8 +444,70 @@ DESCRIPTION:Kickoff falls in the 2:30–3:30 PM or 5–7 PM window. The exa
 CATEGORIES:Longhorns football
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-24-texas-clay-festival-34th-annual@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Texas Clay Festival (34th annual)
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+LOCATION:Gruene Historic District
+URL:https://www.hillcountrypassport.com/events/place-new-braunfels-tx/
+DESCRIPTION:Work from more than 80 Texas potters and clay artists\, on view
+  and for sale.\nDaily 10:00–17:00\nhttps://www.hillcountrypassport.com/e
+ vents/place-new-braunfels-tx/
+CATEGORIES:Markets & arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-24-new-braunfels-jamboree-train-show@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:New Braunfels “Jamboree” Train Show
+DTSTART;TZID=America/Chicago:20261024T100000
+DTEND;TZID=America/Chicago:20261024T170000
+LOCATION:See listing for venue
+URL:https://www.hillcountrypassport.com/events/place-new-braunfels-tx/
+DESCRIPTION:Fall show from the New Braunfels Railroad Museum for rail fans 
+ and model railroaders.\nhttps://www.hillcountrypassport.com/events/place-n
+ ew-braunfels-tx/
+CATEGORIES:Festivals & community
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-24-fall-jubilee@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Fall Jubilee
+DTSTART;TZID=America/Chicago:20261024T170000
+DTEND;TZID=America/Chicago:20261024T200000
+LOCATION:Veramendi
+URL:https://lifeatveramendi.org/events/
+DESCRIPTION:Veramendi's fall signature event: face painting\, balloon art\,
+  food trucks\, live music and a vendor market.\nhttps://lifeatveramendi.or
+ g/events/
+CATEGORIES:My neighborhood
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-24-spurs-at-mavericks@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Spurs at Mavericks
+DTSTART;TZID=America/Chicago:20261024T190000
+DTEND;TZID=America/Chicago:20261024T210000
+LOCATION:Away in Dallas
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-24-tyler-halverson@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Tyler Halverson
+DTSTART;TZID=America/Chicago:20261024T210000
+DTEND;TZID=America/Chicago:20261024T230000
+LOCATION:Gruene Hall\, 1281 Gruene Rd
+URL:https://gruenehall.com/tickets/
+DESCRIPTION:Price: $25\nhttps://gruenehall.com/tickets/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-25-two-rivers-half-marathon-ryan-bielke-5k@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Two Rivers Half Marathon & Ryan Bielke 5K
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
@@ -581,7 +521,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-27-spurs-vs-kings@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs vs. Kings
 DTSTART;TZID=America/Chicago:20261027T190000
 DTEND;TZID=America/Chicago:20261027T210000
@@ -592,20 +532,8 @@ DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-28-coffee-with-cohere@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Coffee with Cohere
-DTSTART;TZID=America/Chicago:20261028T090000
-DTEND;TZID=America/Chicago:20261028T103000
-LOCATION:Veramendi
-URL:https://lifeatveramendi.org/events/
-DESCRIPTION:Coffee with neighbors and the Cohere Community Life team. This 
- month's topic: 2027 community events.\nhttps://lifeatveramendi.org/events/
-CATEGORIES:Veramendi
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-28-spurs-at-jazz@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs at Jazz
 DTSTART;TZID=America/Chicago:20261028T200000
 DTEND;TZID=America/Chicago:20261028T220000
@@ -616,20 +544,8 @@ DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-29-sweet-treat-thursday@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Sweet Treat Thursday
-DTSTART;TZID=America/Chicago:20261029T150000
-DTEND;TZID=America/Chicago:20261029T170000
-LOCATION:The Ledge\, Veramendi
-URL:https://lifeatveramendi.org/events/
-DESCRIPTION:A new sweet treat each week\, with neighbors at The Ledge.\nhtt
- ps://lifeatveramendi.org/events/
-CATEGORIES:Veramendi
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-29-downtown-spooktacular@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Downtown Spooktacular
 DTSTART;TZID=America/Chicago:20261029T170000
 DTEND;TZID=America/Chicago:20261029T190000
@@ -643,7 +559,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-cory-morrow@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Cory Morrow
 DTSTART;TZID=America/Chicago:20261030T200000
 DTEND;TZID=America/Chicago:20261030T220000
@@ -653,34 +569,8 @@ DESCRIPTION:Price: $30\nhttps://gruenehall.com/tickets/
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-31-river-chase-5k-for-homes-for-our-troops@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:River Chase 5K for Homes For Our Troops
-DTSTART;TZID=America/Chicago:20261031T090000
-DTEND;TZID=America/Chicago:20261031T110000
-LOCATION:River Chase Clubhouse\, 436 River Chase Way
-URL:https://www.endurancegrid.com/race/river-chase-5k-fundraiser-for-homes-
- for-our-troops-new-braunfels-tx-131458
-DESCRIPTION:5K run/walk raising money for Homes For Our Troops. Packet pick
- up is Oct 30 at the clubhouse.\nhttps://www.endurancegrid.com/race/river-c
- hase-5k-fundraiser-for-homes-for-our-troops-new-braunfels-tx-131458
-CATEGORIES:Festivals & community
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-31-spurs-vs-timberwolves@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Spurs vs. Timberwolves
-DTSTART;TZID=America/Chicago:20261031T190000
-DTEND;TZID=America/Chicago:20261031T210000
-LOCATION:Frost Bank Center\, San Antonio
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-31-miles-for-smiles-5k-10k-kids-candy-dash@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Miles For Smiles: 5K\, 10K & Kids Candy Dash
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
@@ -694,7 +584,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-texas-vs-mississippi-state@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Texas vs. Mississippi State
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
@@ -707,8 +597,34 @@ DESCRIPTION:Halloween night game. The exact kickoff is set about six days o
 CATEGORIES:Longhorns football
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-31-river-chase-5k-for-homes-for-our-troops@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:River Chase 5K for Homes For Our Troops
+DTSTART;TZID=America/Chicago:20261031T090000
+DTEND;TZID=America/Chicago:20261031T110000
+LOCATION:River Chase Clubhouse\, 436 River Chase Way
+URL:https://www.endurancegrid.com/race/river-chase-5k-fundraiser-for-homes-
+ for-our-troops-new-braunfels-tx-131458
+DESCRIPTION:5K run/walk raising money for Homes For Our Troops. Packet pick
+ up is Oct 30 at the clubhouse.\nhttps://www.endurancegrid.com/race/river-c
+ hase-5k-fundraiser-for-homes-for-our-troops-new-braunfels-tx-131458
+CATEGORIES:Festivals & community
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-spurs-vs-timberwolves@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Spurs vs. Timberwolves
+DTSTART;TZID=America/Chicago:20261031T190000
+DTEND;TZID=America/Chicago:20261031T210000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-02-spurs-vs-jazz@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs vs. Jazz
 DTSTART;TZID=America/Chicago:20261102T193000
 DTEND;TZID=America/Chicago:20261102T213000
@@ -720,7 +636,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-spurs-vs-mavericks@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs vs. Mavericks
 DTSTART;TZID=America/Chicago:20261104T203000
 DTEND;TZID=America/Chicago:20261104T223000
@@ -731,57 +647,8 @@ DESCRIPTION:TV: ESPN\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-sp
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-05-sweet-treat-thursday@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Sweet Treat Thursday
-DTSTART;TZID=America/Chicago:20261105T150000
-DTEND;TZID=America/Chicago:20261105T170000
-LOCATION:The Ledge\, Veramendi
-URL:https://lifeatveramendi.org/events/
-DESCRIPTION:A new sweet treat each week\, with neighbors at The Ledge.\nhtt
- ps://lifeatveramendi.org/events/
-CATEGORIES:Veramendi
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-05-veramendi-annual-meeting@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Veramendi Annual Meeting
-DTSTART;TZID=America/Chicago:20261105T170000
-DTEND;TZID=America/Chicago:20261105T203000
-LOCATION:The Ledge\, then Veramendi Elementary cafeteria
-URL:https://lifeatveramendi.org/events/
-DESCRIPTION:A food truck parks in front of The Ledge from 4 to 7 PM\, with 
- the Community Life team on hand for resident website and amenity fob help.
-  The annual meeting runs 7 to 8:30 PM in the Veramendi Elementary cafeteri
- a.\nhttps://lifeatveramendi.org/events/
-CATEGORIES:Veramendi
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-06-james-mcmurtry-with-bettysoo@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:James McMurtry with BettySoo
-DTSTART;TZID=America/Chicago:20261106T200000
-DTEND;TZID=America/Chicago:20261106T220000
-LOCATION:Gruene Hall\, 1281 Gruene Rd
-URL:https://gruenehall.com/tickets/
-DESCRIPTION:Price: $20\nhttps://gruenehall.com/tickets/
-CATEGORIES:Live music
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-06-spurs-at-kings@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Spurs at Kings
-DTSTART;TZID=America/Chicago:20261106T210000
-DTEND;TZID=America/Chicago:20261106T230000
-LOCATION:Away in Sacramento
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-06-wurstfest@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Wurstfest
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261116
@@ -795,36 +662,23 @@ DESCRIPTION:Ten days of German-Texan food\, music\, dancing and carnival ri
 CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-07-veterans-day-parade-ceremony@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Veterans Day Parade & Ceremony
-DTSTART;TZID=America/Chicago:20261107T100000
-DTEND;TZID=America/Chicago:20261107T120000
-LOCATION:Main Plaza
-URL:https://www.hillcountrypassport.com/events/place-new-braunfels-tx/page-
- 3/
-DESCRIPTION:The community honors local veterans.\nhttps://www.hillcountrypa
- ssport.com/events/place-new-braunfels-tx/page-3/
-CATEGORIES:Festivals & community
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-07-triston-marez@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Triston Marez
-DTSTART;TZID=America/Chicago:20261107T210000
-DTEND;TZID=America/Chicago:20261107T230000
+UID:2026-11-06-james-mcmurtry-with-bettysoo@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:James McMurtry with BettySoo
+DTSTART;TZID=America/Chicago:20261106T200000
+DTEND;TZID=America/Chicago:20261106T220000
 LOCATION:Gruene Hall\, 1281 Gruene Rd
 URL:https://gruenehall.com/tickets/
 DESCRIPTION:Price: $20\nhttps://gruenehall.com/tickets/
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-07-spurs-at-trail-blazers@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Spurs at Trail Blazers
-DTSTART;TZID=America/Chicago:20261107T210000
-DTEND;TZID=America/Chicago:20261107T230000
-LOCATION:Away in Portland
+UID:2026-11-06-spurs-at-kings@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Spurs at Kings
+DTSTART;TZID=America/Chicago:20261106T210000
+DTEND;TZID=America/Chicago:20261106T230000
+LOCATION:Away in Sacramento
 URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
 DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
  le/
@@ -832,7 +686,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-texas-at-missouri@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Texas at Missouri
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
@@ -845,8 +699,44 @@ DESCRIPTION:Early window. The exact kickoff is set about six days out.\nTim
 CATEGORIES:Longhorns football
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-07-veterans-day-parade-ceremony@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Veterans Day Parade & Ceremony
+DTSTART;TZID=America/Chicago:20261107T100000
+DTEND;TZID=America/Chicago:20261107T120000
+LOCATION:Main Plaza
+URL:https://www.hillcountrypassport.com/events/place-new-braunfels-tx/page-
+ 3/
+DESCRIPTION:The community honors local veterans.\nhttps://www.hillcountrypa
+ ssport.com/events/place-new-braunfels-tx/page-3/
+CATEGORIES:Festivals & community
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-triston-marez@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Triston Marez
+DTSTART;TZID=America/Chicago:20261107T210000
+DTEND;TZID=America/Chicago:20261107T230000
+LOCATION:Gruene Hall\, 1281 Gruene Rd
+URL:https://gruenehall.com/tickets/
+DESCRIPTION:Price: $20\nhttps://gruenehall.com/tickets/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-spurs-at-trail-blazers@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Spurs at Trail Blazers
+DTSTART;TZID=America/Chicago:20261107T210000
+DTEND;TZID=America/Chicago:20261107T230000
+LOCATION:Away in Portland
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-08-mid-texas-symphony-mozart-tchaikovsky@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Mid-Texas Symphony: Mozart & Tchaikovsky
 DTSTART;TZID=America/Chicago:20261108T160000
 DTEND;TZID=America/Chicago:20261108T180000
@@ -859,7 +749,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09-spurs-at-suns@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs at Suns
 DTSTART;TZID=America/Chicago:20261109T200000
 DTEND;TZID=America/Chicago:20261109T220000
@@ -871,7 +761,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11-spurs-at-bulls@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs at Bulls
 DTSTART;TZID=America/Chicago:20261111T190000
 DTEND;TZID=America/Chicago:20261111T210000
@@ -882,20 +772,8 @@ DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-12-sweet-treat-thursday@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Sweet Treat Thursday
-DTSTART;TZID=America/Chicago:20261112T150000
-DTEND;TZID=America/Chicago:20261112T170000
-LOCATION:The Ledge\, Veramendi
-URL:https://lifeatveramendi.org/events/
-DESCRIPTION:A new sweet treat each week\, with neighbors at The Ledge.\nhtt
- ps://lifeatveramendi.org/events/
-CATEGORIES:Veramendi
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-13-ray-wylie-hubbard-friends-80th-birthday-celebrat@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Ray Wylie Hubbard & Friends: 80th Birthday Celebration
 DTSTART;TZID=America/Chicago:20261113T200000
 DTEND;TZID=America/Chicago:20261113T220000
@@ -906,7 +784,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-spurs-vs-warriors@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs vs. Warriors
 DTSTART;TZID=America/Chicago:20261113T203000
 DTEND;TZID=America/Chicago:20261113T223000
@@ -917,19 +795,8 @@ DESCRIPTION:TV: Prime Video\nhttps://www.cbssports.com/nba/teams/SA/san-ant
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-14-ray-wylie-hubbard-friends-80th-birthday-celebrat@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Ray Wylie Hubbard & Friends: 80th Birthday Celebration
-DTSTART;TZID=America/Chicago:20261114T200000
-DTEND;TZID=America/Chicago:20261114T220000
-LOCATION:Gruene Hall\, 1281 Gruene Rd
-URL:https://gruenehall.com/tickets/
-DESCRIPTION:Price: $59.50\nhttps://gruenehall.com/tickets/
-CATEGORIES:Live music
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-14-texas-at-lsu@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Texas at LSU
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
@@ -942,8 +809,19 @@ DESCRIPTION:Kickoff falls in the 2:30–3:30 PM or 5–7 PM window.\nTime:
 CATEGORIES:Longhorns football
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-14-ray-wylie-hubbard-friends-80th-birthday-celebrat@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Ray Wylie Hubbard & Friends: 80th Birthday Celebration
+DTSTART;TZID=America/Chicago:20261114T200000
+DTEND;TZID=America/Chicago:20261114T220000
+LOCATION:Gruene Hall\, 1281 Gruene Rd
+URL:https://gruenehall.com/tickets/
+DESCRIPTION:Price: $59.50\nhttps://gruenehall.com/tickets/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-15-new-braunfels-half-marathon-10k-5k@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:New Braunfels Half Marathon\, 10K & 5K
 DTSTART;TZID=America/Chicago:20261115T073000
 DTEND;TZID=America/Chicago:20261115T113000
@@ -956,7 +834,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-spurs-at-jazz@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs at Jazz
 DTSTART;TZID=America/Chicago:20261115T160000
 DTEND;TZID=America/Chicago:20261115T180000
@@ -968,7 +846,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17-spurs-vs-pistons@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs vs. Pistons
 DTSTART;TZID=America/Chicago:20261117T190000
 DTEND;TZID=America/Chicago:20261117T210000
@@ -980,7 +858,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-the-georges@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:The Georges
 DTSTART;TZID=America/Chicago:20261118T190000
 DTEND;TZID=America/Chicago:20261118T220000
@@ -990,20 +868,21 @@ DESCRIPTION:https://gruenehall.com/event/the-georges-110/
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-19-sweet-treat-thursday-cori-jean-ice-cream@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Sweet Treat Thursday: Cori Jean Ice Cream
-DTSTART;TZID=America/Chicago:20261119T150000
-DTEND;TZID=America/Chicago:20261119T180000
-LOCATION:Oak Run Pkwy near Geneva & Caddie St
-URL:https://lifeatveramendi.org/events/
-DESCRIPTION:Look for the Cori Jean trailer on Oak Run Parkway.\nhttps://lif
- eatveramendi.org/events/
-CATEGORIES:Veramendi
+UID:2026-11-19-h-d-gruene-mercantile-ladies-night-out@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:H.D. Gruene Mercantile Ladies Night Out
+DTSTART;TZID=America/Chicago:20261119T170000
+DTEND;TZID=America/Chicago:20261119T190000
+LOCATION:H.D. Gruene Mercantile
+URL:https://www.gruenetexas.com/event/h-d-gruene-mercantile-ladies-night-ou
+ t/
+DESCRIPTION:https://www.gruenetexas.com/event/h-d-gruene-mercantile-ladies-
+ night-out/
+CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-weihnachtsmarkt-gala@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Weihnachtsmarkt Gala
 DTSTART;TZID=America/Chicago:20261119T180000
 DTEND;TZID=America/Chicago:20261119T210000
@@ -1015,7 +894,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-spurs-vs-clippers@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs vs. Clippers
 DTSTART;TZID=America/Chicago:20261119T190000
 DTEND;TZID=America/Chicago:20261119T210000
@@ -1027,7 +906,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-playoffs-westlake-vs-pieper@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Playoffs: Westlake vs. Pieper
 DTSTART;TZID=America/Chicago:20261119T190000
 DTEND;TZID=America/Chicago:20261119T210000
@@ -1040,21 +919,8 @@ DESCRIPTION:Class 6A Division II area round. Austin Westlake (10-1) vs. Pie
 CATEGORIES:High school football
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-19-h-d-gruene-mercantile-ladies-night-out@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:H.D. Gruene Mercantile Ladies Night Out
-DTSTART;TZID=America/Chicago:20261119T170000
-DTEND;TZID=America/Chicago:20261119T190000
-LOCATION:H.D. Gruene Mercantile
-URL:https://www.gruenetexas.com/event/h-d-gruene-mercantile-ladies-night-ou
- t/
-DESCRIPTION:https://www.gruenetexas.com/event/h-d-gruene-mercantile-ladies-
- night-out/
-CATEGORIES:Festivals & community
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-19-isaac-jacob-band@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Isaac Jacob Band
 DTSTART;TZID=America/Chicago:20261119T190000
 DTEND;TZID=America/Chicago:20261119T200000
@@ -1066,7 +932,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-choir-choir-choir-presents-landslide-an-epic-fleetwood-mac-s
  @nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Choir! Choir! Choir! Presents: Landslide: an Epic Fleetwood Mac Sin
  g-along!
 DTSTART;TZID=America/Chicago:20261119T193000
@@ -1083,7 +949,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-chuck-briseno@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Chuck Briseno
 DTSTART;TZID=America/Chicago:20261119T203000
 DTEND;TZID=America/Chicago:20261119T223000
@@ -1093,8 +959,32 @@ DESCRIPTION:https://gruenehall.com/event/chuck-briseno-3/
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-20-weihnachtsmarkt@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Weihnachtsmarkt
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+LOCATION:NB Civic & Convention Center\, 375 S Castell Ave
+URL:https://sophienburg.com/weihnachtsmarkt/
+DESCRIPTION:Juried German-style Christmas market and the largest fundraiser
+  for the Sophienburg Museum & Archives.\nhttps://sophienburg.com/weihnacht
+ smarkt/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-clayton-chapin@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Clayton Chapin
+DTSTART;TZID=America/Chicago:20261120T170000
+DTEND;TZID=America/Chicago:20261120T200000
+LOCATION:Gruene Historic District
+URL:https://www.gruenetexas.com/event/clayton-chapin-22/
+DESCRIPTION:https://www.gruenetexas.com/event/clayton-chapin-22/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-20-visitor-center-at-the-hinman-house-grand-opening@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Visitor Center at the Hinman House: Grand Opening
 DTSTART;TZID=America/Chicago:20261120T173000
 DTEND;TZID=America/Chicago:20261120T220000
@@ -1107,7 +997,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-downtown-lighting-santa-s-arrival@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Downtown Lighting & Santa's Arrival
 DTSTART;TZID=America/Chicago:20261120T180000
 DTEND;TZID=America/Chicago:20261120T210000
@@ -1121,7 +1011,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-playoffs-smithson-valley-vs-mcallen-rowe@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Playoffs: Smithson Valley vs. McAllen Rowe
 DTSTART;TZID=America/Chicago:20261120T190000
 DTEND;TZID=America/Chicago:20261120T210000
@@ -1135,7 +1025,7 @@ CATEGORIES:High school football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-playoffs-canyon-lake-vs-calhoun@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Playoffs: Canyon Lake vs. Calhoun
 DTSTART;TZID=America/Chicago:20261120T190000
 DTEND;TZID=America/Chicago:20261120T210000
@@ -1149,7 +1039,7 @@ CATEGORIES:High school football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-playoffs-davenport-vs-cc-miller@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Playoffs: Davenport vs. CC Miller
 DTSTART;TZID=America/Chicago:20261120T190000
 DTEND;TZID=America/Chicago:20261120T210000
@@ -1163,7 +1053,7 @@ CATEGORIES:High school football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-playoffs-round-rock-vs-sa-johnson@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Playoffs: Round Rock vs. SA Johnson
 DTSTART;TZID=America/Chicago:20261120T193000
 DTEND;TZID=America/Chicago:20261120T213000
@@ -1177,7 +1067,7 @@ CATEGORIES:High school football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-playoffs-tuloso-midway-vs-la-vernia@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Playoffs: Tuloso-Midway vs. La Vernia
 DTSTART;TZID=America/Chicago:20261120T193000
 DTEND;TZID=America/Chicago:20261120T213000
@@ -1191,7 +1081,7 @@ CATEGORIES:High school football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-tab-benoit-with-jesse-dayton-soul-of-the-swamp@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Tab Benoit with Jesse Dayton: Soul of the Swamp
 DTSTART;TZID=America/Chicago:20261120T200000
 DTEND;TZID=America/Chicago:20261120T220000
@@ -1201,32 +1091,48 @@ DESCRIPTION:Price: $45\nhttps://gruenehall.com/tickets/
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-20-weihnachtsmarkt@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Weihnachtsmarkt
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261123
-LOCATION:NB Civic & Convention Center\, 375 S Castell Ave
-URL:https://sophienburg.com/weihnachtsmarkt/
-DESCRIPTION:Juried German-style Christmas market and the largest fundraiser
-  for the Sophienburg Museum & Archives.\nhttps://sophienburg.com/weihnacht
- smarkt/
-CATEGORIES:Holiday & seasonal
+UID:2026-11-21-texas-state-vs-washington-state@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Texas State vs. Washington State
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+LOCATION:UFCU Stadium\, San Marcos
+URL:https://txst.com/sports/football/schedule/2026
+DESCRIPTION:Pac-12 home game for the Bobcats\, about 20 minutes up I-35.\nT
+ ime: Evening kickoff\, 5 or 6 PM (listings differ). On USA Network.\nhttps
+ ://txst.com/sports/football/schedule/2026
+CATEGORIES:Texas State football
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-20-clayton-chapin@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Clayton Chapin
-DTSTART;TZID=America/Chicago:20261120T170000
-DTEND;TZID=America/Chicago:20261120T200000
-LOCATION:Gruene Historic District
-URL:https://www.gruenetexas.com/event/clayton-chapin-22/
-DESCRIPTION:https://www.gruenetexas.com/event/clayton-chapin-22/
-CATEGORIES:Live music
+UID:2026-11-21-new-braunfels-farmers-market@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:New Braunfels Farmers Market
+DTSTART;TZID=America/Chicago:20261121T090000
+DTEND;TZID=America/Chicago:20261121T130000
+LOCATION:New Braunfels Farmers Market\, 186 S Castell Ave
+URL:https://www.visitnbtx.com/directory/new-braunfels-farmers-market
+DESCRIPTION:Local produce\, meats\, eggs\, baked goods and crafts from area
+  growers and makers. Free to attend.\nhttps://www.visitnbtx.com/directory/
+ new-braunfels-farmers-market
+CATEGORIES:Markets & arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-castell-st-market@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Castell St. Market
+DTSTART;TZID=America/Chicago:20261121T090000
+DTEND;TZID=America/Chicago:20261121T130000
+LOCATION:First Protestant Church\, 296 S Seguin Ave
+URL:https://firstprotestant.com/event/castell-st-market/2026-11-21/
+DESCRIPTION:Join us every Saturday for a vibrant gathering of local communi
+ ty members. Our market is dedicated to supporting local artisans with a pa
+ ssionate heart.\nhttps://firstprotestant.com/event/castell-st-market/2026-
+ 11-21/
+CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-gruene-market-days@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Gruene Market Days
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261123
@@ -1239,8 +1145,25 @@ DESCRIPTION:About 100 artisans selling handmade goods and packaged Texas fo
 CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
+UID:gruene-2026-11-21-photos-with-cowboy-kringle@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Photos with Cowboy Kringle
+DTSTART;TZID=America/Chicago:20261121T100000
+DTEND;TZID=America/Chicago:20261121T120000
+LOCATION:Gruene Historic District
+URL:https://www.gruenetexas.com/event/holidays-in-gruene-photos-with-cowboy
+ -kringle-36/2026-11-21/
+DESCRIPTION:Create a lasting Christmas memory with photos with Cowboy Kring
+ le\, Gruene’s own brand of Santa! Reserve a spot in advance for photo pa
+ ckages\, Christmas cards and other special order items. Photos taken Novem
+ ber 14th and 15th will benefit a local non-profit. Visit…\nhttps://www.g
+ ruenetexas.com/event/holidays-in-gruene-photos-with-cowboy-kringle-36/2026
+ -11-21/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-21-texas-vs-arkansas@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Texas vs. Arkansas
 DTSTART;TZID=America/Chicago:20261121T143000
 DTEND;TZID=America/Chicago:20261121T163000
@@ -1254,7 +1177,7 @@ CATEGORIES:Longhorns football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-texas-a-m-at-oklahoma@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Texas A&M at Oklahoma
 DTSTART;TZID=America/Chicago:20261121T144500
 DTEND;TZID=America/Chicago:20261121T164500
@@ -1264,8 +1187,30 @@ DESCRIPTION:https://12thman.com/sports/football/schedule
 CATEGORIES:Texas A&M football
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-21-reagan-hicks-band@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Reagan Hicks Band
+DTSTART;TZID=America/Chicago:20261121T170000
+DTEND;TZID=America/Chicago:20261121T200000
+LOCATION:Gruene Historic District
+URL:https://www.gruenetexas.com/event/reagan-hicks-band-2/
+DESCRIPTION:https://www.gruenetexas.com/event/reagan-hicks-band-2/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-owen-stroud@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Owen Stroud
+DTSTART;TZID=America/Chicago:20261121T180000
+DTEND;TZID=America/Chicago:20261121T210000
+LOCATION:Gristmill River Restaurant & Bar\, 1287 Gruene Rd
+URL:https://www.gruenetexas.com/event/owen-stroud-15/
+DESCRIPTION:https://www.gruenetexas.com/event/owen-stroud-15/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-21-spurs-vs-pelicans@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs vs. Pelicans
 DTSTART;TZID=America/Chicago:20261121T190000
 DTEND;TZID=America/Chicago:20261121T210000
@@ -1277,7 +1222,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-utsa-at-uab@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:UTSA at UAB
 DTSTART;TZID=America/Chicago:20261121T190000
 DTEND;TZID=America/Chicago:20261121T210000
@@ -1287,84 +1232,8 @@ DESCRIPTION:https://goutsa.com/sports/football/schedule
 CATEGORIES:UTSA football
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-21-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:New Braunfels Farmers Market
-DTSTART;TZID=America/Chicago:20261121T090000
-DTEND;TZID=America/Chicago:20261121T130000
-LOCATION:New Braunfels Farmers Market\, 186 S Castell Ave
-URL:https://www.visitnbtx.com/directory/new-braunfels-farmers-market
-DESCRIPTION:Local produce\, meats\, eggs\, baked goods and crafts from area
-  growers and makers. Free to attend.\nhttps://www.visitnbtx.com/directory/
- new-braunfels-farmers-market
-CATEGORIES:Markets & arts
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-21-texas-state-vs-washington-state@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Texas State vs. Washington State
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-LOCATION:UFCU Stadium\, San Marcos
-URL:https://txst.com/sports/football/schedule/2026
-DESCRIPTION:Pac-12 home game for the Bobcats\, about 20 minutes up I-35.\nT
- ime: Evening kickoff\, 5 or 6 PM (listings differ). On USA Network.\nhttps
- ://txst.com/sports/football/schedule/2026
-CATEGORIES:Texas State football
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-21-castell-st-market@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Castell St. Market
-DTSTART;TZID=America/Chicago:20261121T090000
-DTEND;TZID=America/Chicago:20261121T130000
-LOCATION:First Protestant Church\, 296 S Seguin Ave
-URL:https://firstprotestant.com/event/castell-st-market/2026-11-21/
-DESCRIPTION:Join us every Saturday for a vibrant gathering of local communi
- ty members. Our market is dedicated to supporting local artisans with a pa
- ssionate heart.\nhttps://firstprotestant.com/event/castell-st-market/2026-
- 11-21/
-CATEGORIES:Markets & arts
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-21-south-tx-blood-drive@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:South TX Blood Drive
-DTSTART;TZID=America/Chicago:20261121T090000
-DTEND;TZID=America/Chicago:20261121T140000
-LOCATION:Winslet Provisions
-URL:https://lifeatveramendi.org/event/south-tx-blood-drive/
-DESCRIPTION:Join us for the Veramendi Blood Drive on Saturday\, Nov. 21\, f
- rom 9 a.m. – 2 p.m. in front of Winslet Provisions and help make a lifes
- aving difference in our community. As a thank-you\, every blood donor will
-  receive a …\nhttps://lifeatveramendi.org/event/south-tx-blood-drive/
-CATEGORIES:Veramendi
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-21-reagan-hicks-band@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Reagan Hicks Band
-DTSTART;TZID=America/Chicago:20261121T170000
-DTEND;TZID=America/Chicago:20261121T200000
-LOCATION:Gruene Historic District
-URL:https://www.gruenetexas.com/event/reagan-hicks-band-2/
-DESCRIPTION:https://www.gruenetexas.com/event/reagan-hicks-band-2/
-CATEGORIES:Live music
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-21-owen-stroud@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Owen Stroud
-DTSTART;TZID=America/Chicago:20261121T180000
-DTEND;TZID=America/Chicago:20261121T210000
-LOCATION:Gristmill River Restaurant & Bar\, 1287 Gruene Rd
-URL:https://www.gruenetexas.com/event/owen-stroud-15/
-DESCRIPTION:https://www.gruenetexas.com/event/owen-stroud-15/
-CATEGORIES:Live music
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-21-giovannie-the-hired-guns@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Giovannie & The Hired Guns
 DTSTART;TZID=America/Chicago:20261121T210000
 DTEND;TZID=America/Chicago:20261121T230000
@@ -1375,8 +1244,25 @@ DESCRIPTION:Doors: 8pm Opener: Keaton Adams 9pm Giovannie & The Hired Guns:
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
+UID:gruene-2026-11-22-photos-with-cowboy-kringle@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Photos with Cowboy Kringle
+DTSTART;TZID=America/Chicago:20261122T100000
+DTEND;TZID=America/Chicago:20261122T120000
+LOCATION:Gruene Historic District
+URL:https://www.gruenetexas.com/event/holidays-in-gruene-photos-with-cowboy
+ -kringle-36/2026-11-22/
+DESCRIPTION:Create a lasting Christmas memory with photos with Cowboy Kring
+ le\, Gruene’s own brand of Santa! Reserve a spot in advance for photo pa
+ ckages\, Christmas cards and other special order items. Photos taken Novem
+ ber 14th and 15th will benefit a local non-profit. Visit…\nhttps://www.g
+ ruenetexas.com/event/holidays-in-gruene-photos-with-cowboy-kringle-36/2026
+ -11-22/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-22-the-polar-express-experience@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:The Polar Express Experience
 DTSTART;TZID=America/Chicago:20261122T153000
 DTEND;TZID=America/Chicago:20261122T173000
@@ -1390,7 +1276,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-matt-kirk@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Matt Kirk
 DTSTART;TZID=America/Chicago:20261122T170000
 DTEND;TZID=America/Chicago:20261122T200000
@@ -1401,7 +1287,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-b3@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:B3
 DTSTART;TZID=America/Chicago:20261122T190000
 DTEND;TZID=America/Chicago:20261122T203000
@@ -1412,7 +1298,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-lowland-revelry@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Lowland Revelry
 DTSTART;TZID=America/Chicago:20261122T210000
 DTEND;TZID=America/Chicago:20261122T223000
@@ -1422,8 +1308,19 @@ DESCRIPTION:https://gruenehall.com/event/lowland-revelry-5/
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-23-lee-mathis-duo@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Lee Mathis Duo
+DTSTART;TZID=America/Chicago:20261123T180000
+DTEND;TZID=America/Chicago:20261123T210000
+LOCATION:Gruene Hall\, 1281 Gruene Rd
+URL:https://gruenehall.com/event/lee-mathis-duo-5/
+DESCRIPTION:https://gruenehall.com/event/lee-mathis-duo-5/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-23-spurs-at-kings@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs at Kings
 DTSTART;TZID=America/Chicago:20261123T210000
 DTEND;TZID=America/Chicago:20261123T230000
@@ -1434,19 +1331,8 @@ DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-23-lee-mathis-duo@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Lee Mathis Duo
-DTSTART;TZID=America/Chicago:20261123T180000
-DTEND;TZID=America/Chicago:20261123T210000
-LOCATION:Gruene Hall\, 1281 Gruene Rd
-URL:https://gruenehall.com/event/lee-mathis-duo-5/
-DESCRIPTION:https://gruenehall.com/event/lee-mathis-duo-5/
-CATEGORIES:Live music
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-24-two-ton-tuesday-thanksgiving-show@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Two Ton Tuesday Thanksgiving Show
 DTSTART;TZID=America/Chicago:20261124T203000
 DTEND;TZID=America/Chicago:20261124T223000
@@ -1458,20 +1344,8 @@ DESCRIPTION:Two Tons of Steel's Thanksgiving week show. Gruene Hall asks yo
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-25-spurs-at-trail-blazers@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Spurs at Trail Blazers
-DTSTART;TZID=America/Chicago:20261125T210000
-DTEND;TZID=America/Chicago:20261125T230000
-LOCATION:Away in Portland
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:TV: ESPN\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-sp
- urs/schedule/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-25-shinyribs@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Shinyribs
 DTSTART;TZID=America/Chicago:20261125T200000
 DTEND;TZID=America/Chicago:20261125T220000
@@ -1482,8 +1356,20 @@ DESCRIPTION:Doors: 7pm Opener: Scott Strickland 8pm Shinyribs: 9pm\nhttps:/
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-25-spurs-at-trail-blazers@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Spurs at Trail Blazers
+DTSTART;TZID=America/Chicago:20261125T210000
+DTEND;TZID=America/Chicago:20261125T230000
+LOCATION:Away in Portland
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:TV: ESPN\nhttps://www.cbssports.com/nba/teams/SA/san-antonio-sp
+ urs/schedule/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-26-gruene-turkey-trot-5k-kids-turkey-chase@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Gruene Turkey Trot 5K & Kids Turkey Chase
 DTSTART;TZID=America/Chicago:20261126T083000
 DTEND;TZID=America/Chicago:20261126T103000
@@ -1496,8 +1382,25 @@ DESCRIPTION:Thanksgiving morning 5K through Gruene from Comal Cops for Kids
 CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
+UID:gruene-2026-11-27-photos-with-cowboy-kringle@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Photos with Cowboy Kringle
+DTSTART;TZID=America/Chicago:20261127T100000
+DTEND;TZID=America/Chicago:20261127T120000
+LOCATION:Gruene Historic District
+URL:https://www.gruenetexas.com/event/holidays-in-gruene-photos-with-cowboy
+ -kringle-36/2026-11-27/
+DESCRIPTION:Create a lasting Christmas memory with photos with Cowboy Kring
+ le\, Gruene’s own brand of Santa! Reserve a spot in advance for photo pa
+ ckages\, Christmas cards and other special order items. Photos taken Novem
+ ber 14th and 15th will benefit a local non-profit. Visit…\nhttps://www.g
+ ruenetexas.com/event/holidays-in-gruene-photos-with-cowboy-kringle-36/2026
+ -11-27/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-utsa-vs-tulsa@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:UTSA vs. Tulsa
 DTSTART;TZID=America/Chicago:20261127T110000
 DTEND;TZID=America/Chicago:20261127T130000
@@ -1509,7 +1412,7 @@ CATEGORIES:UTSA football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-texas-at-texas-a-m-lone-star-showdown@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Texas at Texas A&M (Lone Star Showdown)
 DTSTART;TZID=America/Chicago:20261127T183000
 DTEND;TZID=America/Chicago:20261127T203000
@@ -1523,7 +1426,7 @@ CATEGORIES:Longhorns football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-texas-a-m-vs-texas-lone-star-showdown@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Texas A&M vs. Texas (Lone Star Showdown)
 DTSTART;TZID=America/Chicago:20261127T183000
 DTEND;TZID=America/Chicago:20261127T203000
@@ -1534,21 +1437,9 @@ DESCRIPTION:The rivalry game\, the day after Thanksgiving.\nTV: ABC\nhttps:
 CATEGORIES:Texas A&M football
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-27-spurs-vs-lakers@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Spurs vs. Lakers
-DTSTART;TZID=America/Chicago:20261127T203000
-DTEND;TZID=America/Chicago:20261127T223000
-LOCATION:Frost Bank Center\, San Antonio
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:TV: Prime Video\nhttps://www.cbssports.com/nba/teams/SA/san-ant
- onio-spurs/schedule/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-27-aaron-watson-horse-named-texas-tour-w-special-guest-jake-wat
  @nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Aaron Watson: Horse Named Texas Tour w/ special guest Jake Watson
 DTSTART;TZID=America/Chicago:20261127T200000
 DTEND;TZID=America/Chicago:20261127T220000
@@ -1561,21 +1452,20 @@ DESCRIPTION:Doors: 7pm Special Guest: Jake Watson 8pm Aaron Watson: 9:30pm\
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-28-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:New Braunfels Farmers Market
-DTSTART;TZID=America/Chicago:20261128T090000
-DTEND;TZID=America/Chicago:20261128T130000
-LOCATION:New Braunfels Farmers Market\, 186 S Castell Ave
-URL:https://www.visitnbtx.com/directory/new-braunfels-farmers-market
-DESCRIPTION:Local produce\, meats\, eggs\, baked goods and crafts from area
-  growers and makers. Free to attend.\nhttps://www.visitnbtx.com/directory/
- new-braunfels-farmers-market
-CATEGORIES:Markets & arts
+UID:2026-11-27-spurs-vs-lakers@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Spurs vs. Lakers
+DTSTART;TZID=America/Chicago:20261127T203000
+DTEND;TZID=America/Chicago:20261127T223000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:TV: Prime Video\nhttps://www.cbssports.com/nba/teams/SA/san-ant
+ onio-spurs/schedule/
+CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-texas-state-flex-game@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Texas State at Pac-12 opponent (TBA)
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
@@ -1587,8 +1477,21 @@ DESCRIPTION:Regular-season finale. The schedule lists a road "flex" game\;
 CATEGORIES:Texas State football
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-new-braunfels-farmers-market@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:New Braunfels Farmers Market
+DTSTART;TZID=America/Chicago:20261128T090000
+DTEND;TZID=America/Chicago:20261128T130000
+LOCATION:New Braunfels Farmers Market\, 186 S Castell Ave
+URL:https://www.visitnbtx.com/directory/new-braunfels-farmers-market
+DESCRIPTION:Local produce\, meats\, eggs\, baked goods and crafts from area
+  growers and makers. Free to attend.\nhttps://www.visitnbtx.com/directory/
+ new-braunfels-farmers-market
+CATEGORIES:Markets & arts
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-castell-st-market@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Castell St. Market
 DTSTART;TZID=America/Chicago:20261128T090000
 DTEND;TZID=America/Chicago:20261128T130000
@@ -1601,9 +1504,26 @@ DESCRIPTION:Join us every Saturday for a vibrant gathering of local communi
 CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
+UID:gruene-2026-11-28-photos-with-cowboy-kringle@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Photos with Cowboy Kringle
+DTSTART;TZID=America/Chicago:20261128T100000
+DTEND;TZID=America/Chicago:20261128T120000
+LOCATION:Gruene Historic District
+URL:https://www.gruenetexas.com/event/holidays-in-gruene-photos-with-cowboy
+ -kringle-36/2026-11-28/
+DESCRIPTION:Create a lasting Christmas memory with photos with Cowboy Kring
+ le\, Gruene’s own brand of Santa! Reserve a spot in advance for photo pa
+ ckages\, Christmas cards and other special order items. Photos taken Novem
+ ber 14th and 15th will benefit a local non-profit. Visit…\nhttps://www.g
+ ruenetexas.com/event/holidays-in-gruene-photos-with-cowboy-kringle-36/2026
+ -11-28/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-aaron-watson-horse-named-texas-tour-w-special-guest-jake-wat
  @nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Aaron Watson: Horse Named Texas Tour w/ special guest Jake Watson
 DTSTART;TZID=America/Chicago:20261128T210000
 DTEND;TZID=America/Chicago:20261128T230000
@@ -1616,8 +1536,25 @@ DESCRIPTION:Doors: 8pm Special Guest: Jake Watson 9pm Aaron Watson: 10:30pm
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
+UID:gruene-2026-11-29-photos-with-cowboy-kringle@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Photos with Cowboy Kringle
+DTSTART;TZID=America/Chicago:20261129T100000
+DTEND;TZID=America/Chicago:20261129T120000
+LOCATION:Gruene Historic District
+URL:https://www.gruenetexas.com/event/holidays-in-gruene-photos-with-cowboy
+ -kringle-36/2026-11-29/
+DESCRIPTION:Create a lasting Christmas memory with photos with Cowboy Kring
+ le\, Gruene’s own brand of Santa! Reserve a spot in advance for photo pa
+ ckages\, Christmas cards and other special order items. Photos taken Novem
+ ber 14th and 15th will benefit a local non-profit. Visit…\nhttps://www.g
+ ruenetexas.com/event/holidays-in-gruene-photos-with-cowboy-kringle-36/2026
+ -11-29/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-spurs-vs-celtics@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs vs. Celtics
 DTSTART;TZID=America/Chicago:20261129T150000
 DTEND;TZID=America/Chicago:20261129T170000
@@ -1629,7 +1566,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-spurs-at-bucks@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs at Bucks
 DTSTART;TZID=America/Chicago:20261130T190000
 DTEND;TZID=America/Chicago:20261130T210000
@@ -1641,7 +1578,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-mariachi-herencia-de-mexico-a-mariachi-christmas@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Mariachi Herencia de México: A Mariachi Christmas
 DTSTART;TZID=America/Chicago:20261201T193000
 DTEND;TZID=America/Chicago:20261201T213000
@@ -1652,7 +1589,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-wassailfest@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Wassailfest
 DTSTART;TZID=America/Chicago:20261203T180000
 DTEND;TZID=America/Chicago:20261203T210000
@@ -1666,7 +1603,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-spurs-vs-raptors@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs vs. Raptors
 DTSTART;TZID=America/Chicago:20261203T190000
 DTEND;TZID=America/Chicago:20261203T210000
@@ -1678,7 +1615,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-grand-ol-christmas-show@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Grand Ol' Christmas Show
 DTSTART;TZID=America/Chicago:20261204T193000
 DTEND;TZID=America/Chicago:20261204T213000
@@ -1690,76 +1627,8 @@ DESCRIPTION:Country\, gospel and Christmas classics in the style of a vinta
 CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-05-gruene-christmas-market-days@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Gruene Christmas Market Days
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261207
-LOCATION:Gruene Historic District
-URL:https://www.thecraftmap.com/fairs/texas/new-braunfels/holiday-craft-fai
- rs
-DESCRIPTION:The holiday edition of Market Days: nearly 100 vendors with gif
- ts\, crafts and packaged Texas foods.\nDaily 10:00–17:00\nhttps://www.th
- ecraftmap.com/fairs/texas/new-braunfels/holiday-craft-fairs
-CATEGORIES:Holiday & seasonal
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-05-sec-championship-game@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:SEC Championship Game
-DTSTART;TZID=America/Chicago:20261205T150000
-DTEND;TZID=America/Chicago:20261205T170000
-LOCATION:Mercedes-Benz Stadium\, Atlanta
-URL:https://en.wikipedia.org/wiki/2026_Southeastern_Conference_football_sea
- son
-DESCRIPTION:The top two SEC teams meet for the conference title.\nTV: ABC\n
- https://en.wikipedia.org/wiki/2026_Southeastern_Conference_football_season
-CATEGORIES:Longhorns football
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-05-gruene-town-lighting-cowboy-kringle-43rd-annual@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Gruene Town Lighting & Cowboy Kringle (43rd annual)
-DTSTART;TZID=America/Chicago:20261205T170000
-DTEND;TZID=America/Chicago:20261205T210000
-LOCATION:Gruene Historic District
-URL:https://www.gruenetexas.com/event/holidays-in-gruene-43rd-annual-gruene
- -town-lighting/
-DESCRIPTION:A brass band plays at 5 PM\, then at 6 PM Cowboy Kringle rides 
- into town on horseback\, hands out candy canes and the town lights come on
- . Free.\nhttps://www.gruenetexas.com/event/holidays-in-gruene-43rd-annual-
- gruene-town-lighting/
-CATEGORIES:Holiday & seasonal
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-05-grand-ol-christmas-show@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Grand Ol' Christmas Show
-DTSTART;TZID=America/Chicago:20261205T193000
-DTEND;TZID=America/Chicago:20261205T213000
-LOCATION:Brauntex Theatre\, 290 W San Antonio St
-URL:https://concertfix.com/concerts/new-braunfels-tx+december-2026
-DESCRIPTION:Country\, gospel and Christmas classics in the style of a vinta
- ge holiday special.\nhttps://concertfix.com/concerts/new-braunfels-tx+dece
- mber-2026
-CATEGORIES:Holiday & seasonal
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-05-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:New Braunfels Farmers Market
-DTSTART;TZID=America/Chicago:20261205T090000
-DTEND;TZID=America/Chicago:20261205T130000
-LOCATION:New Braunfels Farmers Market\, 186 S Castell Ave
-URL:https://www.visitnbtx.com/directory/new-braunfels-farmers-market
-DESCRIPTION:Local produce\, meats\, eggs\, baked goods and crafts from area
-  growers and makers. Free to attend.\nhttps://www.visitnbtx.com/directory/
- new-braunfels-farmers-market
-CATEGORIES:Markets & arts
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-12-05-bulky-goods-drop-off@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:City Bulky Goods Drop Off
 DTSTART;TZID=America/Chicago:20261205T070000
 DTEND;TZID=America/Chicago:20261205T110000
@@ -1774,8 +1643,127 @@ DESCRIPTION:Free for New Braunfels residents. Bring a photo ID and a curren
 CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-05-new-braunfels-farmers-market@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:New Braunfels Farmers Market
+DTSTART;TZID=America/Chicago:20261205T090000
+DTEND;TZID=America/Chicago:20261205T130000
+LOCATION:New Braunfels Farmers Market\, 186 S Castell Ave
+URL:https://www.visitnbtx.com/directory/new-braunfels-farmers-market
+DESCRIPTION:Local produce\, meats\, eggs\, baked goods and crafts from area
+  growers and makers. Free to attend.\nhttps://www.visitnbtx.com/directory/
+ new-braunfels-farmers-market
+CATEGORIES:Markets & arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-gruene-christmas-market-days@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Gruene Christmas Market Days
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+LOCATION:Gruene Historic District
+URL:https://www.thecraftmap.com/fairs/texas/new-braunfels/holiday-craft-fai
+ rs
+DESCRIPTION:The holiday edition of Market Days: nearly 100 vendors with gif
+ ts\, crafts and packaged Texas foods.\nDaily 10:00–17:00\nhttps://www.th
+ ecraftmap.com/fairs/texas/new-braunfels/holiday-craft-fairs
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:gruene-2026-12-05-photos-with-cowboy-kringle@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Photos with Cowboy Kringle
+DTSTART;TZID=America/Chicago:20261205T100000
+DTEND;TZID=America/Chicago:20261205T120000
+LOCATION:Gruene Historic District
+URL:https://www.gruenetexas.com/event/holidays-in-gruene-photos-with-cowboy
+ -kringle-36/2026-12-05/
+DESCRIPTION:Create a lasting Christmas memory with photos with Cowboy Kring
+ le\, Gruene’s own brand of Santa! Reserve a spot in advance for photo pa
+ ckages\, Christmas cards and other special order items. Photos taken Novem
+ ber 14th and 15th will benefit a local non-profit. Visit…\nhttps://www.g
+ ruenetexas.com/event/holidays-in-gruene-photos-with-cowboy-kringle-36/2026
+ -12-05/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:gruene-2026-12-05-25th-annual-gruene-pony-express-ride@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:25th Annual Gruene Pony Express Ride
+DTSTART;TZID=America/Chicago:20261205T100000
+DTEND;TZID=America/Chicago:20261205T120000
+LOCATION:Gruene Historic District
+URL:https://www.gruenetexas.com/event/holidays-in-gruene-25th-annual-gruene
+ -pony-express-ride/
+DESCRIPTION:Gruene Historic District will receive a Pony Express rider from
+  the Heritage Trail Ride Association of New Braunfels at 10am. Relay rider
+ s carry a “Christmas Greetings” message from the Governor of Texas. A 
+ temporary Post Office will be set up next to Gruene Outfitters in Gruene
+ …\nhttps://www.gruenetexas.com/event/holidays-in-gruene-25th-annual-grue
+ ne-pony-express-ride/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-sec-championship-game@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:SEC Championship Game
+DTSTART;TZID=America/Chicago:20261205T150000
+DTEND;TZID=America/Chicago:20261205T170000
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+URL:https://en.wikipedia.org/wiki/2026_Southeastern_Conference_football_sea
+ son
+DESCRIPTION:The top two SEC teams meet for the conference title.\nTV: ABC\n
+ https://en.wikipedia.org/wiki/2026_Southeastern_Conference_football_season
+CATEGORIES:Longhorns football
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-gruene-town-lighting-cowboy-kringle-43rd-annual@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Gruene Town Lighting & Cowboy Kringle (43rd annual)
+DTSTART;TZID=America/Chicago:20261205T170000
+DTEND;TZID=America/Chicago:20261205T210000
+LOCATION:Gruene Historic District
+URL:https://www.gruenetexas.com/event/holidays-in-gruene-43rd-annual-gruene
+ -town-lighting/
+DESCRIPTION:A brass band plays at 5 PM\, then at 6 PM Cowboy Kringle rides 
+ into town on horseback\, hands out candy canes and the town lights come on
+ . Free.\nhttps://www.gruenetexas.com/event/holidays-in-gruene-43rd-annual-
+ gruene-town-lighting/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-grand-ol-christmas-show@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Grand Ol' Christmas Show
+DTSTART;TZID=America/Chicago:20261205T193000
+DTEND;TZID=America/Chicago:20261205T213000
+LOCATION:Brauntex Theatre\, 290 W San Antonio St
+URL:https://concertfix.com/concerts/new-braunfels-tx+december-2026
+DESCRIPTION:Country\, gospel and Christmas classics in the style of a vinta
+ ge holiday special.\nhttps://concertfix.com/concerts/new-braunfels-tx+dece
+ mber-2026
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:gruene-2026-12-06-photos-with-cowboy-kringle@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Photos with Cowboy Kringle
+DTSTART;TZID=America/Chicago:20261206T100000
+DTEND;TZID=America/Chicago:20261206T120000
+LOCATION:Gruene Historic District
+URL:https://www.gruenetexas.com/event/holidays-in-gruene-photos-with-cowboy
+ -kringle-36/2026-12-06/
+DESCRIPTION:Create a lasting Christmas memory with photos with Cowboy Kring
+ le\, Gruene’s own brand of Santa! Reserve a spot in advance for photo pa
+ ckages\, Christmas cards and other special order items. Photos taken Novem
+ ber 14th and 15th will benefit a local non-profit. Visit…\nhttps://www.g
+ ruenetexas.com/event/holidays-in-gruene-photos-with-cowboy-kringle-36/2026
+ -12-06/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-10-under-the-streetlamp@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Under the Streetlamp
 DTSTART;TZID=America/Chicago:20261210T193000
 DTEND;TZID=America/Chicago:20261210T213000
@@ -1786,7 +1774,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-texas-cellos@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Texas Cellos
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
@@ -1798,8 +1786,38 @@ DESCRIPTION:Show time not posted.\nhttps://concertfix.com/tours/texas-cello
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
+UID:gruene-2026-12-12-annual-jingle-bell-run-walk@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Annual Jingle Bell Run/Walk
+DTSTART;TZID=America/Chicago:20261212T080000
+DTEND;TZID=America/Chicago:20261212T100000
+LOCATION:Gruene Historic District
+URL:https://www.gruenetexas.com/event/holidays-in-gruene-annual-jingle-bell
+ -run-walk-4/
+DESCRIPTION:This 5K Run/Walk and Kid’s Ks event benefits St. Jude’s Ran
+ ch for Children. Awards will be given to the top male and female finisher\
+ , the top male and female masters\, the top 3 finishers in each age group 
+ (All ages – 5 year increments through 75+)\, and the top three wheelchai
+ r…\nhttps://www.gruenetexas.com/event/holidays-in-gruene-annual-jingle-b
+ ell-run-walk-4/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-new-braunfels-farmers-market@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:New Braunfels Farmers Market
+DTSTART;TZID=America/Chicago:20261212T090000
+DTEND;TZID=America/Chicago:20261212T130000
+LOCATION:New Braunfels Farmers Market\, 186 S Castell Ave
+URL:https://www.visitnbtx.com/directory/new-braunfels-farmers-market
+DESCRIPTION:Local produce\, meats\, eggs\, baked goods and crafts from area
+  growers and makers. Free to attend.\nhttps://www.visitnbtx.com/directory/
+ new-braunfels-farmers-market
+CATEGORIES:Markets & arts
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-12-hill-country-holiday@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Hill Country Holiday
 DTSTART;TZID=America/Chicago:20261212T100000
 DTEND;TZID=America/Chicago:20261212T130000
@@ -1807,11 +1825,28 @@ LOCATION:Veramendi
 URL:https://lifeatveramendi.org/events/
 DESCRIPTION:Veramendi's holiday signature event.\nhttps://lifeatveramendi.o
  rg/events/
-CATEGORIES:Veramendi
+CATEGORIES:My neighborhood
+END:VEVENT
+BEGIN:VEVENT
+UID:gruene-2026-12-12-photos-with-cowboy-kringle@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Photos with Cowboy Kringle
+DTSTART;TZID=America/Chicago:20261212T100000
+DTEND;TZID=America/Chicago:20261212T120000
+LOCATION:Gruene Historic District
+URL:https://www.gruenetexas.com/event/holidays-in-gruene-photos-with-cowboy
+ -kringle-36/2026-12-12/
+DESCRIPTION:Create a lasting Christmas memory with photos with Cowboy Kring
+ le\, Gruene’s own brand of Santa! Reserve a spot in advance for photo pa
+ ckages\, Christmas cards and other special order items. Photos taken Novem
+ ber 14th and 15th will benefit a local non-profit. Visit…\nhttps://www.g
+ ruenetexas.com/event/holidays-in-gruene-photos-with-cowboy-kringle-36/2026
+ -12-12/
+CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-an-evening-with-peter-billingsley-a-christmas-st@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:An Evening with Peter Billingsley + A Christmas Story
 DTSTART;TZID=America/Chicago:20261212T193000
 DTEND;TZID=America/Chicago:20261212T213000
@@ -1825,21 +1860,25 @@ DESCRIPTION:Screening of the film with Ralphie himself.\nhttps://www.tickpi
 CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-12-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:New Braunfels Farmers Market
-DTSTART;TZID=America/Chicago:20261212T090000
-DTEND;TZID=America/Chicago:20261212T130000
-LOCATION:New Braunfels Farmers Market\, 186 S Castell Ave
-URL:https://www.visitnbtx.com/directory/new-braunfels-farmers-market
-DESCRIPTION:Local produce\, meats\, eggs\, baked goods and crafts from area
-  growers and makers. Free to attend.\nhttps://www.visitnbtx.com/directory/
- new-braunfels-farmers-market
-CATEGORIES:Markets & arts
+UID:gruene-2026-12-13-photos-with-cowboy-kringle@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Photos with Cowboy Kringle
+DTSTART;TZID=America/Chicago:20261213T100000
+DTEND;TZID=America/Chicago:20261213T120000
+LOCATION:Gruene Historic District
+URL:https://www.gruenetexas.com/event/holidays-in-gruene-photos-with-cowboy
+ -kringle-36/2026-12-13/
+DESCRIPTION:Create a lasting Christmas memory with photos with Cowboy Kring
+ le\, Gruene’s own brand of Santa! Reserve a spot in advance for photo pa
+ ckages\, Christmas cards and other special order items. Photos taken Novem
+ ber 14th and 15th will benefit a local non-profit. Visit…\nhttps://www.g
+ ruenetexas.com/event/holidays-in-gruene-photos-with-cowboy-kringle-36/2026
+ -12-13/
+CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-spurs-vs-clippers@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs vs. Clippers
 DTSTART;TZID=America/Chicago:20261213T180000
 DTEND;TZID=America/Chicago:20261213T200000
@@ -1851,7 +1890,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-spurs-at-cavaliers@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs at Cavaliers
 DTSTART;TZID=America/Chicago:20261215T190000
 DTEND;TZID=America/Chicago:20261215T210000
@@ -1863,7 +1902,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-spurs-at-raptors@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs at Raptors
 DTSTART;TZID=America/Chicago:20261216T183000
 DTEND;TZID=America/Chicago:20261216T203000
@@ -1874,8 +1913,27 @@ DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
+UID:gruene-2026-12-17-come-and-taste-it-meet-texas-best-winemakers-brewe@nb
+ -events
+DTSTAMP:20261119T000319Z
+SUMMARY:COME AND TASTE IT – Meet Texas’ Best Winemakers & Brewers “HO
+ LIDAY EDITION”
+DTSTART;TZID=America/Chicago:20261217T170000
+DTEND;TZID=America/Chicago:20261217T190000
+LOCATION:Gruene Historic District
+URL:https://www.gruenetexas.com/event/come-and-taste-it-meet-texas-best-win
+ emakers-brewers-holiday-edition-3/
+DESCRIPTION:Join us in The Grapevine Garden to taste some of our favorite T
+ exas wine and craft beers! Free and open to the public\, this event featur
+ es live music and complimentary tastings by up to 3 wineries and 3 breweri
+ es hand-selected by the Grapevine staff. It’s the perfect opportunity…
+ \nhttps://www.gruenetexas.com/event/come-and-taste-it-meet-texas-best-wine
+ makers-brewers-holiday-edition-3/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-17-ballet-texas-presents-the-nutcracker@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Ballet Texas Presents the Nutcracker
 DTSTART;TZID=America/Chicago:20261217T190000
 DTEND;TZID=America/Chicago:20261217T210000
@@ -1889,20 +1947,8 @@ DESCRIPTION:Nothing captures the holiday magic better than Ballet Texas’
 CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-18-food-truck-friday-cousins-maine-lobster@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Food Truck Friday: Cousins Maine Lobster
-DTSTART;TZID=America/Chicago:20261218T170000
-DTEND;TZID=America/Chicago:20261218T200000
-LOCATION:Oak Run Pkwy\, in front of Winslet Provisions
-URL:https://lifeatveramendi.org/events/
-DESCRIPTION:Grab dinner and eat at The Ledge with neighbors.\nhttps://lifea
- tveramendi.org/events/
-CATEGORIES:Veramendi
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-12-18-spurs-vs-bulls@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs vs. Bulls
 DTSTART;TZID=America/Chicago:20261218T190000
 DTEND;TZID=America/Chicago:20261218T210000
@@ -1914,7 +1960,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-ballet-texas-presents-the-nutcracker@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Ballet Texas Presents the Nutcracker
 DTSTART;TZID=America/Chicago:20261218T190000
 DTEND;TZID=America/Chicago:20261218T210000
@@ -1929,7 +1975,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20261219T090000
 DTEND;TZID=America/Chicago:20261219T130000
@@ -1941,8 +1987,25 @@ DESCRIPTION:Local produce\, meats\, eggs\, baked goods and crafts from area
 CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
+UID:gruene-2026-12-19-photos-with-cowboy-kringle@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Photos with Cowboy Kringle
+DTSTART;TZID=America/Chicago:20261219T100000
+DTEND;TZID=America/Chicago:20261219T120000
+LOCATION:Gruene Historic District
+URL:https://www.gruenetexas.com/event/holidays-in-gruene-photos-with-cowboy
+ -kringle-36/2026-12-19/
+DESCRIPTION:Create a lasting Christmas memory with photos with Cowboy Kring
+ le\, Gruene’s own brand of Santa! Reserve a spot in advance for photo pa
+ ckages\, Christmas cards and other special order items. Photos taken Novem
+ ber 14th and 15th will benefit a local non-profit. Visit…\nhttps://www.g
+ ruenetexas.com/event/holidays-in-gruene-photos-with-cowboy-kringle-36/2026
+ -12-19/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-19-ballet-texas-presents-the-nutcracker@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Ballet Texas Presents the Nutcracker
 DTSTART;TZID=America/Chicago:20261219T140000
 DTEND;TZID=America/Chicago:20261219T160000
@@ -1956,20 +2019,25 @@ DESCRIPTION:Nothing captures the holiday magic better than Ballet Texas’
 CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-20-spurs-at-pelicans@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Spurs at Pelicans
-DTSTART;TZID=America/Chicago:20261220T180000
-DTEND;TZID=America/Chicago:20261220T200000
-LOCATION:Away in New Orleans
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
-CATEGORIES:Spurs basketball
+UID:gruene-2026-12-20-photos-with-cowboy-kringle@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Photos with Cowboy Kringle
+DTSTART;TZID=America/Chicago:20261220T100000
+DTEND;TZID=America/Chicago:20261220T120000
+LOCATION:Gruene Historic District
+URL:https://www.gruenetexas.com/event/holidays-in-gruene-photos-with-cowboy
+ -kringle-36/2026-12-20/
+DESCRIPTION:Create a lasting Christmas memory with photos with Cowboy Kring
+ le\, Gruene’s own brand of Santa! Reserve a spot in advance for photo pa
+ ckages\, Christmas cards and other special order items. Photos taken Novem
+ ber 14th and 15th will benefit a local non-profit. Visit…\nhttps://www.g
+ ruenetexas.com/event/holidays-in-gruene-photos-with-cowboy-kringle-36/2026
+ -12-20/
+CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-ballet-texas-presents-the-nutcracker@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Ballet Texas Presents the Nutcracker
 DTSTART;TZID=America/Chicago:20261220T140000
 DTEND;TZID=America/Chicago:20261220T160000
@@ -1983,8 +2051,20 @@ DESCRIPTION:Nothing captures the holiday magic better than Ballet Texas’
 CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-20-spurs-at-pelicans@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Spurs at Pelicans
+DTSTART;TZID=America/Chicago:20261220T180000
+DTEND;TZID=America/Chicago:20261220T200000
+LOCATION:Away in New Orleans
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-21-spurs-vs-bucks@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs vs. Bucks
 DTSTART;TZID=America/Chicago:20261221T190000
 DTEND;TZID=America/Chicago:20261221T210000
@@ -1996,7 +2076,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23-spurs-at-nets@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs at Nets
 DTSTART;TZID=America/Chicago:20261223T183000
 DTEND;TZID=America/Chicago:20261223T203000
@@ -2008,7 +2088,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-25-spurs-at-knicks@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs at Knicks
 DTSTART;TZID=America/Chicago:20261225T110000
 DTEND;TZID=America/Chicago:20261225T130000
@@ -2020,7 +2100,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-26-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20261226T090000
 DTEND;TZID=America/Chicago:20261226T130000
@@ -2033,7 +2113,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-27-spurs-vs-hawks@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs vs. Hawks
 DTSTART;TZID=America/Chicago:20261227T180000
 DTEND;TZID=America/Chicago:20261227T200000
@@ -2045,7 +2125,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-29-spurs-at-grizzlies@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs at Grizzlies
 DTSTART;TZID=America/Chicago:20261229T190000
 DTEND;TZID=America/Chicago:20261229T210000
@@ -2057,7 +2137,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-spurs-at-hornets@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs at Hornets
 DTSTART;TZID=America/Chicago:20261231T120000
 DTEND;TZID=America/Chicago:20261231T140000
@@ -2069,7 +2149,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-new-years-eve-with-pat-green@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:New Year's Eve with Pat Green
 DTSTART;TZID=America/Chicago:20261231T180000
 DTEND;TZID=America/Chicago:20261231T200000
@@ -2082,8 +2162,21 @@ DESCRIPTION:Pat Green rings in 2027 at Gruene Hall with an early show and a
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
+UID:gruene-2027-01-01-hair-of-the-dog-day@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Hair of the Dog Day
+DTSTART;TZID=America/Chicago:20270101T110000
+DTEND;TZID=America/Chicago:20270101T130000
+LOCATION:Gruene Historic District
+URL:https://www.gruenetexas.com/event/hair-of-the-dog-day-4/
+DESCRIPTION:| FREE! Live music all day at Gruene Hall on New Year’s Day. 
+ Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live\nhttps:
+ //www.gruenetexas.com/event/hair-of-the-dog-day-4/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-01-spurs-at-wizards@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs at Wizards
 DTSTART;TZID=America/Chicago:20270101T160000
 DTEND;TZID=America/Chicago:20270101T180000
@@ -2095,7 +2188,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-02-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20270102T090000
 DTEND;TZID=America/Chicago:20270102T130000
@@ -2108,7 +2201,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-02-david-lewis@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:David Lewis
 DTSTART;TZID=America/Chicago:20270102T210000
 DTEND;TZID=America/Chicago:20270102T230000
@@ -2119,7 +2212,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-03-spurs-at-timberwolves@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs at Timberwolves
 DTSTART;TZID=America/Chicago:20270103T180000
 DTEND;TZID=America/Chicago:20270103T200000
@@ -2131,7 +2224,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-spurs-vs-pacers@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs vs. Pacers
 DTSTART;TZID=America/Chicago:20270106T190000
 DTEND;TZID=America/Chicago:20270106T210000
@@ -2142,20 +2235,8 @@ DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-08-spurs-vs-grizzlies@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Spurs vs. Grizzlies
-DTSTART;TZID=America/Chicago:20270108T190000
-DTEND;TZID=America/Chicago:20270108T210000
-LOCATION:Frost Bank Center\, San Antonio
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2027-01-08-new-braunfels-antiques-extravaganza@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:New Braunfels Antiques Extravaganza
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270111
@@ -2170,7 +2251,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-huser-brothers@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Huser Brothers
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
@@ -2180,8 +2261,31 @@ DESCRIPTION:https://gruenehall.com/calendar/
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-08-spurs-vs-grizzlies@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Spurs vs. Grizzlies
+DTSTART;TZID=America/Chicago:20270108T190000
+DTEND;TZID=America/Chicago:20270108T210000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-09-sammy-arriaga@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Sammy Arriaga
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+LOCATION:Gruene Hall\, 1281 Gruene Rd
+URL:https://gruenehall.com/calendar/
+DESCRIPTION:https://gruenehall.com/calendar/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-09-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20270109T090000
 DTEND;TZID=America/Chicago:20270109T130000
@@ -2193,31 +2297,8 @@ DESCRIPTION:Local produce\, meats\, eggs\, baked goods and crafts from area
 CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-09-sammy-arriaga@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Sammy Arriaga
-DTSTART;VALUE=DATE:20270109
-DTEND;VALUE=DATE:20270110
-LOCATION:Gruene Hall\, 1281 Gruene Rd
-URL:https://gruenehall.com/calendar/
-DESCRIPTION:https://gruenehall.com/calendar/
-CATEGORIES:Live music
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-01-10-spurs-at-hawks@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Spurs at Hawks
-DTSTART;TZID=America/Chicago:20270110T140000
-DTEND;TZID=America/Chicago:20270110T160000
-LOCATION:Away in Atlanta
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2027-01-10-time-travel-half-marathon@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Time Travel Half Marathon
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
@@ -2231,8 +2312,20 @@ DESCRIPTION:Half marathon and shorter distances through the Hill Country. R
 CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-10-spurs-at-hawks@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Spurs at Hawks
+DTSTART;TZID=America/Chicago:20270110T140000
+DTEND;TZID=America/Chicago:20270110T160000
+LOCATION:Away in Atlanta
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-14-spurs-vs-pelicans-nba-paris-game@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs vs. Pelicans (NBA Paris Game)
 DTSTART;TZID=America/Chicago:20270114T130000
 DTEND;TZID=America/Chicago:20270114T150000
@@ -2245,7 +2338,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-kruse-brothers@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Kruse Brothers
 DTSTART;TZID=America/Chicago:20270115T200000
 DTEND;TZID=America/Chicago:20270115T220000
@@ -2255,21 +2348,8 @@ DESCRIPTION:https://gruenehall.com/calendar/
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-16-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:New Braunfels Farmers Market
-DTSTART;TZID=America/Chicago:20270116T090000
-DTEND;TZID=America/Chicago:20270116T130000
-LOCATION:New Braunfels Farmers Market\, 186 S Castell Ave
-URL:https://www.visitnbtx.com/directory/new-braunfels-farmers-market
-DESCRIPTION:Local produce\, meats\, eggs\, baked goods and crafts from area
-  growers and makers. Free to attend.\nhttps://www.visitnbtx.com/directory/
- new-braunfels-farmers-market
-CATEGORIES:Markets & arts
-END:VEVENT
-BEGIN:VEVENT
 UID:2027-01-16-retromania-comic-con@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Retromania Comic-Con
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270118
@@ -2282,8 +2362,21 @@ DESCRIPTION:Comics\, toys\, retro games and guests at the Civic Center. Kid
 CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-16-new-braunfels-farmers-market@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:New Braunfels Farmers Market
+DTSTART;TZID=America/Chicago:20270116T090000
+DTEND;TZID=America/Chicago:20270116T130000
+LOCATION:New Braunfels Farmers Market\, 186 S Castell Ave
+URL:https://www.visitnbtx.com/directory/new-braunfels-farmers-market
+DESCRIPTION:Local produce\, meats\, eggs\, baked goods and crafts from area
+  growers and makers. Free to attend.\nhttps://www.visitnbtx.com/directory/
+ new-braunfels-farmers-market
+CATEGORIES:Markets & arts
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-16-gary-p-nunn@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Gary P. Nunn
 DTSTART;TZID=America/Chicago:20270116T193000
 DTEND;TZID=America/Chicago:20270116T213000
@@ -2295,7 +2388,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-16-cole-phillips@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Cole Phillips
 DTSTART;TZID=America/Chicago:20270116T210000
 DTEND;TZID=America/Chicago:20270116T230000
@@ -2306,7 +2399,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-17-spurs-at-pelicans-nba-manchester-game@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs at Pelicans (NBA Manchester Game)
 DTSTART;TZID=America/Chicago:20270117T093000
 DTEND;TZID=America/Chicago:20270117T113000
@@ -2318,7 +2411,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-spurs-vs-heat@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs vs. Heat
 DTSTART;TZID=America/Chicago:20270120T203000
 DTEND;TZID=America/Chicago:20270120T223000
@@ -2330,7 +2423,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-the-zmed-brothers-everly-brothers-experience@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:The Zmed Brothers: Everly Brothers Experience
 DTSTART;TZID=America/Chicago:20270121T193000
 DTEND;TZID=America/Chicago:20270121T213000
@@ -2342,7 +2435,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-spurs-vs-timberwolves@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs vs. Timberwolves
 DTSTART;TZID=America/Chicago:20270122T203000
 DTEND;TZID=America/Chicago:20270122T223000
@@ -2354,7 +2447,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20270123T090000
 DTEND;TZID=America/Chicago:20270123T130000
@@ -2367,7 +2460,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-buckets-n-boards@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Buckets N Boards
 DTSTART;TZID=America/Chicago:20270123T150000
 DTEND;TZID=America/Chicago:20270123T170000
@@ -2379,7 +2472,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-pecos-the-rooftops@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Pecos & the Rooftops
 DTSTART;TZID=America/Chicago:20270123T210000
 DTEND;TZID=America/Chicago:20270123T230000
@@ -2389,20 +2482,8 @@ DESCRIPTION:https://gruenehall.com/calendar/
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-24-spurs-vs-trail-blazers@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Spurs vs. Trail Blazers
-DTSTART;TZID=America/Chicago:20270124T143000
-DTEND;TZID=America/Chicago:20270124T163000
-LOCATION:Frost Bank Center\, San Antonio
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2027-01-24-das-dreizehn-eins-half-marathon@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Das Dreizehn.Eins Half Marathon
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
@@ -2415,8 +2496,20 @@ DESCRIPTION:"Thirteen point one" in German: New Braunfels' own half maratho
 CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-24-spurs-vs-trail-blazers@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Spurs vs. Trail Blazers
+DTSTART;TZID=America/Chicago:20270124T143000
+DTEND;TZID=America/Chicago:20270124T163000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-26-spurs-vs-rockets@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs vs. Rockets
 DTSTART;TZID=America/Chicago:20270126T190000
 DTEND;TZID=America/Chicago:20270126T210000
@@ -2428,7 +2521,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-spurs-vs-hornets@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs vs. Hornets
 DTSTART;TZID=America/Chicago:20270127T190000
 DTEND;TZID=America/Chicago:20270127T210000
@@ -2439,8 +2532,19 @@ DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
 CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-28-bill-murray-his-blood-brothers@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Bill Murray & His Blood Brothers
+DTSTART;TZID=America/Chicago:20270128T190000
+DTEND;TZID=America/Chicago:20270128T210000
+LOCATION:Gruene Hall\, 1281 Gruene Rd
+URL:https://gruenehall.com/calendar/
+DESCRIPTION:https://gruenehall.com/calendar/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-28-liverpool-legends-the-complete-beatles-experience@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Liverpool Legends: The Complete Beatles Experience
 DTSTART;TZID=America/Chicago:20270128T193000
 DTEND;TZID=America/Chicago:20270128T213000
@@ -2451,19 +2555,8 @@ DESCRIPTION:Time: Dates from ticket listings\; confirm at brauntex.org\nhtt
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-28-bill-murray-his-blood-brothers@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Bill Murray & His Blood Brothers
-DTSTART;TZID=America/Chicago:20270128T190000
-DTEND;TZID=America/Chicago:20270128T210000
-LOCATION:Gruene Hall\, 1281 Gruene Rd
-URL:https://gruenehall.com/calendar/
-DESCRIPTION:https://gruenehall.com/calendar/
-CATEGORIES:Live music
-END:VEVENT
-BEGIN:VEVENT
 UID:2027-01-29-the-bellamy-brothers@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:The Bellamy Brothers
 DTSTART;TZID=America/Chicago:20270129T193000
 DTEND;TZID=America/Chicago:20270129T213000
@@ -2474,20 +2567,8 @@ DESCRIPTION:Time: Dates from ticket listings\; confirm at brauntex.org\nhtt
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-30-spurs-at-warriors@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Spurs at Warriors
-DTSTART;TZID=America/Chicago:20270130T163000
-DTEND;TZID=America/Chicago:20270130T183000
-LOCATION:Away in San Francisco
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2027-01-30-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20270130T090000
 DTEND;TZID=America/Chicago:20270130T130000
@@ -2499,9 +2580,21 @@ DESCRIPTION:Local produce\, meats\, eggs\, baked goods and crafts from area
 CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-30-spurs-at-warriors@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Spurs at Warriors
+DTSTART;TZID=America/Chicago:20270130T163000
+DTEND;TZID=America/Chicago:20270130T183000
+LOCATION:Away in San Francisco
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-30-a-tribute-to-the-piano-men-jerry-lee-elton-joel-and-more@nb-
  events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:A Tribute to the Piano-Men: Jerry Lee\, Elton\, Joel and More!
 DTSTART;TZID=America/Chicago:20270130T193000
 DTEND;TZID=America/Chicago:20270130T213000
@@ -2517,7 +2610,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-spurs-at-warriors@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs at Warriors
 DTSTART;TZID=America/Chicago:20270201T210000
 DTEND;TZID=America/Chicago:20270201T230000
@@ -2529,7 +2622,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-spurs-at-clippers@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs at Clippers
 DTSTART;TZID=America/Chicago:20270202T213000
 DTEND;TZID=America/Chicago:20270202T233000
@@ -2541,7 +2634,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-spurs-vs-magic@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs vs. Magic
 DTSTART;TZID=America/Chicago:20270204T190000
 DTEND;TZID=America/Chicago:20270204T210000
@@ -2554,7 +2647,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-a-tribute-to-the-music-memories-of-tony-bennett-starring-ste
  @nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:A Tribute to the Music & Memories of Tony Bennett starring Steve Le
  eds
 DTSTART;TZID=America/Chicago:20270204T193000
@@ -2571,7 +2664,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-sons-of-the-pioneers@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Sons of the Pioneers
 DTSTART;TZID=America/Chicago:20270205T193000
 DTEND;TZID=America/Chicago:20270205T213000
@@ -2582,20 +2675,8 @@ DESCRIPTION:Time: Dates from ticket listings\; confirm at brauntex.org\nhtt
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-06-spurs-vs-lakers@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Spurs vs. Lakers
-DTSTART;TZID=America/Chicago:20270206T193000
-DTEND;TZID=America/Chicago:20270206T213000
-LOCATION:Frost Bank Center\, San Antonio
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2027-02-06-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20270206T090000
 DTEND;TZID=America/Chicago:20270206T130000
@@ -2607,8 +2688,20 @@ DESCRIPTION:Local produce\, meats\, eggs\, baked goods and crafts from area
 CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-02-06-spurs-vs-lakers@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Spurs vs. Lakers
+DTSTART;TZID=America/Chicago:20270206T193000
+DTEND;TZID=America/Chicago:20270206T213000
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-02-06-uptown-a-celebration-of-motown-soul@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Uptown: A Celebration of Motown & Soul
 DTSTART;TZID=America/Chicago:20270206T193000
 DTEND;TZID=America/Chicago:20270206T213000
@@ -2623,7 +2716,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-spurs-at-mavericks@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs at Mavericks
 DTSTART;TZID=America/Chicago:20270209T190000
 DTEND;TZID=America/Chicago:20270209T210000
@@ -2635,7 +2728,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-spurs-at-thunder@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs at Thunder
 DTSTART;TZID=America/Chicago:20270211T203000
 DTEND;TZID=America/Chicago:20270211T223000
@@ -2647,7 +2740,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-the-fabulous-equinox-orchestra@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:The Fabulous Equinox Orchestra
 DTSTART;TZID=America/Chicago:20270212T193000
 DTEND;TZID=America/Chicago:20270212T213000
@@ -2660,20 +2753,8 @@ DESCRIPTION:Sponsored by Spotlight Concessions Led by Jeremy Davis and Clay
 CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-13-spurs-at-magic@nb-events
-DTSTAMP:20261118T103928Z
-SUMMARY:Spurs at Magic
-DTSTART;TZID=America/Chicago:20270213T180000
-DTEND;TZID=America/Chicago:20270213T200000
-LOCATION:Away in Orlando
-URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
-DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
- le/
-CATEGORIES:Spurs basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2027-02-13-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20270213T090000
 DTEND;TZID=America/Chicago:20270213T130000
@@ -2685,8 +2766,20 @@ DESCRIPTION:Local produce\, meats\, eggs\, baked goods and crafts from area
 CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-02-13-spurs-at-magic@nb-events
+DTSTAMP:20261119T000319Z
+SUMMARY:Spurs at Magic
+DTSTART;TZID=America/Chicago:20270213T180000
+DTEND;TZID=America/Chicago:20270213T200000
+LOCATION:Away in Orlando
+URL:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/
+DESCRIPTION:https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedu
+ le/
+CATEGORIES:Spurs basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-02-13-gino-vannelli@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Gino Vannelli
 DTSTART;TZID=America/Chicago:20270213T193000
 DTEND;TZID=America/Chicago:20270213T213000
@@ -2700,7 +2793,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-15-spurs-at-heat@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs at Heat
 DTSTART;TZID=America/Chicago:20270215T160000
 DTEND;TZID=America/Chicago:20270215T180000
@@ -2712,7 +2805,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-spurs-at-grizzlies@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs at Grizzlies
 DTSTART;TZID=America/Chicago:20270217T190000
 DTEND;TZID=America/Chicago:20270217T210000
@@ -2724,7 +2817,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-spurs-at-timberwolves@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs at Timberwolves
 DTSTART;TZID=America/Chicago:20270218T183000
 DTEND;TZID=America/Chicago:20270218T203000
@@ -2736,7 +2829,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-3-decades-rewind@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:3 Decades Rewind
 DTSTART;TZID=America/Chicago:20270218T193000
 DTEND;TZID=America/Chicago:20270218T213000
@@ -2750,7 +2843,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-the-ultimate-waylon-tribute@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:The Ultimate Waylon Tribute
 DTSTART;TZID=America/Chicago:20270219T193000
 DTEND;TZID=America/Chicago:20270219T213000
@@ -2764,7 +2857,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20270220T090000
 DTEND;TZID=America/Chicago:20270220T130000
@@ -2777,7 +2870,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-gruene-market-days@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Gruene Market Days
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270222
@@ -2791,7 +2884,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-paul-thorn@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Paul Thorn
 DTSTART;TZID=America/Chicago:20270220T193000
 DTEND;TZID=America/Chicago:20270220T213000
@@ -2805,7 +2898,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-26-spurs-vs-grizzlies-austin@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs vs. Grizzlies (Austin)
 DTSTART;TZID=America/Chicago:20270226T190000
 DTEND;TZID=America/Chicago:20270226T210000
@@ -2818,7 +2911,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-27-new-braunfels-farmers-market@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:New Braunfels Farmers Market
 DTSTART;TZID=America/Chicago:20270227T090000
 DTEND;TZID=America/Chicago:20270227T130000
@@ -2831,7 +2924,7 @@ CATEGORIES:Markets & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-spurs-vs-nuggets-austin@nb-events
-DTSTAMP:20261118T103928Z
+DTSTAMP:20261119T000319Z
 SUMMARY:Spurs vs. Nuggets (Austin)
 DTSTART;TZID=America/Chicago:20270228T120000
 DTEND;TZID=America/Chicago:20270228T140000
