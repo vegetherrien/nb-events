@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "timeZone": "America/Chicago",
  "title": "New Braunfels Event Calendar",
  "city": {
@@ -1133,87 +1133,6 @@
    "id": "sch-memorial-es-2026-11-16-scholastic-book-fair"
   },
   {
-   "title": "KRE-Books Before the Bell",
-   "startDate": "2026-11-18",
-   "startTime": "07:15",
-   "endTime": "07:35",
-   "location": "Klein Road Elementary",
-   "sourceURL": "https://nbisd.org/kre/",
-   "category": "school",
-   "tags": [
-    "school:klein-road-es"
-   ],
-   "audience": "local",
-   "id": "sch-klein-road-es-2026-11-18-kre-books-before-the-bell"
-  },
-  {
-   "title": "Friendsgiving Luncheon K-2 (during their grade level lunch)",
-   "startDate": "2026-11-18",
-   "startTime": "10:30",
-   "endTime": "12:10",
-   "location": "Voss Farms Elementary",
-   "sourceURL": "https://nbisd.org/vfe/",
-   "category": "school",
-   "tags": [
-    "school:voss-farms-es"
-   ],
-   "audience": "local",
-   "id": "sch-voss-farms-es-2026-11-18-friendsgiving-luncheon-k-2-during-their-grade-level"
-  },
-  {
-   "title": "New Braunfels wrestling at Varsity Girls Scramble",
-   "startDate": "2026-11-18",
-   "tag": "Away",
-   "category": "hs-sports",
-   "location": "Lanier HS",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "startTime": "10:30",
-   "tags": [
-    "school:new-braunfels-hs"
-   ],
-   "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-11-18-new-braunfels-wrestling-at-varsity-girls-scrambl"
-  },
-  {
-   "title": "Canyon wrestling at Clemens Dual vs Clemens / Vets…",
-   "startDate": "2026-11-18",
-   "tag": "Away",
-   "category": "hs-sports",
-   "location": "Clemens High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
-   "startTime": "16:00",
-   "tags": [
-    "school:canyon-hs"
-   ],
-   "audience": "local",
-   "id": "sch-canyon-hs-2026-11-18-canyon-wrestling-at-clemens-dual-vs-clemens-vets"
-  },
-  {
-   "title": "Wse 4Th & 5Th Grade Choir Concert",
-   "startDate": "2026-11-18",
-   "startTime": "18:00",
-   "endTime": "18:30",
-   "location": "Walnut Springs Elementary",
-   "sourceURL": "https://nbisd.org/wse/",
-   "category": "school",
-   "tags": [
-    "school:walnut-springs-es"
-   ],
-   "audience": "local",
-   "id": "sch-walnut-springs-es-2026-11-18-wse-4th-5th-grade-choir-concert"
-  },
-  {
-   "id": "2026-11-18-rockets-at-pacers",
-   "category": "rockets",
-   "title": "Rockets at Pacers",
-   "startDate": "2026-11-18",
-   "startTime": "18:00",
-   "location": "Indianapolis",
-   "tag": "Away",
-   "sourceURL": "https://www.basketball-reference.com/teams/HOU/2027_games.html",
-   "tv": "Space City Home Network"
-  },
-  {
    "id": "2026-11-18-the-georges",
    "category": "music",
    "title": "The Georges",
@@ -1222,36 +1141,6 @@
    "endTime": "22:00",
    "location": "Gruene Hall, 1281 Gruene Rd",
    "sourceURL": "https://gruenehall.com/event/the-georges-110/"
-  },
-  {
-   "id": "2026-11-18-txst-bb-vs-uiw",
-   "category": "txst-bb",
-   "title": "Bobcats vs. UIW",
-   "startDate": "2026-11-18",
-   "location": "Strahan Arena, San Marcos",
-   "tag": "Home",
-   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
-   "startTime": "19:00"
-  },
-  {
-   "id": "2026-11-18-utsa-bb-vs-florida-a-m",
-   "category": "utsa-bb",
-   "title": "UTSA vs. Florida A&M",
-   "startDate": "2026-11-18",
-   "location": "Convocation Center, San Antonio",
-   "tag": "Home",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "19:00"
-  },
-  {
-   "id": "2026-11-18-mavs-vs-warriors",
-   "category": "mavs",
-   "title": "Mavericks vs. Warriors",
-   "startDate": "2026-11-18",
-   "startTime": "19:00",
-   "location": "American Airlines Center, Dallas",
-   "tag": "Home",
-   "sourceURL": "https://www.basketball-reference.com/teams/DAL/2027_games.html"
   },
   {
    "title": "Canyon boys basketball at Joe Filoteo Classic",
@@ -2732,6 +2621,16 @@
    "startTime": "16:00"
   },
   {
+   "id": "2026-11-29-aaron-watson-horse-named-texas-tour-w-special-guest-jake-wat",
+   "category": "music",
+   "title": "Aaron Watson: Horse Named Texas Tour w/ special guest Jake Watson",
+   "startDate": "2026-11-29",
+   "startTime": "19:00",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "description": "Doors: 6pm Special Guest: Jake Watson 7pm Aaron Watson: 8:30pm",
+   "sourceURL": "https://gruenehall.com/event/aaron-watson-horse-named-texas-tour-w-special-guest-jake-watson-3/"
+  },
+  {
    "id": "nbisd-2026-11-30-student-holiday-staff-professional-devel",
    "title": "Student Holiday / Staff Professional Development",
    "startDate": "2026-11-30",
@@ -2790,20 +2689,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
-   "title": "SE First Grade Field to Magik Theater",
-   "startDate": "2026-12-01",
-   "startTime": "09:00",
-   "endTime": "14:00",
-   "location": "Seele Elementary",
-   "sourceURL": "https://nbisd.org/se/",
-   "category": "school",
-   "tags": [
-    "school:seele-es"
-   ],
-   "audience": "local",
-   "id": "sch-seele-es-2026-12-01-se-first-grade-field-to-magik-theater"
-  },
-  {
    "title": "3rd Grade Cemex Field Trip",
    "startDate": "2026-12-01",
    "startTime": "09:00",
@@ -2816,6 +2701,20 @@
    ],
    "audience": "local",
    "id": "sch-seele-es-2026-12-01-3rd-grade-cemex-field-trip"
+  },
+  {
+   "title": "SE First Grade Field to Magik Theater",
+   "startDate": "2026-12-01",
+   "startTime": "09:00",
+   "endTime": "14:00",
+   "location": "Seele Elementary",
+   "sourceURL": "https://nbisd.org/se/",
+   "category": "school",
+   "tags": [
+    "school:seele-es"
+   ],
+   "audience": "local",
+   "id": "sch-seele-es-2026-12-01-se-first-grade-field-to-magik-theater"
   },
   {
    "id": "2026-12-01-slim-bawb",
@@ -6496,16 +6395,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "2027-01-01-mavs-at-rockets",
-   "category": "mavs",
-   "title": "Mavericks at Rockets",
-   "startDate": "2027-01-01",
-   "startTime": "19:30",
-   "location": "Houston",
-   "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
-  },
-  {
    "id": "2027-01-01-rockets-vs-mavericks",
    "category": "rockets",
    "title": "Rockets vs. Mavericks",
@@ -6515,6 +6404,16 @@
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "id": "2027-01-01-mavs-at-rockets",
+   "category": "mavs",
+   "title": "Mavericks at Rockets",
+   "startDate": "2027-01-01",
+   "startTime": "19:30",
+   "location": "Houston",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "title": "New Braunfels girls soccer at SCUC Tournament",
@@ -8947,17 +8846,6 @@
    "startTime": "13:00"
   },
   {
-   "id": "2027-01-31-mavs-vs-rockets",
-   "category": "mavs",
-   "title": "Mavericks vs. Rockets",
-   "startDate": "2027-01-31",
-   "startTime": "19:30",
-   "location": "American Airlines Center, Dallas",
-   "tag": "Home",
-   "tv": "NBC",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
-  },
-  {
    "id": "2027-01-31-rockets-at-mavericks",
    "category": "rockets",
    "title": "Rockets at Mavericks",
@@ -8967,6 +8855,17 @@
    "tag": "Away",
    "tv": "NBC",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-01-31-mavs-vs-rockets",
+   "category": "mavs",
+   "title": "Mavericks vs. Rockets",
+   "startDate": "2027-01-31",
+   "startTime": "19:30",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "id": "2027-02-01-spurs-at-warriors",
@@ -9603,6 +9502,18 @@
    "tag": "Away",
    "tv": "NBC",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "title": "KRE-Spring/Class Pictures",
+   "startDate": "2027-02-17",
+   "location": "Klein Road Elementary",
+   "sourceURL": "https://nbisd.org/kre/",
+   "category": "school",
+   "tags": [
+    "school:klein-road-es"
+   ],
+   "audience": "local",
+   "id": "sch-klein-road-es-2027-02-17-kre-spring-class-pictures"
   },
   {
    "id": "2027-02-17-mavs-at-magic",
@@ -10542,17 +10453,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "2027-03-19-mavs-at-spurs",
-   "category": "mavs",
-   "title": "Mavericks at Spurs",
-   "startDate": "2027-03-19",
-   "startTime": "19:00",
-   "location": "San Antonio",
-   "tag": "Away",
-   "tv": "NBA TV",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
-  },
-  {
    "id": "2027-03-19-rockets-at-pelicans",
    "category": "rockets",
    "title": "Rockets at Pelicans",
@@ -10562,6 +10462,17 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "id": "2027-03-19-mavs-at-spurs",
+   "category": "mavs",
+   "title": "Mavericks at Spurs",
+   "startDate": "2027-03-19",
+   "startTime": "19:00",
+   "location": "San Antonio",
+   "tag": "Away",
+   "tv": "NBA TV",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "id": "2027-03-20-castell-st-market",
@@ -11464,16 +11375,6 @@
    "tv": "DAZN"
   },
   {
-   "id": "2027-04-11-mavs-vs-grizzlies",
-   "category": "mavs",
-   "title": "Mavericks vs. Grizzlies",
-   "startDate": "2027-04-11",
-   "startTime": "19:30",
-   "location": "American Airlines Center, Dallas",
-   "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
-  },
-  {
    "id": "2027-04-11-rockets-at-timberwolves",
    "category": "rockets",
    "title": "Rockets at Timberwolves",
@@ -11483,6 +11384,16 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "id": "2027-04-11-mavs-vs-grizzlies",
+   "category": "mavs",
+   "title": "Mavericks vs. Grizzlies",
+   "startDate": "2027-04-11",
+   "startTime": "19:30",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "id": "2027-04-13-rangers-at-reds",
@@ -12055,7 +11966,7 @@
    "url": "https://www.newbraunfels.gov/CivicAlerts.aspx?aid=4176",
    "source": "City of New Braunfels",
    "until": "2026-11-20",
-   "asOf": "2026-11-18",
+   "asOf": "2026-11-19",
    "collector": "civic"
   },
   {
@@ -12067,7 +11978,7 @@
    "url": "https://newbraunfels.legistar1.com/newbraunfels/meetings/2026/11/6047_A_City_Council_26-11-23_Agenda.pdf",
    "source": "City of New Braunfels",
    "until": "2026-11-23",
-   "asOf": "2026-11-18",
+   "asOf": "2026-11-19",
    "collector": "civic"
   },
   {
@@ -12083,7 +11994,7 @@
     "community:gruene"
    ],
    "audience": "local",
-   "asOf": "2026-11-18",
+   "asOf": "2026-11-19",
    "collector": "civic"
   },
   {
@@ -12099,7 +12010,7 @@
     "community:summerwood"
    ],
    "audience": "local",
-   "asOf": "2026-11-18",
+   "asOf": "2026-11-19",
    "collector": "civic"
   },
   {
@@ -12115,7 +12026,7 @@
     "community:veramendi"
    ],
    "audience": "local",
-   "asOf": "2026-11-18",
+   "asOf": "2026-11-19",
    "collector": "civic"
   },
   {
@@ -12127,55 +12038,43 @@
    "url": "https://meetings.boardbook.org/Public/Agenda/1083?meeting=773345",
    "source": "Comal ISD (BoardBook)",
    "until": "2026-11-19",
-   "asOf": "2026-11-18",
+   "asOf": "2026-11-19",
    "collector": "civic"
   },
   {
-   "id": "nb-pet-77685",
+   "id": "nb-pet-77718",
    "kind": "pets",
-   "title": "Adoptable: Sweater, young adult Domestic Short Hair",
+   "title": "Adoptable: SNOOKIE, American Staffordshire Terrier",
+   "detail": "Dog available for adoption at HSNBA, 3353 Morningside Dr. Photos and adoption steps are on the listing.",
+   "level": "info",
+   "url": "https://hsnba.org/listing/77718-snookie-nbd202612166/",
+   "source": "Humane Society of the New Braunfels Area",
+   "until": "2026-11-20",
+   "asOf": "2026-11-19",
+   "collector": "civic"
+  },
+  {
+   "id": "nb-pet-77723",
+   "kind": "pets",
+   "title": "Adoptable: Beef, young adult staffordshire bull terrier",
+   "detail": "Dog available for adoption at HSNBA, 3353 Morningside Dr. Photos and adoption steps are on the listing.",
+   "level": "info",
+   "url": "https://hsnba.org/listing/77723-beef-nfd202612200/",
+   "source": "Humane Society of the New Braunfels Area",
+   "until": "2026-11-20",
+   "asOf": "2026-11-19",
+   "collector": "civic"
+  },
+  {
+   "id": "nb-pet-77745",
+   "kind": "pets",
+   "title": "Adoptable: Dove, young adult Domestic Short Hair",
    "detail": "Cat available for adoption at HSNBA, 3353 Morningside Dr. Photos and adoption steps are on the listing.",
    "level": "info",
-   "url": "https://hsnba.org/listing/77685-sweater-nfc202612188/",
+   "url": "https://hsnba.org/listing/77745-dove-nfc202612206/",
    "source": "Humane Society of the New Braunfels Area",
-   "until": "2026-11-19",
-   "asOf": "2026-11-18",
-   "collector": "civic"
-  },
-  {
-   "id": "nb-pet-77686",
-   "kind": "pets",
-   "title": "Adoptable: Lighthouse, young adult Domestic Short Hair",
-   "detail": "Cat available for adoption at HSNBA, 3353 Morningside Dr. Photos and adoption steps are on the listing.",
-   "level": "info",
-   "url": "https://hsnba.org/listing/77686-lighthouse-cfc20261877/",
-   "source": "Humane Society of the New Braunfels Area",
-   "until": "2026-11-19",
-   "asOf": "2026-11-18",
-   "collector": "civic"
-  },
-  {
-   "id": "nb-pet-77701",
-   "kind": "pets",
-   "title": "Adoptable: Tesoro, adult Domestic Medium Hair",
-   "detail": "Cat available for adoption at HSNBA, 3353 Morningside Dr. Photos and adoption steps are on the listing.",
-   "level": "info",
-   "url": "https://hsnba.org/listing/77701-tesoro-nfc202612191/",
-   "source": "Humane Society of the New Braunfels Area",
-   "until": "2026-11-19",
-   "asOf": "2026-11-18",
-   "collector": "civic"
-  },
-  {
-   "id": "nb-opening-northeast-lakeview-college-2026-11-18",
-   "kind": "opening",
-   "title": "Ribbon cutting: Northeast Lakeview College",
-   "detail": "Ribbon cutting Wed Nov 18 at 10:00 AM, 2049 Sundance Parkway. Posted by the City of New Braunfels as a notice that council members may attend.",
-   "level": "info",
-   "url": "https://newbraunfels.legistar1.com/newbraunfels/meetings/2026/11/6382_A_Notice_of_Possible_Quorum_26-11-18_Agenda.pdf",
-   "source": "City of New Braunfels",
-   "until": "2026-11-18",
-   "asOf": "2026-11-18",
+   "until": "2026-11-20",
+   "asOf": "2026-11-19",
    "collector": "civic"
   },
   {
@@ -12186,7 +12085,7 @@
    "level": "info",
    "url": "https://www.comalisd.org/apps/events/46144257/",
    "source": "Comal ISD",
-   "asOf": "2026-11-18",
+   "asOf": "2026-11-19",
    "until": "2026-11-27",
    "tags": [
     "district:comal-isd"
@@ -12202,7 +12101,7 @@
    "level": "info",
    "url": "https://nbisd.org/wp-content/uploads/2026/03/26-27-School-Calendar-English-1-30-26-9-weeks.pdf",
    "source": "NBISD",
-   "asOf": "2026-11-18",
+   "asOf": "2026-11-19",
    "until": "2026-11-30",
    "tags": [
     "district:nbisd"
@@ -12218,7 +12117,7 @@
    "level": "info",
    "url": "https://www.newbraunfels.gov/3974/Holiday-Trash-Recycling",
    "source": "City of New Braunfels Solid Waste",
-   "asOf": "2026-11-18",
+   "asOf": "2026-11-19",
    "until": "2026-11-27",
    "tags": [
     "trash:6",
@@ -12236,7 +12135,7 @@
    "level": "warn",
    "url": "https://www.nbutexas.com/current-drought-stage/",
    "source": "New Braunfels Utilities",
-   "asOf": "2026-11-18",
+   "asOf": "2026-11-19",
    "collector": "utilities"
   }
  ],
