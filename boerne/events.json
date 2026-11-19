@@ -556,17 +556,6 @@
    "tv": "Prime Video"
   },
   {
-   "id": "2026-11-19-name-that-tune-at-la-cascada-table-bar",
-   "category": "music",
-   "title": "Name That Tune at La Cascada Table & Bar",
-   "startDate": "2026-11-19",
-   "startTime": "19:30",
-   "endTime": "21:30",
-   "location": "La Cascada Table & Bar, 1 Resort Way",
-   "description": "Music lovers can test their knowledge during Name That Tune at La Cascada Table & Bar, held every third Thursday of the month from 6:30 pm to 8:30 pm at Tapatio Springs Hill Country Resort in Boerne, TX. The interacti…",
-   "sourceURL": "https://theboernelife.com/events/name-that-tune-at-la-cascada-table-bar-2/2026-11-19/"
-  },
-  {
    "title": "Boerne girls basketball at Saisd Tournament",
    "startDate": "2026-11-20",
    "tag": "Away",
@@ -717,33 +706,6 @@
    "sourceURL": "https://theboernelife.com/events/jp-bergman-and-slowpoke-at-cibolo-creek-brewing-co/2026-11-20/"
   },
   {
-   "id": "tapatio-springs-2026-11-20-singer-songwriter-greene",
-   "category": "hood",
-   "title": "Singer/Songwriter – Greene",
-   "startDate": "2026-11-20",
-   "startTime": "19:00",
-   "location": "La Cascada Table & Bar, Tapatio Springs Hill Country Resort, 1 Resort Way",
-   "sourceURL": "https://www.tapatiosprings.com/event/singer-songwriter-greene-2/",
-   "description": "Location: La Cascada Table & Bar – Patio Time: 7 :00 PM – 10:00 PM *Reservations Recommended",
-   "tags": [
-    "community:tapatio-springs"
-   ],
-   "audience": "local"
-  },
-  {
-   "id": "downtown-boerne-2026-11-20-live-at-the-kendall-bar-caleb-lopez-jazz-standards",
-   "category": "music",
-   "title": "Live at The Kendall Bar: Caleb Lopez Jazz Standards",
-   "startDate": "2026-11-20",
-   "startTime": "19:00",
-   "location": "The Kendall Bar, 128 W. Blanco Rd., Boerne, TX, 78006",
-   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/the-kendall-bar-featured-artist-caleb-lopez-jazz-standards?instance_id=20261120190000",
-   "description": "Ease into the weekend with an evening of live jazz at The Kendall Hotel Bar, featuring saxophonist Caleb Lopez. Every Friday in November, guests can enjoy an inviting blend of jazz standards as Caleb…",
-   "tags": [
-    "community:downtown-boerne"
-   ]
-  },
-  {
    "id": "2026-11-20-rockets-at-nuggets",
    "category": "rockets",
    "title": "Rockets at Nuggets",
@@ -753,6 +715,17 @@
    "tag": "Away",
    "tv": "Prime Video",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2026-11-20-live-at-the-kendall-bar-caleb-lopez-jazz-standards",
+   "category": "fest",
+   "title": "Live at The Kendall Bar: Caleb Lopez Jazz Standards",
+   "startDate": "2026-11-20",
+   "startTime": "19:00",
+   "endTime": "22:00",
+   "location": "The Kendall Bar @ 128 W. Blanco Rd., Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Candlelit%20Saxophone%20Portrait_yac6.png' /></div><p>Ease into the weekend with an evening …",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/the-kendall-bar-featured-artist-caleb-lopez-jazz-standards?instance_id=20261120190000"
   },
   {
    "title": "Boerne girls basketball at Saisd Tournament",
@@ -816,19 +789,6 @@
    "location": "Boerne City Park, 106 City Park Road",
    "description": "This Backyard Ultra challenges runners to complete a 4.167-mile loop every hour, starting a new loop on the hour until one runner remains. Runners are out if they don’t finish a loop within the hour or make it to the …",
    "sourceURL": "https://theboernelife.com/events/boerne-last-man-standing-at-boerne-city-park/"
-  },
-  {
-   "id": "downtown-boerne-2026-11-21-15th-annual-turkey-trot-5k-10k",
-   "category": "nature",
-   "title": "15th Annual Turkey Trot 5K & 10K",
-   "startDate": "2026-11-21",
-   "startTime": "07:30",
-   "location": "Boerne Main Plaza, 100 North Main Street, Boerne, Texas, 78006",
-   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/boerne-family-ymca-15th-annual-turkey-trot-5k-10k?instance_id=20261121073000",
-   "description": "The 15th Annual 5k/10k Turkey Trot takes place on a scenic city run. It starts on the west side of the Main Plaza in Boerne, TX and runs through paved and quiet neighborhoods. This is a competitively…",
-   "tags": [
-    "community:downtown-boerne"
-   ]
   },
   {
    "title": "Boerne swimming & diving at Hornet Tisca",
@@ -955,20 +915,6 @@
    "sourceURL": "https://theboernelife.com/events/live-music-saturday-kyle-mathis-at-lost-oak-cellars/"
   },
   {
-   "id": "tapatio-springs-2026-11-21-singer-songwriter-jaime-varela",
-   "category": "hood",
-   "title": "Singer/Songwriter – Jaime Varela",
-   "startDate": "2026-11-21",
-   "startTime": "19:00",
-   "location": "La Cascada Table & Bar, Tapatio Springs Hill Country Resort, 1 Resort Way",
-   "sourceURL": "https://www.tapatiosprings.com/event/singer-songwriter-jaime-varela-5/",
-   "description": "Location: La Cascada Table & Bar – Patio Time: 7 :00 PM – 10:00 PM *Reservations Recommended",
-   "tags": [
-    "community:tapatio-springs"
-   ],
-   "audience": "local"
-  },
-  {
    "id": "2026-11-21-spurs-vs-pelicans",
    "category": "spurs",
    "title": "Spurs vs. Pelicans",
@@ -989,6 +935,17 @@
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
    "tv": "MavsTV+ or League Pass"
+  },
+  {
+   "id": "2026-11-21-15th-annual-turkey-trot-5k-10k",
+   "category": "fest",
+   "title": "15th Annual Turkey Trot 5K & 10K",
+   "startDate": "2026-11-21",
+   "startTime": "07:30",
+   "endTime": "10:30",
+   "location": "Boerne Main Plaza @ 100 North Main Street, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/YMCA%20Turkey%20Trot%20Photo_ZQRN.jpg' /></div><p>The 15th Annual 5k/10k Turkey Trot takes p…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/boerne-family-ymca-15th-annual-turkey-trot-5k-10k?instance_id=20261121073000"
   },
   {
    "id": "2026-11-22-cowboys-vs-titans",
@@ -1073,19 +1030,6 @@
    "sourceURL": "https://theboernelife.com/events/turkey-camp-at-gina-maries-art-studio/2026-11-23/"
   },
   {
-   "id": "downtown-boerne-2026-11-23-beginner-mahjong-class-2",
-   "category": "market",
-   "title": "Beginner Mahjong Class",
-   "startDate": "2026-11-23",
-   "startTime": "11:00",
-   "location": "Girls Night In, 170 South Main Street, Ste 202, Boerne, Texas, 78006",
-   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/beginner-mahjong-class?instance_id=20261123110000",
-   "description": "Girls Night in Boerne invites guests to learn the art of the tiles at a welcoming beginner mahjong class designed especially for first-time players. This guided, step-by-step experience introduces…",
-   "tags": [
-    "community:downtown-boerne"
-   ]
-  },
-  {
    "title": "Champion girls basketball at Kerrville-Tivy",
    "startDate": "2026-11-23",
    "tag": "Away",
@@ -1112,19 +1056,6 @@
    ],
    "audience": "local",
    "id": "sch-champion-hs-2026-11-23-champion-boys-basketball-vs-churchill"
-  },
-  {
-   "id": "downtown-boerne-2026-11-23-beginner-mahjong-class",
-   "category": "market",
-   "title": "Beginner Mahjong Class",
-   "startDate": "2026-11-23",
-   "startTime": "18:00",
-   "location": "Girls Night In, 170 South Main Street, Ste 202, Boerne, Texas, 78006",
-   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/beginner-mahjong-class-2?instance_id=20261123180000",
-   "description": "Join Girls Night In Boerne for a fun and welcoming beginner mahjong class! Designed for those who are brand new to the game, this class will cover the basics of American Mahjong, including the tiles,…",
-   "tags": [
-    "community:downtown-boerne"
-   ]
   },
   {
    "id": "2026-11-23-rockets-vs-clippers",
@@ -1282,28 +1213,6 @@
    "sourceURL": "https://theboernelife.com/events/6th-annual-bulverde-turkey-trot-at-bulverde-community-park/"
   },
   {
-   "id": "2026-11-26-closed-thanksgiving-day-at-lost-oak-cellars",
-   "category": "fest",
-   "title": "Closed Thanksgiving Day at Lost Oak Cellars",
-   "startDate": "2026-11-26",
-   "location": "Lost Oak Cellars, 111 Rosewood Ave",
-   "description": "Lost Oak Cellars will be closed Thursday, November 26, for Thanksgiving. The team wishes everyone a happy and blessed holiday.",
-   "sourceURL": "https://theboernelife.com/events/closed-thanksgiving-day-at-lost-oak-cellars/"
-  },
-  {
-   "id": "tapatio-springs-2026-11-26-thanksgiving-dinner",
-   "category": "hood",
-   "title": "Thanksgiving Dinner",
-   "startDate": "2026-11-26",
-   "location": "La Cascada Table & Bar, Tapatio Springs Hill Country Resort, 1 Resort Way",
-   "sourceURL": "https://www.tapatiosprings.com/event/thanksgiving-dinner-2/",
-   "description": "Join us on Thanksgiving Evening at La Cascada Table & Bar and experience classic holiday flavors with our delectable Dinner Menu $45 per person (Excludes tax & gratuity) (Children 3 and under FREE)…",
-   "tags": [
-    "community:tapatio-springs"
-   ],
-   "audience": "local"
-  },
-  {
    "title": "Thanksgiving Break",
    "startDate": "2026-11-26",
    "startTime": "08:00",
@@ -1327,20 +1236,6 @@
    "location": "Guadalupe River State Park, 3350 Park Road 31",
    "description": "Wild turkeys take center stage in this Thanksgiving Day program exploring their habits, calls and other fascinating features. The program takes place Thursday, November 26, 2026, from 10 am to 11 am at the amphitheate…",
    "sourceURL": "https://theboernelife.com/events/turkey-talk-at-guadalupe-river-state-park-2/"
-  },
-  {
-   "id": "tapatio-springs-2026-11-26-thanksgiving-feast",
-   "category": "hood",
-   "title": "Thanksgiving Feast",
-   "startDate": "2026-11-26",
-   "startTime": "11:00",
-   "location": "La Cascada Table & Bar, Tapatio Springs Hill Country Resort, 1 Resort Way",
-   "sourceURL": "https://www.tapatiosprings.com/event/thanksgiving-feast-2/",
-   "description": "Come together with family and friends this Thanksgiving holiday and indulge in our popular Thanksgiving Feast, prepared with love by our culinary team. From charcuteries and seafood, exquisite…",
-   "tags": [
-    "community:tapatio-springs"
-   ],
-   "audience": "local"
   },
   {
    "id": "2026-11-26-utsa-bb-vs-army",
@@ -1401,16 +1296,6 @@
    "sourceURL": "https://theboernelife.com/events/opt-outside-day-at-guadalupe-river-state-park-2/"
   },
   {
-   "id": "2026-11-27-semi-annual-case-sale-at-lost-oak-cellars",
-   "category": "fest",
-   "title": "Semi-Annual Case Sale at Lost Oak Cellars",
-   "startDate": "2026-11-27",
-   "endDate": "2026-12-05",
-   "location": "Lost Oak Cellars, 111 Rosewood Ave",
-   "description": "Lost Oak Cellars’ case sale offers 20% off purchases of 12 or more bottles of wine from November 27 through December 5. Wine Club members can combine the offer with their membership discount.",
-   "sourceURL": "https://theboernelife.com/events/semi-annual-case-sale-at-lost-oak-cellars/"
-  },
-  {
    "title": "Thanksgiving Break",
    "startDate": "2026-11-27",
    "startTime": "08:00",
@@ -1444,17 +1329,6 @@
    "location": "Handmade on Main, 347 N Main St",
    "description": "Browse handmade merchandise and look for holiday gifts and stocking stuffers during this two-day shopping event. The shop will be open November 27 and 28 from 11 am to 9 pm at Handmade on Main.",
    "sourceURL": "https://theboernelife.com/events/plaid-friday-and-small-business-saturday-at-handmade-on-main/"
-  },
-  {
-   "id": "2026-11-27-sold-out-murder-at-the-wine-bar-boerne-community-theatre-fun",
-   "category": "market",
-   "title": "SOLD OUT: Murder at the Wine Bar – Boerne Community Theatre Fundraiser",
-   "startDate": "2026-11-27",
-   "startTime": "16:30",
-   "endTime": "20:00",
-   "location": "DeVino Cellars, 1109 S Main St",
-   "description": "Join Boerne Community Theatre for a thrilling night of suspense and laughter at our murder mystery fundraiser, “Murder at the Wine Bar.” Set in the charming ambiance of DeVino Cellars, this immersive event places you …",
-   "sourceURL": "https://theboernelife.com/events/murder-at-the-wine-bar-boerne-community-theatre-fundraiser/2026-11-27/"
   },
   {
    "id": "tapatio-springs-2026-11-27-lone-star-showdown-watch-party",
@@ -1530,33 +1404,6 @@
    "outdoor": false
   },
   {
-   "id": "tapatio-springs-2026-11-27-singer-songwriter-jeff-jacobs",
-   "category": "hood",
-   "title": "Singer/Songwriter – Jeff Jacobs",
-   "startDate": "2026-11-27",
-   "startTime": "19:00",
-   "location": "La Cascada Table & Bar, Tapatio Springs Hill Country Resort, 1 Resort Way",
-   "sourceURL": "https://www.tapatiosprings.com/event/singer-songwriter-jeff-jacobs-2/",
-   "description": "Location: La Cascada Table & Bar – Patio Time: 7 :00 PM – 10:00 PM *Reservations Recommended",
-   "tags": [
-    "community:tapatio-springs"
-   ],
-   "audience": "local"
-  },
-  {
-   "id": "downtown-boerne-2026-11-27-live-at-the-kendall-bar-caleb-lopez-jazz-standards",
-   "category": "music",
-   "title": "Live at The Kendall Bar: Caleb Lopez Jazz Standards",
-   "startDate": "2026-11-27",
-   "startTime": "19:00",
-   "location": "The Kendall Bar, 128 W. Blanco Rd., Boerne, TX, 78006",
-   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/the-kendall-bar-featured-artist-caleb-lopez-jazz-standards?instance_id=20261120190000",
-   "description": "Ease into the weekend with an evening of live jazz at The Kendall Hotel Bar, featuring saxophonist Caleb Lopez. Every Friday in November, guests can enjoy an inviting blend of jazz standards as Caleb…",
-   "tags": [
-    "community:downtown-boerne"
-   ]
-  },
-  {
    "id": "2026-11-27-mavs-at-suns",
    "category": "mavs",
    "title": "Mavericks at Suns",
@@ -1610,32 +1457,6 @@
    "location": "Benedict Metal Art/Esther Benedict Sculptures, 160 Diamond J Rd N",
    "description": "Explore new artwork, meet the artist and stroll the decorated gallery and sculpture walk during a festive day of holiday shopping. Live music by Chris Guerrero, complimentary snacks and beverages, and Christmas cheer …",
    "sourceURL": "https://theboernelife.com/events/holiday-art-and-shopping-at-esther-benedict-gallery-hill-country-sculpture-walk/"
-  },
-  {
-   "id": "downtown-boerne-2026-11-28-glitzy-ornament-painting",
-   "category": "holiday",
-   "title": "Glitzy Ornament Painting",
-   "startDate": "2026-11-28",
-   "startTime": "10:00",
-   "location": "The Downtown DIY, 206 West Highland Drive, Boerne, Texas, 78006",
-   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/glitzy-ornament-painting?instance_id=20261128100000",
-   "description": "Create a glamorous holiday masterpiece in this festive painting workshop! Guests will paint a beautiful ornament on an 8x8 canvas, choosing their favorite ornament shape and customizing it in any…",
-   "tags": [
-    "community:downtown-boerne"
-   ]
-  },
-  {
-   "id": "downtown-boerne-2026-11-28-5k-beer-run",
-   "category": "fest",
-   "title": "5k Beer Run",
-   "startDate": "2026-11-28",
-   "startTime": "11:00",
-   "location": "Free Roam Brewing Company, 235 South Main Street, Boerne, Texas, 78006",
-   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/5k-beer-run-x-free-roam-brewing-texas-brewery-running-series?instance_id=20261128110000",
-   "description": "Gather your friends and family and run, walk, or jog your way through a scenic 5K-ish course—then raise a glass at the finish line with a craft beer brewed just steps away. Whether you’re running,…",
-   "tags": [
-    "community:downtown-boerne"
-   ]
   },
   {
    "id": "2026-11-28-sam-and-lilly-platts-at-singing-water-vineyards",
@@ -1693,6 +1514,17 @@
    "sourceURL": "https://www.fcdallas.com/news/fc-dallas-kickoff-times-and-dates-set-for-audi-2026-mls-cup-playoffs-round-one-best-of-3-series-against-the-portland-timbers"
   },
   {
+   "id": "2026-11-28-5k-beer-run",
+   "category": "fest",
+   "title": "5k Beer Run",
+   "startDate": "2026-11-28",
+   "startTime": "11:00",
+   "endTime": "13:00",
+   "location": "Free Roam Brewing Company @ 235 South Main Street, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Free%20Roam%20Beer%20Run_TagD.jpg' /></div><p>Gather your friends and family and run, walk, …",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/5k-beer-run-x-free-roam-brewing-texas-brewery-running-series?instance_id=20261128110000"
+  },
+  {
    "id": "2026-11-29-texans-vs-ravens",
    "category": "texans",
    "title": "Texans vs. Ravens",
@@ -1713,19 +1545,6 @@
    "location": "Singing Water Vineyards, 316 Mill Dam Rd",
    "description": "Enjoy an afternoon of live music at Singing Water Vineyards on Sunday, November 29, as San Antonio native Jeff Jacobs brings his Texas Country roots to the Hill Country. His performance offers a chance to unwind with …",
    "sourceURL": "https://theboernelife.com/events/jeff-jacobs-at-singing-water-vineyards-2/"
-  },
-  {
-   "id": "downtown-boerne-2026-11-29-the-gingerbread-house-workshop",
-   "category": "holiday",
-   "title": "The Gingerbread House Workshop",
-   "startDate": "2026-11-29",
-   "startTime": "14:00",
-   "location": "The Downtown DIY, 206 West Highland Drive, Boerne, Texas, 78006",
-   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/the-gingerbread-house-workshop?instance_id=20261129140000",
-   "description": "The Downtown DIY’s most requested Christmas workshop is back! The 3rd Annual Gingerbread House Workshop returns as a beloved Downtown DIY holiday tradition that sells out year after year. Instead of…",
-   "tags": [
-    "community:downtown-boerne"
-   ]
   },
   {
    "id": "2026-11-29-utsa-bb-at-siue",
@@ -1862,20 +1681,6 @@
    "id": "sch-champion-hs-2026-12-01-champion-boys-basketball-vs-kerrville-tivy"
   },
   {
-   "id": "esperanza-2026-12-01-spades-club",
-   "category": "hood",
-   "title": "Spades Club",
-   "startDate": "2026-12-01",
-   "startTime": "19:00",
-   "location": "The Club, Esperanza",
-   "sourceURL": "https://esperanzahoa.com/event/spades-club/2026-12-01/",
-   "description": "Ready to bid, partner up, and show off your card-playing skills? Join us for Spades Club in the Community Room! Whether you’re a seasoned player or looking to brush up on your game, this is a great…",
-   "tags": [
-    "community:esperanza"
-   ],
-   "audience": "local"
-  },
-  {
    "id": "2026-12-01-rockets-vs-raptors",
    "category": "rockets",
    "title": "Rockets vs. Raptors",
@@ -1912,19 +1717,6 @@
    "id": "sch-boerne-isd-2026-12-02-ces-christmas-decoration-at-the-courthouse"
   },
   {
-   "id": "downtown-boerne-2026-12-02-christmas-churches-by-candlelight",
-   "category": "holiday",
-   "title": "Christmas Churches by Candlelight",
-   "startDate": "2026-12-02",
-   "startTime": "17:30",
-   "location": "First United Methodist Church, 205 James St, Boerne, 78006",
-   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/christmas-churches-by-candlelight-2?instance_id=20261202173000",
-   "description": "Celebrate the beauty and spirit of the Christmas season during Boerne's Christmas Churches by Candlelight Walk! This special community gathering brings together three local congregations for an…",
-   "tags": [
-    "community:downtown-boerne"
-   ]
-  },
-  {
    "title": "\"A Christmas Carol\" presented by BMSS Theatre",
    "startDate": "2026-12-02",
    "startTime": "18:00",
@@ -1953,20 +1745,6 @@
    "id": "sch-boerne-ms-south-ms-2026-12-02-a-christmas-carol-presented-by-boerne-middle-s"
   },
   {
-   "id": "esperanza-2026-12-02-mahjong-club",
-   "category": "hood",
-   "title": "Mahjong Club",
-   "startDate": "2026-12-02",
-   "startTime": "19:00",
-   "location": "The Club, Esperanza",
-   "sourceURL": "https://esperanzahoa.com/event/mahjong-club/2026-12-02/",
-   "description": "Mahjong Club 🀄 Join fellow Mahjong enthusiasts for an afternoon of strategy, fun, and friendly competition! Whether you’re a seasoned player or interested in learning more about this classic tile…",
-   "tags": [
-    "community:esperanza"
-   ],
-   "audience": "local"
-  },
-  {
    "id": "2026-12-02-mavs-vs-magic",
    "category": "mavs",
    "title": "Mavericks vs. Magic",
@@ -1978,17 +1756,26 @@
    "tv": "MavsTV+ or League Pass"
   },
   {
-   "id": "downtown-boerne-2026-12-02-comedy-show-game-night",
-   "category": "fest",
+   "id": "2026-12-02-christmas-churches-by-candlelight",
+   "category": "holiday",
+   "title": "Christmas Churches by Candlelight",
+   "startDate": "2026-12-02",
+   "startTime": "17:30",
+   "endTime": "20:00",
+   "location": "First United Methodist Church @ 205 James St, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Christmas%20in%20the%20City_wQOY.jpg' /></div><div class='x11i5rnm xat24cr x1mh8g0r x1vvkbs …",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/christmas-churches-by-candlelight-2?instance_id=20261202173000"
+  },
+  {
+   "id": "2026-12-02-comedy-show-game-night",
+   "category": "arts",
    "title": "Comedy Show & Game Night",
    "startDate": "2026-12-02",
    "startTime": "19:30",
-   "location": "DeVino Cellars, 112 East San Antonio Avenue, Boerne, Texas, 78006",
-   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/12-2-comedy-show-game-night?instance_id=20261202193000",
-   "description": "Come see yourself why these events always sell out! You'll get a stand-up comedy show and interactive game night all in one. You'll also get a chance to win prizes and definitely have a fun story for…",
-   "tags": [
-    "community:downtown-boerne"
-   ]
+   "endTime": "21:00",
+   "location": "DeVino Cellars @ 112 East San Antonio Avenue, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/IMG_7263_pQ0A.png' /></div><p>Come see yourself why these events always sell out! You'll get…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/12-2-comedy-show-game-night?instance_id=20261202193000"
   },
   {
    "title": "Boerne girls basketball at Georgetown Tournament",
@@ -2095,20 +1882,6 @@
    ],
    "audience": "local",
    "id": "sch-boerne-isd-2026-12-03-vres-5th-grade-musical-rock-and-roll-forever"
-  },
-  {
-   "id": "tapatio-springs-2026-12-03-trivia-night",
-   "category": "hood",
-   "title": "Trivia Night",
-   "startDate": "2026-12-03",
-   "startTime": "18:30",
-   "location": "La Cascada Table & Bar, Tapatio Springs Hill Country Resort, 1 Resort Way",
-   "sourceURL": "https://www.tapatiosprings.com/event/trivia-night/2026-12-03/",
-   "description": "Location: La Cascada Table & Bar – Patio Time: First Thursday every Month, 6:30 PM – 8:30 PM Details: Win Gift Card prizes up to $50!",
-   "tags": [
-    "community:tapatio-springs"
-   ],
-   "audience": "local"
   },
   {
    "title": "CHS/BHS Orchestras Winter Concert",
@@ -2282,19 +2055,6 @@
    "featured": true
   },
   {
-   "id": "downtown-boerne-2026-12-04-boujee-nutcrackers",
-   "category": "holiday",
-   "title": "Boujee Nutcrackers",
-   "startDate": "2026-12-04",
-   "startTime": "18:00",
-   "location": "The Downtown DIY, 206 West Highland Drive, Boerne, Texas, 78006",
-   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/boujee-nutcrackers?instance_id=20261204180000",
-   "description": "The classic holiday nutcracker is getting a fabulous makeover! In Boujee Nutcrackers, guests will transform a blank wooden nutcracker into a one-of-a-kind piece of Christmas décor that perfectly…",
-   "tags": [
-    "community:downtown-boerne"
-   ]
-  },
-  {
    "title": "\"A Christmas Carol\" presented by BMSS Theatre",
    "startDate": "2026-12-04",
    "startTime": "18:00",
@@ -2351,18 +2111,15 @@
    "id": "sch-voss-ms-2026-12-04-theatre-fall-musical-finding-neverland"
   },
   {
-   "id": "tapatio-springs-2026-12-04-singer-songwriter-emily-monsen",
-   "category": "hood",
-   "title": "Singer/Songwriter – Emily Monsen",
+   "id": "2026-12-04-boujee-nutcrackers",
+   "category": "holiday",
+   "title": "Boujee Nutcrackers",
    "startDate": "2026-12-04",
-   "startTime": "19:00",
-   "location": "La Cascada Table & Bar, Tapatio Springs Hill Country Resort, 1 Resort Way",
-   "sourceURL": "https://www.tapatiosprings.com/event/singer-songwriter-emily-monsen-2/",
-   "description": "Location: La Cascada Table & Bar – Patio Time: 7 :00 PM – 10:00 PM *Reservations Recommended",
-   "tags": [
-    "community:tapatio-springs"
-   ],
-   "audience": "local"
+   "startTime": "18:00",
+   "endTime": "20:00",
+   "location": "The Downtown DIY @ 206 West Highland Drive, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Images%201080%20x%201080%20px%201_Qse3.png' /></div><p>The classic holiday nutcracker is get…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/boujee-nutcrackers?instance_id=20261204180000"
   },
   {
    "id": "2026-12-05-holiday-hunger-5k-run-walk-at-bulverde-city-park",
@@ -2494,19 +2251,6 @@
    "sourceURL": "https://theboernelife.com/events/christmas-back-lot-market-at-little-to-luxe/"
   },
   {
-   "id": "downtown-boerne-2026-12-05-watercolor-christmas-cards-workshop",
-   "category": "holiday",
-   "title": "Watercolor Christmas Cards Workshop",
-   "startDate": "2026-12-05",
-   "startTime": "10:00",
-   "location": "Boerne Sips Nutrition, 104 E. Hosack, Boerne, TX, 78006, Kendall",
-   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/watercolor-christmas-cards-workshop?instance_id=20261205100000",
-   "description": "Create meaningful holiday memories together at this family-friendly Christmas Card Watercolor Workshop at Boerne Sips Nutrition. Gather your kids, grandkids, or loved ones for a morning of painting,…",
-   "tags": [
-    "community:downtown-boerne"
-   ]
-  },
-  {
    "id": "2026-12-05-down-home-christmas-at-the-agricultural-museum-and-arts-cent",
    "category": "holiday",
    "title": "Down Home Christmas at The AgriCultural Museum and Arts Center",
@@ -2632,20 +2376,6 @@
    "id": "sch-voss-ms-2026-12-05-theatre-fall-musical-finding-neverland"
   },
   {
-   "id": "tapatio-springs-2026-12-05-singer-songwriter-danny-johnson",
-   "category": "hood",
-   "title": "Singer/Songwriter – Danny Johnson",
-   "startDate": "2026-12-05",
-   "startTime": "19:00",
-   "location": "La Cascada Table & Bar, Tapatio Springs Hill Country Resort, 1 Resort Way",
-   "sourceURL": "https://www.tapatiosprings.com/event/singer-songwriter-danny-johnson/",
-   "description": "Location: La Cascada Table & Bar – Patio Time: 7 :00 PM – 10:00 PM *Reservations Recommended",
-   "tags": [
-    "community:tapatio-springs"
-   ],
-   "audience": "local"
-  },
-  {
    "id": "2026-12-06-rejoice-christmas-worship-concert-at-first-baptist-church-bo",
    "category": "holiday",
    "title": "REJOICE! Christmas Worship Concert at First Baptist Church Boerne",
@@ -2664,17 +2394,6 @@
    "location": "The Cana Ballroom, 202 W Kronkosky St",
    "description": "Cana Ballroom hosts an indoor Christmas market featuring local artists, crafters and small businesses. Visitors can shop for holiday gifts while supporting parishioners and the Boerne community. The market takes place…",
    "sourceURL": "https://theboernelife.com/events/christkindlmarkt-at-cana-ballroom/"
-  },
-  {
-   "id": "2026-12-06-christkindlemarkt",
-   "category": "holiday",
-   "title": "Christkindlemarkt",
-   "startDate": "2026-12-06",
-   "startTime": "10:00",
-   "endTime": "17:00",
-   "location": "The Cana Ballroom, 202 W Kronkosky St",
-   "description": "Christmas market brimming with amazing finds for everyone on your list and for yourself! Come join a packed house of vendors at the beautiful Cana Ballroom for this family friendly Christmas market experience.",
-   "sourceURL": "https://theboernelife.com/events/christkindlemarkt/"
   },
   {
    "id": "2026-12-06-oma-s-christmas-fair-at-kendall-county-fairgrounds",
@@ -3016,19 +2735,6 @@
    "sourceURL": "https://theboernelife.com/events/hill-country-poets-monthly-open-mic-at-the-boerne-bookshop/2026-12-10/"
   },
   {
-   "id": "downtown-boerne-2026-12-10-rustic-christmas-trees",
-   "category": "holiday",
-   "title": "Rustic Christmas Trees",
-   "startDate": "2026-12-10",
-   "startTime": "18:00",
-   "location": "The Downtown DIY, 206 West Highland Drive, Boerne, Texas, 78006",
-   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/rustic-christmas-trees?instance_id=20261210180000",
-   "description": "Bring a little woodland charm to the holiday season! In this workshop, each guest will create a set of two rustic Christmas trees using natural twigs and sticks in varying shapes and sizes. Once the…",
-   "tags": [
-    "community:downtown-boerne"
-   ]
-  },
-  {
    "title": "VRES Choir Winter Concert",
    "startDate": "2026-12-10",
    "startTime": "18:00",
@@ -3055,6 +2761,17 @@
    ],
    "audience": "local",
    "id": "sch-boerne-isd-2026-12-10-vwes-4th-grade-musical"
+  },
+  {
+   "id": "2026-12-10-rustic-christmas-trees",
+   "category": "holiday",
+   "title": "Rustic Christmas Trees",
+   "startDate": "2026-12-10",
+   "startTime": "18:00",
+   "endTime": "20:00",
+   "location": "The Downtown DIY @ 206 West Highland Drive, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Images%201080%20x%201080%20px%204_FxCI.png' /></div><p>Bring a little woodland charm to the …",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/rustic-christmas-trees?instance_id=20261210180000"
   },
   {
    "id": "2026-12-11-kinder-fest-weekend-on-the-hill-country-mile",
@@ -3206,20 +2923,6 @@
    "location": "Lost Oak Cellars, 111 Rosewood Ave",
    "description": "Break out a festive sweater for an evening of holiday music, Lost Oak wines and warm mulled wine. Guests can enter the ugly sweater contest for a chance to win a prize. The party is free to attend and takes place Frid…",
    "sourceURL": "https://theboernelife.com/events/ugly-sweater-party-at-lost-oak-cellars-2/"
-  },
-  {
-   "id": "tapatio-springs-2026-12-11-singer-songwriter-nick-zamora",
-   "category": "hood",
-   "title": "Singer/Songwriter – Nick Zamora",
-   "startDate": "2026-12-11",
-   "startTime": "19:00",
-   "location": "La Cascada Table & Bar, Tapatio Springs Hill Country Resort, 1 Resort Way",
-   "sourceURL": "https://www.tapatiosprings.com/event/singer-songwriter-nick-zamora-2/",
-   "description": "Location: La Cascada Table & Bar – Patio Time: 7 :00 PM – 10:00 PM *Reservations Recommended",
-   "tags": [
-    "community:tapatio-springs"
-   ],
-   "audience": "local"
   },
   {
    "title": "Boerne girls soccer vs. Fredericksburg",
@@ -3393,31 +3096,6 @@
    "location": "Lost Oak Cellars, 111 Rosewood Ave",
    "description": "Josh Flores performs classic country spanning the 1990s through today. Guests can enjoy Texas wines, cider, charcuterie, tapas, flatbreads and dessert flights. The concert takes place Saturday, December 12, from 7 pm …",
    "sourceURL": "https://theboernelife.com/events/live-music-saturday-josh-flores-at-lost-oak-cellars/"
-  },
-  {
-   "id": "tapatio-springs-2026-12-12-singer-songwriter-selestial-alcoser",
-   "category": "hood",
-   "title": "Singer/Songwriter – Selestial Alcoser",
-   "startDate": "2026-12-12",
-   "startTime": "19:00",
-   "location": "La Cascada Table & Bar, Tapatio Springs Hill Country Resort, 1 Resort Way",
-   "sourceURL": "https://www.tapatiosprings.com/event/singer-songwriter-selestial-alcoser-2/",
-   "description": "Location: La Cascada Table & Bar – Patio Time: 7 :00 PM – 10:00 PM *Reservations Recommended",
-   "tags": [
-    "community:tapatio-springs"
-   ],
-   "audience": "local"
-  },
-  {
-   "id": "2026-12-12-sold-out-music-in-the-cave-nordic-christmas",
-   "category": "music",
-   "title": "SOLD OUT - Music in the Cave - Nordic Christmas",
-   "startDate": "2026-12-12",
-   "startTime": "19:00",
-   "endTime": "21:00",
-   "location": "Cave Without a Name @ 325 Kreutzberg Road, Boerne",
-   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/cello%20choir%20on%20stage_JLPN.jpg' /></div><p class='MsoNormal'>Set deep within the stunni…",
-   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/sold-out-music-in-the-cave-nordic-christmas?instance_id=20261212190000"
   },
   {
    "title": "Boerne boys soccer vs. Alumni Game",
@@ -3629,19 +3307,6 @@
    ],
    "audience": "local",
    "id": "sch-voss-ms-2026-12-15-beginning-band-winter-concert"
-  },
-  {
-   "id": "downtown-boerne-2026-12-15-gingerbread-terra-cotta-pot-workshop",
-   "category": "holiday",
-   "title": "Gingerbread Terra Cotta Pot Workshop",
-   "startDate": "2026-12-15",
-   "startTime": "18:00",
-   "location": "The Downtown DIY, 206 West Highland Drive, Boerne, Texas, 78006",
-   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/gingerbread-terra-cotta-pot-workshop?instance_id=20261215180000",
-   "description": "Guests will create the sweetest little piece of holiday décor in this festive workshop! Each guest will transform a 4-inch terra cotta pot into their very own gingerbread house using paint, paint…",
-   "tags": [
-    "community:downtown-boerne"
-   ]
   },
   {
    "title": "BHS/BMSN Combined Winter Concert",
@@ -3913,20 +3578,6 @@
    "id": "sch-boerne-isd-2026-12-17-voss-advanced-bands-winter-concert"
   },
   {
-   "id": "tapatio-springs-2026-12-17-name-that-tune",
-   "category": "hood",
-   "title": "Name That Tune",
-   "startDate": "2026-12-17",
-   "startTime": "18:30",
-   "location": "La Cascada Table & Bar, Tapatio Springs Hill Country Resort, 1 Resort Way",
-   "sourceURL": "https://www.tapatiosprings.com/event/name-that-tune-5/2026-12-17/",
-   "description": "Location: La Cascada Table & Bar – Patio Time: 6:30 PM – 8:30 PM Details: Win Gift Card prizes up to $50! Every third Thursday of the month, show off your musical knowledge and join us on La Cascada…",
-   "tags": [
-    "community:tapatio-springs"
-   ],
-   "audience": "local"
-  },
-  {
    "title": "Advanced Band Winter Concert",
    "startDate": "2026-12-17",
    "startTime": "18:30",
@@ -4095,20 +3746,6 @@
    "id": "sch-champion-hs-2026-12-18-champion-boys-basketball-vs-brandeis"
   },
   {
-   "id": "tapatio-springs-2026-12-18-singer-songwriter-jeff-jacobs",
-   "category": "hood",
-   "title": "Singer/Songwriter – Jeff Jacobs",
-   "startDate": "2026-12-18",
-   "startTime": "19:00",
-   "location": "La Cascada Table & Bar, Tapatio Springs Hill Country Resort, 1 Resort Way",
-   "sourceURL": "https://www.tapatiosprings.com/event/singer-songwriter-jeff-jacobs-3/",
-   "description": "Location: La Cascada Table & Bar – Patio Time: 7 :00 PM – 10:00 PM *Reservations Recommended",
-   "tags": [
-    "community:tapatio-springs"
-   ],
-   "audience": "local"
-  },
-  {
    "id": "2026-12-18-spurs-vs-bulls",
    "category": "spurs",
    "title": "Spurs vs. Bulls",
@@ -4142,19 +3779,6 @@
    "sourceURL": "https://theboernelife.com/events/christmas-for-the-birds-at-guadalupe-river-state-park/"
   },
   {
-   "id": "downtown-boerne-2026-12-19-cowboy-christmas-market-days",
-   "category": "market",
-   "title": "Cowboy Christmas Market Days",
-   "startDate": "2026-12-19",
-   "startTime": "10:00",
-   "location": "Main Plaza, 100 North Main Street, Boerne, Texas, 78006",
-   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/cowboy-christmas-market-days-3?instance_id=20261219100000",
-   "description": "Find a unique last-minute gift at the annual Cowboy Christmas Market. It will be bustling with booths featuring everything from collectibles to modern innovations that bring a smile of wonder to…",
-   "tags": [
-    "community:downtown-boerne"
-   ]
-  },
-  {
    "id": "tapatio-springs-2026-12-19-storytime-with-mrs-claus",
    "category": "hood",
    "title": "Storytime with Mrs. Claus",
@@ -4180,20 +3804,6 @@
    "sourceURL": "https://theboernelife.com/events/live-music-saturday-nef-hernandez-at-lost-oak-cellars/"
   },
   {
-   "id": "tapatio-springs-2026-12-19-singer-songwriter-series-ty-dillon",
-   "category": "hood",
-   "title": "Singer/Songwriter Series – Ty Dillon",
-   "startDate": "2026-12-19",
-   "startTime": "19:00",
-   "location": "La Cascada Table & Bar, Tapatio Springs Hill Country Resort, 1 Resort Way",
-   "sourceURL": "https://www.tapatiosprings.com/event/singer-songwriter-series-ty-dillon-2/",
-   "description": "Location: La Cascada Table & Bar – Patio Time: 7 PM – 10 PM *Reservations Recommended",
-   "tags": [
-    "community:tapatio-springs"
-   ],
-   "audience": "local"
-  },
-  {
    "id": "2026-12-19-mavs-vs-bulls",
    "category": "mavs",
    "title": "Mavericks vs. Bulls",
@@ -4203,6 +3813,17 @@
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
    "tv": "MavsTV+ or League Pass"
+  },
+  {
+   "id": "2026-12-19-cowboy-christmas-market-days",
+   "category": "market",
+   "title": "Cowboy Christmas Market Days",
+   "startDate": "2026-12-19",
+   "startTime": "10:00",
+   "endTime": "17:00",
+   "location": "Main Plaza @ 100 North Main Street, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Cowboy%20Christmas%20Market%20Days_djcR.jpg' /></div><p>Find a unique last-minute gift at th…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/cowboy-christmas-market-days-3?instance_id=20261219100000"
   },
   {
    "id": "2026-12-20-texans-vs-jaguars",
@@ -4381,20 +4002,6 @@
    "tv": "MavsTV+ or League Pass"
   },
   {
-   "id": "tapatio-springs-2026-12-24-christmas-eve-day-dinner",
-   "category": "hood",
-   "title": "Christmas Eve & Day Dinner",
-   "startDate": "2026-12-24",
-   "startTime": "17:00",
-   "location": "La Cascada Table & Bar, Tapatio Springs Hill Country Resort, 1 Resort Way",
-   "sourceURL": "https://www.tapatiosprings.com/event/christmas-eve-day-dinner/2026-12-24/",
-   "description": "Indulge in a festive feast with our three-course Christmas dinner, featuring holiday classics and seasonal delights! MAKE YOUR RESERVATIONS HERE Starter Mixed Green Salad Entrée Slow-Cooked…",
-   "tags": [
-    "community:tapatio-springs"
-   ],
-   "audience": "local"
-  },
-  {
    "id": "2026-12-24-texans-at-eagles",
    "category": "texans",
    "title": "Texans at Eagles",
@@ -4417,20 +4024,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "tapatio-springs-2026-12-25-christmas-eve-day-dinner",
-   "category": "hood",
-   "title": "Christmas Eve & Day Dinner",
-   "startDate": "2026-12-25",
-   "startTime": "17:00",
-   "location": "La Cascada Table & Bar, Tapatio Springs Hill Country Resort, 1 Resort Way",
-   "sourceURL": "https://www.tapatiosprings.com/event/christmas-eve-day-dinner/2026-12-25/",
-   "description": "Indulge in a festive feast with our three-course Christmas dinner, featuring holiday classics and seasonal delights! MAKE YOUR RESERVATIONS HERE Starter Mixed Green Salad Entrée Slow-Cooked…",
-   "tags": [
-    "community:tapatio-springs"
-   ],
-   "audience": "local"
-  },
-  {
    "id": "2026-12-26-live-music-saturday-brad-hughes-at-lost-oak-cellars",
    "category": "music",
    "title": "Live Music Saturday: Brad Hughes at Lost Oak Cellars",
@@ -4440,20 +4033,6 @@
    "location": "Lost Oak Cellars, 111 Rosewood Ave",
    "description": "Brad Hughes performs country and Top 40 hits. Guests can enjoy Texas wines, cider, charcuterie, tapas, flatbreads and dessert flights. The concert takes place Saturday, December 26, from 7 pm to 10 pm at Lost Oak Cell…",
    "sourceURL": "https://theboernelife.com/events/live-music-saturday-brad-hughes-at-lost-oak-cellars/"
-  },
-  {
-   "id": "tapatio-springs-2026-12-26-singer-songwriter-chris-lopez",
-   "category": "hood",
-   "title": "Singer/Songwriter – Chris Lopez",
-   "startDate": "2026-12-26",
-   "startTime": "19:00",
-   "location": "La Cascada Table & Bar, Tapatio Springs Hill Country Resort, 1 Resort Way",
-   "sourceURL": "https://www.tapatiosprings.com/event/singer-songwriter-chris-lopez-6/",
-   "description": "Location: La Cascada Table & Bar – Patio Time: 7 :00 PM – 10:00 PM *Reservations Recommended",
-   "tags": [
-    "community:tapatio-springs"
-   ],
-   "audience": "local"
   },
   {
    "id": "2026-12-26-mavs-vs-suns",
@@ -5048,20 +4627,6 @@
    "id": "sch-champion-hs-2027-01-05-champion-girls-basketball-vs-mccollum"
   },
   {
-   "id": "esperanza-2027-01-05-spades-club",
-   "category": "hood",
-   "title": "Spades Club",
-   "startDate": "2027-01-05",
-   "startTime": "19:00",
-   "location": "The Club, Esperanza",
-   "sourceURL": "https://esperanzahoa.com/event/spades-club/2027-01-05/",
-   "description": "Ready to bid, partner up, and show off your card-playing skills? Join us for Spades Club in the Community Room! Whether you’re a seasoned player or looking to brush up on your game, this is a great…",
-   "tags": [
-    "community:esperanza"
-   ],
-   "audience": "local"
-  },
-  {
    "title": "Champion boys soccer at Madison",
    "startDate": "2027-01-05",
    "tag": "Away",
@@ -5095,20 +4660,6 @@
    "tag": "Away",
    "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
    "startTime": "20:00"
-  },
-  {
-   "id": "esperanza-2027-01-06-mahjong-club",
-   "category": "hood",
-   "title": "Mahjong Club",
-   "startDate": "2027-01-06",
-   "startTime": "19:00",
-   "location": "The Club, Esperanza",
-   "sourceURL": "https://esperanzahoa.com/event/mahjong-club/2027-01-06/",
-   "description": "Mahjong Club 🀄 Join fellow Mahjong enthusiasts for an afternoon of strategy, fun, and friendly competition! Whether you’re a seasoned player or interested in learning more about this classic tile…",
-   "tags": [
-    "community:esperanza"
-   ],
-   "audience": "local"
   },
   {
    "id": "2027-01-06-spurs-vs-pacers",
@@ -5174,20 +4725,6 @@
    ],
    "audience": "local",
    "id": "sch-champion-hs-2027-01-07-champion-girls-soccer-at-a-academy"
-  },
-  {
-   "id": "tapatio-springs-2027-01-07-trivia-night",
-   "category": "hood",
-   "title": "Trivia Night",
-   "startDate": "2027-01-07",
-   "startTime": "18:30",
-   "location": "La Cascada Table & Bar, Tapatio Springs Hill Country Resort, 1 Resort Way",
-   "sourceURL": "https://www.tapatiosprings.com/event/trivia-night/2027-01-07/",
-   "description": "Location: La Cascada Table & Bar – Patio Time: First Thursday every Month, 6:30 PM – 8:30 PM Details: Win Gift Card prizes up to $50!",
-   "tags": [
-    "community:tapatio-springs"
-   ],
-   "audience": "local"
   },
   {
    "id": "2027-01-07-utsa-bb-vs-tulsa",
@@ -6533,20 +6070,6 @@
    "id": "sch-boerne-ms-north-ms-2027-02-02-rising-6th-grade-parent-night-auditorium"
   },
   {
-   "id": "esperanza-2027-02-02-spades-club",
-   "category": "hood",
-   "title": "Spades Club",
-   "startDate": "2027-02-02",
-   "startTime": "19:00",
-   "location": "The Club, Esperanza",
-   "sourceURL": "https://esperanzahoa.com/event/spades-club/2027-02-02/",
-   "description": "Ready to bid, partner up, and show off your card-playing skills? Join us for Spades Club in the Community Room! Whether you’re a seasoned player or looking to brush up on your game, this is a great…",
-   "tags": [
-    "community:esperanza"
-   ],
-   "audience": "local"
-  },
-  {
    "id": "2027-02-02-mavs-vs-raptors",
    "category": "mavs",
    "title": "Mavericks vs. Raptors",
@@ -6583,20 +6106,6 @@
    "id": "sch-voss-ms-2027-02-03-herff-and-cibolo-creek-rising-6th-grade-tours"
   },
   {
-   "id": "esperanza-2027-02-03-mahjong-club",
-   "category": "hood",
-   "title": "Mahjong Club",
-   "startDate": "2027-02-03",
-   "startTime": "19:00",
-   "location": "The Club, Esperanza",
-   "sourceURL": "https://esperanzahoa.com/event/mahjong-club/2027-02-03/",
-   "description": "Mahjong Club 🀄 Join fellow Mahjong enthusiasts for an afternoon of strategy, fun, and friendly competition! Whether you’re a seasoned player or interested in learning more about this classic tile…",
-   "tags": [
-    "community:esperanza"
-   ],
-   "audience": "local"
-  },
-  {
    "id": "2027-02-03-rockets-vs-jazz",
    "category": "rockets",
    "title": "Rockets vs. Jazz",
@@ -6606,20 +6115,6 @@
    "tag": "Home",
    "tv": "ESPN",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
-  },
-  {
-   "id": "tapatio-springs-2027-02-04-trivia-night",
-   "category": "hood",
-   "title": "Trivia Night",
-   "startDate": "2027-02-04",
-   "startTime": "18:30",
-   "location": "La Cascada Table & Bar, Tapatio Springs Hill Country Resort, 1 Resort Way",
-   "sourceURL": "https://www.tapatiosprings.com/event/trivia-night/2027-02-04/",
-   "description": "Location: La Cascada Table & Bar – Patio Time: First Thursday every Month, 6:30 PM – 8:30 PM Details: Win Gift Card prizes up to $50!",
-   "tags": [
-    "community:tapatio-springs"
-   ],
-   "audience": "local"
   },
   {
    "id": "2027-02-04-utsa-bb-vs-florida-atlantic",
@@ -6882,20 +6377,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "downtown-boerne-2027-02-12-boerne-chocolate-walk",
-   "category": "fest",
-   "title": "Boerne Chocolate Walk",
-   "startDate": "2027-02-12",
-   "startTime": "10:00",
-   "location": "Hill Country Mile, 100 North Main Street, Boerne, Texas, 78006",
-   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/boerne-chocolate-walk-2?instance_id=20270212100000",
-   "description": "This sweet event takes participants on a stroll through historic downtown Boerne. Collect a special chocolate treat as you step inside each participating store, gallery, and restaurant along Main…",
-   "tags": [
-    "community:downtown-boerne"
-   ],
-   "featured": true
-  },
-  {
    "id": "2027-02-12-rockets-at-pelicans",
    "category": "rockets",
    "title": "Rockets at Pelicans",
@@ -6905,6 +6386,16 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "id": "2027-02-12-boerne-chocolate-walk",
+   "category": "fest",
+   "title": "Boerne Chocolate Walk",
+   "startDate": "2027-02-12",
+   "startTime": "10:00",
+   "location": "Hill Country Mile @ 100 North Main Street, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Chocolate%20Walk_ukQe.jpg' /></div><p style='margin-top:0px;margin-bottom:1.4em;border:0px n…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/boerne-chocolate-walk-2?instance_id=20270212100000"
   },
   {
    "title": "Bisd Uil One-Act Play Clinic",
@@ -7085,20 +6576,6 @@
    "tag": "Home",
    "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
    "startTime": "20:00"
-  },
-  {
-   "id": "tapatio-springs-2027-02-18-name-that-tune",
-   "category": "hood",
-   "title": "Name That Tune",
-   "startDate": "2027-02-18",
-   "startTime": "18:30",
-   "location": "La Cascada Table & Bar, Tapatio Springs Hill Country Resort, 1 Resort Way",
-   "sourceURL": "https://www.tapatiosprings.com/event/name-that-tune-5/2027-02-18/",
-   "description": "Location: La Cascada Table & Bar – Patio Time: 6:30 PM – 8:30 PM Details: Win Gift Card prizes up to $50! Every third Thursday of the month, show off your musical knowledge and join us on La Cascada…",
-   "tags": [
-    "community:tapatio-springs"
-   ],
-   "audience": "local"
   },
   {
    "id": "2027-02-18-spurs-at-timberwolves",
@@ -7968,17 +7445,6 @@
    "tv": "MavsTV+ or League Pass"
   },
   {
-   "id": "2027-03-27-15th-annual-community-garage-sale",
-   "category": "fest",
-   "title": "15th Annual Community Garage Sale",
-   "startDate": "2027-03-27",
-   "startTime": "08:00",
-   "endTime": "16:00",
-   "location": "Kendall County Fairgrounds @ 1307 River Road, Boerne",
-   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Garage%20Sale_Cpa4.jpg' /></div><p>Keep an eye out for some amazing treasures at this popula…",
-   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/15th-annual-community-garage-sale?instance_id=20270327080000"
-  },
-  {
    "id": "2027-03-27-spurs-at-pistons",
    "category": "spurs",
    "title": "Spurs at Pistons",
@@ -8041,6 +7507,17 @@
    "tag": "Away",
    "tv": "Apple TV",
    "sourceURL": "https://houstondynamofc.com/news/houston-dynamo-fc-announce-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-03-27-15th-annual-community-garage-sale",
+   "category": "fest",
+   "title": "15th Annual Community Garage Sale",
+   "startDate": "2027-03-27",
+   "startTime": "08:00",
+   "endTime": "16:00",
+   "location": "Kendall County Fairgrounds @ 1307 River Road, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Garage%20Sale_Cpa4.jpg' /></div><p>Keep an eye out for some amazing treasures at this popula…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/15th-annual-community-garage-sale?instance_id=20270327080000"
   },
   {
    "id": "2027-03-28-rockets-vs-lakers",
