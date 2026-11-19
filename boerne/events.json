@@ -2212,7 +2212,8 @@
    "location": "Downtown Boerne",
    "description": "Holiday shopping walk through downtown shops. Proceeds sponsor Dickens on Main.",
    "outdoor": true,
-   "sourceURL": "https://holidaysinboerne.com/stocking-stroll"
+   "sourceURL": "https://holidaysinboerne.com/stocking-stroll",
+   "featured": true
   },
   {
    "id": "2026-12-04-st-nicholas-market-at-st-john-lutheran-school-boerne",
@@ -2233,7 +2234,8 @@
    "startTime": "16:00",
    "location": "Boerne",
    "description": "Boerne’s holiday weekend features a Wassail Walk and Caroling Contest on Friday, December 4, from 4 pm to 8 pm. Participating businesses will serve their own versions of wassail while carolers perform holiday songs. O…",
-   "sourceURL": "https://theboernelife.com/events/weihnachts-weekend-on-the-hill-country-mile/"
+   "sourceURL": "https://theboernelife.com/events/weihnachts-weekend-on-the-hill-country-mile/",
+   "featured": true
   },
   {
    "id": "2026-12-04-wassail-walk-on-the-hill-country-mile",
@@ -2244,7 +2246,8 @@
    "endTime": "20:00",
    "location": "Hill Country Mile, 100 North Main St.",
    "description": "Stroll the Hill Country Mile during an evening of late-night shopping and seasonal drinks, including wassail and mulled wine at participating stops. A caroling contest adds to the holiday atmosphere. The Wassail Walk …",
-   "sourceURL": "https://theboernelife.com/events/wassail-walk-on-the-hill-country-mile/"
+   "sourceURL": "https://theboernelife.com/events/wassail-walk-on-the-hill-country-mile/",
+   "featured": true
   },
   {
    "id": "downtown-boerne-2026-12-04-boujee-nutcrackers",
@@ -3006,7 +3009,8 @@
    "endDate": "2026-12-13",
    "location": "Hill Country Mile, 100 North Main St.",
    "description": "Celebrate the start of Christmas break with a family weekend in downtown Boerne. Kids can wear festive outfits and enjoy a Cookie Crawl, Santa Scavenger Hunt, Christmas Market Days shopping, live ice carving and photo…",
-   "sourceURL": "https://theboernelife.com/events/kinder-fest-weekend-on-the-hill-country-mile/"
+   "sourceURL": "https://theboernelife.com/events/kinder-fest-weekend-on-the-hill-country-mile/",
+   "featured": true
   },
   {
    "title": "HS Region Orchestra Clinic & Concert",
@@ -3249,7 +3253,6 @@
    "timeNote": "Sat 10–5, Sun 10–4",
    "location": "Main Plaza, 100 N Main St",
    "description": "Artisans, crafts and food vendors fill the Main Plaza the second weekend of the month.",
-   "featured": true,
    "outdoor": true,
    "sourceURL": "https://business.boerne.org/events"
   },
@@ -5315,7 +5318,6 @@
    "timeNote": "Sat 10–5, Sun 10–4",
    "location": "Main Plaza, 100 N Main St",
    "description": "Artisans, crafts and food vendors fill the Main Plaza the second weekend of the month.",
-   "featured": false,
    "outdoor": true,
    "sourceURL": "https://business.boerne.org/events"
   },
@@ -6576,7 +6578,8 @@
    "startTime": "10:00",
    "location": "The Bevy Hotel Boerne",
    "description": "Builders, remodelers, landscapers and outdoor-living vendors under one roof.",
-   "sourceURL": "https://www.eventbrite.com/e/boerne-home-outdoor-living-show-tickets-1999297879778"
+   "sourceURL": "https://www.eventbrite.com/e/boerne-home-outdoor-living-show-tickets-1999297879778",
+   "featured": true
   },
   {
    "id": "2027-02-06-horns-bb-at-florida",
@@ -6754,7 +6757,8 @@
    "description": "This sweet event takes participants on a stroll through historic downtown Boerne. Collect a special chocolate treat as you step inside each participating store, gallery, and restaurant along Main…",
    "tags": [
     "community:downtown-boerne"
-   ]
+   ],
+   "featured": true
   },
   {
    "id": "2027-02-12-rockets-at-pelicans",
@@ -6803,7 +6807,6 @@
    "timeNote": "Sat 10–5, Sun 10–4",
    "location": "Main Plaza, 100 N Main St",
    "description": "Artisans, crafts and food vendors fill the Main Plaza the second weekend of the month.",
-   "featured": false,
    "outdoor": true,
    "sourceURL": "https://business.boerne.org/events"
   },
