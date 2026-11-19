@@ -31,7 +31,8 @@ def main(research, local_out, events_path):
             if f['layer'] == 'city':
                 i['short'] = 'Inside city limits'
             f['info'] = {k: i[k] for k in KEEP if i.get(k)}
-            f['polygons'] = [[[round(p[0], 5), round(p[1], 5)] for p in r] for r in f['polygons'] if len(r) >= 4]
+            digits = 4 if f['layer'] == 'community' else 5      # neighborhoods don't need metre precision
+            f['polygons'] = [[[round(p[0], digits), round(p[1], digits)] for p in r] for r in f['polygons'] if len(r) >= 4]
             feats.append(f)
     ids = [f['id'] for f in feats]
     assert len(ids) == len(set(ids)), 'duplicate feature ids'
