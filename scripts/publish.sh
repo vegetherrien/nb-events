@@ -6,7 +6,9 @@ N="$1"; MSG="$2"; cd "$(dirname "$0")/.."
 cp "$N/feed/events.json" events.json; cp "$N/feed/local.json" local.json
 cp "$N/feed/boerne-events.json" boerne/events.json; cp "$N/feed/boerne-local.json" boerne/local.json
 cp "$N"/scripts/*.py scripts/   # run this copy (in the feed repo), not one inside the app project
-python3 scripts/validate_feed.py events.json >/dev/null && python3 scripts/validate_feed.py boerne/events.json >/dev/null
+# Stop before anything is pushed if either feed fails its checks.
+python3 scripts/validate_feed.py events.json >/dev/null || { echo "events.json failed validation; nothing published"; python3 scripts/validate_feed.py events.json | tail -5; exit 1; }
+python3 scripts/validate_feed.py boerne/events.json >/dev/null || { echo "boerne/events.json failed validation; nothing published"; python3 scripts/validate_feed.py boerne/events.json | tail -5; exit 1; }
 python3 scripts/build_ics.py events.json nb-events.ics 2>/dev/null
 python3 scripts/build_ics.py boerne/events.json boerne/events.ics 2>/dev/null
 export GH_TOKEN=$(gh auth token -u vegetherrien)
