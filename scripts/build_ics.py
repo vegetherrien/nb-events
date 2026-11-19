@@ -74,7 +74,7 @@ def main(src, dst):
 
     count = 0
     for e in feed["events"]:
-        if e["category"] in hidden:
+        if e["category"] in hidden or e.get("audience") == "local":  # resident-only events stay out of the public calendar
             continue
         start = date.fromisoformat(e["startDate"])
         end = date.fromisoformat(e.get("endDate", e["startDate"]))
