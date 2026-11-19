@@ -9115,6 +9115,19 @@
    "url": "https://www.ci.boerne.tx.us/1947/Water-Restrictions",
    "source": "City of Boerne (Boerne Utilities)",
    "asOf": "2026-11-19",
+   "waterDays": {
+    "0": "Monday",
+    "1": "Monday",
+    "2": "Tuesday",
+    "3": "Tuesday",
+    "4": "Wednesday",
+    "5": "Wednesday",
+    "6": "Thursday",
+    "7": "Thursday",
+    "8": "Friday",
+    "9": "Friday"
+   },
+   "waterHours": "7am-11am or 7pm-11pm",
    "collector": "utilities"
   }
  ],
