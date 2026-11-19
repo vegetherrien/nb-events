@@ -47,7 +47,10 @@ def main(feed_path, apply=False):
                 continue
             if n.get("until") and n["until"] < date.today().isoformat():
                 continue
-            n["title"], n["detail"] = n["title"][:70], n["detail"][:240]
+            n["title"] = n["title"][:70]
+            if len(n["detail"]) > 240:          # cut at the end of a sentence, never mid-word
+                cut = n["detail"][:240]
+                n["detail"] = cut[:cut.rfind(". ") + 1] if ". " in cut else cut.rsplit(" ", 1)[0] + "…"
             n["collector"] = name
             seen.add(n["id"]); good.append(n)
         print(f"  {name}: {len(good)} notice(s)")
