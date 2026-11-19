@@ -141,6 +141,13 @@
    "symbol": "music.note"
   },
   {
+   "id": "arts",
+   "name": "Theater & arts",
+   "light": "#9C2F5E",
+   "dark": "#EE9AC0",
+   "symbol": "theatermasks.fill"
+  },
+  {
    "id": "holiday",
    "name": "Holiday & seasonal",
    "light": "#AE2239",
@@ -2341,6 +2348,16 @@
    "audience": "local"
   },
   {
+   "id": "2026-12-04-miracle-on-34th-street",
+   "category": "arts",
+   "title": "Miracle On 34th Street",
+   "startDate": "2026-12-04",
+   "endDate": "2026-12-20",
+   "location": "Boerne Community Theatre, 907 E Blanco Rd",
+   "description": "Several performances; pick a date and time on the ticket page.",
+   "sourceURL": "https://buy.ticketstothecity.com/venue.php?org_id=389"
+  },
+  {
    "id": "2026-12-05-holiday-hunger-5k-run-walk-at-bulverde-city-park",
    "category": "nature",
    "title": "Holiday Hunger 5K Run & Walk at Bulverde City Park",
@@ -3451,6 +3468,17 @@
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
    "tv": "DAZN"
+  },
+  {
+   "id": "2026-12-13-a-boerne-concert-band-christmas-at-boerne-high-school-audito",
+   "category": "music",
+   "title": "A Boerne Concert Band Christmas at Boerne High School Auditorium",
+   "startDate": "2026-12-13",
+   "startTime": "16:00",
+   "endTime": "17:30",
+   "location": "Boerne High School, 1 Greyhound Ln",
+   "description": "The Boerne Concert Band, directed by Larry Schmidt, performs a program of Christmas favorites. The ensemble brings together musicians from across the Texas Hill Country, including students, veterans, band directors an…",
+   "sourceURL": "https://theboernelife.com/events/a-boerne-concert-band-christmas-at-boerne-high-school-auditorium/"
   },
   {
    "title": "BMSN Band Advanced Bands Holiday Concert",
