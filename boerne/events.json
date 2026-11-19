@@ -8944,6 +8944,78 @@
  ],
  "notices": [
   {
+   "id": "boerne-pet-49638429",
+   "kind": "pets",
+   "title": "Adoptable: Ditka, 2-year-old pug",
+   "detail": "Male dog available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
+   "level": "info",
+   "url": "https://www.adoptapet.com/pet/49638429-boerne-texas-pug-mix",
+   "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
+   "until": "2026-11-19",
+   "asOf": "2026-11-18",
+   "collector": "civic"
+  },
+  {
+   "id": "boerne-pet-49756746",
+   "kind": "pets",
+   "title": "Adoptable: Phil, 1-year-old beagle/jack russell terrier",
+   "detail": "Male dog available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
+   "level": "info",
+   "url": "https://www.adoptapet.com/pet/49756746-boerne-texas-beagle-jack-russell-terrier-mix",
+   "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
+   "until": "2026-11-19",
+   "asOf": "2026-11-18",
+   "collector": "civic"
+  },
+  {
+   "id": "boerne-pet-50029171",
+   "kind": "pets",
+   "title": "Adoptable: Russet, 3-month-old Domestic Shorthair",
+   "detail": "Male cat available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
+   "level": "info",
+   "url": "https://www.adoptapet.com/pet/50029171-boerne-texas-cat",
+   "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
+   "until": "2026-11-19",
+   "asOf": "2026-11-18",
+   "collector": "civic"
+  },
+  {
+   "id": "boerne-opening-red-wing-of-boerne-2026-11-19",
+   "kind": "opening",
+   "title": "Ribbon cutting: Red Wing of Boerne",
+   "detail": "Greater Boerne Chamber ribbon cutting Thu Nov 19 at 1:30 PM, 34702 IH-10, Suite 103, Boerne.",
+   "level": "info",
+   "url": "https://business.boerne.org/events/details/ribbon-cutting-for-red-wing-of-boerne-34896",
+   "source": "Greater Boerne Chamber of Commerce",
+   "until": "2026-11-19",
+   "asOf": "2026-11-18",
+   "collector": "civic"
+  },
+  {
+   "id": "boerne-opening-shelley-goldblum-winepro-2026-11-19",
+   "kind": "opening",
+   "title": "Ribbon cutting: Shelley Goldblum WinePro",
+   "detail": "Greater Boerne Chamber ribbon cutting Thu Nov 19 at 4:00 PM, 7 Upper Balcones Rd, Boerne.",
+   "level": "info",
+   "url": "https://business.boerne.org/events/details/ribbon-cutting-for-shelley-goldblum-winepro-34904",
+   "source": "Greater Boerne Chamber of Commerce",
+   "until": "2026-11-19",
+   "asOf": "2026-11-18",
+   "collector": "civic"
+  },
+  {
+   "id": "boerne-opening-the-fix-wellness-and-aesthetic-2026-11-24",
+   "kind": "opening",
+   "title": "Ribbon cutting: The Fix Wellness and Aesthetics",
+   "detail": "Greater Boerne Chamber ribbon cutting Tue Nov 24 at 11:30 AM, 624 N Main St., Suite 105, Boerne.",
+   "level": "info",
+   "url": "https://business.boerne.org/events/details/ribbon-cutting-for-the-fix-wellness-and-aesthetics-34905",
+   "source": "Greater Boerne Chamber of Commerce",
+   "until": "2026-11-24",
+   "asOf": "2026-11-18",
+   "collector": "civic"
+  },
+  {
    "id": "boerne-school-boerne-isd-planned-2026-11-23",
    "kind": "school",
    "title": "No school Nov 23 to 27 (Boerne ISD)",
