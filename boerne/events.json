@@ -148,6 +148,13 @@
    "symbol": "sparkles"
   },
   {
+   "id": "movies",
+   "name": "Movie nights",
+   "light": "#6B3FA0",
+   "dark": "#C3A4EC",
+   "symbol": "film.fill"
+  },
+  {
    "id": "market",
    "name": "Markets & arts",
    "light": "#6845A3",
@@ -2753,6 +2760,17 @@
    "description": "Monday Night Football.",
    "sourceURL": "https://www.dallascowboys.com/schedule/",
    "outdoor": false
+  },
+  {
+   "id": "2026-12-07-movie-monday-rise-of-the-guardians-at-patrick-heath-public-l",
+   "category": "movies",
+   "title": "Movie Monday! – Rise of the Guardians at Patrick Heath Public Library",
+   "startDate": "2026-12-07",
+   "startTime": "16:00",
+   "endTime": "18:00",
+   "location": "Patrick Heath Public Library, 451 N. Main Street",
+   "description": "The Hub becomes a teen movie theater once a month during the school year, screening popular films rated G, PG or PG-13. This month’s feature is the live-action version of Rise of the Guardians. The movie shows Decembe…",
+   "sourceURL": "https://theboernelife.com/events/movie-monday-rise-of-the-guardians-at-patrick-heath-public-library/"
   },
   {
    "title": "Boerne girls basketball vs. OPEN",
