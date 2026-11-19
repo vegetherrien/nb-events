@@ -9068,5 +9068,21 @@
    "asOf": "2026-11-18",
    "collector": "utilities"
   }
+ ],
+ "offers": [
+  {
+   "id": "sample-cafe-dickens",
+   "business": "Sample Café on Main",
+   "sample": true,
+   "text": "At Dickens on Main? Free cookie with any hot drink, right on the Hill Country Mile.",
+   "titleContains": [
+    "Dickens on Main",
+    "Stocking Stroll",
+    "Weihnachts"
+   ],
+   "leadDays": 1,
+   "from": "2026-11-18",
+   "until": "2026-12-13"
+  }
  ]
 }
