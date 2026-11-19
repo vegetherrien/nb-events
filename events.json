@@ -169,6 +169,13 @@
    "symbol": "theatermasks.fill"
   },
   {
+   "id": "pets",
+   "name": "Pets & adoptions",
+   "light": "#8A5A12",
+   "dark": "#E8B66A",
+   "symbol": "pawprint.fill"
+  },
+  {
    "id": "holiday",
    "name": "Holiday & seasonal",
    "light": "#AE2239",
