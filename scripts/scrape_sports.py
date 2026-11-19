@@ -45,6 +45,9 @@ SOURCES = [
     dict(kind="page", category="texans", name="Texans football", nick="Texans", cities=BOTH, hidden=True,
          url="https://www.houstontexans.com/schedule/", team="Houston Texans", short_opponent=True, tv_table=True,
          home="NRG Stadium, Houston", home_marks=["Reliant", "NRG", "Houston"], symbol="football.fill", light="#03202F", dark="#C8414B"),
+    dict(kind="nfl", category="cowboys", name="Cowboys football", nick="Cowboys", cities=BOTH, hidden=True,
+         url="https://www.dallascowboys.com/schedule/", home="AT&T Stadium, Arlington",
+         symbol="football.fill", light="#041E42", dark="#869397"),
     dict(kind="mlb", category="astros", name="Astros baseball", nick="Astros", cities=BOTH, team_id=117,
          symbol="baseball.fill", light="#EB6E1F", dark="#F4A261"),
     dict(kind="mlb", category="rangers", name="Rangers baseball", nick="Rangers", cities=BOTH, team_id=140,
@@ -52,8 +55,9 @@ SOURCES = [
 ]
 # Where a team's games air when no national network has them (2026-27 season).
 # Spurs: DAZN is the streaming home for non-national games (22 of them also air on CW SA).
-# Rockets: Space City Home Network. Mavericks use several local stations, so none is listed.
-LOCAL_TV = {"spurs": "DAZN", "rockets": "Space City Home Network"}
+# Rockets: Space City Home Network. Mavericks: KFAA/WFAA are Dallas over-the-air stations that don't
+# reach this area, so the streaming options are listed (MavsTV+ in-market, League Pass outside it).
+LOCAL_TV = {"spurs": "DAZN", "rockets": "Space City Home Network", "mavs": "MavsTV+ or League Pass"}
 
 # Colors and symbols for teams entered from research files.
 EXTRA = {
@@ -145,6 +149,32 @@ def tv_table(page):
     return out
 
 
+NETWORKS = r"(FOX|CBS|NBC|ESPN|ABC|ESPN2|NFL Network|Prime Video|Netflix|YouTube|Peacock|TBD)"
+
+
+def nfl_games(src, today):
+    """Games and TV networks from an NFL club site's schedule page (the text of each week's row)."""
+    out = []
+    text = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", fetch(src["url"]))).replace("&middot;", "·").replace("&amp;", "&")
+    now = date.today()
+    season = now.year if now.month >= 6 else now.year - 1
+    row = re.compile(r"WEEK \d+ · \w+ (\d\d)/(\d\d) · (\d{1,2}):(\d\d) (AM|PM) \w+ (VS|AT) (\S+) .*? " + NETWORKS + r" ")
+    for m in row.finditer(text):
+        mo, dd, hh, mi, ap, side, opponent, network = m.groups()
+        year = season if int(mo) >= 6 else season + 1
+        day = f"{year}-{mo}-{dd}"
+        hour = int(hh) % 12 + (12 if ap == "PM" else 0)
+        if day < today:
+            continue
+        home = side == "VS"
+        tail = text[m.end():m.end() + 200]
+        venue = re.match(r".*?Add to Calendar (.+?) (Game Center|NFL\+|Tickets)", tail)
+        e = event(src, day, f"{hour:02d}:{mi}", home, opponent, src["home"] if home else (venue.group(1) if venue else opponent))
+        if network != "TBD": e["tv"] = network
+        out.append(e)
+    return out
+
+
 def page_games(src, today):
     """Games from schema.org SportsEvent data in a team's schedule page."""
     out = []
@@ -221,13 +251,23 @@ def main(path, apply=False):
             cats.append(c)
 
     def replace(cid, found):
+        old = {e["startDate"]: e for e in feed["events"] if e["category"] == cid}
+        for e in found:
+            was = old.get(e["startDate"])
+            if not was: continue
+            e["id"] = was["id"]                 # keeps saved games and reminders attached
+            for k in ("featured", "description", "shortTitle"):
+                if k in was and k not in e: e[k] = was[k]
+            if "shortTitle" in was: e["title"] = was["title"]      # "Cowboys vs. Eagles (Thanksgiving)"
+            if e.get("tag") == "Away" and "," in was.get("location", "") and "," not in e.get("location", ""):
+                e["location"] = was["location"]   # "Lumen Field, Seattle" over "Lumen Field"
         feed["events"] = [e for e in feed["events"] if e["category"] != cid] + found
 
     for src in SOURCES:
         if city not in src["cities"]:
             continue
         try:
-            found = {"page": page_games, "ics": ics_games, "mlb": mlb_games}[src["kind"]](src, today)
+            found = {"page": page_games, "ics": ics_games, "mlb": mlb_games, "nfl": nfl_games}[src["kind"]](src, today)
         except Exception as ex:
             print(f"! {src['name']}: {ex}")
             continue
