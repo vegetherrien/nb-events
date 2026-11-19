@@ -419,15 +419,6 @@
    "id": "sch-cibolo-creek-es-2026-11-19-4th-grade-musical-performance"
   },
   {
-   "id": "2026-11-19-spurs-vs-clippers",
-   "category": "spurs",
-   "title": "Spurs vs. Clippers",
-   "startDate": "2026-11-19",
-   "startTime": "19:00",
-   "location": "Frost Bank Center, San Antonio",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
-  },
-  {
    "title": "Boerne boys football at Mercedes",
    "startDate": "2026-11-19",
    "tag": "Away",
@@ -454,6 +445,16 @@
    ],
    "audience": "local",
    "id": "sch-champion-hs-2026-11-19-champion-boys-football-at-mcallen"
+  },
+  {
+   "id": "2026-11-19-spurs-vs-clippers",
+   "category": "spurs",
+   "title": "Spurs vs. Clippers",
+   "startDate": "2026-11-19",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2026-11-19-texans-vs-colts",
@@ -827,15 +828,6 @@
    "sourceURL": "https://theboernelife.com/events/hunter-billingsley-at-singing-water-vineyards-2/"
   },
   {
-   "id": "2026-11-21-spurs-vs-pelicans",
-   "category": "spurs",
-   "title": "Spurs vs. Pelicans",
-   "startDate": "2026-11-21",
-   "startTime": "19:00",
-   "location": "Frost Bank Center, San Antonio",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
-  },
-  {
    "id": "2026-11-21-utsa-at-uab",
    "category": "utsa",
    "title": "UTSA at UAB",
@@ -869,6 +861,16 @@
     "community:tapatio-springs"
    ],
    "audience": "local"
+  },
+  {
+   "id": "2026-11-21-spurs-vs-pelicans",
+   "category": "spurs",
+   "title": "Spurs vs. Pelicans",
+   "startDate": "2026-11-21",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2026-11-21-mavs-vs-clippers",
@@ -1019,7 +1021,8 @@
    "title": "Spurs at Kings",
    "startDate": "2026-11-23",
    "startTime": "21:00",
-   "location": "Away in Sacramento",
+   "location": "Golden 1 Center, Sacramento",
+   "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
@@ -1129,7 +1132,8 @@
    "title": "Spurs at Trail Blazers",
    "startDate": "2026-11-25",
    "startTime": "21:00",
-   "location": "Away in Portland",
+   "location": "Moda Center at the Rose Quarter, Portland",
+   "tag": "Away",
    "tv": "ESPN",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
@@ -1390,6 +1394,7 @@
    "startDate": "2026-11-27",
    "startTime": "20:30",
    "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
    "tv": "Prime Video",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
@@ -1526,6 +1531,7 @@
    "startDate": "2026-11-29",
    "startTime": "15:00",
    "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
    "tv": "NBA TV",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
@@ -1558,7 +1564,8 @@
    "title": "Spurs at Bucks",
    "startDate": "2026-11-30",
    "startTime": "19:00",
-   "location": "Away in Milwaukee",
+   "location": "Fiserv Forum, Milwaukee",
+   "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
@@ -1875,15 +1882,6 @@
    "audience": "local"
   },
   {
-   "id": "2026-12-03-spurs-vs-raptors",
-   "category": "spurs",
-   "title": "Spurs vs. Raptors",
-   "startDate": "2026-12-03",
-   "startTime": "19:00",
-   "location": "Frost Bank Center, San Antonio",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
-  },
-  {
    "title": "CHS/BHS Orchestras Winter Concert",
    "startDate": "2026-12-03",
    "startTime": "19:00",
@@ -1896,6 +1894,16 @@
    ],
    "audience": "local",
    "id": "sch-boerne-isd-2026-12-03-chs-bhs-orchestras-winter-concert"
+  },
+  {
+   "id": "2026-12-03-spurs-vs-raptors",
+   "category": "spurs",
+   "title": "Spurs vs. Raptors",
+   "startDate": "2026-12-03",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "title": "BISD Cookies and Cocoa 2026",
@@ -3150,6 +3158,7 @@
    "startDate": "2026-12-13",
    "startTime": "18:00",
    "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
@@ -3431,16 +3440,6 @@
    "id": "sch-champion-hs-2026-12-15-champion-girls-basketball-vs-john-jay"
   },
   {
-   "id": "2026-12-15-spurs-at-cavaliers",
-   "category": "spurs",
-   "title": "Spurs at Cavaliers",
-   "startDate": "2026-12-15",
-   "startTime": "19:00",
-   "location": "Away in Cleveland",
-   "tv": "NBC",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
-  },
-  {
    "title": "Boerne girls soccer at Davenport",
    "startDate": "2026-12-15",
    "tag": "Away",
@@ -3497,6 +3496,17 @@
    "id": "sch-champion-hs-2026-12-15-champion-boys-basketball-at-clemens"
   },
   {
+   "id": "2026-12-15-spurs-at-cavaliers",
+   "category": "spurs",
+   "title": "Spurs at Cavaliers",
+   "startDate": "2026-12-15",
+   "startTime": "19:00",
+   "location": "Rocket Arena, Cleveland",
+   "tag": "Away",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
    "title": "Midterm Exams",
    "startDate": "2026-12-16",
    "endDate": "2026-12-18",
@@ -3543,7 +3553,8 @@
    "title": "Spurs at Raptors",
    "startDate": "2026-12-16",
    "startTime": "18:30",
-   "location": "Away in Toronto",
+   "location": "Scotiabank Arena, Toronto",
+   "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
@@ -3813,15 +3824,6 @@
    "id": "sch-champion-hs-2026-12-18-champion-boys-basketball-vs-brandeis"
   },
   {
-   "id": "2026-12-18-spurs-vs-bulls",
-   "category": "spurs",
-   "title": "Spurs vs. Bulls",
-   "startDate": "2026-12-18",
-   "startTime": "19:00",
-   "location": "Frost Bank Center, San Antonio",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
-  },
-  {
    "id": "tapatio-springs-2026-12-18-singer-songwriter-jeff-jacobs",
    "category": "hood",
    "title": "Singer/Songwriter – Jeff Jacobs",
@@ -3834,6 +3836,16 @@
     "community:tapatio-springs"
    ],
    "audience": "local"
+  },
+  {
+   "id": "2026-12-18-spurs-vs-bulls",
+   "category": "spurs",
+   "title": "Spurs vs. Bulls",
+   "startDate": "2026-12-18",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2026-12-18-rockets-at-grizzlies",
@@ -3954,7 +3966,8 @@
    "title": "Spurs at Pelicans",
    "startDate": "2026-12-20",
    "startTime": "18:00",
-   "location": "Away in New Orleans",
+   "location": "Smoothie King Center, New Orleans",
+   "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
@@ -3992,6 +4005,7 @@
    "startDate": "2026-12-21",
    "startTime": "19:00",
    "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
@@ -4052,7 +4066,8 @@
    "title": "Spurs at Nets",
    "startDate": "2026-12-23",
    "startTime": "18:30",
-   "location": "Away in Brooklyn",
+   "location": "Barclays Center, Brooklyn",
+   "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
@@ -4106,10 +4121,9 @@
    "title": "Spurs at Knicks",
    "startDate": "2026-12-25",
    "startTime": "11:00",
-   "location": "Away in New York",
-   "description": "Christmas Day rematch of last season's NBA Finals.",
+   "location": "Madison Square Garden, New York",
+   "tag": "Away",
    "tv": "ABC",
-   "featured": true,
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
@@ -4179,6 +4193,7 @@
    "startDate": "2026-12-27",
    "startTime": "18:00",
    "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
@@ -4328,7 +4343,8 @@
    "title": "Spurs at Grizzlies",
    "startDate": "2026-12-29",
    "startTime": "19:00",
-   "location": "Away in Memphis",
+   "location": "FedExForum, Memphis",
+   "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
@@ -4410,8 +4426,8 @@
    "title": "Spurs at Hornets",
    "startDate": "2026-12-31",
    "startTime": "12:00",
-   "location": "Away in Charlotte",
-   "description": "New Year's Eve matinee.",
+   "location": "Spectrum Center, Charlotte",
+   "tag": "Away",
    "tv": "NBA TV",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
@@ -4464,13 +4480,15 @@
    "id": "sch-boerne-hs-2027-01-01-boerne-girls-basketball-at-mccollum"
   },
   {
+   "id": "2027-01-01-spurs-at-wizards",
    "category": "spurs",
    "title": "Spurs at Wizards",
    "startDate": "2027-01-01",
    "startTime": "16:00",
-   "location": "Away in Washington",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-01-01-spurs-at-wizards"
+   "location": "Capital One Arena, Washington",
+   "tag": "Away",
+   "tv": "NBA TV",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-01-01-mavs-at-rockets",
@@ -4545,13 +4563,15 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
+   "id": "2027-01-03-spurs-at-timberwolves",
    "category": "spurs",
    "title": "Spurs at Timberwolves",
    "startDate": "2027-01-03",
    "startTime": "18:00",
-   "location": "Away in Minneapolis",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-01-03-spurs-at-timberwolves"
+   "location": "Target Center, Minneapolis",
+   "tag": "Away",
+   "tv": "NBA TV",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-01-03-rockets-vs-cavaliers",
@@ -4744,15 +4764,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
-   "category": "spurs",
-   "title": "Spurs vs. Pacers",
-   "startDate": "2027-01-06",
-   "startTime": "19:00",
-   "location": "Frost Bank Center, San Antonio",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-01-06-spurs-vs-pacers"
-  },
-  {
    "id": "esperanza-2027-01-06-mahjong-club",
    "category": "hood",
    "title": "Mahjong Club",
@@ -4765,6 +4776,16 @@
     "community:esperanza"
    ],
    "audience": "local"
+  },
+  {
+   "id": "2027-01-06-spurs-vs-pacers",
+   "category": "spurs",
+   "title": "Spurs vs. Pacers",
+   "startDate": "2027-01-06",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "title": "Boerne girls soccer at Georgetown Tournament",
@@ -4979,13 +5000,14 @@
    "id": "sch-champion-hs-2027-01-08-champion-boys-basketball-vs-boerne"
   },
   {
+   "id": "2027-01-08-spurs-vs-grizzlies",
    "category": "spurs",
    "title": "Spurs vs. Grizzlies",
    "startDate": "2027-01-08",
    "startTime": "19:00",
    "location": "Frost Bank Center, San Antonio",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-01-08-spurs-vs-grizzlies"
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-01-08-mavs-vs-suns",
@@ -5114,13 +5136,14 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "id": "2027-01-10-spurs-at-hawks",
    "category": "spurs",
    "title": "Spurs at Hawks",
    "startDate": "2027-01-10",
    "startTime": "14:00",
-   "location": "Away in Atlanta",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-01-10-spurs-at-hawks"
+   "location": "State Farm Arena, Atlanta",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-01-10-mavs-at-grizzlies",
@@ -5325,14 +5348,15 @@
    "id": "sch-champion-hs-2027-01-14-champion-girls-soccer-at-flour-bluff"
   },
   {
+   "id": "2027-01-14-spurs-vs-pelicans-nba-paris-game",
    "category": "spurs",
    "title": "Spurs vs. Pelicans (NBA Paris Game)",
    "startDate": "2027-01-14",
    "startTime": "13:00",
-   "location": "Away in Paris, France",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "description": "Spurs home game played at the NBA Paris Game. Early afternoon tip in Texas.",
-   "id": "2027-01-14-spurs-vs-pelicans-nba-paris-game"
+   "location": "Accor Arena, Paris",
+   "tag": "Home",
+   "tv": "Prime Video",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-01-14-mavs-at-pistons",
@@ -5548,14 +5572,15 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "id": "2027-01-17-spurs-at-pelicans-nba-manchester-game",
    "category": "spurs",
    "title": "Spurs at Pelicans (NBA Manchester Game)",
    "startDate": "2027-01-17",
    "startTime": "09:30",
-   "location": "Away in Manchester, England",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "description": "Sunday morning tip in Texas for the NBA Manchester Game.",
-   "id": "2027-01-17-spurs-at-pelicans-nba-manchester-game"
+   "location": "Co-op Live, Manchester",
+   "tag": "Away",
+   "tv": "Prime Video",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-01-18-rockets-at-grizzlies",
@@ -5641,13 +5666,15 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "id": "2027-01-20-spurs-vs-heat",
    "category": "spurs",
    "title": "Spurs vs. Heat",
    "startDate": "2027-01-20",
    "startTime": "20:30",
    "location": "Frost Bank Center, San Antonio",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-01-20-spurs-vs-heat"
+   "tag": "Home",
+   "tv": "ESPN",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "title": "Champion Theatre: West Side Story - All-School Musical",
@@ -5722,13 +5749,15 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
+   "id": "2027-01-22-spurs-vs-timberwolves",
    "category": "spurs",
    "title": "Spurs vs. Timberwolves",
    "startDate": "2027-01-22",
    "startTime": "20:30",
    "location": "Frost Bank Center, San Antonio",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-01-22-spurs-vs-timberwolves"
+   "tag": "Home",
+   "tv": "ESPN",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "title": "TECA Color Guard Contest @ Sotomayor HS",
@@ -5767,13 +5796,14 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
+   "id": "2027-01-24-spurs-vs-trail-blazers",
    "category": "spurs",
    "title": "Spurs vs. Trail Blazers",
    "startDate": "2027-01-24",
    "startTime": "14:30",
    "location": "Frost Bank Center, San Antonio",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-01-24-spurs-vs-trail-blazers"
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-01-24-rockets-at-magic",
@@ -5836,13 +5866,15 @@
    "id": "sch-voss-ms-2027-01-26-rising-6th-grade-parent-night"
   },
   {
+   "id": "2027-01-26-spurs-vs-rockets",
    "category": "spurs",
    "title": "Spurs vs. Rockets",
    "startDate": "2027-01-26",
    "startTime": "19:00",
    "location": "Frost Bank Center, San Antonio",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-01-26-spurs-vs-rockets"
+   "tag": "Home",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-01-26-rockets-at-spurs",
@@ -5894,13 +5926,14 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
+   "id": "2027-01-27-spurs-vs-hornets",
    "category": "spurs",
    "title": "Spurs vs. Hornets",
    "startDate": "2027-01-27",
    "startTime": "19:00",
    "location": "Frost Bank Center, San Antonio",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-01-27-spurs-vs-hornets"
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-01-27-rockets-vs-pelicans",
@@ -5959,13 +5992,15 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "id": "2027-01-30-spurs-at-warriors",
    "category": "spurs",
    "title": "Spurs at Warriors",
    "startDate": "2027-01-30",
    "startTime": "16:30",
-   "location": "Away in San Francisco",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-01-30-spurs-at-warriors"
+   "location": "Chase Center, San Francisco",
+   "tag": "Away",
+   "tv": "ABC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "title": "BHS Winter Formal",
@@ -6004,13 +6039,14 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "id": "2027-02-01-spurs-at-warriors",
    "category": "spurs",
    "title": "Spurs at Warriors",
    "startDate": "2027-02-01",
    "startTime": "21:00",
-   "location": "Away in San Francisco",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-02-01-spurs-at-warriors"
+   "location": "Chase Center, San Francisco",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "title": "Math Interim Testing All Grades",
@@ -6077,13 +6113,14 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
+   "id": "2027-02-02-spurs-at-clippers",
    "category": "spurs",
    "title": "Spurs at Clippers",
    "startDate": "2027-02-02",
    "startTime": "21:30",
-   "location": "Away in Los Angeles",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-02-02-spurs-at-clippers"
+   "location": "Intuit Dome, Inglewood",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "title": "Herff and Cibolo Creek Rising 6th Grade Tours",
@@ -6139,13 +6176,14 @@
    "audience": "local"
   },
   {
+   "id": "2027-02-04-spurs-vs-magic",
    "category": "spurs",
    "title": "Spurs vs. Magic",
    "startDate": "2027-02-04",
    "startTime": "19:00",
    "location": "Frost Bank Center, San Antonio",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-02-04-spurs-vs-magic"
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-02-04-mavs-at-nuggets",
@@ -6241,13 +6279,15 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
+   "id": "2027-02-06-spurs-vs-lakers",
    "category": "spurs",
    "title": "Spurs vs. Lakers",
    "startDate": "2027-02-06",
    "startTime": "19:30",
    "location": "Frost Bank Center, San Antonio",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-02-06-spurs-vs-lakers"
+   "tag": "Home",
+   "tv": "ABC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-02-07-mavs-vs-clippers",
@@ -6296,13 +6336,15 @@
    "id": "sch-boerne-isd-2027-02-09-boerne-isd-orchestras-pre-uil-concert-clinic"
   },
   {
+   "id": "2027-02-09-spurs-at-mavericks",
    "category": "spurs",
    "title": "Spurs at Mavericks",
    "startDate": "2027-02-09",
    "startTime": "19:00",
-   "location": "Away in Dallas",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-02-09-spurs-at-mavericks"
+   "location": "American Airlines Center, Dallas",
+   "tag": "Away",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-02-09-mavs-vs-spurs",
@@ -6347,13 +6389,15 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "id": "2027-02-11-spurs-at-thunder",
    "category": "spurs",
    "title": "Spurs at Thunder",
    "startDate": "2027-02-11",
    "startTime": "20:30",
-   "location": "Away in Oklahoma City",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-02-11-spurs-at-thunder"
+   "location": "Paycom Center, Oklahoma City",
+   "tag": "Away",
+   "tv": "Prime Video",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "downtown-boerne-2027-02-12-boerne-chocolate-walk",
@@ -6430,13 +6474,14 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
+   "id": "2027-02-13-spurs-at-magic",
    "category": "spurs",
    "title": "Spurs at Magic",
    "startDate": "2027-02-13",
    "startTime": "18:00",
-   "location": "Away in Orlando",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-02-13-spurs-at-magic"
+   "location": "Kia Center, Orlando",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-02-14-rockets-vs-nuggets",
@@ -6487,13 +6532,15 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
+   "id": "2027-02-15-spurs-at-heat",
    "category": "spurs",
    "title": "Spurs at Heat",
    "startDate": "2027-02-15",
    "startTime": "16:00",
-   "location": "Away in Miami",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-02-15-spurs-at-heat"
+   "location": "Kaseya Center, Miami",
+   "tag": "Away",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "title": "TSIA Testing",
@@ -6529,22 +6576,14 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
+   "id": "2027-02-17-spurs-at-grizzlies",
    "category": "spurs",
    "title": "Spurs at Grizzlies",
    "startDate": "2027-02-17",
    "startTime": "19:00",
-   "location": "Away in Memphis",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-02-17-spurs-at-grizzlies"
-  },
-  {
-   "category": "spurs",
-   "title": "Spurs at Timberwolves",
-   "startDate": "2027-02-18",
-   "startTime": "18:30",
-   "location": "Away in Minneapolis",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "id": "2027-02-18-spurs-at-timberwolves"
+   "location": "FedExForum, Memphis",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "tapatio-springs-2027-02-18-name-that-tune",
@@ -6559,6 +6598,17 @@
     "community:tapatio-springs"
    ],
    "audience": "local"
+  },
+  {
+   "id": "2027-02-18-spurs-at-timberwolves",
+   "category": "spurs",
+   "title": "Spurs at Timberwolves",
+   "startDate": "2027-02-18",
+   "startTime": "18:30",
+   "location": "Target Center, Minneapolis",
+   "tag": "Away",
+   "tv": "Prime Video",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-02-18-rockets-at-lakers",
@@ -6583,14 +6633,14 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
+   "id": "2027-02-26-spurs-vs-grizzlies-austin",
    "category": "spurs",
    "title": "Spurs vs. Grizzlies (Austin)",
    "startDate": "2027-02-26",
    "startTime": "19:00",
    "location": "Moody Center, Austin",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "description": "One of the Spurs' annual Austin home games, about 45 minutes up I-35.",
-   "id": "2027-02-26-spurs-vs-grizzlies-austin"
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-02-26-rockets-vs-hornets",
@@ -6613,14 +6663,15 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
+   "id": "2027-02-28-spurs-vs-nuggets-austin",
    "category": "spurs",
    "title": "Spurs vs. Nuggets (Austin)",
    "startDate": "2027-02-28",
    "startTime": "12:00",
    "location": "Moody Center, Austin",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "description": "Sunday matinee at the Moody Center, the second of the Austin games.",
-   "id": "2027-02-28-spurs-vs-nuggets-austin"
+   "tag": "Home",
+   "tv": "ABC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-02-28-mavs-vs-lakers",
@@ -6675,6 +6726,17 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "id": "2027-03-03-spurs-at-nuggets",
+   "category": "spurs",
+   "title": "Spurs at Nuggets",
+   "startDate": "2027-03-03",
+   "startTime": "21:00",
+   "location": "Ball Arena, Denver",
+   "tag": "Away",
+   "tv": "ESPN",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
    "id": "2027-03-04-mavs-vs-knicks",
    "category": "mavs",
    "title": "Mavericks vs. Knicks",
@@ -6686,6 +6748,17 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
+   "id": "2027-03-05-spurs-at-rockets",
+   "category": "spurs",
+   "title": "Spurs at Rockets",
+   "startDate": "2027-03-05",
+   "startTime": "20:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Away",
+   "tv": "ESPN",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
    "id": "2027-03-05-rockets-vs-spurs",
    "category": "rockets",
    "title": "Rockets vs. Spurs",
@@ -6695,6 +6768,17 @@
    "tag": "Home",
    "tv": "ESPN",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-03-07-spurs-vs-knicks",
+   "category": "spurs",
+   "title": "Spurs vs. Knicks",
+   "startDate": "2027-03-07",
+   "startTime": "18:30",
+   "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-03-07-rockets-at-warriors",
@@ -6728,6 +6812,16 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "id": "2027-03-09-spurs-vs-wizards",
+   "category": "spurs",
+   "title": "Spurs vs. Wizards",
+   "startDate": "2027-03-09",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
    "id": "2027-03-09-mavs-vs-grizzlies",
    "category": "mavs",
    "title": "Mavericks vs. Grizzlies",
@@ -6746,6 +6840,17 @@
    "location": "Salt Lake City",
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-03-11-spurs-vs-76ers",
+   "category": "spurs",
+   "title": "Spurs vs. 76ers",
+   "startDate": "2027-03-11",
+   "startTime": "18:30",
+   "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
+   "tv": "Prime Video",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-03-11-mavs-vs-wizards",
@@ -6779,6 +6884,17 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
+   "id": "2027-03-14-spurs-at-thunder",
+   "category": "spurs",
+   "title": "Spurs at Thunder",
+   "startDate": "2027-03-14",
+   "startTime": "13:30",
+   "location": "Paycom Center, Oklahoma City",
+   "tag": "Away",
+   "tv": "ABC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
    "id": "2027-03-15-mavs-vs-hawks",
    "category": "mavs",
    "title": "Mavericks vs. Hawks",
@@ -6787,6 +6903,16 @@
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-16-spurs-at-rockets",
+   "category": "spurs",
+   "title": "Spurs at Rockets",
+   "startDate": "2027-03-16",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-03-16-rockets-vs-spurs",
@@ -6820,6 +6946,27 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "id": "2027-03-18-spurs-vs-nets",
+   "category": "spurs",
+   "title": "Spurs vs. Nets",
+   "startDate": "2027-03-18",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2027-03-19-spurs-vs-mavericks",
+   "category": "spurs",
+   "title": "Spurs vs. Mavericks",
+   "startDate": "2027-03-19",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
+   "tv": "NBA TV",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
    "id": "2027-03-19-mavs-at-spurs",
    "category": "mavs",
    "title": "Mavericks at Spurs",
@@ -6839,6 +6986,17 @@
    "location": "New Orleans",
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-03-21-spurs-at-76ers",
+   "category": "spurs",
+   "title": "Spurs at 76ers",
+   "startDate": "2027-03-21",
+   "startTime": "18:30",
+   "location": "Xfinity Mobile Arena, Philadelphia",
+   "tag": "Away",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-03-21-mavs-at-lakers",
@@ -6870,6 +7028,17 @@
    "location": "Los Angeles",
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-24-spurs-at-celtics",
+   "category": "spurs",
+   "title": "Spurs at Celtics",
+   "startDate": "2027-03-24",
+   "startTime": "18:30",
+   "location": "TD Garden, Boston",
+   "tag": "Away",
+   "tv": "ESPN",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-03-24-rockets-at-knicks",
@@ -6912,6 +7081,16 @@
    "startTime": "15:10"
   },
   {
+   "id": "2027-03-25-spurs-at-pacers",
+   "category": "spurs",
+   "title": "Spurs at Pacers",
+   "startDate": "2027-03-25",
+   "startTime": "18:00",
+   "location": "Gainbridge Fieldhouse, Indianapolis",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
    "id": "2027-03-25-rockets-at-pistons",
    "category": "rockets",
    "title": "Rockets at Pistons",
@@ -6950,6 +7129,17 @@
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-27-spurs-at-pistons",
+   "category": "spurs",
+   "title": "Spurs at Pistons",
+   "startDate": "2027-03-27",
+   "startTime": "14:00",
+   "location": "Little Caesars Arena, Detroit",
+   "tag": "Away",
+   "tv": "Prime Video",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-03-27-astros-vs-rangers",
@@ -7013,6 +7203,16 @@
    "startTime": "19:10"
   },
   {
+   "id": "2027-03-29-spurs-vs-suns",
+   "category": "spurs",
+   "title": "Spurs vs. Suns",
+   "startDate": "2027-03-29",
+   "startTime": "20:30",
+   "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
    "id": "2027-03-29-rangers-at-mariners",
    "category": "rangers",
    "title": "Rangers at Mariners",
@@ -7072,6 +7272,16 @@
    "tag": "Away",
    "sourceURL": "https://www.mlb.com/rangers/schedule",
    "startTime": "15:10"
+  },
+  {
+   "id": "2027-03-31-spurs-vs-suns",
+   "category": "spurs",
+   "title": "Spurs vs. Suns",
+   "startDate": "2027-03-31",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-03-31-mavs-vs-nuggets",
@@ -7145,6 +7355,16 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "id": "2027-04-02-spurs-at-clippers",
+   "category": "spurs",
+   "title": "Spurs at Clippers",
+   "startDate": "2027-04-02",
+   "startTime": "21:30",
+   "location": "Intuit Dome, Inglewood",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
    "id": "2027-04-03-rangers-vs-athletics",
    "category": "rangers",
    "title": "Rangers vs. Athletics",
@@ -7206,6 +7426,17 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "id": "2027-04-04-spurs-at-lakers",
+   "category": "spurs",
+   "title": "Spurs at Lakers",
+   "startDate": "2027-04-04",
+   "startTime": "21:00",
+   "location": "Crypto.com Arena, Los Angeles",
+   "tag": "Away",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
    "id": "2027-04-05-astros-at-red-sox",
    "category": "astros",
    "title": "Astros at Red Sox",
@@ -7222,6 +7453,16 @@
    "location": "Fenway Park, Boston",
    "tag": "Away",
    "sourceURL": "https://www.mlb.com/astros/schedule"
+  },
+  {
+   "id": "2027-04-06-spurs-vs-kings",
+   "category": "spurs",
+   "title": "Spurs vs. Kings",
+   "startDate": "2027-04-06",
+   "startTime": "19:00",
+   "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-04-06-rangers-vs-rays",
@@ -7251,6 +7492,17 @@
    "location": "Fenway Park, Boston",
    "tag": "Away",
    "sourceURL": "https://www.mlb.com/astros/schedule"
+  },
+  {
+   "id": "2027-04-07-spurs-vs-cavaliers",
+   "category": "spurs",
+   "title": "Spurs vs. Cavaliers",
+   "startDate": "2027-04-07",
+   "startTime": "18:30",
+   "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
+   "tv": "ESPN",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-04-07-rangers-vs-rays",
@@ -7322,6 +7574,17 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "id": "2027-04-09-spurs-vs-nuggets",
+   "category": "spurs",
+   "title": "Spurs vs. Nuggets",
+   "startDate": "2027-04-09",
+   "startTime": "20:30",
+   "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
+   "tv": "Prime Video",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
    "id": "2027-04-09-mavs-at-kings",
    "category": "mavs",
    "title": "Mavericks at Kings",
@@ -7368,6 +7631,16 @@
    "tag": "Home",
    "sourceURL": "https://www.mlb.com/astros/schedule",
    "startTime": "13:10"
+  },
+  {
+   "id": "2027-04-11-spurs-vs-trail-blazers",
+   "category": "spurs",
+   "title": "Spurs vs. Trail Blazers",
+   "startDate": "2027-04-11",
+   "startTime": "19:30",
+   "location": "Frost Bank Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2027-04-11-mavs-vs-grizzlies",
