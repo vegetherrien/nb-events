@@ -12251,5 +12251,88 @@
    "source": "Texas Alcoholic Beverage Commission",
    "url": "https://data.texas.gov/Government-and-Taxes/TABC-License-Information/7hf9-qc9f"
   }
- ]
+ ],
+ "eats": {
+  "note": "Favorites come from local best-of lists and reader polls (SA Current, Visit New Braunfels, Mike Sutter, Fodor's).",
+  "places": [
+   {
+    "name": "Muck & Fuss",
+    "kind": "Burgers & craft beer",
+    "why": "Readers' pick for best New Braunfels restaurant"
+   },
+   {
+    "name": "McAdoo's Seafood Company",
+    "kind": "Seafood",
+    "why": "Gulf seafood in a historic downtown building"
+   },
+   {
+    "name": "Huisache Grill",
+    "kind": "American",
+    "why": "A downtown local favorite since 1994"
+   },
+   {
+    "name": "Krause's Cafe",
+    "kind": "German",
+    "why": "Beer hall and big outdoor garden"
+   },
+   {
+    "name": "Alpine Haus",
+    "kind": "German",
+    "why": "Bavarian plates across from the Faust"
+   },
+   {
+    "name": "Myron's Prime Steakhouse",
+    "kind": "Steakhouse",
+    "why": "Steaks in the old Palace theater"
+   },
+   {
+    "name": "Gennaro's Trattoria",
+    "kind": "Italian",
+    "why": "A block off the main drag"
+   },
+   {
+    "name": "Naegelin's Bakery",
+    "kind": "Bakery",
+    "why": "Baking in New Braunfels since 1868"
+   },
+   {
+    "name": "Black's BBQ",
+    "kind": "Barbecue",
+    "why": "Central Texas barbecue"
+   },
+   {
+    "name": "Buttermilk Cafe",
+    "kind": "Breakfast & lunch",
+    "why": "Country breakfast near Gruene"
+   },
+   {
+    "name": "Gristmill River Restaurant & Bar",
+    "kind": "Texan",
+    "why": "In the old cotton gin, over the river"
+   },
+   {
+    "name": "Gruene River Grill",
+    "kind": "Texan",
+    "why": "Hill Country plates on the river"
+   },
+   {
+    "name": "Sample Biergarten",
+    "kind": "Beer garden",
+    "sponsored": true,
+    "sample": true,
+    "lat": 29.7024,
+    "lon": -98.1236,
+    "text": "Downtown for an event? Free pretzel with any beer, two blocks from Main Plaza."
+   },
+   {
+    "name": "Sample Gruene Grill",
+    "kind": "Restaurant",
+    "sponsored": true,
+    "sample": true,
+    "lat": 29.7376,
+    "lon": -98.1058,
+    "text": "Headed to Gruene? Kids eat free before 6 on show nights."
+   }
+  ]
+ }
 }
