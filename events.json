@@ -346,15 +346,22 @@
    "month": 11,
    "key": "nov",
    "de": "November",
-   "title": "Wurstfest, harvest & Thanksgiving",
-   "tagline": "Ten days of Wurstfest by the Comal, Veterans Day on Main Plaza, the Weihnachtsmarkt, then Thanksgiving."
+   "title": "Weihnachtsmarkt, lights & Thanksgiving",
+   "tagline": "The Weihnachtsmarkt and Downtown Lighting open the season, Gruene Market Days follows, then the Turkey Trot on Thanksgiving morning."
   },
   {
    "month": 12,
    "key": "dec",
    "de": "Dezember",
    "title": "Weihnachten in the Hill Country",
-   "tagline": "Wassail on Main Plaza, Christmas Market Days in Gruene, and Hill Country Holiday at home in Veramendi."
+   "tagline": "Wassail on Main Plaza, Christmas Market Days in Gruene, and Hill Country Holiday at home in Veramendi.",
+   "later": [
+    {
+     "fromDay": 14,
+     "title": "Christmas week in the Hill Country",
+     "tagline": "The Nutcracker at the Brauntex, Cowboy Kringle in Gruene, and New Year's Eve with Pat Green."
+    }
+   ]
   }
  ],
  "events": [
