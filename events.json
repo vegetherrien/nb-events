@@ -1423,20 +1423,6 @@
    "id": "sch-canyon-hs-2026-11-20-canyon-wrestling-at-tournament-bowie"
   },
   {
-   "title": "Davenport boys swimming & diving at 4A TISCA Meet",
-   "startDate": "2026-11-20",
-   "tag": "Away",
-   "category": "hs-sports",
-   "location": "Josh Davis Natatorium",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
-   "startTime": "08:00",
-   "tags": [
-    "school:davenport-hs"
-   ],
-   "audience": "local",
-   "id": "sch-davenport-hs-2026-11-20-davenport-boys-swimming-diving-at-4a-tisca-meet"
-  },
-  {
    "title": "Davenport girls swimming & diving at 4A TISCA Meet",
    "startDate": "2026-11-20",
    "tag": "Away",
@@ -1449,6 +1435,20 @@
    ],
    "audience": "local",
    "id": "sch-davenport-hs-2026-11-20-davenport-girls-swimming-diving-at-4a-tisca-meet"
+  },
+  {
+   "title": "Davenport boys swimming & diving at 4A TISCA Meet",
+   "startDate": "2026-11-20",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "Josh Davis Natatorium",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
+   "startTime": "08:00",
+   "tags": [
+    "school:davenport-hs"
+   ],
+   "audience": "local",
+   "id": "sch-davenport-hs-2026-11-20-davenport-boys-swimming-diving-at-4a-tisca-meet"
   },
   {
    "title": "Davenport boys wrestling at JV - Charger Classic",
@@ -1715,20 +1715,6 @@
    "id": "sch-new-braunfels-hs-2026-11-21-new-braunfels-girls-basketball-at-floresville-to"
   },
   {
-   "title": "Davenport boys swimming & diving at 4A TISCA Meet",
-   "startDate": "2026-11-21",
-   "tag": "Away",
-   "category": "hs-sports",
-   "location": "Josh Davis Natatorium",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
-   "startTime": "08:00",
-   "tags": [
-    "school:davenport-hs"
-   ],
-   "audience": "local",
-   "id": "sch-davenport-hs-2026-11-21-davenport-boys-swimming-diving-at-4a-tisca-meet"
-  },
-  {
    "title": "Davenport girls swimming & diving at 4A TISCA Meet",
    "startDate": "2026-11-21",
    "tag": "Away",
@@ -1741,6 +1727,20 @@
    ],
    "audience": "local",
    "id": "sch-davenport-hs-2026-11-21-davenport-girls-swimming-diving-at-4a-tisca-meet"
+  },
+  {
+   "title": "Davenport boys swimming & diving at 4A TISCA Meet",
+   "startDate": "2026-11-21",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "Josh Davis Natatorium",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
+   "startTime": "08:00",
+   "tags": [
+    "school:davenport-hs"
+   ],
+   "audience": "local",
+   "id": "sch-davenport-hs-2026-11-21-davenport-boys-swimming-diving-at-4a-tisca-meet"
   },
   {
    "title": "Davenport boys wrestling at Varsity - Charger Classic",
@@ -4082,20 +4082,6 @@
    "id": "sch-klein-road-es-2026-12-10-kre-choir-hallway-performance"
   },
   {
-   "title": "Davenport boys swimming & diving at NISD Relays",
-   "startDate": "2026-12-10",
-   "tag": "Away",
-   "category": "hs-sports",
-   "location": "Northside Natatorium",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
-   "startTime": "08:00",
-   "tags": [
-    "school:davenport-hs"
-   ],
-   "audience": "local",
-   "id": "sch-davenport-hs-2026-12-10-davenport-boys-swimming-diving-at-nisd-relays"
-  },
-  {
    "title": "Davenport girls swimming & diving at NISD Relays",
    "startDate": "2026-12-10",
    "tag": "Away",
@@ -4108,6 +4094,20 @@
    ],
    "audience": "local",
    "id": "sch-davenport-hs-2026-12-10-davenport-girls-swimming-diving-at-nisd-relays"
+  },
+  {
+   "title": "Davenport boys swimming & diving at NISD Relays",
+   "startDate": "2026-12-10",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "Northside Natatorium",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
+   "startTime": "08:00",
+   "tags": [
+    "school:davenport-hs"
+   ],
+   "audience": "local",
+   "id": "sch-davenport-hs-2026-12-10-davenport-boys-swimming-diving-at-nisd-relays"
   },
   {
    "title": "Long Creek swimming at Relays",
@@ -7003,19 +7003,6 @@
    "id": "2027-01-08-huser-brothers"
   },
   {
-   "title": "New Braunfels girls soccer at Governor's Cup",
-   "startDate": "2027-01-08",
-   "tag": "Away",
-   "category": "hs-soccer",
-   "location": "Governor's Cup",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "tags": [
-    "school:new-braunfels-hs"
-   ],
-   "audience": "local",
-   "id": "sch-new-braunfels-hs-2027-01-08-new-braunfels-girls-soccer-at-governor-s-cup"
-  },
-  {
    "title": "New Braunfels boys soccer at Byron Nelson Tournament Day 2",
    "startDate": "2027-01-08",
    "tag": "Away",
@@ -7027,6 +7014,19 @@
    ],
    "audience": "local",
    "id": "sch-new-braunfels-hs-2027-01-08-new-braunfels-boys-soccer-at-byron-nelson-tourna"
+  },
+  {
+   "title": "New Braunfels girls soccer at Governor's Cup",
+   "startDate": "2027-01-08",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Governor's Cup",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "tags": [
+    "school:new-braunfels-hs"
+   ],
+   "audience": "local",
+   "id": "sch-new-braunfels-hs-2027-01-08-new-braunfels-girls-soccer-at-governor-s-cup"
   },
   {
    "title": "New Braunfels swimming at NEISD Winter Invite",
@@ -12042,24 +12042,24 @@
    "collector": "civic"
   },
   {
-   "id": "nb-pet-77718",
+   "id": "nb-pet-77701",
    "kind": "pets",
-   "title": "Adoptable: SNOOKIE, American Staffordshire Terrier",
-   "detail": "Dog available for adoption at HSNBA, 3353 Morningside Dr. Photos and adoption steps are on the listing.",
+   "title": "Adoptable: Tesoro, adult Domestic Medium Hair",
+   "detail": "Cat available for adoption at HSNBA, 3353 Morningside Dr. Photos and adoption steps are on the listing.",
    "level": "info",
-   "url": "https://hsnba.org/listing/77718-snookie-nbd202612166/",
+   "url": "https://hsnba.org/listing/77701-tesoro-nfc202612191/",
    "source": "Humane Society of the New Braunfels Area",
    "until": "2026-11-20",
    "asOf": "2026-11-19",
    "collector": "civic"
   },
   {
-   "id": "nb-pet-77723",
+   "id": "nb-pet-77718",
    "kind": "pets",
-   "title": "Adoptable: Beef, young adult staffordshire bull terrier",
+   "title": "Adoptable: SNOOKIE, American Staffordshire Terrier",
    "detail": "Dog available for adoption at HSNBA, 3353 Morningside Dr. Photos and adoption steps are on the listing.",
    "level": "info",
-   "url": "https://hsnba.org/listing/77723-beef-nfd202612200/",
+   "url": "https://hsnba.org/listing/77718-snookie-nbd202612166/",
    "source": "Humane Society of the New Braunfels Area",
    "until": "2026-11-20",
    "asOf": "2026-11-19",
