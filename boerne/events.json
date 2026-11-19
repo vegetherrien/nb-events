@@ -148,6 +148,13 @@
    "symbol": "theatermasks.fill"
   },
   {
+   "id": "pets",
+   "name": "Pets & adoptions",
+   "light": "#8A5A12",
+   "dark": "#E8B66A",
+   "symbol": "pawprint.fill"
+  },
+  {
    "id": "holiday",
    "name": "Holiday & seasonal",
    "light": "#AE2239",
@@ -3167,6 +3174,17 @@
    "tv": "DAZN"
   },
   {
+   "id": "2026-12-13-paws-and-paths-exploring-the-bauer-unit-at-guadalupe-river-s",
+   "category": "pets",
+   "title": "Paws and Paths: Exploring the Bauer Unit at Guadalupe River State Park",
+   "startDate": "2026-12-13",
+   "startTime": "09:00",
+   "endTime": "11:00",
+   "location": "Guadalupe River State Park, 3350 Park Road 31",
+   "description": "Explore the natural beauty of the Bauer Unit with a guided dog walk led by park volunteer Ed and B.A.R.K. Ranger Baxter. This approximately two-mile hike offers an opportunity to enjoy the outdoors with your canine co…",
+   "sourceURL": "https://theboernelife.com/events/paws-and-paths-exploring-the-bauer-unit-at-guadalupe-river-state-park-2/2026-12-13/"
+  },
+  {
    "title": "BMSN Band Advanced Bands Holiday Concert",
    "startDate": "2026-12-14",
    "startTime": "18:00",
@@ -5063,6 +5081,17 @@
    "tv": "MavsTV+ or League Pass"
   },
   {
+   "id": "2027-01-10-paws-and-paths-exploring-the-bauer-unit-at-guadalupe-river-s",
+   "category": "pets",
+   "title": "Paws and Paths: Exploring the Bauer Unit at Guadalupe River State Park",
+   "startDate": "2027-01-10",
+   "startTime": "09:00",
+   "endTime": "11:00",
+   "location": "Guadalupe River State Park, 3350 Park Road 31",
+   "description": "Explore the natural beauty of the Bauer Unit with a guided dog walk led by park volunteer Ed and B.A.R.K. Ranger Baxter. This approximately two-mile hike offers an opportunity to enjoy the outdoors with your canine co…",
+   "sourceURL": "https://theboernelife.com/events/paws-and-paths-exploring-the-bauer-unit-at-guadalupe-river-state-park-2/2027-01-10/"
+  },
+  {
    "title": "PTO Luncheon",
    "startDate": "2027-01-11",
    "location": "Boerne Middle School North",
@@ -6664,6 +6693,17 @@
    "startTime": "14:00"
   },
   {
+   "id": "2027-02-21-paws-and-paths-exploring-the-bauer-unit-at-guadalupe-river-s",
+   "category": "pets",
+   "title": "Paws and Paths: Exploring the Bauer Unit at Guadalupe River State Park",
+   "startDate": "2027-02-21",
+   "startTime": "09:00",
+   "endTime": "11:00",
+   "location": "Guadalupe River State Park, 3350 Park Road 31",
+   "description": "Explore the natural beauty of the Bauer Unit with a guided dog walk led by park volunteer Ed and B.A.R.K. Ranger Baxter. This approximately two-mile hike offers an opportunity to enjoy the outdoors with your canine co…",
+   "sourceURL": "https://theboernelife.com/events/paws-and-paths-exploring-the-bauer-unit-at-guadalupe-river-state-park-2/2027-02-21/"
+  },
+  {
    "id": "2027-02-24-horns-bb-at-mississippi-state",
    "category": "horns-bb",
    "title": "Texas at Mississippi State",
@@ -7161,6 +7201,17 @@
    "tag": "Away",
    "tv": "ABC",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2027-03-14-paws-and-paths-exploring-the-bauer-unit-at-guadalupe-river-s",
+   "category": "pets",
+   "title": "Paws and Paths: Exploring the Bauer Unit at Guadalupe River State Park",
+   "startDate": "2027-03-14",
+   "startTime": "09:00",
+   "endTime": "11:00",
+   "location": "Guadalupe River State Park, 3350 Park Road 31",
+   "description": "Explore the natural beauty of the Bauer Unit with a guided dog walk led by park volunteer Ed and B.A.R.K. Ranger Baxter. This approximately two-mile hike offers an opportunity to enjoy the outdoors with your canine co…",
+   "sourceURL": "https://theboernelife.com/events/paws-and-paths-exploring-the-bauer-unit-at-guadalupe-river-state-park-2/2027-03-14/"
   },
   {
    "id": "2027-03-15-mavs-vs-hawks",
@@ -8125,6 +8176,17 @@
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
    "tv": "MavsTV+ or League Pass"
+  },
+  {
+   "id": "2027-04-11-paws-and-paths-exploring-the-bauer-unit-at-guadalupe-river-s",
+   "category": "pets",
+   "title": "Paws and Paths: Exploring the Bauer Unit at Guadalupe River State Park",
+   "startDate": "2027-04-11",
+   "startTime": "09:00",
+   "endTime": "11:00",
+   "location": "Guadalupe River State Park, 3350 Park Road 31",
+   "description": "Explore the natural beauty of the Bauer Unit with a guided dog walk led by park volunteer Ed and B.A.R.K. Ranger Baxter. This approximately two-mile hike offers an opportunity to enjoy the outdoors with your canine co…",
+   "sourceURL": "https://theboernelife.com/events/paws-and-paths-exploring-the-bauer-unit-at-guadalupe-river-state-park-2/2027-04-11/"
   },
   {
    "id": "2027-04-13-rangers-at-reds",
