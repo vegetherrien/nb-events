@@ -26,7 +26,6 @@ GROUPS = {
     "Pro sports": ["spurs", "mavs", "rockets", "astros", "rangers", "cowboys", "texans",
                    "safc", "austinfc", "dynamo", "fcdallas", "dash", "locomotive"],
     "College sports": ["horns", "horns-bb", "txst", "txst-bb", "utsa", "utsa-bb", "aggies"],
-    "My schools": ["hsfb"],
 }
 BOTH = ["new-braunfels", "boerne"]
 
@@ -228,7 +227,8 @@ def main(path, apply=False):
     schools = [c for c in teams if c["group"] == "My schools"]
     feed["categories"] = rest[:school_at] + schools + rest[school_at:] + [c for c in teams if c["group"] != "My schools"]
     for c in feed["categories"]:
-        if c["id"] == "hsfb": c["name"] = "Area high school football"
+        if c["id"] == "hsfb":           # area playoff games are for everyone, so it stands alone
+            c["name"] = "High school football"; c.pop("group", None)
 
     if feed.get("rangeEnd", "") < RANGE_END:
         feed["rangeEnd"] = RANGE_END
