@@ -245,11 +245,28 @@
    "group": "College sports"
   },
   {
+   "id": "horns-bb",
+   "name": "Longhorns basketball",
+   "light": "#BF5700",
+   "dark": "#F0A060",
+   "symbol": "basketball.fill",
+   "group": "College sports"
+  },
+  {
    "id": "utsa",
    "name": "UTSA football",
    "light": "#0C2340",
    "dark": "#F58A5B",
    "symbol": "bird.fill",
+   "group": "College sports"
+  },
+  {
+   "id": "utsa-bb",
+   "name": "UTSA basketball",
+   "light": "#0C2340",
+   "dark": "#F15A22",
+   "symbol": "basketball.fill",
+   "defaultHidden": true,
    "group": "College sports"
   },
   {
@@ -312,6 +329,16 @@
    "location": "Indianapolis",
    "tag": "Away",
    "sourceURL": "https://www.basketball-reference.com/teams/HOU/2027_games.html"
+  },
+  {
+   "id": "2026-11-18-utsa-bb-vs-florida-a-m",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Florida A&M",
+   "startDate": "2026-11-18",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
   },
   {
    "id": "2026-11-18-mavs-vs-warriors",
@@ -445,6 +472,16 @@
    "id": "sch-cibolo-creek-es-2026-11-19-4th-grade-musical-performance"
   },
   {
+   "id": "2026-11-19-custom-cowboy-hat-experience",
+   "category": "fest",
+   "title": "Custom Cowboy Hat Experience",
+   "startDate": "2026-11-19",
+   "startTime": "18:00",
+   "location": "Smoky Justice Cigar Lounge @ 32840 Interstate 10, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/IMG_3693_KfIm.jpeg' /></div><p style='margin:0px 0px 12px;font-style:normal;font-size:19px;l…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/custom-cowboy-hat-experience?instance_id=20261119180000"
+  },
+  {
    "title": "Boerne boys football at Mercedes",
    "startDate": "2026-11-19",
    "tag": "Away",
@@ -471,6 +508,17 @@
    ],
    "audience": "local",
    "id": "sch-champion-hs-2026-11-19-champion-boys-football-at-mcallen"
+  },
+  {
+   "id": "2026-11-19-horns-bb-vs-southern-utah",
+   "category": "horns-bb",
+   "title": "Texas vs. Southern Utah",
+   "startDate": "2026-11-19",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "19:00",
+   "tv": "SEC Network+"
   },
   {
    "id": "2026-11-19-spurs-vs-clippers",
@@ -502,16 +550,6 @@
    "location": "La Cascada Table & Bar, 1 Resort Way",
    "description": "Music lovers can test their knowledge during Name That Tune at La Cascada Table & Bar, held every third Thursday of the month from 6:30 pm to 8:30 pm at Tapatio Springs Hill Country Resort in Boerne, TX. The interacti…",
    "sourceURL": "https://theboernelife.com/events/name-that-tune-at-la-cascada-table-bar-2/2026-11-19/"
-  },
-  {
-   "id": "2026-11-19-custom-cowboy-hat-experience",
-   "category": "fest",
-   "title": "Custom Cowboy Hat Experience",
-   "startDate": "2026-11-19",
-   "startTime": "18:00",
-   "location": "Smoky Justice Cigar Lounge @ 32840 Interstate 10, Boerne",
-   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/IMG_3693_KfIm.jpeg' /></div><p style='margin:0px 0px 12px;font-style:normal;font-size:19px;l…",
-   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/custom-cowboy-hat-experience?instance_id=20261119180000"
   },
   {
    "title": "Boerne girls basketball at Saisd Tournament",
@@ -864,6 +902,16 @@
    "sourceURL": "https://www.fcdallas.com/news/fc-dallas-kickoff-times-and-dates-set-for-audi-2026-mls-cup-playoffs-round-one-best-of-3-series-against-the-portland-timbers"
   },
   {
+   "id": "2026-11-21-utsa-bb-vs-air-force",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Air Force",
+   "startDate": "2026-11-21",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "16:00"
+  },
+  {
    "id": "2026-11-21-hunter-billingsley-at-singing-water-vineyards",
    "category": "music",
    "title": "Hunter Billingsley at Singing Water Vineyards",
@@ -949,6 +997,17 @@
    "location": "Singing Water Vineyards, 316 Mill Dam Rd",
    "description": "Enjoy an afternoon of live music at Singing Water Vineyards on Sunday, November 22, featuring Julian Escobedo. With 30 years of experience, Julian brings a wealth of musical talent to the stage, performing favorite si…",
    "sourceURL": "https://theboernelife.com/events/julian-escobedo-at-singing-water-vineyards-2/"
+  },
+  {
+   "id": "2026-11-22-horns-bb-vs-southern-indiana",
+   "category": "horns-bb",
+   "title": "Texas vs. Southern Indiana",
+   "startDate": "2026-11-22",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "14:00",
+   "tv": "SEC Network+"
   },
   {
    "id": "2026-11-22-mavs-at-jazz",
@@ -1266,6 +1325,27 @@
    "audience": "local"
   },
   {
+   "id": "2026-11-26-utsa-bb-vs-army",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Army",
+   "startDate": "2026-11-26",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "11:00"
+  },
+  {
+   "id": "2026-11-26-horns-bb-vs-georgetown",
+   "category": "horns-bb",
+   "title": "Texas vs. Georgetown",
+   "startDate": "2026-11-26",
+   "location": "San Diego, California",
+   "tag": "Neutral site",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "13:30",
+   "tv": "FS1"
+  },
+  {
    "id": "2026-11-26-cowboys-vs-eagles-thanksgiving",
    "category": "cowboys",
    "title": "Cowboys vs. Eagles (Thanksgiving)",
@@ -1372,6 +1452,17 @@
    "audience": "local"
   },
   {
+   "id": "2026-11-27-old-west-christmas-light-fest",
+   "category": "holiday",
+   "title": "Old West Christmas Light Fest",
+   "startDate": "2026-11-27",
+   "startTime": "17:00",
+   "endTime": "22:00",
+   "location": "Enchanted Springs Ranch @ 242 Texas 46, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Old-West-Christmas-Light-Fest-Trick-Roper_8gc8.jpg' /></div><p>Christmas comes to the Old We…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/old-west-christmas-light-fest-5?instance_id=20261127170000"
+  },
+  {
    "id": "2026-11-27-band-of-confusion-a-genesis-tribute-at-singing-water-vineyar",
    "category": "music",
    "title": "Band of Confusion: A Genesis Tribute at Singing Water Vineyards",
@@ -1381,6 +1472,17 @@
    "location": "Singing Water Vineyards, 316 Mill Dam Rd",
    "description": "The music of Genesis will take the stage at Singing Water Vineyards on Friday, November 27, at 6 pm, when Band of Confusion presents a tribute to the influential rock band. The performance will span Genesis’ catalog, …",
    "sourceURL": "https://theboernelife.com/events/band-of-confusion-a-genesis-tribute-at-singing-water-vineyards/"
+  },
+  {
+   "id": "2026-11-27-live-music-at-indulge-with-hip-tones",
+   "category": "music",
+   "title": "Live Music at Indulge with Hip Tones",
+   "startDate": "2026-11-27",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Indulge Wine Bar @ 21 Truss Drive, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Indulge%20Live%20Music%20SQUARE%2012_5bcZ.png' /></div><p>The holiday weekend calls for good…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/live-music-at-indulge-with-hip-tones?instance_id=20261127180000"
   },
   {
    "id": "2026-11-27-texas-at-texas-a-m-lone-star-showdown",
@@ -1455,28 +1557,6 @@
    "tag": "Home",
    "tv": "Prime Video",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
-  },
-  {
-   "id": "2026-11-27-old-west-christmas-light-fest",
-   "category": "holiday",
-   "title": "Old West Christmas Light Fest",
-   "startDate": "2026-11-27",
-   "startTime": "17:00",
-   "endTime": "22:00",
-   "location": "Enchanted Springs Ranch @ 242 Texas 46, Boerne",
-   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Old-West-Christmas-Light-Fest-Trick-Roper_8gc8.jpg' /></div><p>Christmas comes to the Old We…",
-   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/old-west-christmas-light-fest-5?instance_id=20261127170000"
-  },
-  {
-   "id": "2026-11-27-live-music-at-indulge-with-hip-tones",
-   "category": "music",
-   "title": "Live Music at Indulge with Hip Tones",
-   "startDate": "2026-11-27",
-   "startTime": "18:00",
-   "endTime": "21:00",
-   "location": "Indulge Wine Bar @ 21 Truss Drive, Boerne",
-   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Indulge%20Live%20Music%20SQUARE%2012_5bcZ.png' /></div><p>The holiday weekend calls for good…",
-   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/live-music-at-indulge-with-hip-tones?instance_id=20261127180000"
   },
   {
    "id": "2026-11-28-breakfast-with-santa-at-la-cascada-table-bar",
@@ -1627,6 +1707,16 @@
    ]
   },
   {
+   "id": "2026-11-29-utsa-bb-at-siue",
+   "category": "utsa-bb",
+   "title": "UTSA at SIUE",
+   "startDate": "2026-11-29",
+   "location": "Edwardsville, Ill.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "15:00"
+  },
+  {
    "id": "2026-11-29-spurs-vs-celtics",
    "category": "spurs",
    "title": "Spurs vs. Celtics",
@@ -1770,6 +1860,17 @@
    "location": "Toyota Center, Houston",
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2026-12-01-horns-bb-at-louisville",
+   "category": "horns-bb",
+   "title": "Texas at Louisville",
+   "startDate": "2026-12-01",
+   "location": "Louisville, Kentucky",
+   "tag": "Away",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "20:00",
+   "tv": "ESPN2"
   },
   {
    "title": "CES Christmas Decoration at the Courthouse",
@@ -2402,6 +2503,16 @@
    "sourceURL": "https://theboernelife.com/events/art-in-the-park-christmas-cards-at-guadalupe-river-state-park-2/"
   },
   {
+   "id": "2026-12-05-utsa-bb-at-south-alabama",
+   "category": "utsa-bb",
+   "title": "UTSA at South Alabama",
+   "startDate": "2026-12-05",
+   "location": "Mobile, Ala.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "14:00"
+  },
+  {
    "id": "2026-12-05-sec-championship-game",
    "category": "horns",
    "title": "SEC Championship Game",
@@ -2744,6 +2855,27 @@
    "id": "sch-boerne-isd-2026-12-08-charger-band-concert-2-concert-bands"
   },
   {
+   "id": "2026-12-08-horns-bb-vs-jackson-state",
+   "category": "horns-bb",
+   "title": "Texas vs. Jackson State",
+   "startDate": "2026-12-08",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "19:00",
+   "tv": "SEC Network+"
+  },
+  {
+   "id": "2026-12-08-utsa-bb-at-smu",
+   "category": "utsa-bb",
+   "title": "UTSA at SMU",
+   "startDate": "2026-12-08",
+   "location": "Dallas, Texas",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
+  },
+  {
    "title": "Champion boys basketball at Sam Houston",
    "startDate": "2026-12-08",
    "tag": "Away",
@@ -2951,6 +3083,16 @@
    "id": "sch-boerne-isd-2026-12-11-blizzard-of-bows-outreach-performance-for-5th-grade"
   },
   {
+   "id": "2026-12-11-utsa-bb-vs-denver",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Denver",
+   "startDate": "2026-12-11",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "11:00"
+  },
+  {
    "id": "2026-12-11-christmas-in-the-park-at-guadalupe-river-state-park",
    "category": "holiday",
    "title": "Christmas in the Park at Guadalupe River State Park",
@@ -3154,6 +3296,17 @@
    "location": "The AgriCultural Museum & Arts Center, 102 City Park Rd.",
    "description": "Whether you’re a musician looking to play with others, or a family wanting to listen, come on out to the Bluegrass Jams at The AgriCultural on the 2nd and 4th Saturday of the month from 11am – 1 pm. It’s free, but don…",
    "sourceURL": "https://theboernelife.com/events/bluegrass-jams/2026-12-12/"
+  },
+  {
+   "id": "2026-12-12-horns-bb-vs-miami-fla",
+   "category": "horns-bb",
+   "title": "Texas vs. Miami (Fla.)",
+   "startDate": "2026-12-12",
+   "location": "Houston, Texas, Toyota Center",
+   "tag": "Neutral site",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "16:30",
+   "tv": "ESPN"
   },
   {
    "id": "2026-12-12-christmas-in-the-park-at-guadalupe-river-state-park",
@@ -3553,6 +3706,16 @@
    "id": "sch-champion-hs-2026-12-15-champion-girls-basketball-vs-john-jay"
   },
   {
+   "id": "2026-12-15-utsa-bb-vs-our-lady-of-the-lake",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Our Lady of the Lake",
+   "startDate": "2026-12-15",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "18:30"
+  },
+  {
    "title": "Boerne girls soccer at Davenport",
    "startDate": "2026-12-15",
    "tag": "Away",
@@ -3689,6 +3852,17 @@
    "location": "Toyota Center, Houston",
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2026-12-16-horns-bb-vs-memphis",
+   "category": "horns-bb",
+   "title": "Texas vs. Memphis",
+   "startDate": "2026-12-16",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "20:00",
+   "tv": "ESPN2"
   },
   {
    "title": "Class Holiday Parties",
@@ -4112,6 +4286,17 @@
    "id": "sch-champion-hs-2026-12-21-champion-boys-basketball-vs-harlan"
   },
   {
+   "id": "2026-12-21-horns-bb-vs-prairie-view-a-m",
+   "category": "horns-bb",
+   "title": "Texas vs. Prairie View A&M",
+   "startDate": "2026-12-21",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "19:00",
+   "tv": "SEC Network+"
+  },
+  {
    "id": "2026-12-21-spurs-vs-bucks",
    "category": "spurs",
    "title": "Spurs vs. Bucks",
@@ -4147,6 +4332,16 @@
    ],
    "audience": "local",
    "id": "sch-boerne-hs-2026-12-22-boerne-girls-basketball-vs-south-san"
+  },
+  {
+   "id": "2026-12-22-utsa-bb-vs-huston-tillotson",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Huston-Tillotson",
+   "startDate": "2026-12-22",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "12:00"
   },
   {
    "title": "Boerne boys basketball at South San",
@@ -4451,6 +4646,27 @@
    "id": "sch-champion-hs-2026-12-29-champion-girls-basketball-vs-boerne-isd-holiday-tourn"
   },
   {
+   "id": "2026-12-29-horns-bb-vs-east-texas-a-m",
+   "category": "horns-bb",
+   "title": "Texas vs. East Texas A&M",
+   "startDate": "2026-12-29",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "19:00",
+   "tv": "SEC Network+"
+  },
+  {
+   "id": "2026-12-29-utsa-bb-at-minnesota",
+   "category": "utsa-bb",
+   "title": "UTSA at Minnesota",
+   "startDate": "2026-12-29",
+   "location": "Minneapolis, Minn.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
+  },
+  {
    "id": "2026-12-29-spurs-at-grizzlies",
    "category": "spurs",
    "title": "Spurs at Grizzlies",
@@ -4651,6 +4867,16 @@
    "id": "sch-champion-hs-2027-01-02-champion-boys-basketball-vs-south-san"
   },
   {
+   "id": "2027-01-02-utsa-bb-at-temple",
+   "category": "utsa-bb",
+   "title": "UTSA at Temple",
+   "startDate": "2027-01-02",
+   "location": "Philadelphia, Pa.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "13:00"
+  },
+  {
    "title": "Boerne boys basketball vs. Mccollum",
    "startDate": "2027-01-02",
    "tag": "Home",
@@ -4663,6 +4889,16 @@
    ],
    "audience": "local",
    "id": "sch-boerne-hs-2027-01-02-boerne-boys-basketball-vs-mccollum"
+  },
+  {
+   "id": "2027-01-02-horns-bb-vs-florida",
+   "category": "horns-bb",
+   "title": "Texas vs. Florida",
+   "startDate": "2027-01-02",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "17:00"
   },
   {
    "id": "2027-01-02-mavs-at-hawks",
@@ -4877,6 +5113,16 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "id": "2027-01-05-horns-bb-at-georgia",
+   "category": "horns-bb",
+   "title": "Texas at Georgia",
+   "startDate": "2027-01-05",
+   "location": "Athens, Georgia",
+   "tag": "Away",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "20:00"
+  },
+  {
    "id": "esperanza-2027-01-06-mahjong-club",
    "category": "hood",
    "title": "Mahjong Club",
@@ -4967,6 +5213,16 @@
     "community:tapatio-springs"
    ],
    "audience": "local"
+  },
+  {
+   "id": "2027-01-07-utsa-bb-vs-tulsa",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Tulsa",
+   "startDate": "2027-01-07",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
   },
   {
    "id": "2027-01-07-mavs-vs-trail-blazers",
@@ -5225,6 +5481,17 @@
    "id": "sch-boerne-hs-2027-01-09-boerne-swimming-diving-at-nisd-half-and-half-meet"
   },
   {
+   "id": "2027-01-09-horns-bb-at-ole-miss",
+   "category": "horns-bb",
+   "title": "Texas at Ole Miss",
+   "startDate": "2027-01-09",
+   "location": "Oxford, Mississippi",
+   "tag": "Away",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "11:00",
+   "tv": "ESPNU"
+  },
+  {
    "title": "Boerne boys soccer at Georgetown Governors Cup",
    "startDate": "2027-01-09",
    "tag": "Away",
@@ -5247,6 +5514,16 @@
    "location": "Brooklyn",
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-01-10-utsa-bb-at-east-carolina",
+   "category": "utsa-bb",
+   "title": "UTSA at East Carolina",
+   "startDate": "2027-01-10",
+   "location": "Greenville, N.C.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "13:00"
   },
   {
    "id": "2027-01-10-spurs-at-hawks",
@@ -5421,6 +5698,26 @@
    "location": "Memphis",
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-01-12-horns-bb-vs-auburn",
+   "category": "horns-bb",
+   "title": "Texas vs. Auburn",
+   "startDate": "2027-01-12",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "20:00"
+  },
+  {
+   "id": "2027-01-13-utsa-bb-at-charlotte",
+   "category": "utsa-bb",
+   "title": "UTSA at Charlotte",
+   "startDate": "2027-01-13",
+   "location": "Charlotte, N.C.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "18:00"
   },
   {
    "id": "2027-01-13-rockets-at-thunder",
@@ -5664,6 +5961,16 @@
    "id": "sch-voss-ms-2027-01-16-south-texas-honor-band-clinic-and-concert"
   },
   {
+   "id": "2027-01-16-horns-bb-vs-oklahoma",
+   "category": "horns-bb",
+   "title": "Texas vs. Oklahoma",
+   "startDate": "2027-01-16",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "11:00"
+  },
+  {
    "id": "2027-01-16-mavs-at-knicks",
    "category": "mavs",
    "title": "Mavericks at Knicks",
@@ -5673,16 +5980,6 @@
    "tag": "Away",
    "tv": "NBA TV",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
-  },
-  {
-   "id": "2027-01-16-rockets-vs-pistons",
-   "category": "rockets",
-   "title": "Rockets vs. Pistons",
-   "startDate": "2027-01-16",
-   "startTime": "19:30",
-   "location": "Toyota Center, Houston",
-   "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "id": "2027-01-16-music-in-the-cave-of-strings-and-silence",
@@ -5696,6 +5993,16 @@
    "sourceURL": "https://events.timely.fun/e6hnx1k2/event/music-in-the-cave-of-strings-and-silence?instance_id=20270116190000"
   },
   {
+   "id": "2027-01-16-rockets-vs-pistons",
+   "category": "rockets",
+   "title": "Rockets vs. Pistons",
+   "startDate": "2027-01-16",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
    "id": "2027-01-17-spurs-at-pelicans-nba-manchester-game",
    "category": "spurs",
    "title": "Spurs at Pelicans (NBA Manchester Game)",
@@ -5705,6 +6012,16 @@
    "tag": "Away",
    "tv": "Prime Video",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2027-01-17-utsa-bb-vs-tulane",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Tulane",
+   "startDate": "2027-01-17",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "11:00"
   },
   {
    "id": "2027-01-18-rockets-at-grizzlies",
@@ -5752,6 +6069,17 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
+   "id": "2027-01-19-horns-bb-at-lsu",
+   "category": "horns-bb",
+   "title": "Texas at LSU",
+   "startDate": "2027-01-19",
+   "location": "Baton Rouge, Louisiana",
+   "tag": "Away",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "20:00",
+   "tv": "SEC Network"
+  },
+  {
    "title": "New to North Teacher Meeting",
    "startDate": "2027-01-20",
    "startTime": "16:00",
@@ -5778,6 +6106,16 @@
    ],
    "audience": "local",
    "id": "sch-voss-ms-2027-01-20-site-based-decision-committee"
+  },
+  {
+   "id": "2027-01-20-utsa-bb-at-rice",
+   "category": "utsa-bb",
+   "title": "UTSA at Rice",
+   "startDate": "2027-01-20",
+   "location": "Houston, Texas",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
   },
   {
    "id": "2027-01-20-rockets-at-timberwolves",
@@ -5894,6 +6232,26 @@
    ],
    "audience": "local",
    "id": "sch-boerne-isd-2027-01-23-teca-color-guard-contest-sotomayor-hs"
+  },
+  {
+   "id": "2027-01-23-utsa-bb-vs-south-florida",
+   "category": "utsa-bb",
+   "title": "UTSA vs. South Florida",
+   "startDate": "2027-01-23",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "13:00"
+  },
+  {
+   "id": "2027-01-23-horns-bb-vs-arkansas",
+   "category": "horns-bb",
+   "title": "Texas vs. Arkansas",
+   "startDate": "2027-01-23",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "17:00"
   },
   {
    "title": "Champion Theatre: West Side Story - All-School Musical",
@@ -6050,6 +6408,17 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
+   "id": "2027-01-27-horns-bb-at-south-carolina",
+   "category": "horns-bb",
+   "title": "Texas at South Carolina",
+   "startDate": "2027-01-27",
+   "location": "Columbia, South Carolina",
+   "tag": "Away",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "19:00",
+   "tv": "SEC Network"
+  },
+  {
    "id": "2027-01-27-spurs-vs-hornets",
    "category": "spurs",
    "title": "Spurs vs. Hornets",
@@ -6081,6 +6450,16 @@
    ],
    "audience": "local",
    "id": "sch-boerne-isd-2027-01-28-hs-region-29-band-clinic-and-concert"
+  },
+  {
+   "id": "2027-01-28-utsa-bb-vs-north-texas",
+   "category": "utsa-bb",
+   "title": "UTSA vs. North Texas",
+   "startDate": "2027-01-28",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
   },
   {
    "title": "MS Region Orchestra Clinic and Concert",
@@ -6116,6 +6495,16 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "id": "2027-01-30-horns-bb-vs-kentucky",
+   "category": "horns-bb",
+   "title": "Texas vs. Kentucky",
+   "startDate": "2027-01-30",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "11:00"
+  },
+  {
    "id": "2027-01-30-spurs-at-warriors",
    "category": "spurs",
    "title": "Spurs at Warriors",
@@ -6139,6 +6528,16 @@
    ],
    "audience": "local",
    "id": "sch-boerne-hs-2027-01-30-bhs-winter-formal"
+  },
+  {
+   "id": "2027-01-31-utsa-bb-at-wichita-state",
+   "category": "utsa-bb",
+   "title": "UTSA at Wichita State",
+   "startDate": "2027-01-31",
+   "location": "Wichita, Kan.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "13:00"
   },
   {
    "id": "2027-01-31-mavs-vs-rockets",
@@ -6300,6 +6699,16 @@
    "audience": "local"
   },
   {
+   "id": "2027-02-04-utsa-bb-vs-florida-atlantic",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Florida Atlantic",
+   "startDate": "2027-02-04",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
+  },
+  {
    "id": "2027-02-04-spurs-vs-magic",
    "category": "spurs",
    "title": "Spurs vs. Magic",
@@ -6393,6 +6802,17 @@
    "sourceURL": "https://www.eventbrite.com/e/boerne-home-outdoor-living-show-tickets-1999297879778"
   },
   {
+   "id": "2027-02-06-horns-bb-at-florida",
+   "category": "horns-bb",
+   "title": "Texas at Florida",
+   "startDate": "2027-02-06",
+   "location": "Gainesville, Florida",
+   "tag": "Away",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "11:00",
+   "tv": "ESPN"
+  },
+  {
    "id": "2027-02-06-mavs-vs-jazz",
    "category": "mavs",
    "title": "Mavericks vs. Jazz",
@@ -6412,6 +6832,16 @@
    "tag": "Home",
    "tv": "ABC",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2027-02-07-utsa-bb-vs-rice",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Rice",
+   "startDate": "2027-02-07",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "13:00"
   },
   {
    "id": "2027-02-07-mavs-vs-clippers",
@@ -6458,6 +6888,17 @@
    ],
    "audience": "local",
    "id": "sch-boerne-isd-2027-02-09-boerne-isd-orchestras-pre-uil-concert-clinic"
+  },
+  {
+   "id": "2027-02-09-horns-bb-vs-alabama",
+   "category": "horns-bb",
+   "title": "Texas vs. Alabama",
+   "startDate": "2027-02-09",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "18:00",
+   "tv": "ESPN"
   },
   {
    "id": "2027-02-09-spurs-at-mavericks",
@@ -6587,6 +7028,16 @@
    "sourceURL": "https://business.boerne.org/events"
   },
   {
+   "id": "2027-02-13-horns-bb-at-vanderbilt",
+   "category": "horns-bb",
+   "title": "Texas at Vanderbilt",
+   "startDate": "2027-02-13",
+   "location": "Nashville, Tennessee",
+   "tag": "Away",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "13:00"
+  },
+  {
    "id": "2027-02-13-mavs-at-hornets",
    "category": "mavs",
    "title": "Mavericks at Hornets",
@@ -6617,6 +7068,16 @@
    "location": "Cave Without a Name @ 325 Kreutzberg Road, Boerne",
    "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Slaid_dining1_credit_Todd_Fox_Ql5Z.jpg' /></div><p><span style='font-family:arial, helvetica…",
    "sourceURL": "https://events.timely.fun/e6hnx1k2/event/music-in-the-cave-for-valentines-an-evening-with-slaid-cleaves?instance_id=20270213190000"
+  },
+  {
+   "id": "2027-02-14-utsa-bb-vs-memphis",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Memphis",
+   "startDate": "2027-02-14",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "13:00"
   },
   {
    "id": "2027-02-14-rockets-vs-nuggets",
@@ -6721,6 +7182,16 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
+   "id": "2027-02-17-horns-bb-vs-texas-a-m",
+   "category": "horns-bb",
+   "title": "Texas vs. Texas A&M",
+   "startDate": "2027-02-17",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "20:00"
+  },
+  {
    "id": "tapatio-springs-2027-02-18-name-that-tune",
    "category": "hood",
    "title": "Name That Tune",
@@ -6744,6 +7215,16 @@
    "tag": "Away",
    "tv": "Prime Video",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2027-02-18-utsa-bb-at-tulane",
+   "category": "utsa-bb",
+   "title": "UTSA at Tulane",
+   "startDate": "2027-02-18",
+   "location": "New Orleans, La.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
   },
   {
    "id": "2027-02-18-rockets-at-lakers",
@@ -6788,6 +7269,47 @@
    "tag": "Home",
    "tv": "Apple TV",
    "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-02-20-horns-bb-at-oklahoma",
+   "category": "horns-bb",
+   "title": "Texas at Oklahoma",
+   "startDate": "2027-02-20",
+   "location": "Norman, Oklahoma",
+   "tag": "Away",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "19:30",
+   "tv": "ESPN"
+  },
+  {
+   "id": "2027-02-21-utsa-bb-at-tulsa",
+   "category": "utsa-bb",
+   "title": "UTSA at Tulsa",
+   "startDate": "2027-02-21",
+   "location": "Tulsa, Okla.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "14:00"
+  },
+  {
+   "id": "2027-02-24-horns-bb-at-mississippi-state",
+   "category": "horns-bb",
+   "title": "Texas at Mississippi State",
+   "startDate": "2027-02-24",
+   "location": "Starkville, Mississippi",
+   "tag": "Away",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "18:00"
+  },
+  {
+   "id": "2027-02-24-utsa-bb-vs-east-carolina",
+   "category": "utsa-bb",
+   "title": "UTSA vs. East Carolina",
+   "startDate": "2027-02-24",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
   },
   {
    "id": "2027-02-25-mavs-at-warriors",
@@ -6840,6 +7362,16 @@
    "tag": "Away",
    "tv": "Apple TV",
    "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-02-27-utsa-bb-at-north-texas",
+   "category": "utsa-bb",
+   "title": "UTSA at North Texas",
+   "startDate": "2027-02-27",
+   "location": "Denton, Texas",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "16:00"
   },
   {
    "id": "2027-02-27-fcdallas-vs-portland-timbers",
@@ -6907,6 +7439,16 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "id": "2027-03-02-horns-bb-vs-missouri",
+   "category": "horns-bb",
+   "title": "Texas vs. Missouri",
+   "startDate": "2027-03-02",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "18:00"
+  },
+  {
    "id": "2027-03-02-mavs-vs-warriors",
    "category": "mavs",
    "title": "Mavericks vs. Warriors",
@@ -6971,6 +7513,16 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
+   "id": "2027-03-04-utsa-bb-at-uab",
+   "category": "utsa-bb",
+   "title": "UTSA at UAB",
+   "startDate": "2027-03-04",
+   "location": "Birmingham, Ala.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "20:00"
+  },
+  {
    "id": "2027-03-04-mavs-vs-knicks",
    "category": "mavs",
    "title": "Mavericks vs. Knicks",
@@ -7004,6 +7556,17 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "id": "2027-03-06-horns-bb-at-texas-a-m",
+   "category": "horns-bb",
+   "title": "Texas at Texas A&M",
+   "startDate": "2027-03-06",
+   "location": "College Station, Texas",
+   "tag": "Away",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "19:00",
+   "tv": "SEC Network"
+  },
+  {
    "id": "2027-03-06-dynamo-at-st-louis-city-sc",
    "category": "dynamo",
    "title": "Houston Dynamo FC at St. Louis CITY SC",
@@ -7035,6 +7598,16 @@
    "tag": "Away",
    "tv": "Apple TV",
    "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-03-07-utsa-bb-vs-temple",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Temple",
+   "startDate": "2027-03-07",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "13:00"
   },
   {
    "id": "2027-03-07-spurs-vs-knicks",
@@ -7097,6 +7670,26 @@
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-10-utsa-bb-at-american-conference-championships",
+   "category": "utsa-bb",
+   "title": "UTSA at American Conference Championships",
+   "startDate": "2027-03-10",
+   "location": "Tampa, Fla.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "07:00"
+  },
+  {
+   "id": "2027-03-10-utsa-bb-at-american-conference-championships",
+   "category": "utsa-bb",
+   "title": "UTSA at American Conference Championships",
+   "startDate": "2027-03-10",
+   "location": "Tampa, Fla.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "07:00"
   },
   {
    "id": "2027-03-10-rockets-at-jazz",
@@ -7288,6 +7881,17 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "id": "2027-03-20-music-in-the-cave-spring-equinox",
+   "category": "music",
+   "title": "Music in the Cave - Spring Equinox",
+   "startDate": "2027-03-20",
+   "startTime": "19:00",
+   "endTime": "20:30",
+   "location": "Cave Without a Name @ 325 Kreutzberg Road, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Rudi%20%20the%20Rudiments%2005-02-21%20-%20Copy_eWac.jpeg' /></div><p class='MsoNormal'>Enjo…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/music-in-the-cave-spring-equinox-2?instance_id=20270320190000"
+  },
+  {
    "id": "2027-03-20-fcdallas-at-real-salt-lake",
    "category": "fcdallas",
    "title": "FC Dallas at Real Salt Lake",
@@ -7308,17 +7912,6 @@
    "tag": "Away",
    "tv": "Apple TV",
    "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
-  },
-  {
-   "id": "2027-03-20-music-in-the-cave-spring-equinox",
-   "category": "music",
-   "title": "Music in the Cave - Spring Equinox",
-   "startDate": "2027-03-20",
-   "startTime": "19:00",
-   "endTime": "20:30",
-   "location": "Cave Without a Name @ 325 Kreutzberg Road, Boerne",
-   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Rudi%20%20the%20Rudiments%2005-02-21%20-%20Copy_eWac.jpeg' /></div><p class='MsoNormal'>Enjo…",
-   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/music-in-the-cave-spring-equinox-2?instance_id=20270320190000"
   },
   {
    "id": "2027-03-21-spurs-at-76ers",
@@ -7464,6 +8057,17 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
+   "id": "2027-03-27-15th-annual-community-garage-sale",
+   "category": "fest",
+   "title": "15th Annual Community Garage Sale",
+   "startDate": "2027-03-27",
+   "startTime": "08:00",
+   "endTime": "16:00",
+   "location": "Kendall County Fairgrounds @ 1307 River Road, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Garage%20Sale_Cpa4.jpg' /></div><p>Keep an eye out for some amazing treasures at this popula…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/15th-annual-community-garage-sale?instance_id=20270327080000"
+  },
+  {
    "id": "2027-03-27-spurs-at-pistons",
    "category": "spurs",
    "title": "Spurs at Pistons",
@@ -7526,17 +8130,6 @@
    "tag": "Away",
    "tv": "Apple TV",
    "sourceURL": "https://houstondynamofc.com/news/houston-dynamo-fc-announce-2027-mls-sprint-season-schedule"
-  },
-  {
-   "id": "2027-03-27-15th-annual-community-garage-sale",
-   "category": "fest",
-   "title": "15th Annual Community Garage Sale",
-   "startDate": "2027-03-27",
-   "startTime": "08:00",
-   "endTime": "16:00",
-   "location": "Kendall County Fairgrounds @ 1307 River Road, Boerne",
-   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Garage%20Sale_Cpa4.jpg' /></div><p>Keep an eye out for some amazing treasures at this popula…",
-   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/15th-annual-community-garage-sale?instance_id=20270327080000"
   },
   {
    "id": "2027-03-28-rockets-vs-lakers",
@@ -8208,6 +8801,17 @@
    "startTime": "20:40"
   },
   {
+   "id": "2027-04-17-texas-corvette-association-open-car-show",
+   "category": "fest",
+   "title": "Texas Corvette Association Open Car Show",
+   "startDate": "2027-04-17",
+   "startTime": "08:00",
+   "endTime": "16:30",
+   "location": "Hill Country Mile @ 100 North Main Street, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Calendar-TCA%20Car%20Show_Jk2n.jpg' /></div><p>Nearly 500 colorful Corvettes and classic veh…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/texas-corvette-association-open-car-show-6?instance_id=20270417080000"
+  },
+  {
    "id": "2027-04-17-rangers-vs-cardinals",
    "category": "rangers",
    "title": "Rangers vs. Cardinals",
@@ -8248,17 +8852,6 @@
    "tag": "Home",
    "tv": "Apple TV",
    "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
-  },
-  {
-   "id": "2027-04-17-texas-corvette-association-open-car-show",
-   "category": "fest",
-   "title": "Texas Corvette Association Open Car Show",
-   "startDate": "2027-04-17",
-   "startTime": "08:00",
-   "endTime": "16:30",
-   "location": "Hill Country Mile @ 100 North Main Street, Boerne",
-   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Calendar-TCA%20Car%20Show_Jk2n.jpg' /></div><p>Nearly 500 colorful Corvettes and classic veh…",
-   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/texas-corvette-association-open-car-show-6?instance_id=20270417080000"
   },
   {
    "id": "2027-04-18-rangers-vs-cardinals",
