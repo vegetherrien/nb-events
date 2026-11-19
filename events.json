@@ -243,6 +243,14 @@
    "group": "College sports"
   },
   {
+   "id": "horns-bb",
+   "name": "Longhorns basketball",
+   "light": "#BF5700",
+   "dark": "#F0A060",
+   "symbol": "basketball.fill",
+   "group": "College sports"
+  },
+  {
    "id": "txst",
    "name": "Texas State football",
    "light": "#6A1B2A",
@@ -264,6 +272,15 @@
    "light": "#0C2340",
    "dark": "#F58A5B",
    "symbol": "bird.fill",
+   "group": "College sports"
+  },
+  {
+   "id": "utsa-bb",
+   "name": "UTSA basketball",
+   "light": "#0C2340",
+   "dark": "#F15A22",
+   "symbol": "basketball.fill",
+   "defaultHidden": true,
    "group": "College sports"
   },
   {
@@ -1204,6 +1221,16 @@
    "startTime": "19:00"
   },
   {
+   "id": "2026-11-18-utsa-bb-vs-florida-a-m",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Florida A&M",
+   "startDate": "2026-11-18",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
+  },
+  {
    "id": "2026-11-18-mavs-vs-warriors",
    "category": "mavs",
    "title": "Mavericks vs. Warriors",
@@ -1449,6 +1476,17 @@
    "endTime": "20:00",
    "location": "Gruene Hall, 1281 Gruene Rd",
    "sourceURL": "https://gruenehall.com/event/isaac-jacob-band/"
+  },
+  {
+   "id": "2026-11-19-horns-bb-vs-southern-utah",
+   "category": "horns-bb",
+   "title": "Texas vs. Southern Utah",
+   "startDate": "2026-11-19",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "19:00",
+   "tv": "SEC Network+"
   },
   {
    "id": "2026-11-19-spurs-vs-clippers",
@@ -2066,6 +2104,16 @@
    "sourceURL": "https://www.fcdallas.com/news/fc-dallas-kickoff-times-and-dates-set-for-audi-2026-mls-cup-playoffs-round-one-best-of-3-series-against-the-portland-timbers"
   },
   {
+   "id": "2026-11-21-utsa-bb-vs-air-force",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Air Force",
+   "startDate": "2026-11-21",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "16:00"
+  },
+  {
    "id": "2026-11-21-reagan-hicks-band",
    "category": "music",
    "title": "Reagan Hicks Band",
@@ -2175,6 +2223,17 @@
    "location": "AT&T Stadium, Arlington",
    "sourceURL": "https://www.dallascowboys.com/schedule/",
    "outdoor": false
+  },
+  {
+   "id": "2026-11-22-horns-bb-vs-southern-indiana",
+   "category": "horns-bb",
+   "title": "Texas vs. Southern Indiana",
+   "startDate": "2026-11-22",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "14:00",
+   "tv": "SEC Network+"
   },
   {
    "id": "2026-11-22-txst-bb-vs-mcneese",
@@ -2512,8 +2571,8 @@
    "category": "txst-bb",
    "title": "Bobcats vs. Alcorn State",
    "startDate": "2026-11-25",
-   "location": "Strahan Arena, San Marcos",
-   "tag": "Home",
+   "location": "Ruston, La.",
+   "tag": "Neutral site",
    "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
    "startTime": "16:00"
   },
@@ -2558,6 +2617,27 @@
    "location": "In front of Gruene Hall",
    "description": "Thanksgiving morning 5K through Gruene from Comal Cops for Kids. The 8:30 AM start comes from the registration listing. Packet pickup is Nov 23 to 25, 11 AM to 6 PM, at Two Rivers Running (1265 N Academy St), or race morning at the tent.",
    "sourceURL": "https://www.comalcopsforkids.com/"
+  },
+  {
+   "id": "2026-11-26-utsa-bb-vs-army",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Army",
+   "startDate": "2026-11-26",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "11:00"
+  },
+  {
+   "id": "2026-11-26-horns-bb-vs-georgetown",
+   "category": "horns-bb",
+   "title": "Texas vs. Georgetown",
+   "startDate": "2026-11-26",
+   "location": "San Diego, California",
+   "tag": "Neutral site",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "13:30",
+   "tv": "FS1"
   },
   {
    "id": "2026-11-26-cowboys-vs-eagles-thanksgiving",
@@ -2780,6 +2860,16 @@
    "startTime": "12:00"
   },
   {
+   "id": "2026-11-29-utsa-bb-at-siue",
+   "category": "utsa-bb",
+   "title": "UTSA at SIUE",
+   "startDate": "2026-11-29",
+   "location": "Edwardsville, Ill.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "15:00"
+  },
+  {
    "id": "2026-11-29-spurs-vs-celtics",
    "category": "spurs",
    "title": "Spurs vs. Celtics",
@@ -2897,6 +2987,16 @@
    ],
    "audience": "local",
    "id": "sch-oak-run-ms-2026-12-01-orms-band-concert"
+  },
+  {
+   "id": "2026-12-01-slim-bawb",
+   "category": "music",
+   "title": "Slim Bawb",
+   "startDate": "2026-12-01",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "sourceURL": "https://gruenehall.com/event/slim-bawb-12/"
   },
   {
    "title": "New Braunfels girls basketball at Poth",
@@ -3043,14 +3143,15 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
-   "id": "2026-12-01-slim-bawb",
-   "category": "music",
-   "title": "Slim Bawb",
+   "id": "2026-12-01-horns-bb-at-louisville",
+   "category": "horns-bb",
+   "title": "Texas at Louisville",
    "startDate": "2026-12-01",
-   "startTime": "18:00",
-   "endTime": "21:00",
-   "location": "Gruene Hall, 1281 Gruene Rd",
-   "sourceURL": "https://gruenehall.com/event/slim-bawb-12/"
+   "location": "Louisville, Kentucky",
+   "tag": "Away",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "20:00",
+   "tv": "ESPN2"
   },
   {
    "title": "Legendary Leader Mtg",
@@ -3162,6 +3263,16 @@
    "id": "sch-canyon-ms-2026-12-02-8a-girls-basketball-game"
   },
   {
+   "id": "2026-12-02-dallas-moore",
+   "category": "music",
+   "title": "Dallas Moore",
+   "startDate": "2026-12-02",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "sourceURL": "https://gruenehall.com/event/dallas-moore-6/"
+  },
+  {
    "id": "2026-12-02-txst-bb-vs-louisiana-tech",
    "category": "txst-bb",
    "title": "Bobcats vs. Louisiana Tech",
@@ -3180,16 +3291,6 @@
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
-  },
-  {
-   "id": "2026-12-02-dallas-moore",
-   "category": "music",
-   "title": "Dallas Moore",
-   "startDate": "2026-12-02",
-   "startTime": "18:00",
-   "endTime": "21:00",
-   "location": "Gruene Hall, 1281 Gruene Rd",
-   "sourceURL": "https://gruenehall.com/event/dallas-moore-6/"
   },
   {
    "title": "Canyon boys basketball at Austin Bowie Classic",
@@ -3780,6 +3881,17 @@
    "id": "sch-long-creek-hs-2026-12-05-long-creek-swimming-at-tisca-day-2"
   },
   {
+   "id": "2026-12-05-castell-st-market",
+   "category": "market",
+   "title": "Castell St. Market",
+   "startDate": "2026-12-05",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "First Protestant Church, 296 S Seguin Ave",
+   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
+   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2026-12-05/"
+  },
+  {
    "id": "2026-12-05-gruene-christmas-market-days",
    "category": "holiday",
    "title": "Gruene Christmas Market Days",
@@ -3835,6 +3947,16 @@
    ]
   },
   {
+   "id": "2026-12-05-utsa-bb-at-south-alabama",
+   "category": "utsa-bb",
+   "title": "UTSA at South Alabama",
+   "startDate": "2026-12-05",
+   "location": "Mobile, Ala.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "14:00"
+  },
+  {
    "id": "2026-12-05-sec-championship-game",
    "category": "horns",
    "title": "SEC Championship Game",
@@ -3879,17 +4001,6 @@
    "location": "Brauntex Theatre, 290 W San Antonio St",
    "description": "Country, gospel and Christmas classics in the style of a vintage holiday special.",
    "sourceURL": "https://concertfix.com/concerts/new-braunfels-tx+december-2026"
-  },
-  {
-   "id": "2026-12-05-castell-st-market",
-   "category": "market",
-   "title": "Castell St. Market",
-   "startDate": "2026-12-05",
-   "startTime": "09:00",
-   "endTime": "13:00",
-   "location": "First Protestant Church, 296 S Seguin Ave",
-   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
-   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2026-12-05/"
   },
   {
    "id": "2026-12-05-an-evening-of-jerry-jeff-walker-music-featuring-django-walke",
@@ -3988,6 +4099,21 @@
    "id": "sch-long-creek-hs-2026-12-07-senior-picture-makeup-day"
   },
   {
+   "id": "2026-12-07-design-review-tutorial-workshop",
+   "category": "hood",
+   "title": "Design Review Tutorial Workshop",
+   "startDate": "2026-12-07",
+   "startTime": "09:00",
+   "endTime": "10:00",
+   "location": "Veramendi Welcome Center",
+   "description": "Learn more about the design review process and how to submit your application, what materials are needed to submit with your application, and how to ensure your application is processed smoothly. Save Your Spot here",
+   "sourceURL": "https://lifeatveramendi.org/event/design-review-tutorial-workshop-2/",
+   "tags": [
+    "community:veramendi"
+   ],
+   "audience": "local"
+  },
+  {
    "title": "Choir Winter Concert",
    "startDate": "2026-12-07",
    "startTime": "16:00",
@@ -4013,6 +4139,16 @@
    ],
    "audience": "local",
    "id": "sch-memorial-es-2026-12-07-pta-board-mtg"
+  },
+  {
+   "id": "2026-12-07-bret-graham",
+   "category": "music",
+   "title": "Bret Graham",
+   "startDate": "2026-12-07",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "sourceURL": "https://gruenehall.com/event/bret-graham-154/"
   },
   {
    "title": "NBMS Choir - Winter Concert, cafe",
@@ -4051,31 +4187,6 @@
    "description": "Monday Night Football.",
    "sourceURL": "https://www.dallascowboys.com/schedule/",
    "outdoor": false
-  },
-  {
-   "id": "2026-12-07-design-review-tutorial-workshop",
-   "category": "hood",
-   "title": "Design Review Tutorial Workshop",
-   "startDate": "2026-12-07",
-   "startTime": "09:00",
-   "endTime": "10:00",
-   "location": "Veramendi Welcome Center",
-   "description": "Learn more about the design review process and how to submit your application, what materials are needed to submit with your application, and how to ensure your application is processed smoothly. Save Your Spot here",
-   "sourceURL": "https://lifeatveramendi.org/event/design-review-tutorial-workshop-2/",
-   "tags": [
-    "community:veramendi"
-   ],
-   "audience": "local"
-  },
-  {
-   "id": "2026-12-07-bret-graham",
-   "category": "music",
-   "title": "Bret Graham",
-   "startDate": "2026-12-07",
-   "startTime": "18:00",
-   "endTime": "21:00",
-   "location": "Gruene Hall, 1281 Gruene Rd",
-   "sourceURL": "https://gruenehall.com/event/bret-graham-154/"
   },
   {
    "title": "Progress Reports on Parent Portal",
@@ -4169,6 +4280,21 @@
    "id": "sch-comal-creek-es-2026-12-08-winter-wonderland"
   },
   {
+   "id": "2026-12-08-design-review-tutorial-workshop",
+   "category": "hood",
+   "title": "Design Review Tutorial Workshop",
+   "startDate": "2026-12-08",
+   "startTime": "17:30",
+   "endTime": "18:30",
+   "location": "Veramendi Welcome Center",
+   "description": "Learn more about the design review process and how to submit your application, what materials are needed to submit with your application, and how to ensure your application is processed smoothly. Save Your Spot here",
+   "sourceURL": "https://lifeatveramendi.org/event/design-review-tutorial-workshop-3/",
+   "tags": [
+    "community:veramendi"
+   ],
+   "audience": "local"
+  },
+  {
    "title": "Christmas Band Concert",
    "startDate": "2026-12-08",
    "startTime": "18:00",
@@ -4180,6 +4306,16 @@
    ],
    "audience": "local",
    "id": "sch-danville-ms-2026-12-08-christmas-band-concert"
+  },
+  {
+   "id": "2026-12-08-andi-holleman-friends-song-swap",
+   "category": "music",
+   "title": "Andi Holleman & Friends Song Swap",
+   "startDate": "2026-12-08",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "sourceURL": "https://gruenehall.com/event/andi-holleman-friends-song-swap/"
   },
   {
    "title": "New Braunfels girls basketball vs. Roosevelt",
@@ -4288,6 +4424,27 @@
    "startTime": "19:00"
   },
   {
+   "id": "2026-12-08-horns-bb-vs-jackson-state",
+   "category": "horns-bb",
+   "title": "Texas vs. Jackson State",
+   "startDate": "2026-12-08",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "19:00",
+   "tv": "SEC Network+"
+  },
+  {
+   "id": "2026-12-08-utsa-bb-at-smu",
+   "category": "utsa-bb",
+   "title": "UTSA at SMU",
+   "startDate": "2026-12-08",
+   "location": "Dallas, Texas",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
+  },
+  {
    "title": "Davenport girls basketball at Liberal Arts and Science Academy Liberal Arts & Science",
    "startDate": "2026-12-08",
    "tag": "Away",
@@ -4300,31 +4457,6 @@
    ],
    "audience": "local",
    "id": "sch-davenport-hs-2026-12-08-davenport-girls-basketball-at-liberal-arts-and-scien"
-  },
-  {
-   "id": "2026-12-08-design-review-tutorial-workshop",
-   "category": "hood",
-   "title": "Design Review Tutorial Workshop",
-   "startDate": "2026-12-08",
-   "startTime": "17:30",
-   "endTime": "18:30",
-   "location": "Veramendi Welcome Center",
-   "description": "Learn more about the design review process and how to submit your application, what materials are needed to submit with your application, and how to ensure your application is processed smoothly. Save Your Spot here",
-   "sourceURL": "https://lifeatveramendi.org/event/design-review-tutorial-workshop-3/",
-   "tags": [
-    "community:veramendi"
-   ],
-   "audience": "local"
-  },
-  {
-   "id": "2026-12-08-andi-holleman-friends-song-swap",
-   "category": "music",
-   "title": "Andi Holleman & Friends Song Swap",
-   "startDate": "2026-12-08",
-   "startTime": "18:00",
-   "endTime": "21:00",
-   "location": "Gruene Hall, 1281 Gruene Rd",
-   "sourceURL": "https://gruenehall.com/event/andi-holleman-friends-song-swap/"
   },
   {
    "title": "Canyon Lake wrestling at Highlands , MacArthur",
@@ -4424,6 +4556,16 @@
    "id": "sch-davenport-hs-2026-12-09-dance-winter-show"
   },
   {
+   "id": "2026-12-09-neal-stranahan",
+   "category": "music",
+   "title": "Neal Stranahan",
+   "startDate": "2026-12-09",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "sourceURL": "https://gruenehall.com/event/neal-stranahan-6/"
+  },
+  {
    "title": "Choir Concert",
    "startDate": "2026-12-09",
    "startTime": "18:30",
@@ -4435,16 +4577,6 @@
    ],
    "audience": "local",
    "id": "sch-canyon-hs-2026-12-09-choir-concert"
-  },
-  {
-   "id": "2026-12-09-neal-stranahan",
-   "category": "music",
-   "title": "Neal Stranahan",
-   "startDate": "2026-12-09",
-   "startTime": "18:00",
-   "endTime": "21:00",
-   "location": "Gruene Hall, 1281 Gruene Rd",
-   "sourceURL": "https://gruenehall.com/event/neal-stranahan-6/"
   },
   {
    "title": "PTA Pictures with Santa",
@@ -4624,6 +4756,16 @@
    "id": "sch-comal-isd-2026-12-10-board-meeting"
   },
   {
+   "id": "2026-12-10-seth-van-dover",
+   "category": "music",
+   "title": "Seth Van Dover",
+   "startDate": "2026-12-10",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "sourceURL": "https://gruenehall.com/event/seth-van-dover/"
+  },
+  {
    "title": "Band Holiday Concert",
    "startDate": "2026-12-10",
    "startTime": "18:30",
@@ -4644,16 +4786,6 @@
    "startTime": "19:30",
    "location": "Brauntex Theatre, 290 W San Antonio St",
    "sourceURL": "https://concertfix.com/concerts/new-braunfels-tx+december-2026"
-  },
-  {
-   "id": "2026-12-10-seth-van-dover",
-   "category": "music",
-   "title": "Seth Van Dover",
-   "startDate": "2026-12-10",
-   "startTime": "18:00",
-   "endTime": "21:00",
-   "location": "Gruene Hall, 1281 Gruene Rd",
-   "sourceURL": "https://gruenehall.com/event/seth-van-dover/"
   },
   {
    "id": "2026-12-11-texas-cellos",
@@ -4742,6 +4874,16 @@
    ],
    "audience": "local",
    "id": "sch-canyon-lake-hs-2026-12-11-canyon-lake-wrestling-at-ultimate-warrior-jv-tourn"
+  },
+  {
+   "id": "2026-12-11-utsa-bb-vs-denver",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Denver",
+   "startDate": "2026-12-11",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "11:00"
   },
   {
    "title": "Book Fair - Late Night",
@@ -5072,6 +5214,17 @@
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
   },
   {
+   "id": "2026-12-12-castell-st-market",
+   "category": "market",
+   "title": "Castell St. Market",
+   "startDate": "2026-12-12",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "First Protestant Church, 296 S Seguin Ave",
+   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
+   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2026-12-12/"
+  },
+  {
    "id": "2026-12-12-hill-country-holiday",
    "category": "hood",
    "title": "Hill Country Holiday",
@@ -5116,6 +5269,17 @@
    "id": "sch-canyon-lake-hs-2026-12-12-band-concert-after-the-sattler-parade"
   },
   {
+   "id": "2026-12-12-horns-bb-vs-miami-fla",
+   "category": "horns-bb",
+   "title": "Texas vs. Miami (Fla.)",
+   "startDate": "2026-12-12",
+   "location": "Houston, Texas, Toyota Center",
+   "tag": "Neutral site",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "16:30",
+   "tv": "ESPN"
+  },
+  {
    "id": "2026-12-12-an-evening-with-peter-billingsley-a-christmas-st",
    "category": "holiday",
    "title": "An Evening with Peter Billingsley + A Christmas Story",
@@ -5126,17 +5290,6 @@
    "description": "Screening of the film with Ralphie himself.",
    "featured": true,
    "sourceURL": "https://www.tickpick.com/buy-an-evening-with-peter-billingsley-and-screening-of-a-christmas-story-tickets-brauntex-performing-arts-theatre-12-12-26-7pm/7977145/"
-  },
-  {
-   "id": "2026-12-12-castell-st-market",
-   "category": "market",
-   "title": "Castell St. Market",
-   "startDate": "2026-12-12",
-   "startTime": "09:00",
-   "endTime": "13:00",
-   "location": "First Protestant Church, 296 S Seguin Ave",
-   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
-   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2026-12-12/"
   },
   {
    "id": "2026-12-12-the-mavericks-friends",
@@ -5153,8 +5306,8 @@
    "category": "txst-bb",
    "title": "Bobcats vs. North Texas",
    "startDate": "2026-12-13",
-   "location": "Strahan Arena, San Marcos",
-   "tag": "Home",
+   "location": "Dickies Arena",
+   "tag": "Neutral site",
    "sourceURL": "https://txst.com/sports/mens-basketball/schedule"
   },
   {
@@ -5264,6 +5417,16 @@
    "id": "sch-canyon-lake-hs-2026-12-14-piano-recital"
   },
   {
+   "id": "2026-12-14-chris-ruest",
+   "category": "music",
+   "title": "Chris Ruest",
+   "startDate": "2026-12-14",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "sourceURL": "https://gruenehall.com/event/chris-ruest-15/"
+  },
+  {
    "id": "2026-12-14-mavs-vs-bucks",
    "category": "mavs",
    "title": "Mavericks vs. Bucks",
@@ -5282,16 +5445,6 @@
    "location": "Toyota Center, Houston",
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
-  },
-  {
-   "id": "2026-12-14-chris-ruest",
-   "category": "music",
-   "title": "Chris Ruest",
-   "startDate": "2026-12-14",
-   "startTime": "18:00",
-   "endTime": "21:00",
-   "location": "Gruene Hall, 1281 Gruene Rd",
-   "sourceURL": "https://gruenehall.com/event/chris-ruest-15/"
   },
   {
    "title": "Parent & Family Engagement Night-Christmas Ornament Making",
@@ -5411,6 +5564,16 @@
    ],
    "audience": "local",
    "id": "sch-canyon-ms-2026-12-15-beginner-band-christmas-concert"
+  },
+  {
+   "id": "2026-12-15-utsa-bb-vs-our-lady-of-the-lake",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Our Lady of the Lake",
+   "startDate": "2026-12-15",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "18:30"
   },
   {
    "title": "New Braunfels girls basketball vs. Long Creek",
@@ -5738,6 +5901,16 @@
    "id": "sch-canyon-lake-hs-2026-12-16-cheer-showcase"
   },
   {
+   "id": "2026-12-16-tony-taylor",
+   "category": "music",
+   "title": "Tony Taylor",
+   "startDate": "2026-12-16",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "sourceURL": "https://gruenehall.com/event/tony-taylor-7/"
+  },
+  {
    "id": "2026-12-16-spurs-at-raptors",
    "category": "spurs",
    "title": "Spurs at Raptors",
@@ -5778,14 +5951,15 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
-   "id": "2026-12-16-tony-taylor",
-   "category": "music",
-   "title": "Tony Taylor",
+   "id": "2026-12-16-horns-bb-vs-memphis",
+   "category": "horns-bb",
+   "title": "Texas vs. Memphis",
    "startDate": "2026-12-16",
-   "startTime": "18:00",
-   "endTime": "21:00",
-   "location": "Gruene Hall, 1281 Gruene Rd",
-   "sourceURL": "https://gruenehall.com/event/tony-taylor-7/"
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "20:00",
+   "tv": "ESPN2"
   },
   {
    "title": "5th Grade Canyon Lake Gorge Field Trip",
@@ -6231,6 +6405,17 @@
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
   },
   {
+   "id": "2026-12-19-castell-st-market",
+   "category": "market",
+   "title": "Castell St. Market",
+   "startDate": "2026-12-19",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "First Protestant Church, 296 S Seguin Ave",
+   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
+   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2026-12-19/"
+  },
+  {
    "title": "New Braunfels wrestling at Varsity Boys Individual Tournament",
    "startDate": "2026-12-19",
    "tag": "Away",
@@ -6301,17 +6486,6 @@
    "location": "American Airlines Center, Dallas",
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
-  },
-  {
-   "id": "2026-12-19-castell-st-market",
-   "category": "market",
-   "title": "Castell St. Market",
-   "startDate": "2026-12-19",
-   "startTime": "09:00",
-   "endTime": "13:00",
-   "location": "First Protestant Church, 296 S Seguin Ave",
-   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
-   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2026-12-19/"
   },
   {
    "id": "2026-12-19-jon-wolfe-honky-tonk-holiday-show",
@@ -6414,6 +6588,17 @@
    "id": "sch-comal-isd-2026-12-21-winter-break"
   },
   {
+   "id": "2026-12-21-horns-bb-vs-prairie-view-a-m",
+   "category": "horns-bb",
+   "title": "Texas vs. Prairie View A&M",
+   "startDate": "2026-12-21",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "19:00",
+   "tv": "SEC Network+"
+  },
+  {
    "id": "2026-12-21-spurs-vs-bucks",
    "category": "spurs",
    "title": "Spurs vs. Bucks",
@@ -6462,6 +6647,16 @@
    ],
    "audience": "local",
    "id": "sch-new-braunfels-hs-2026-12-22-new-braunfels-girls-basketball-at-macarthuur"
+  },
+  {
+   "id": "2026-12-22-utsa-bb-vs-huston-tillotson",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Huston-Tillotson",
+   "startDate": "2026-12-22",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "12:00"
   },
   {
    "title": "New Braunfels boys basketball vs. MacArthur",
@@ -6792,6 +6987,27 @@
    "id": "sch-canyon-hs-2026-12-29-canyon-girls-basketball-vs-gonzales-lady-apaches"
   },
   {
+   "id": "2026-12-29-horns-bb-vs-east-texas-a-m",
+   "category": "horns-bb",
+   "title": "Texas vs. East Texas A&M",
+   "startDate": "2026-12-29",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "19:00",
+   "tv": "SEC Network+"
+  },
+  {
+   "id": "2026-12-29-utsa-bb-at-minnesota",
+   "category": "utsa-bb",
+   "title": "UTSA at Minnesota",
+   "startDate": "2026-12-29",
+   "location": "Minneapolis, Minn.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
+  },
+  {
    "id": "2026-12-29-spurs-at-grizzlies",
    "category": "spurs",
    "title": "Spurs at Grizzlies",
@@ -7105,6 +7321,17 @@
    "id": "sch-davenport-hs-2027-01-02-davenport-boys-wrestling-at-jv-and-varsity-canyon-cl"
   },
   {
+   "id": "2027-01-02-castell-st-market",
+   "category": "market",
+   "title": "Castell St. Market",
+   "startDate": "2027-01-02",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "First Protestant Church, 296 S Seguin Ave",
+   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
+   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-01-02/"
+  },
+  {
    "title": "Canyon boys basketball vs. San Marcos Rattlers",
    "startDate": "2027-01-02",
    "tag": "Home",
@@ -7117,6 +7344,26 @@
    ],
    "audience": "local",
    "id": "sch-canyon-hs-2027-01-02-canyon-boys-basketball-vs-san-marcos-rattlers"
+  },
+  {
+   "id": "2027-01-02-utsa-bb-at-temple",
+   "category": "utsa-bb",
+   "title": "UTSA at Temple",
+   "startDate": "2027-01-02",
+   "location": "Philadelphia, Pa.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "13:00"
+  },
+  {
+   "id": "2027-01-02-horns-bb-vs-florida",
+   "category": "horns-bb",
+   "title": "Texas vs. Florida",
+   "startDate": "2027-01-02",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "17:00"
   },
   {
    "id": "2027-01-02-mavs-at-hawks",
@@ -7151,17 +7398,6 @@
    "sourceURL": "https://gruenehall.com/calendar/",
    "startTime": "21:00",
    "id": "2027-01-02-david-lewis"
-  },
-  {
-   "id": "2027-01-02-castell-st-market",
-   "category": "market",
-   "title": "Castell St. Market",
-   "startDate": "2027-01-02",
-   "startTime": "09:00",
-   "endTime": "13:00",
-   "location": "First Protestant Church, 296 S Seguin Ave",
-   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
-   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-01-02/"
   },
   {
    "id": "2027-01-03-spurs-at-timberwolves",
@@ -7394,6 +7630,16 @@
    "id": "sch-long-creek-hs-2027-01-05-long-creek-boys-soccer-vs-patriots"
   },
   {
+   "id": "2027-01-05-horns-bb-at-georgia",
+   "category": "horns-bb",
+   "title": "Texas at Georgia",
+   "startDate": "2027-01-05",
+   "location": "Athens, Georgia",
+   "tag": "Away",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "20:00"
+  },
+  {
    "title": "Report Cards on Parent Portal",
    "startDate": "2027-01-06",
    "location": "Memorial Elementary",
@@ -7571,6 +7817,16 @@
    ],
    "audience": "local",
    "id": "sch-canyon-hs-2027-01-07-canyon-boys-soccer-at-connally"
+  },
+  {
+   "id": "2027-01-07-utsa-bb-vs-tulsa",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Tulsa",
+   "startDate": "2027-01-07",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
   },
   {
    "id": "2027-01-07-mavs-vs-trail-blazers",
@@ -8031,6 +8287,28 @@
    "id": "sch-davenport-hs-2027-01-09-davenport-boys-wrestling-at-centex"
   },
   {
+   "id": "2027-01-09-castell-st-market",
+   "category": "market",
+   "title": "Castell St. Market",
+   "startDate": "2027-01-09",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "First Protestant Church, 296 S Seguin Ave",
+   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
+   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-01-09/"
+  },
+  {
+   "id": "2027-01-09-horns-bb-at-ole-miss",
+   "category": "horns-bb",
+   "title": "Texas at Ole Miss",
+   "startDate": "2027-01-09",
+   "location": "Oxford, Mississippi",
+   "tag": "Away",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "11:00",
+   "tv": "ESPNU"
+  },
+  {
    "id": "2027-01-09-rockets-at-nets",
    "category": "rockets",
    "title": "Rockets at Nets",
@@ -8083,17 +8361,6 @@
    "id": "sch-long-creek-hs-2027-01-09-long-creek-girls-soccer-at-tbd"
   },
   {
-   "id": "2027-01-09-castell-st-market",
-   "category": "market",
-   "title": "Castell St. Market",
-   "startDate": "2027-01-09",
-   "startTime": "09:00",
-   "endTime": "13:00",
-   "location": "First Protestant Church, 296 S Seguin Ave",
-   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
-   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-01-09/"
-  },
-  {
    "category": "fest",
    "title": "Time Travel Half Marathon",
    "startDate": "2027-01-10",
@@ -8113,6 +8380,16 @@
    "tag": "Home",
    "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
    "startTime": "12:00"
+  },
+  {
+   "id": "2027-01-10-utsa-bb-at-east-carolina",
+   "category": "utsa-bb",
+   "title": "UTSA at East Carolina",
+   "startDate": "2027-01-10",
+   "location": "Greenville, N.C.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "13:00"
   },
   {
    "id": "2027-01-10-spurs-at-hawks",
@@ -8378,6 +8655,16 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
+   "id": "2027-01-12-horns-bb-vs-auburn",
+   "category": "horns-bb",
+   "title": "Texas vs. Auburn",
+   "startDate": "2027-01-12",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "20:00"
+  },
+  {
    "title": "Davenport boys wrestling at Madison",
    "startDate": "2027-01-13",
    "tag": "Away",
@@ -8418,6 +8705,16 @@
    ],
    "audience": "local",
    "id": "sch-new-braunfels-hs-2027-01-13-new-braunfels-wrestling-at-long-creek-lc-varsity"
+  },
+  {
+   "id": "2027-01-13-utsa-bb-at-charlotte",
+   "category": "utsa-bb",
+   "title": "UTSA at Charlotte",
+   "startDate": "2027-01-13",
+   "location": "Charlotte, N.C.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "18:00"
   },
   {
    "id": "2027-01-13-rockets-at-thunder",
@@ -8908,6 +9205,27 @@
    "id": "sch-davenport-hs-2027-01-16-davenport-boys-wrestling-vs-alpha-wolf-tournament"
   },
   {
+   "id": "2027-01-16-castell-st-market",
+   "category": "market",
+   "title": "Castell St. Market",
+   "startDate": "2027-01-16",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "First Protestant Church, 296 S Seguin Ave",
+   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
+   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-01-16/"
+  },
+  {
+   "id": "2027-01-16-horns-bb-vs-oklahoma",
+   "category": "horns-bb",
+   "title": "Texas vs. Oklahoma",
+   "startDate": "2027-01-16",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "11:00"
+  },
+  {
    "title": "Middle School Night of One Acts",
    "startDate": "2027-01-16",
    "startTime": "18:00",
@@ -8975,17 +9293,6 @@
    "id": "2027-01-16-cole-phillips"
   },
   {
-   "id": "2027-01-16-castell-st-market",
-   "category": "market",
-   "title": "Castell St. Market",
-   "startDate": "2027-01-16",
-   "startTime": "09:00",
-   "endTime": "13:00",
-   "location": "First Protestant Church, 296 S Seguin Ave",
-   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
-   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-01-16/"
-  },
-  {
    "id": "2027-01-17-spurs-at-pelicans-nba-manchester-game",
    "category": "spurs",
    "title": "Spurs at Pelicans (NBA Manchester Game)",
@@ -8995,6 +9302,16 @@
    "tag": "Away",
    "tv": "Prime Video",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2027-01-17-utsa-bb-vs-tulane",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Tulane",
+   "startDate": "2027-01-17",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "11:00"
   },
   {
    "id": "nbisd-2027-01-18-student-staff-holiday-mlk-day",
@@ -9063,6 +9380,27 @@
    "tag": "Home",
    "tv": "NBC",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-01-19-horns-bb-at-lsu",
+   "category": "horns-bb",
+   "title": "Texas at LSU",
+   "startDate": "2027-01-19",
+   "location": "Baton Rouge, Louisiana",
+   "tag": "Away",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "20:00",
+   "tv": "SEC Network"
+  },
+  {
+   "id": "2027-01-20-utsa-bb-at-rice",
+   "category": "utsa-bb",
+   "title": "UTSA at Rice",
+   "startDate": "2027-01-20",
+   "location": "Houston, Texas",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
   },
   {
    "id": "2027-01-20-rockets-at-timberwolves",
@@ -9140,6 +9478,16 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
+   "id": "2027-01-22-pecos-the-rooftops",
+   "category": "music",
+   "title": "Pecos & The Rooftops",
+   "startDate": "2027-01-22",
+   "startTime": "20:00",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "description": "Doors: 7pm Opener: Parker Ryan 8pm Pecos & The Rooftops: 9:30pm",
+   "sourceURL": "https://gruenehall.com/event/pecos-the-rooftops-6/"
+  },
+  {
    "id": "2027-01-22-spurs-vs-timberwolves",
    "category": "spurs",
    "title": "Spurs vs. Timberwolves",
@@ -9149,16 +9497,6 @@
    "tag": "Home",
    "tv": "ESPN",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
-  },
-  {
-   "id": "2027-01-22-pecos-the-rooftops",
-   "category": "music",
-   "title": "Pecos & The Rooftops",
-   "startDate": "2027-01-22",
-   "startTime": "20:00",
-   "location": "Gruene Hall, 1281 Gruene Rd",
-   "description": "Doors: 7pm Opener: Parker Ryan 8pm Pecos & The Rooftops: 9:30pm",
-   "sourceURL": "https://gruenehall.com/event/pecos-the-rooftops-6/"
   },
   {
    "title": "5Th Grade Honor Choir 2027",
@@ -9212,6 +9550,16 @@
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
   },
   {
+   "id": "2027-01-23-utsa-bb-vs-south-florida",
+   "category": "utsa-bb",
+   "title": "UTSA vs. South Florida",
+   "startDate": "2027-01-23",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "13:00"
+  },
+  {
    "category": "music",
    "title": "Buckets N Boards",
    "startDate": "2027-01-23",
@@ -9230,6 +9578,16 @@
    "tag": "Away",
    "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
    "startTime": "15:30"
+  },
+  {
+   "id": "2027-01-23-horns-bb-vs-arkansas",
+   "category": "horns-bb",
+   "title": "Texas vs. Arkansas",
+   "startDate": "2027-01-23",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "17:00"
   },
   {
    "id": "2027-01-23-mavs-vs-cavaliers",
@@ -9373,6 +9731,17 @@
    "startTime": "19:00"
   },
   {
+   "id": "2027-01-27-horns-bb-at-south-carolina",
+   "category": "horns-bb",
+   "title": "Texas at South Carolina",
+   "startDate": "2027-01-27",
+   "location": "Columbia, South Carolina",
+   "tag": "Away",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "19:00",
+   "tv": "SEC Network"
+  },
+  {
    "id": "2027-01-27-spurs-vs-hornets",
    "category": "spurs",
    "title": "Spurs vs. Hornets",
@@ -9427,6 +9796,16 @@
    "sourceURL": "https://gruenehall.com/calendar/",
    "startTime": "19:00",
    "id": "2027-01-28-bill-murray-his-blood-brothers"
+  },
+  {
+   "id": "2027-01-28-utsa-bb-vs-north-texas",
+   "category": "utsa-bb",
+   "title": "UTSA vs. North Texas",
+   "startDate": "2027-01-28",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
   },
   {
    "category": "music",
@@ -9518,6 +9897,16 @@
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
   },
   {
+   "id": "2027-01-30-horns-bb-vs-kentucky",
+   "category": "horns-bb",
+   "title": "Texas vs. Kentucky",
+   "startDate": "2027-01-30",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "11:00"
+  },
+  {
    "id": "2027-01-30-txst-bb-vs-boise-state",
    "category": "txst-bb",
    "title": "Bobcats vs. Boise State",
@@ -9558,6 +9947,16 @@
    "location": "Gruene Hall, 1281 Gruene Rd",
    "description": "Doors: 8pm Opener: Waitin’ On Hayden 9pm Carson Jeffrey: 10:30pm",
    "sourceURL": "https://gruenehall.com/event/carson-jeffrey-5/"
+  },
+  {
+   "id": "2027-01-31-utsa-bb-at-wichita-state",
+   "category": "utsa-bb",
+   "title": "UTSA at Wichita State",
+   "startDate": "2027-01-31",
+   "location": "Wichita, Kan.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "13:00"
   },
   {
    "id": "2027-01-31-mavs-vs-rockets",
@@ -9687,6 +10086,16 @@
    "id": "sch-walnut-springs-es-2027-02-04-glow-bingo-family-night"
   },
   {
+   "id": "2027-02-04-utsa-bb-vs-florida-atlantic",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Florida Atlantic",
+   "startDate": "2027-02-04",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
+  },
+  {
    "id": "2027-02-04-spurs-vs-magic",
    "category": "spurs",
    "title": "Spurs vs. Magic",
@@ -9751,16 +10160,6 @@
    "id": "2027-02-05-sons-of-the-pioneers"
   },
   {
-   "id": "2027-02-05-rockets-at-suns",
-   "category": "rockets",
-   "title": "Rockets at Suns",
-   "startDate": "2027-02-05",
-   "startTime": "20:00",
-   "location": "Phoenix",
-   "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
-  },
-  {
    "id": "2027-02-05-zach-john-king-get-to-drinkin-tour",
    "category": "music",
    "title": "Zach John King: Get to Drinkin' Tour",
@@ -9769,6 +10168,16 @@
    "location": "Gruene Hall, 1281 Gruene Rd",
    "description": "*Presale On Sale: Wednesday, Oct 20th at 10AM *Public On Sale: Friday, Oct 23rd at 10AM Doors: 7pm Opener: TBA 8pm Zach John King: 9:30pm",
    "sourceURL": "https://gruenehall.com/event/zach-john-king-get-to-drinkin-tour/"
+  },
+  {
+   "id": "2027-02-05-rockets-at-suns",
+   "category": "rockets",
+   "title": "Rockets at Suns",
+   "startDate": "2027-02-05",
+   "startTime": "20:00",
+   "location": "Phoenix",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "id": "2027-02-06-new-braunfels-farmers-market",
@@ -9782,6 +10191,28 @@
    "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
    "outdoor": true,
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
+  },
+  {
+   "id": "2027-02-06-castell-st-market",
+   "category": "market",
+   "title": "Castell St. Market",
+   "startDate": "2027-02-06",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "First Protestant Church, 296 S Seguin Ave",
+   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
+   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-02-06/"
+  },
+  {
+   "id": "2027-02-06-horns-bb-at-florida",
+   "category": "horns-bb",
+   "title": "Texas at Florida",
+   "startDate": "2027-02-06",
+   "location": "Gainesville, Florida",
+   "tag": "Away",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "11:00",
+   "tv": "ESPN"
   },
   {
    "id": "2027-02-06-mavs-vs-jazz",
@@ -9826,15 +10257,14 @@
    "startTime": "20:00"
   },
   {
-   "id": "2027-02-06-castell-st-market",
-   "category": "market",
-   "title": "Castell St. Market",
-   "startDate": "2027-02-06",
-   "startTime": "09:00",
-   "endTime": "13:00",
-   "location": "First Protestant Church, 296 S Seguin Ave",
-   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
-   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-02-06/"
+   "id": "2027-02-07-utsa-bb-vs-rice",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Rice",
+   "startDate": "2027-02-07",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "13:00"
   },
   {
    "id": "2027-02-07-mavs-vs-clippers",
@@ -9883,6 +10313,17 @@
    ],
    "audience": "local",
    "id": "sch-legend-point-es-2027-02-09-2nd-grade-music-performance-fine-arts-night"
+  },
+  {
+   "id": "2027-02-09-horns-bb-vs-alabama",
+   "category": "horns-bb",
+   "title": "Texas vs. Alabama",
+   "startDate": "2027-02-09",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "18:00",
+   "tv": "ESPN"
   },
   {
    "id": "2027-02-09-spurs-at-mavericks",
@@ -10057,6 +10498,27 @@
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
   },
   {
+   "id": "2027-02-13-castell-st-market",
+   "category": "market",
+   "title": "Castell St. Market",
+   "startDate": "2027-02-13",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "First Protestant Church, 296 S Seguin Ave",
+   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
+   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-02-13/"
+  },
+  {
+   "id": "2027-02-13-horns-bb-at-vanderbilt",
+   "category": "horns-bb",
+   "title": "Texas at Vanderbilt",
+   "startDate": "2027-02-13",
+   "location": "Nashville, Tennessee",
+   "tag": "Away",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "13:00"
+  },
+  {
    "id": "2027-02-13-mavs-at-hornets",
    "category": "mavs",
    "title": "Mavericks at Hornets",
@@ -10089,17 +10551,6 @@
    "sourceURL": "https://brauntex.org/event/gino-vannelli/"
   },
   {
-   "id": "2027-02-13-castell-st-market",
-   "category": "market",
-   "title": "Castell St. Market",
-   "startDate": "2027-02-13",
-   "startTime": "09:00",
-   "endTime": "13:00",
-   "location": "First Protestant Church, 296 S Seguin Ave",
-   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
-   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-02-13/"
-  },
-  {
    "id": "2027-02-13-bri-bagwell-with-special-guest-paack",
    "category": "music",
    "title": "Bri Bagwell with special guest PAACK",
@@ -10120,6 +10571,16 @@
    ],
    "audience": "local",
    "id": "sch-comal-isd-2027-02-14-valentine-s-day"
+  },
+  {
+   "id": "2027-02-14-utsa-bb-vs-memphis",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Memphis",
+   "startDate": "2027-02-14",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "13:00"
   },
   {
    "id": "2027-02-14-rockets-vs-nuggets",
@@ -10221,6 +10682,16 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
+   "id": "2027-02-17-horns-bb-vs-texas-a-m",
+   "category": "horns-bb",
+   "title": "Texas vs. Texas A&M",
+   "startDate": "2027-02-17",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "20:00"
+  },
+  {
    "id": "2027-02-18-spurs-at-timberwolves",
    "category": "spurs",
    "title": "Spurs at Timberwolves",
@@ -10239,6 +10710,16 @@
    "location": "Strahan Arena, San Marcos",
    "tag": "Home",
    "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
+  },
+  {
+   "id": "2027-02-18-utsa-bb-at-tulane",
+   "category": "utsa-bb",
+   "title": "UTSA at Tulane",
+   "startDate": "2027-02-18",
+   "location": "New Orleans, La.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
    "startTime": "19:00"
   },
   {
@@ -10296,6 +10777,17 @@
    "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
    "outdoor": true,
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
+  },
+  {
+   "id": "2027-02-20-castell-st-market",
+   "category": "market",
+   "title": "Castell St. Market",
+   "startDate": "2027-02-20",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "First Protestant Church, 296 S Seguin Ave",
+   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
+   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-02-20/"
   },
   {
    "category": "market",
@@ -10367,15 +10859,15 @@
    "sourceURL": "https://brauntex.org/event/paul-thorn-2/"
   },
   {
-   "id": "2027-02-20-castell-st-market",
-   "category": "market",
-   "title": "Castell St. Market",
+   "id": "2027-02-20-horns-bb-at-oklahoma",
+   "category": "horns-bb",
+   "title": "Texas at Oklahoma",
    "startDate": "2027-02-20",
-   "startTime": "09:00",
-   "endTime": "13:00",
-   "location": "First Protestant Church, 296 S Seguin Ave",
-   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
-   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-02-20/"
+   "location": "Norman, Oklahoma",
+   "tag": "Away",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "19:30",
+   "tv": "ESPN"
   },
   {
    "id": "2027-02-20-the-droptines",
@@ -10386,6 +10878,36 @@
    "location": "Gruene Hall, 1281 Gruene Rd",
    "description": "Doors: 8pm Opener: TBA 9pm The Droptines: 10:30pm",
    "sourceURL": "https://gruenehall.com/event/the-droptines-3/"
+  },
+  {
+   "id": "2027-02-21-utsa-bb-at-tulsa",
+   "category": "utsa-bb",
+   "title": "UTSA at Tulsa",
+   "startDate": "2027-02-21",
+   "location": "Tulsa, Okla.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "14:00"
+  },
+  {
+   "id": "2027-02-24-horns-bb-at-mississippi-state",
+   "category": "horns-bb",
+   "title": "Texas at Mississippi State",
+   "startDate": "2027-02-24",
+   "location": "Starkville, Mississippi",
+   "tag": "Away",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "18:00"
+  },
+  {
+   "id": "2027-02-24-utsa-bb-vs-east-carolina",
+   "category": "utsa-bb",
+   "title": "UTSA vs. East Carolina",
+   "startDate": "2027-02-24",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
   },
   {
    "id": "2027-02-25-txst-bb-vs-gonzaga",
@@ -10473,6 +10995,16 @@
    "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
   },
   {
+   "id": "2027-02-27-utsa-bb-at-north-texas",
+   "category": "utsa-bb",
+   "title": "UTSA at North Texas",
+   "startDate": "2027-02-27",
+   "location": "Denton, Texas",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "16:00"
+  },
+  {
    "id": "2027-02-27-fcdallas-vs-portland-timbers",
    "category": "fcdallas",
    "title": "FC Dallas vs. Portland Timbers",
@@ -10536,6 +11068,16 @@
    "location": "Toyota Center, Houston",
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-03-02-horns-bb-vs-missouri",
+   "category": "horns-bb",
+   "title": "Texas vs. Missouri",
+   "startDate": "2027-03-02",
+   "location": "Moody Center, Austin",
+   "tag": "Home",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "18:00"
   },
   {
    "id": "2027-03-02-mavs-vs-warriors",
@@ -10612,6 +11154,16 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
+   "id": "2027-03-04-utsa-bb-at-uab",
+   "category": "utsa-bb",
+   "title": "UTSA at UAB",
+   "startDate": "2027-03-04",
+   "location": "Birmingham, Ala.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "20:00"
+  },
+  {
    "id": "2027-03-04-mavs-vs-knicks",
    "category": "mavs",
    "title": "Mavericks vs. Knicks",
@@ -10621,6 +11173,27 @@
    "tag": "Home",
    "tv": "Prime Video",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-05-ballet-texas-presents-swan-lake",
+   "category": "music",
+   "title": "Ballet Texas Presents Swan Lake",
+   "startDate": "2027-03-05",
+   "startTime": "19:00",
+   "endTime": "21:00",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "description": "Experience the timeless beauty of Swan Lake, one of the most beloved classical ballets ever performed. Featuring breathtaking choreography, enchanting music, and a story of love, magic, and sacrifice, this elegant pro…",
+   "sourceURL": "https://brauntex.org/event/ballet-texas-presents-swan-lake-2/"
+  },
+  {
+   "id": "2027-03-05-drive-by-truckers",
+   "category": "music",
+   "title": "Drive-By-Truckers",
+   "startDate": "2027-03-05",
+   "startTime": "20:00",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "description": "*Presale On Sale: Thursday, Oct 15th at 10AM *Public On Sale: Friday, Oct 16th at 10AM Doors: 7pm Opener: Brown Horse 8pm Drive-By Truckers: 9:30pm",
+   "sourceURL": "https://gruenehall.com/event/drive-by-truckers/"
   },
   {
    "id": "2027-03-05-spurs-at-rockets",
@@ -10645,25 +11218,37 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
-   "id": "2027-03-05-ballet-texas-presents-swan-lake",
-   "category": "music",
-   "title": "Ballet Texas Presents Swan Lake",
-   "startDate": "2027-03-05",
-   "startTime": "19:00",
-   "endTime": "21:00",
-   "location": "Brauntex Theatre, 290 W San Antonio St",
-   "description": "Experience the timeless beauty of Swan Lake, one of the most beloved classical ballets ever performed. Featuring breathtaking choreography, enchanting music, and a story of love, magic, and sacrifice, this elegant pro…",
-   "sourceURL": "https://brauntex.org/event/ballet-texas-presents-swan-lake-2/"
+   "id": "2027-03-06-castell-st-market",
+   "category": "market",
+   "title": "Castell St. Market",
+   "startDate": "2027-03-06",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "First Protestant Church, 296 S Seguin Ave",
+   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
+   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-03-06/"
   },
   {
-   "id": "2027-03-05-drive-by-truckers",
+   "id": "2027-03-06-ballet-texas-presents-swan-lake",
    "category": "music",
-   "title": "Drive-By-Truckers",
-   "startDate": "2027-03-05",
-   "startTime": "20:00",
-   "location": "Gruene Hall, 1281 Gruene Rd",
-   "description": "*Presale On Sale: Thursday, Oct 15th at 10AM *Public On Sale: Friday, Oct 16th at 10AM Doors: 7pm Opener: Brown Horse 8pm Drive-By Truckers: 9:30pm",
-   "sourceURL": "https://gruenehall.com/event/drive-by-truckers/"
+   "title": "Ballet Texas Presents Swan Lake",
+   "startDate": "2027-03-06",
+   "startTime": "14:00",
+   "endTime": "16:00",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "description": "Experience the timeless beauty of Swan Lake, one of the most beloved classical ballets ever performed. Featuring breathtaking choreography, enchanting music, and a story of love, magic, and sacrifice, this elegant pro…",
+   "sourceURL": "https://brauntex.org/event/ballet-texas-presents-swan-lake/"
+  },
+  {
+   "id": "2027-03-06-horns-bb-at-texas-a-m",
+   "category": "horns-bb",
+   "title": "Texas at Texas A&M",
+   "startDate": "2027-03-06",
+   "location": "College Station, Texas",
+   "tag": "Away",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "19:00",
+   "tv": "SEC Network"
   },
   {
    "id": "2027-03-06-dynamo-at-st-louis-city-sc",
@@ -10688,6 +11273,16 @@
    "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
   },
   {
+   "id": "2027-03-06-drive-by-truckers",
+   "category": "music",
+   "title": "Drive-By-Truckers",
+   "startDate": "2027-03-06",
+   "startTime": "21:00",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "description": "*Presale On Sale: Thursday, Oct 15th at 10AM *Public On Sale: Friday, Oct 16th at 10AM Doors: 8pm Opener: Brown Horse 9pm Drive-By Truckers: 10:30pm",
+   "sourceURL": "https://gruenehall.com/event/drive-by-truckers-2/"
+  },
+  {
    "id": "2027-03-06-fcdallas-at-san-diego-fc",
    "category": "fcdallas",
    "title": "FC Dallas at San Diego FC",
@@ -10699,36 +11294,14 @@
    "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
   },
   {
-   "id": "2027-03-06-castell-st-market",
-   "category": "market",
-   "title": "Castell St. Market",
-   "startDate": "2027-03-06",
-   "startTime": "09:00",
-   "endTime": "13:00",
-   "location": "First Protestant Church, 296 S Seguin Ave",
-   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
-   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-03-06/"
-  },
-  {
-   "id": "2027-03-06-ballet-texas-presents-swan-lake",
-   "category": "music",
-   "title": "Ballet Texas Presents Swan Lake",
-   "startDate": "2027-03-06",
-   "startTime": "14:00",
-   "endTime": "16:00",
-   "location": "Brauntex Theatre, 290 W San Antonio St",
-   "description": "Experience the timeless beauty of Swan Lake, one of the most beloved classical ballets ever performed. Featuring breathtaking choreography, enchanting music, and a story of love, magic, and sacrifice, this elegant pro…",
-   "sourceURL": "https://brauntex.org/event/ballet-texas-presents-swan-lake/"
-  },
-  {
-   "id": "2027-03-06-drive-by-truckers",
-   "category": "music",
-   "title": "Drive-By-Truckers",
-   "startDate": "2027-03-06",
-   "startTime": "21:00",
-   "location": "Gruene Hall, 1281 Gruene Rd",
-   "description": "*Presale On Sale: Thursday, Oct 15th at 10AM *Public On Sale: Friday, Oct 16th at 10AM Doors: 8pm Opener: Brown Horse 9pm Drive-By Truckers: 10:30pm",
-   "sourceURL": "https://gruenehall.com/event/drive-by-truckers-2/"
+   "id": "2027-03-07-utsa-bb-vs-temple",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Temple",
+   "startDate": "2027-03-07",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "13:00"
   },
   {
    "id": "2027-03-07-spurs-vs-knicks",
@@ -10742,17 +11315,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "2027-03-07-rockets-at-warriors",
-   "category": "rockets",
-   "title": "Rockets at Warriors",
-   "startDate": "2027-03-07",
-   "startTime": "21:00",
-   "location": "San Francisco",
-   "tag": "Away",
-   "tv": "NBC",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
-  },
-  {
    "id": "2027-03-07-dailey-vincent",
    "category": "music",
    "title": "Dailey & Vincent",
@@ -10762,6 +11324,17 @@
    "location": "Brauntex Theatre, 290 W San Antonio St",
    "description": "Grand Ole Opry members Dailey & Vincent deliver an exhilarating concert experience blending bluegrass precision, Southern gospel harmonies, and traditional country charm. Led by five-time Grammy winner Jamie Dailey an…",
    "sourceURL": "https://brauntex.org/event/dailey-vincent/"
+  },
+  {
+   "id": "2027-03-07-rockets-at-warriors",
+   "category": "rockets",
+   "title": "Rockets at Warriors",
+   "startDate": "2027-03-07",
+   "startTime": "21:00",
+   "location": "San Francisco",
+   "tag": "Away",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "id": "2027-03-08-mavs-at-thunder",
@@ -10804,6 +11377,26 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
+   "id": "2027-03-10-utsa-bb-at-american-conference-championships",
+   "category": "utsa-bb",
+   "title": "UTSA at American Conference Championships",
+   "startDate": "2027-03-10",
+   "location": "Tampa, Fla.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "07:00"
+  },
+  {
+   "id": "2027-03-10-utsa-bb-at-american-conference-championships",
+   "category": "utsa-bb",
+   "title": "UTSA at American Conference Championships",
+   "startDate": "2027-03-10",
+   "location": "Tampa, Fla.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "07:00"
+  },
+  {
    "id": "2027-03-10-rockets-at-jazz",
    "category": "rockets",
    "title": "Rockets at Jazz",
@@ -10844,6 +11437,17 @@
    "location": "Brauntex Theatre, 290 W San Antonio St",
    "description": "Alt-rock and jam-band icons Spin Doctors are bringing their Pocket Full of Kryptonite 35th Anniversary Tour to the Brauntex Theatre! Celebrating the landmark 5× Platinum-certified debut that defined an era, the band w…",
    "sourceURL": "https://brauntex.org/event/spin-doctors-pocket-full-of-kryptonite-35th-anniversary-tour/"
+  },
+  {
+   "id": "2027-03-13-castell-st-market",
+   "category": "market",
+   "title": "Castell St. Market",
+   "startDate": "2027-03-13",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "First Protestant Church, 296 S Seguin Ave",
+   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
+   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-03-13/"
   },
   {
    "id": "2027-03-13-dynamo-vs-la-galaxy",
@@ -10889,28 +11493,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
-   "id": "2027-03-13-austinfc-at-portland-timbers",
-   "category": "austinfc",
-   "title": "Austin FC at Portland Timbers",
-   "startDate": "2027-03-13",
-   "startTime": "21:00",
-   "location": "Providence Park, Portland",
-   "tag": "Away",
-   "tv": "Apple TV",
-   "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
-  },
-  {
-   "id": "2027-03-13-castell-st-market",
-   "category": "market",
-   "title": "Castell St. Market",
-   "startDate": "2027-03-13",
-   "startTime": "09:00",
-   "endTime": "13:00",
-   "location": "First Protestant Church, 296 S Seguin Ave",
-   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
-   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-03-13/"
-  },
-  {
    "id": "2027-03-13-the-lovin-spoonful",
    "category": "music",
    "title": "The Lovin' Spoonful",
@@ -10920,6 +11502,17 @@
    "location": "Brauntex Theatre, 290 W San Antonio St",
    "description": "Inducted into the Rock and Roll Hall of Fame, The Lovin’ Spoonful shaped the sunny, good-time folk-rock sound of the 1960s with an unbroken string of Top 10 smashes. Led by founding member Steve Boone, the band contin…",
    "sourceURL": "https://brauntex.org/event/the-lovin-spoonful/"
+  },
+  {
+   "id": "2027-03-13-austinfc-at-portland-timbers",
+   "category": "austinfc",
+   "title": "Austin FC at Portland Timbers",
+   "startDate": "2027-03-13",
+   "startTime": "21:00",
+   "location": "Providence Park, Portland",
+   "tag": "Away",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
   },
   {
    "id": "2027-03-14-spurs-at-thunder",
@@ -11026,6 +11619,17 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "id": "2027-03-20-castell-st-market",
+   "category": "market",
+   "title": "Castell St. Market",
+   "startDate": "2027-03-20",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "First Protestant Church, 296 S Seguin Ave",
+   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
+   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-03-20/"
+  },
+  {
    "id": "2027-03-20-fcdallas-at-real-salt-lake",
    "category": "fcdallas",
    "title": "FC Dallas at Real Salt Lake",
@@ -11046,17 +11650,6 @@
    "tag": "Away",
    "tv": "Apple TV",
    "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
-  },
-  {
-   "id": "2027-03-20-castell-st-market",
-   "category": "market",
-   "title": "Castell St. Market",
-   "startDate": "2027-03-20",
-   "startTime": "09:00",
-   "endTime": "13:00",
-   "location": "First Protestant Church, 296 S Seguin Ave",
-   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
-   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-03-20/"
   },
   {
    "id": "2027-03-21-spurs-at-76ers",
@@ -11460,6 +12053,17 @@
    "startTime": "19:10"
   },
   {
+   "id": "2027-04-02-david-koechner",
+   "category": "music",
+   "title": "David Koechner",
+   "startDate": "2027-04-02",
+   "startTime": "19:30",
+   "endTime": "21:30",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "description": "Beloved character actor and stand-up comedian David Koechner brings his off- the-wall hilarity and infectious energy straight to our stage. Famous for playing Champ Kind in Anchorman and Todd Packer on The Office, Koe…",
+   "sourceURL": "https://brauntex.org/event/david-koechner/"
+  },
+  {
    "id": "2027-04-02-rockets-vs-grizzlies",
    "category": "rockets",
    "title": "Rockets vs. Grizzlies",
@@ -11480,15 +12084,15 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "2027-04-02-david-koechner",
-   "category": "music",
-   "title": "David Koechner",
-   "startDate": "2027-04-02",
-   "startTime": "19:30",
-   "endTime": "21:30",
-   "location": "Brauntex Theatre, 290 W San Antonio St",
-   "description": "Beloved character actor and stand-up comedian David Koechner brings his off- the-wall hilarity and infectious energy straight to our stage. Famous for playing Champ Kind in Anchorman and Todd Packer on The Office, Koe…",
-   "sourceURL": "https://brauntex.org/event/david-koechner/"
+   "id": "2027-04-03-castell-st-market",
+   "category": "market",
+   "title": "Castell St. Market",
+   "startDate": "2027-04-03",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "First Protestant Church, 296 S Seguin Ave",
+   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
+   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-04-03/"
   },
   {
    "id": "2027-04-03-rangers-vs-athletics",
@@ -11542,17 +12146,6 @@
    "tag": "Away",
    "tv": "Apple TV",
    "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
-  },
-  {
-   "id": "2027-04-03-castell-st-market",
-   "category": "market",
-   "title": "Castell St. Market",
-   "startDate": "2027-04-03",
-   "startTime": "09:00",
-   "endTime": "13:00",
-   "location": "First Protestant Church, 296 S Seguin Ave",
-   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
-   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-04-03/"
   },
   {
    "id": "2027-04-04-astros-at-braves",
@@ -11767,6 +12360,17 @@
    "startTime": "19:10"
   },
   {
+   "id": "2027-04-09-walter-trout",
+   "category": "music",
+   "title": "Walter Trout",
+   "startDate": "2027-04-09",
+   "startTime": "19:30",
+   "endTime": "21:30",
+   "location": "Brauntex Theatre, 290 W San Antonio St",
+   "description": "As a resilient icon of blues-rock, Walter Trout has spent half a century as a street-level social observer and honest songwriter. His recent album Sign of the Times serves as a primal scream and a pressure valve for t…",
+   "sourceURL": "https://brauntex.org/event/walter-trout/"
+  },
+  {
    "id": "2027-04-09-rockets-vs-trail-blazers",
    "category": "rockets",
    "title": "Rockets vs. Trail Blazers",
@@ -11798,17 +12402,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
-   "id": "2027-04-09-walter-trout",
-   "category": "music",
-   "title": "Walter Trout",
-   "startDate": "2027-04-09",
-   "startTime": "19:30",
-   "endTime": "21:30",
-   "location": "Brauntex Theatre, 290 W San Antonio St",
-   "description": "As a resilient icon of blues-rock, Walter Trout has spent half a century as a street-level social observer and honest songwriter. His recent album Sign of the Times serves as a primal scream and a pressure valve for t…",
-   "sourceURL": "https://brauntex.org/event/walter-trout/"
-  },
-  {
    "id": "2027-04-10-rangers-at-cubs",
    "category": "rangers",
    "title": "Rangers at Cubs",
@@ -11816,6 +12409,17 @@
    "location": "Wrigley Field, Chicago",
    "tag": "Away",
    "sourceURL": "https://www.mlb.com/rangers/schedule"
+  },
+  {
+   "id": "2027-04-10-castell-st-market",
+   "category": "market",
+   "title": "Castell St. Market",
+   "startDate": "2027-04-10",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "First Protestant Church, 296 S Seguin Ave",
+   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
+   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-04-10/"
   },
   {
    "id": "2027-04-10-astros-vs-guardians",
@@ -11850,28 +12454,6 @@
    "sourceURL": "https://houstondynamofc.com/news/houston-dynamo-fc-announce-2027-mls-sprint-season-schedule"
   },
   {
-   "id": "2027-04-10-austinfc-at-vancouver-whitecaps-fc",
-   "category": "austinfc",
-   "title": "Austin FC at Vancouver Whitecaps FC",
-   "startDate": "2027-04-10",
-   "startTime": "21:00",
-   "location": "BC Place, Vancouver",
-   "tag": "Away",
-   "tv": "Apple TV",
-   "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
-  },
-  {
-   "id": "2027-04-10-castell-st-market",
-   "category": "market",
-   "title": "Castell St. Market",
-   "startDate": "2027-04-10",
-   "startTime": "09:00",
-   "endTime": "13:00",
-   "location": "First Protestant Church, 296 S Seguin Ave",
-   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
-   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-04-10/"
-  },
-  {
    "id": "2027-04-10-kelly-willis-sunny-sweeney-is-this-thing-on",
    "category": "music",
    "title": "Kelly Willis & Sunny Sweeney - Is this thing on?",
@@ -11881,6 +12463,17 @@
    "location": "Brauntex Theatre, 290 W San Antonio St",
    "description": "Spend an evening with two Texas Country Music legends playing songs from both of their extensive catalogs. Rehearsed, but not scripted. What could go wrong? Kelly Willis brings her cool, crystalline vocals and celebra…",
    "sourceURL": "https://brauntex.org/event/kelly-willis-sunny-sweeney-is-this-thing-on/"
+  },
+  {
+   "id": "2027-04-10-austinfc-at-vancouver-whitecaps-fc",
+   "category": "austinfc",
+   "title": "Austin FC at Vancouver Whitecaps FC",
+   "startDate": "2027-04-10",
+   "startTime": "21:00",
+   "location": "BC Place, Vancouver",
+   "tag": "Away",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
   },
   {
    "id": "2027-04-11-rangers-at-cubs",
@@ -12012,6 +12605,17 @@
    "startTime": "20:40"
   },
   {
+   "id": "2027-04-17-castell-st-market",
+   "category": "market",
+   "title": "Castell St. Market",
+   "startDate": "2027-04-17",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "First Protestant Church, 296 S Seguin Ave",
+   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
+   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-04-17/"
+  },
+  {
    "id": "2027-04-17-rangers-vs-cardinals",
    "category": "rangers",
    "title": "Rangers vs. Cardinals",
@@ -12052,17 +12656,6 @@
    "tag": "Home",
    "tv": "Apple TV",
    "sourceURL": "https://www.austinfc.com/news/austin-fc-announces-2027-mls-sprint-season-schedule"
-  },
-  {
-   "id": "2027-04-17-castell-st-market",
-   "category": "market",
-   "title": "Castell St. Market",
-   "startDate": "2027-04-17",
-   "startTime": "09:00",
-   "endTime": "13:00",
-   "location": "First Protestant Church, 296 S Seguin Ave",
-   "description": "Join us every Saturday for a vibrant gathering of local community members. Our market is dedicated to supporting local artisans with a passionate heart.",
-   "sourceURL": "https://firstprotestant.com/event/castell-st-market/2027-04-17/"
   },
   {
    "id": "2027-04-17-rare-earth",
