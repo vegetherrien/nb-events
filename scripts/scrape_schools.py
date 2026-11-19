@@ -187,7 +187,9 @@ def game_events(school, today):
         if len(words) > 1 and words[-1] in words[:-1]: words.pop()       # "Davenport Davenport"
         opponent = " ".join(words)
         if opponent.isupper() and len(opponent) > 4: opponent = opponent.title()
-        opponent = re.sub(r"\s+(Varsity|JV|Boys|Girls|Opponent)\b.*$", "", opponent).strip()     # schedule clutter
+        trimmed = re.sub(r"\s+(Varsity|JV|Boys|Girls|Opponent)\b.*$", "", opponent).strip()     # schedule clutter
+        if trimmed and not re.fullmatch(r"(Varsity|JV|Boys|Girls|Opponent)", trimmed, re.I):
+            opponent = trimmed          # but "Varsity Girls Scramble" is the event's name, so keep it whole
         if not opponent or re.search(r"\b(TBD|TBA|Bye)\b", opponent, re.I):
             continue          # no opponent yet
         if len(opponent) > 34:
