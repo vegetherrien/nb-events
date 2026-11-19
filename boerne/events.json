@@ -5865,20 +5865,6 @@
    "tv": "SEC Network"
   },
   {
-   "title": "Site-Based Decision Committee",
-   "startDate": "2027-01-20",
-   "startTime": "16:15",
-   "endTime": "17:15",
-   "location": "Capt. Mark Tyler Voss Middle School",
-   "sourceURL": "https://vms.boerneisd.net/",
-   "category": "school",
-   "tags": [
-    "school:voss-ms"
-   ],
-   "audience": "local",
-   "id": "sch-voss-ms-2027-01-20-site-based-decision-committee"
-  },
-  {
    "id": "2027-01-20-utsa-bb-at-rice",
    "category": "utsa-bb",
    "title": "UTSA at Rice",
