@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>NB Events deal results</title>
+<style>
+  :root { --bg: #F3EEE8; --card: #FFFFFF; --ink: #221A14; --muted: #6B5E54; --line: #E5DCD2; --accent: #9A3412; }
+  @media (prefers-color-scheme: dark) { :root { --bg: #1C1714; --card: #27201B; --ink: #F3EEE8; --muted: #B5A89D; --line: #3A302A; --accent: #F59E6B; } }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 17px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 560px; margin: 0 auto; padding: 32px 16px; }
+  .card { background: var(--card); border-radius: 20px; padding: 22px; margin-bottom: 14px; }
+  h1 { font-size: 26px; margin: 0 0 6px; } h2 { font-size: 18px; margin: 0 0 8px; }
+  .muted { color: var(--muted); font-size: 15px; }
+  .total { font-size: 34px; font-weight: 700; color: var(--accent); }
+  table { width: 100%; border-collapse: collapse; } td { padding: 6px 0; border-top: 1px solid var(--line); }
+  td:last-child { text-align: right; font-variant-numeric: tabular-nums; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Your NB Events deals</h1>
+  <p class="muted">Customers who showed the deal and had it marked used. No customer details are collected.</p>
+  <div id="out"><p class="muted">Loading…</p></div>
+</main>
+<script>
+var SERVER = "";
+(function () {
+  var key = new URLSearchParams(location.search).get("key") || "", out = document.getElementById("out");
+  function esc(s) { var d = document.createElement("div"); d.textContent = s; return d.innerHTML; }
+  if (!SERVER) { out.innerHTML = '<p class="muted">Results aren’t switched on yet.</p>'; return; }
+  Promise.all([
+    fetch(SERVER + "/stats?key=" + encodeURIComponent(key)).then(function (r) { return r.json(); }),
+    fetch("events.json", { cache: "no-store" }).then(function (r) { return r.json(); }).catch(function () { return {}; }),
+    fetch("boerne/events.json", { cache: "no-store" }).then(function (r) { return r.json(); }).catch(function () { return {}; }),
+  ]).then(function (res) {
+    if (!res[0].offers) { out.innerHTML = '<p class="muted">That link isn’t recognized. Check it with NB Events.</p>'; return; }
+    var all = (res[1].offers || []).concat(res[2].offers || []);
+    out.innerHTML = Object.keys(res[0].offers).map(function (id) {
+      var days = res[0].offers[id], o = all.find(function (x) { return x.id === id; }) || { business: id, text: "" };
+      var dates = Object.keys(days).sort().reverse(), total = dates.reduce(function (n, d) { return n + days[d]; }, 0);
+      return '<div class="card"><h2>' + esc(o.business) + '</h2><p class="muted">' + esc(o.text) + '</p>' +
+        '<div class="total">' + total + '</div><p class="muted">uses so far</p>' +
+        (dates.length ? '<table>' + dates.map(function (d) { return '<tr><td>' + esc(d) + '</td><td>' + days[d] + '</td></tr>'; }).join("") + '</table>' : '') + '</div>';
+    }).join("");
+  }).catch(function () { out.innerHTML = '<p class="muted">Couldn’t load results. Try again in a moment.</p>'; });
+})();
+</script>
+</body>
+</html>
