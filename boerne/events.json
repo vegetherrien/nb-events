@@ -46,6 +46,18 @@
    "Fair Oaks Ranch",
    "Kendalia",
    "Bandera"
+  ],
+  "gauges": [
+   {
+    "id": "08183900",
+    "name": "Cibolo Creek",
+    "parameter": "00060"
+   },
+   {
+    "id": "08167500",
+    "name": "Guadalupe at Spring Branch",
+    "parameter": "00060"
+   }
   ]
  },
  "rangeStart": "2026-11-18",
