@@ -667,6 +667,17 @@
    "sourceURL": "https://theboernelife.com/events/turkey-camp-at-gina-maries-art-studio/2026-11-20/"
   },
   {
+   "id": "2026-11-20-crumbling-castle-lights",
+   "category": "fest",
+   "title": "Crumbling Castle Lights",
+   "startDate": "2026-11-20",
+   "startTime": "18:00",
+   "endTime": "23:59",
+   "location": "Crumbling Castle Lights @ 571 FM 289, Comfort",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Crumbling%20Castle%20Lights_TIBh.jpg' /></div><p>Experience the magic of Christmas at Crumbl…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/crumbling-castle-lights-3?instance_id=20261120180000"
+  },
+  {
    "title": "Boerne boys basketball at Kerrville-Tivy",
    "startDate": "2026-11-20",
    "tag": "Away",
@@ -2646,6 +2657,17 @@
    "sourceURL": "https://theboernelife.com/events/omas-christmas-fair-at-kendall-county-fairgrounds/2026-12-06/"
   },
   {
+   "id": "2026-12-06-a-storybook-st-nicholas-day-and-a-visit-from-santa",
+   "category": "holiday",
+   "title": "A Storybook St. Nicholas Day and a Visit from Santa",
+   "startDate": "2026-12-06",
+   "startTime": "16:00",
+   "endTime": "23:59",
+   "location": "The Boerne Bookshop @ 153 South Main Street, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Santa%20and%20Child_mRAu.png' /></div><p>Celebrate the magic of St. Nicholas Day with a spec…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/a-storybook-st-nicholas-day-and-a-visit-from-santa?instance_id=20261206160000"
+  },
+  {
    "id": "2026-12-06-texans-at-steelers",
    "category": "texans",
    "title": "Texans at Steelers",
@@ -2812,16 +2834,6 @@
    "id": "sch-champion-hs-2026-12-08-champion-girls-basketball-at-seguin"
   },
   {
-   "id": "2026-12-08-utsa-bb-at-smu",
-   "category": "utsa-bb",
-   "title": "UTSA at SMU",
-   "startDate": "2026-12-08",
-   "location": "Dallas, Texas",
-   "tag": "Away",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "19:00"
-  },
-  {
    "title": "Charger Band Concert #2-Concert Bands",
    "startDate": "2026-12-08",
    "startTime": "19:00",
@@ -2845,6 +2857,16 @@
    "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
    "startTime": "19:00",
    "tv": "SEC Network+"
+  },
+  {
+   "id": "2026-12-08-utsa-bb-at-smu",
+   "category": "utsa-bb",
+   "title": "UTSA at SMU",
+   "startDate": "2026-12-08",
+   "location": "Dallas, Texas",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
   },
   {
    "title": "Champion boys basketball at Sam Houston",
@@ -3380,6 +3402,17 @@
    "tv": "CBS"
   },
   {
+   "id": "2026-12-13-a-very-merry-christmas-concert",
+   "category": "music",
+   "title": "A Very Merry Christmas Concert",
+   "startDate": "2026-12-13",
+   "startTime": "16:00",
+   "endTime": "17:30",
+   "location": "Boerne High School Auditorium @ 1 Greyhound Lane, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/BCBand%20Members%20PHOTO%20SQUARE%20for%20VisitBoerne_VePh.ispx' /></div><p><span style='fon…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/a-very-merry-christmas-concert?instance_id=20261213160000"
+  },
+  {
    "id": "2026-12-13-rockets-at-bulls",
    "category": "rockets",
    "title": "Rockets at Bulls",
@@ -3598,16 +3631,6 @@
    "id": "sch-boerne-ms-north-ms-2026-12-15-choir-concert"
   },
   {
-   "id": "2026-12-15-utsa-bb-vs-our-lady-of-the-lake",
-   "category": "utsa-bb",
-   "title": "UTSA vs. Our Lady of the Lake",
-   "startDate": "2026-12-15",
-   "location": "Convocation Center, San Antonio",
-   "tag": "Home",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "18:30"
-  },
-  {
    "title": "Boerne girls basketball vs. Harlandale",
    "startDate": "2026-12-15",
    "tag": "Home",
@@ -3634,6 +3657,16 @@
    ],
    "audience": "local",
    "id": "sch-champion-hs-2026-12-15-champion-girls-basketball-vs-john-jay"
+  },
+  {
+   "id": "2026-12-15-utsa-bb-vs-our-lady-of-the-lake",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Our Lady of the Lake",
+   "startDate": "2026-12-15",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "18:30"
   },
   {
    "title": "Boerne girls soccer at Davenport",
@@ -4208,16 +4241,6 @@
    "tv": "DAZN"
   },
   {
-   "id": "2026-12-22-utsa-bb-vs-huston-tillotson",
-   "category": "utsa-bb",
-   "title": "UTSA vs. Huston-Tillotson",
-   "startDate": "2026-12-22",
-   "location": "Convocation Center, San Antonio",
-   "tag": "Home",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "12:00"
-  },
-  {
    "title": "Boerne girls basketball vs. South San",
    "startDate": "2026-12-22",
    "tag": "Home",
@@ -4230,6 +4253,16 @@
    ],
    "audience": "local",
    "id": "sch-boerne-hs-2026-12-22-boerne-girls-basketball-vs-south-san"
+  },
+  {
+   "id": "2026-12-22-utsa-bb-vs-huston-tillotson",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Huston-Tillotson",
+   "startDate": "2026-12-22",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "12:00"
   },
   {
    "title": "Boerne boys basketball at South San",
@@ -4538,16 +4571,6 @@
    "id": "sch-champion-hs-2026-12-29-champion-girls-basketball-vs-boerne-isd-holiday-tourn"
   },
   {
-   "id": "2026-12-29-utsa-bb-at-minnesota",
-   "category": "utsa-bb",
-   "title": "UTSA at Minnesota",
-   "startDate": "2026-12-29",
-   "location": "Minneapolis, Minn.",
-   "tag": "Away",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "19:00"
-  },
-  {
    "id": "2026-12-29-horns-bb-vs-east-texas-a-m",
    "category": "horns-bb",
    "title": "Texas vs. East Texas A&M",
@@ -4557,6 +4580,16 @@
    "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
    "startTime": "19:00",
    "tv": "SEC Network+"
+  },
+  {
+   "id": "2026-12-29-utsa-bb-at-minnesota",
+   "category": "utsa-bb",
+   "title": "UTSA at Minnesota",
+   "startDate": "2026-12-29",
+   "location": "Minneapolis, Minn.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
   },
   {
    "id": "2026-12-29-spurs-at-grizzlies",
@@ -4758,16 +4791,6 @@
    "id": "sch-boerne-hs-2027-01-02-boerne-girls-soccer-at-northside-isd-tournament"
   },
   {
-   "id": "2027-01-02-utsa-bb-at-temple",
-   "category": "utsa-bb",
-   "title": "UTSA at Temple",
-   "startDate": "2027-01-02",
-   "location": "Philadelphia, Pa.",
-   "tag": "Away",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "13:00"
-  },
-  {
    "title": "Champion boys basketball vs. South San",
    "startDate": "2027-01-02",
    "tag": "Home",
@@ -4780,6 +4803,16 @@
    ],
    "audience": "local",
    "id": "sch-champion-hs-2027-01-02-champion-boys-basketball-vs-south-san"
+  },
+  {
+   "id": "2027-01-02-utsa-bb-at-temple",
+   "category": "utsa-bb",
+   "title": "UTSA at Temple",
+   "startDate": "2027-01-02",
+   "location": "Philadelphia, Pa.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "13:00"
   },
   {
    "title": "Boerne boys basketball vs. Mccollum",
@@ -8926,7 +8959,8 @@
    "startDate": "2027-04-30",
    "location": "loanDepot park, Miami",
    "tag": "Away",
-   "sourceURL": "https://www.mlb.com/astros/schedule"
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "18:10"
   },
   {
    "id": "2027-04-30-rangers-vs-royals",
@@ -8969,36 +9003,36 @@
  ],
  "notices": [
   {
-   "id": "boerne-pet-50029171",
+   "id": "boerne-pet-50030494",
    "kind": "pets",
-   "title": "Adoptable: Russet, 3-month-old Domestic Shorthair",
-   "detail": "Male cat available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
+   "title": "Adoptable: Dani, 1-year-old whippet/mountain cur",
+   "detail": "Female dog available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
    "level": "info",
-   "url": "https://www.adoptapet.com/pet/50029171-boerne-texas-cat",
+   "url": "https://www.adoptapet.com/pet/50030494-boerne-texas-whippet-mountain-cur-mix",
    "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
    "until": "2026-11-20",
    "asOf": "2026-11-19",
    "collector": "civic"
   },
   {
-   "id": "boerne-pet-50029172",
+   "id": "boerne-pet-50046562",
    "kind": "pets",
-   "title": "Adoptable: Yam, 3-month-old Domestic Shorthair",
-   "detail": "Male cat available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
+   "title": "Adoptable: Tinsel, Great Pyrenees/Golden Retriever",
+   "detail": "Female dog available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
    "level": "info",
-   "url": "https://www.adoptapet.com/pet/50029172-boerne-texas-cat",
+   "url": "https://www.adoptapet.com/pet/50046562-boerne-texas-great-pyrenees-golden-retriever-mix",
    "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
    "until": "2026-11-20",
    "asOf": "2026-11-19",
    "collector": "civic"
   },
   {
-   "id": "boerne-pet-50029173",
+   "id": "boerne-pet-50049525",
    "kind": "pets",
-   "title": "Adoptable: Kennebec, 3-month-old Domestic Shorthair",
-   "detail": "Male cat available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
+   "title": "Adoptable: Sweet, 3-month-old Domestic Shorthair",
+   "detail": "Female cat available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
    "level": "info",
-   "url": "https://www.adoptapet.com/pet/50029173-boerne-texas-cat",
+   "url": "https://www.adoptapet.com/pet/50049525-boerne-texas-cat",
    "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
    "until": "2026-11-20",
    "asOf": "2026-11-19",
