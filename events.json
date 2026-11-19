@@ -113,11 +113,10 @@
   },
   {
    "id": "hsfb",
-   "name": "Area high school football",
+   "name": "High school football",
    "light": "#7A5C00",
    "dark": "#E6C452",
-   "symbol": "sportscourt.fill",
-   "group": "My schools"
+   "symbol": "sportscourt.fill"
   },
   {
    "id": "fest",
@@ -784,7 +783,7 @@
   },
   {
    "id": "2026-10-24-fall-jubilee",
-   "category": "hood",
+   "category": "fest",
    "title": "Fall Jubilee",
    "shortTitle": "Fall Jubilee",
    "startDate": "2026-10-24",
@@ -5226,7 +5225,7 @@
   },
   {
    "id": "2026-12-12-hill-country-holiday",
-   "category": "hood",
+   "category": "holiday",
    "title": "Hill Country Holiday",
    "shortTitle": "Hill Country Holiday",
    "startDate": "2026-12-12",
