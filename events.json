@@ -46,7 +46,7 @@
   ]
  },
  "rangeStart": "2026-10-10",
- "rangeEnd": "2027-02-28",
+ "rangeEnd": "2027-04-30",
  "categories": [
   {
    "id": "hood",
@@ -112,6 +112,14 @@
    "group": "My schools"
   },
   {
+   "id": "hsfb",
+   "name": "Area high school football",
+   "light": "#7A5C00",
+   "dark": "#E6C452",
+   "symbol": "sportscourt.fill",
+   "group": "My schools"
+  },
+  {
    "id": "fest",
    "name": "Festivals & community",
    "light": "#1C5CA3",
@@ -145,47 +153,42 @@
    "light": "#55616B",
    "dark": "#B8C2CC",
    "symbol": "basketball.fill",
-   "group": "Sports"
+   "group": "Pro sports"
   },
   {
-   "id": "horns",
-   "name": "Longhorns football",
-   "light": "#B85000",
-   "dark": "#FF9A4D",
-   "symbol": "football.fill",
-   "group": "Sports"
-  },
-  {
-   "id": "txst",
-   "name": "Texas State football",
-   "light": "#6A1B2A",
-   "dark": "#D9A441",
-   "symbol": "pawprint.fill",
-   "group": "Sports"
-  },
-  {
-   "id": "txst-bb",
-   "name": "Texas State basketball",
-   "light": "#6B2D1A",
-   "dark": "#D9A441",
+   "id": "mavs",
+   "name": "Mavericks basketball",
+   "light": "#00538C",
+   "dark": "#6CB4EE",
    "symbol": "basketball.fill",
-   "group": "Sports"
+   "defaultHidden": true,
+   "group": "Pro sports"
   },
   {
-   "id": "utsa",
-   "name": "UTSA football",
-   "light": "#0C2340",
-   "dark": "#F58A5B",
-   "symbol": "bird.fill",
-   "group": "Sports"
+   "id": "rockets",
+   "name": "Rockets basketball",
+   "light": "#CE1141",
+   "dark": "#F27A8E",
+   "symbol": "basketball.fill",
+   "defaultHidden": true,
+   "group": "Pro sports"
   },
   {
-   "id": "aggies",
-   "name": "Texas A&M football",
-   "light": "#500000",
-   "dark": "#E39A9A",
-   "symbol": "football.fill",
-   "group": "Sports"
+   "id": "astros",
+   "name": "Astros baseball",
+   "light": "#EB6E1F",
+   "dark": "#F4A261",
+   "symbol": "baseball.fill",
+   "group": "Pro sports"
+  },
+  {
+   "id": "rangers",
+   "name": "Rangers baseball",
+   "light": "#003278",
+   "dark": "#7FA8E8",
+   "symbol": "baseball.fill",
+   "defaultHidden": true,
+   "group": "Pro sports"
   },
   {
    "id": "cowboys",
@@ -194,15 +197,56 @@
    "dark": "#9DB7E8",
    "symbol": "star.fill",
    "defaultHidden": true,
-   "group": "Sports"
+   "group": "Pro sports"
   },
   {
-   "id": "hsfb",
-   "name": "High school football",
-   "light": "#7A5C00",
-   "dark": "#E6C452",
-   "symbol": "sportscourt.fill",
-   "group": "Sports"
+   "id": "texans",
+   "name": "Texans football",
+   "light": "#03202F",
+   "dark": "#C8414B",
+   "symbol": "football.fill",
+   "defaultHidden": true,
+   "group": "Pro sports"
+  },
+  {
+   "id": "horns",
+   "name": "Longhorns football",
+   "light": "#B85000",
+   "dark": "#FF9A4D",
+   "symbol": "football.fill",
+   "group": "College sports"
+  },
+  {
+   "id": "txst",
+   "name": "Texas State football",
+   "light": "#6A1B2A",
+   "dark": "#D9A441",
+   "symbol": "pawprint.fill",
+   "group": "College sports"
+  },
+  {
+   "id": "txst-bb",
+   "name": "Texas State basketball",
+   "light": "#6B2D1A",
+   "dark": "#D9A441",
+   "symbol": "basketball.fill",
+   "group": "College sports"
+  },
+  {
+   "id": "utsa",
+   "name": "UTSA football",
+   "light": "#0C2340",
+   "dark": "#F58A5B",
+   "symbol": "bird.fill",
+   "group": "College sports"
+  },
+  {
+   "id": "aggies",
+   "name": "Texas A&M football",
+   "light": "#500000",
+   "dark": "#E39A9A",
+   "symbol": "football.fill",
+   "group": "College sports"
   }
  ],
  "seasons": [
@@ -1246,6 +1290,16 @@
    "id": "sch-walnut-springs-es-2026-11-18-wse-4th-5th-grade-choir-concert"
   },
   {
+   "id": "2026-11-18-rockets-at-pacers",
+   "category": "rockets",
+   "title": "Rockets at Pacers",
+   "startDate": "2026-11-18",
+   "startTime": "18:00",
+   "location": "Indianapolis",
+   "tag": "Away",
+   "sourceURL": "https://www.basketball-reference.com/teams/HOU/2027_games.html"
+  },
+  {
    "id": "2026-11-18-the-georges",
    "category": "music",
    "title": "The Georges",
@@ -1256,7 +1310,7 @@
    "sourceURL": "https://gruenehall.com/event/the-georges-110/"
   },
   {
-   "id": "2026-11-18-txst-bb-uiw",
+   "id": "2026-11-18-txst-bb-vs-uiw",
    "category": "txst-bb",
    "title": "Bobcats vs. UIW",
    "startDate": "2026-11-18",
@@ -1264,6 +1318,16 @@
    "tag": "Home",
    "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
    "startTime": "19:00"
+  },
+  {
+   "id": "2026-11-18-mavs-vs-warriors",
+   "category": "mavs",
+   "title": "Mavericks vs. Warriors",
+   "startDate": "2026-11-18",
+   "startTime": "19:00",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.basketball-reference.com/teams/DAL/2027_games.html"
   },
   {
    "title": "Long Creek boys basketball at TBA",
@@ -1510,6 +1574,16 @@
    "endTime": "20:00",
    "location": "Gruene Hall, 1281 Gruene Rd",
    "sourceURL": "https://gruenehall.com/event/isaac-jacob-band/"
+  },
+  {
+   "id": "2026-11-19-texans-vs-colts",
+   "category": "texans",
+   "title": "Texans vs. Colts",
+   "startDate": "2026-11-19",
+   "location": "NRG Stadium, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.houstontexans.com/schedule/",
+   "startTime": "19:15"
   },
   {
    "id": "2026-11-19-choir-choir-choir-presents-landslide-an-epic-fleetwood-mac-s",
@@ -1904,6 +1978,17 @@
    "sourceURL": "https://gruenehall.com/tickets/"
   },
   {
+   "id": "2026-11-20-rockets-at-nuggets",
+   "category": "rockets",
+   "title": "Rockets at Nuggets",
+   "startDate": "2026-11-20",
+   "startTime": "21:00",
+   "location": "Denver",
+   "tag": "Away",
+   "tv": "Prime Video",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
    "id": "2026-11-21-texas-state-vs-washington-state",
    "category": "txst",
    "title": "Texas State vs. Washington State",
@@ -2152,6 +2237,16 @@
    "outdoor": false
   },
   {
+   "id": "2026-11-21-mavs-vs-clippers",
+   "category": "mavs",
+   "title": "Mavericks vs. Clippers",
+   "startDate": "2026-11-21",
+   "startTime": "19:00",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
    "id": "2026-11-21-giovannie-the-hired-guns",
    "category": "music",
    "title": "Giovannie & The Hired Guns",
@@ -2185,7 +2280,7 @@
    "outdoor": false
   },
   {
-   "id": "2026-11-22-txst-bb-mcneese",
+   "id": "2026-11-22-txst-bb-vs-mcneese",
    "category": "txst-bb",
    "title": "Bobcats vs. McNeese",
    "startDate": "2026-11-22",
@@ -2214,6 +2309,16 @@
    "endTime": "20:00",
    "location": "Gristmill River Restaurant & Bar, 1287 Gruene Rd",
    "sourceURL": "https://www.gruenetexas.com/event/matt-kirk-50/"
+  },
+  {
+   "id": "2026-11-22-mavs-at-jazz",
+   "category": "mavs",
+   "title": "Mavericks at Jazz",
+   "startDate": "2026-11-22",
+   "startTime": "18:00",
+   "location": "Salt Lake City",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "id": "2026-11-22-b3",
@@ -2356,6 +2461,16 @@
    "sourceURL": "https://gruenehall.com/event/lee-mathis-duo-5/"
   },
   {
+   "id": "2026-11-23-rockets-vs-clippers",
+   "category": "rockets",
+   "title": "Rockets vs. Clippers",
+   "startDate": "2026-11-23",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
    "id": "2026-11-23-spurs-at-kings",
    "category": "spurs",
    "title": "Spurs at Kings",
@@ -2446,6 +2561,17 @@
    "sourceURL": "https://gruenehall.com/events/"
   },
   {
+   "id": "2026-11-24-mavs-at-nuggets",
+   "category": "mavs",
+   "title": "Mavericks at Nuggets",
+   "startDate": "2026-11-24",
+   "startTime": "21:00",
+   "location": "Denver",
+   "tag": "Away",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
    "title": "New Braunfels boys basketball at Canyon Lake CLHS Hawks",
    "startDate": "2026-11-25",
    "tag": "Away",
@@ -2473,7 +2599,7 @@
    "id": "sch-comal-isd-2026-11-25-clhs-boys-basketball-game"
   },
   {
-   "id": "2026-11-25-txst-bb-alcorn-state",
+   "id": "2026-11-25-txst-bb-vs-alcorn-state",
    "category": "txst-bb",
    "title": "Bobcats vs. Alcorn State",
    "startDate": "2026-11-25",
@@ -2481,6 +2607,16 @@
    "tag": "Home",
    "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
    "startTime": "16:00"
+  },
+  {
+   "id": "2026-11-25-rockets-vs-suns",
+   "category": "rockets",
+   "title": "Rockets vs. Suns",
+   "startDate": "2026-11-25",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "id": "2026-11-25-shinyribs",
@@ -2551,7 +2687,7 @@
    "outdoor": false
   },
   {
-   "id": "2026-11-27-txst-bb-louisiana-tech",
+   "id": "2026-11-27-txst-bb-at-louisiana-tech",
    "category": "txst-bb",
    "title": "Bobcats at Louisiana Tech",
    "startDate": "2026-11-27",
@@ -2595,6 +2731,16 @@
    "location": "Gruene Hall, 1281 Gruene Rd",
    "description": "Doors: 7pm Special Guest: Jake Watson 8pm Aaron Watson: 9:30pm",
    "sourceURL": "https://gruenehall.com/event/aaron-watson-horse-named-texas-tour-w-special-guest-jake-watson/"
+  },
+  {
+   "id": "2026-11-27-mavs-at-suns",
+   "category": "mavs",
+   "title": "Mavericks at Suns",
+   "startDate": "2026-11-27",
+   "startTime": "20:00",
+   "location": "Phoenix",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "id": "2026-11-27-spurs-vs-lakers",
@@ -2657,6 +2803,17 @@
    ]
   },
   {
+   "id": "2026-11-28-rockets-vs-76ers",
+   "category": "rockets",
+   "title": "Rockets vs. 76ers",
+   "startDate": "2026-11-28",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "tv": "NBA TV",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
    "id": "2026-11-28-aaron-watson-horse-named-texas-tour-w-special-guest-jake-wat",
    "category": "music",
    "title": "Aaron Watson: Horse Named Texas Tour w/ special guest Jake Watson",
@@ -2680,6 +2837,16 @@
    ]
   },
   {
+   "id": "2026-11-29-texans-vs-ravens",
+   "category": "texans",
+   "title": "Texans vs. Ravens",
+   "startDate": "2026-11-29",
+   "location": "NRG Stadium, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.houstontexans.com/schedule/",
+   "startTime": "12:00"
+  },
+  {
    "id": "2026-11-29-spurs-vs-celtics",
    "category": "spurs",
    "title": "Spurs vs. Celtics",
@@ -2690,7 +2857,7 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "2026-11-29-txst-bb-nicholls",
+   "id": "2026-11-29-txst-bb-vs-nicholls",
    "category": "txst-bb",
    "title": "Bobcats vs. Nicholls",
    "startDate": "2026-11-29",
@@ -2726,6 +2893,16 @@
    "id": "sch-mountain-valley-es-2026-11-30-penguin-patch"
   },
   {
+   "id": "2026-11-30-rockets-vs-lakers",
+   "category": "rockets",
+   "title": "Rockets vs. Lakers",
+   "startDate": "2026-11-30",
+   "startTime": "18:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
    "id": "2026-11-30-spurs-at-bucks",
    "category": "spurs",
    "title": "Spurs at Bucks",
@@ -2733,6 +2910,16 @@
    "startTime": "19:00",
    "location": "Away in Milwaukee",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-11-30-mavs-vs-celtics",
+   "category": "mavs",
+   "title": "Mavericks vs. Celtics",
+   "startDate": "2026-11-30",
+   "startTime": "19:00",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "title": "SE First Grade Field to Magik Theater",
@@ -2911,6 +3098,16 @@
    "sourceURL": "https://concertfix.com/concerts/new-braunfels-tx+december-2026"
   },
   {
+   "id": "2026-12-01-rockets-vs-raptors",
+   "category": "rockets",
+   "title": "Rockets vs. Raptors",
+   "startDate": "2026-12-01",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
    "title": "Legendary Leader Mtg",
    "startDate": "2026-12-02",
    "startTime": "07:00",
@@ -3020,7 +3217,7 @@
    "id": "sch-canyon-ms-2026-12-02-8a-girls-basketball-game"
   },
   {
-   "id": "2026-12-02-txst-bb-louisiana-tech",
+   "id": "2026-12-02-txst-bb-vs-louisiana-tech",
    "category": "txst-bb",
    "title": "Bobcats vs. Louisiana Tech",
    "startDate": "2026-12-02",
@@ -3028,6 +3225,16 @@
    "tag": "Home",
    "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
    "startTime": "19:00"
+  },
+  {
+   "id": "2026-12-02-mavs-vs-magic",
+   "category": "mavs",
+   "title": "Mavericks vs. Magic",
+   "startDate": "2026-12-02",
+   "startTime": "19:00",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "title": "Canyon boys basketball at Austin Bowie Classic",
@@ -3665,7 +3872,7 @@
    "sourceURL": "https://en.wikipedia.org/wiki/2026_Southeastern_Conference_football_season"
   },
   {
-   "id": "2026-12-05-txst-bb-houston",
+   "id": "2026-12-05-txst-bb-at-houston",
    "category": "txst-bb",
    "title": "Bobcats at Houston",
    "startDate": "2026-12-05",
@@ -3709,6 +3916,16 @@
    "tags": [
     "community:gruene"
    ]
+  },
+  {
+   "id": "2026-12-06-texans-at-steelers",
+   "category": "texans",
+   "title": "Texans at Steelers",
+   "startDate": "2026-12-06",
+   "location": "Acrisure Stadium",
+   "tag": "Away",
+   "sourceURL": "https://www.houstontexans.com/schedule/",
+   "startTime": "19:20"
   },
   {
    "title": "PTA Holiday Shop",
@@ -4029,7 +4246,7 @@
    "id": "sch-canyon-lake-hs-2026-12-08-choir-concert"
   },
   {
-   "id": "2026-12-08-txst-bb-utrgv",
+   "id": "2026-12-08-txst-bb-vs-utrgv",
    "category": "txst-bb",
    "title": "Bobcats vs. UTRGV",
    "startDate": "2026-12-08",
@@ -4824,7 +5041,7 @@
    "sourceURL": "https://www.tickpick.com/buy-an-evening-with-peter-billingsley-and-screening-of-a-christmas-story-tickets-brauntex-performing-arts-theatre-12-12-26-7pm/7977145/"
   },
   {
-   "id": "2026-12-13-txst-bb-north-texas",
+   "id": "2026-12-13-txst-bb-vs-north-texas",
    "category": "txst-bb",
    "title": "Bobcats vs. North Texas",
    "startDate": "2026-12-13",
@@ -4844,6 +5061,26 @@
    "tags": [
     "community:gruene"
    ]
+  },
+  {
+   "id": "2026-12-13-texans-at-commanders",
+   "category": "texans",
+   "title": "Texans at Commanders",
+   "startDate": "2026-12-13",
+   "location": "Northwest Stadium",
+   "tag": "Away",
+   "sourceURL": "https://www.houstontexans.com/schedule/",
+   "startTime": "12:00"
+  },
+  {
+   "id": "2026-12-13-rockets-at-bulls",
+   "category": "rockets",
+   "title": "Rockets at Bulls",
+   "startDate": "2026-12-13",
+   "startTime": "17:00",
+   "location": "Chicago",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "id": "2026-12-13-spurs-vs-clippers",
@@ -4906,6 +5143,26 @@
    ],
    "audience": "local",
    "id": "sch-canyon-lake-hs-2026-12-14-piano-recital"
+  },
+  {
+   "id": "2026-12-14-mavs-vs-bucks",
+   "category": "mavs",
+   "title": "Mavericks vs. Bucks",
+   "startDate": "2026-12-14",
+   "startTime": "19:00",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2026-12-14-rockets-vs-knicks",
+   "category": "rockets",
+   "title": "Rockets vs. Knicks",
+   "startDate": "2026-12-14",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "title": "Parent & Family Engagement Night-Christmas Ornament Making",
@@ -5360,7 +5617,17 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "2026-12-16-txst-bb-san-francisco",
+   "id": "2026-12-16-mavs-at-nets",
+   "category": "mavs",
+   "title": "Mavericks at Nets",
+   "startDate": "2026-12-16",
+   "startTime": "18:30",
+   "location": "Brooklyn",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2026-12-16-txst-bb-vs-san-francisco",
    "category": "txst-bb",
    "title": "Bobcats vs. San Francisco",
    "startDate": "2026-12-16",
@@ -5368,6 +5635,16 @@
    "tag": "Home",
    "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
    "startTime": "19:30"
+  },
+  {
+   "id": "2026-12-16-rockets-vs-bucks",
+   "category": "rockets",
+   "title": "Rockets vs. Bucks",
+   "startDate": "2026-12-16",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "title": "5th Grade Canyon Lake Gorge Field Trip",
@@ -5408,6 +5685,17 @@
    "tags": [
     "community:gruene"
    ]
+  },
+  {
+   "id": "2026-12-17-mavs-at-76ers",
+   "category": "mavs",
+   "title": "Mavericks at 76ers",
+   "startDate": "2026-12-17",
+   "startTime": "18:00",
+   "location": "Philadelphia",
+   "tag": "Away",
+   "tv": "NBA TV",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "title": "3rd Grade Winter Musical",
@@ -5702,6 +5990,16 @@
    "id": "sch-canyon-hs-2026-12-18-canyon-boys-basketball-at-east-central-high-school-horn"
   },
   {
+   "id": "2026-12-18-rockets-at-grizzlies",
+   "category": "rockets",
+   "title": "Rockets at Grizzlies",
+   "startDate": "2026-12-18",
+   "startTime": "19:00",
+   "location": "Memphis",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
    "title": "Long Creek wrestling at MacArthur Tournament",
    "startDate": "2026-12-19",
    "tag": "Away",
@@ -5812,7 +6110,7 @@
    ]
   },
   {
-   "id": "2026-12-19-txst-bb-texas-southern",
+   "id": "2026-12-19-txst-bb-vs-texas-southern",
    "category": "txst-bb",
    "title": "Bobcats vs. Texas Southern",
    "startDate": "2026-12-19",
@@ -5833,6 +6131,16 @@
    "sourceURL": "https://brauntex.org/event/ballet-texas-presents-the-nutcracker-9/"
   },
   {
+   "id": "2026-12-19-mavs-vs-bulls",
+   "category": "mavs",
+   "title": "Mavericks vs. Bulls",
+   "startDate": "2026-12-19",
+   "startTime": "19:00",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
    "id": "gruene-2026-12-20-photos-with-cowboy-kringle",
    "category": "holiday",
    "title": "Photos with Cowboy Kringle",
@@ -5846,6 +6154,16 @@
    ]
   },
   {
+   "id": "2026-12-20-texans-vs-jaguars",
+   "category": "texans",
+   "title": "Texans vs. Jaguars",
+   "startDate": "2026-12-20",
+   "location": "NRG Stadium, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.houstontexans.com/schedule/",
+   "startTime": "12:00"
+  },
+  {
    "id": "2026-12-20-ballet-texas-presents-the-nutcracker",
    "category": "holiday",
    "title": "Ballet Texas Presents the Nutcracker",
@@ -5855,6 +6173,16 @@
    "location": "Brauntex Theatre, 290 W San Antonio St",
    "description": "Nothing captures the holiday magic better than Ballet Texas’ production of The Nutcracker! Enjoy the magic as Clara dreams that her beloved nutcracker toy has come to life. Swords clash as her nutcracker prince leads …",
    "sourceURL": "https://brauntex.org/event/ballet-texas-presents-the-nutcracker-7/"
+  },
+  {
+   "id": "2026-12-20-rockets-at-raptors",
+   "category": "rockets",
+   "title": "Rockets at Raptors",
+   "startDate": "2026-12-20",
+   "startTime": "14:30",
+   "location": "Toronto",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "id": "2026-12-20-cowboys-at-rams",
@@ -5979,6 +6307,17 @@
    "id": "sch-long-creek-hs-2026-12-22-long-creek-boys-basketball-at-smithson-valley-range"
   },
   {
+   "id": "2026-12-22-mavs-at-warriors",
+   "category": "mavs",
+   "title": "Mavericks at Warriors",
+   "startDate": "2026-12-22",
+   "startTime": "21:30",
+   "location": "San Francisco",
+   "tag": "Away",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
    "title": "Winter Break",
    "startDate": "2026-12-23",
    "location": "All campuses",
@@ -6000,6 +6339,27 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
+   "id": "2026-12-23-rockets-at-76ers",
+   "category": "rockets",
+   "title": "Rockets at 76ers",
+   "startDate": "2026-12-23",
+   "startTime": "18:30",
+   "location": "Philadelphia",
+   "tag": "Away",
+   "tv": "Prime Video",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2026-12-23-mavs-at-kings",
+   "category": "mavs",
+   "title": "Mavericks at Kings",
+   "startDate": "2026-12-23",
+   "startTime": "21:00",
+   "location": "Sacramento",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
    "title": "Winter Break",
    "startDate": "2026-12-24",
    "location": "All campuses",
@@ -6010,6 +6370,16 @@
    ],
    "audience": "local",
    "id": "sch-comal-isd-2026-12-24-winter-break"
+  },
+  {
+   "id": "2026-12-24-texans-at-eagles",
+   "category": "texans",
+   "title": "Texans at Eagles",
+   "startDate": "2026-12-24",
+   "location": "Lincoln Financial Field",
+   "tag": "Away",
+   "sourceURL": "https://www.houstontexans.com/schedule/",
+   "startTime": "19:15"
   },
   {
    "title": "Winter Break - Christmas",
@@ -6047,6 +6417,27 @@
    "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
    "outdoor": true,
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
+  },
+  {
+   "id": "2026-12-26-mavs-vs-suns",
+   "category": "mavs",
+   "title": "Mavericks vs. Suns",
+   "startDate": "2026-12-26",
+   "startTime": "19:00",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "tv": "NBA TV",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2026-12-27-rockets-vs-thunder",
+   "category": "rockets",
+   "title": "Rockets vs. Thunder",
+   "startDate": "2026-12-27",
+   "startTime": "14:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "id": "2026-12-27-spurs-vs-hawks",
@@ -6224,6 +6615,28 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
+   "id": "2026-12-29-mavs-vs-heat",
+   "category": "mavs",
+   "title": "Mavericks vs. Heat",
+   "startDate": "2026-12-29",
+   "startTime": "19:00",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2026-12-29-rockets-at-lakers",
+   "category": "rockets",
+   "title": "Rockets at Lakers",
+   "startDate": "2026-12-29",
+   "startTime": "21:30",
+   "location": "Los Angeles",
+   "tag": "Away",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
    "title": "New Braunfels boys basketball at Hays Tournament",
    "startDate": "2026-12-30",
    "tag": "Away",
@@ -6288,6 +6701,17 @@
    ],
    "audience": "local",
    "id": "sch-canyon-hs-2026-12-30-canyon-wrestling-at-reagan-dual-matches"
+  },
+  {
+   "id": "2026-12-30-rockets-at-warriors",
+   "category": "rockets",
+   "title": "Rockets at Warriors",
+   "startDate": "2026-12-30",
+   "startTime": "21:00",
+   "location": "San Francisco",
+   "tag": "Away",
+   "tv": "NBA TV",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "title": "New Braunfels girls soccer at SCUC Tournament",
@@ -6374,6 +6798,26 @@
    "location": "Away in Washington",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
    "id": "2027-01-01-spurs-at-wizards"
+  },
+  {
+   "id": "2027-01-01-mavs-at-rockets",
+   "category": "mavs",
+   "title": "Mavericks at Rockets",
+   "startDate": "2027-01-01",
+   "startTime": "19:30",
+   "location": "Houston",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-01-01-rockets-vs-mavericks",
+   "category": "rockets",
+   "title": "Rockets vs. Mavericks",
+   "startDate": "2027-01-01",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "title": "New Braunfels girls soccer at SCUC Tournament",
@@ -6486,6 +6930,17 @@
    "id": "sch-canyon-hs-2027-01-02-canyon-boys-basketball-vs-san-marcos-rattlers"
   },
   {
+   "id": "2027-01-02-mavs-at-hawks",
+   "category": "mavs",
+   "title": "Mavericks at Hawks",
+   "startDate": "2027-01-02",
+   "startTime": "18:30",
+   "location": "Atlanta",
+   "tag": "Away",
+   "tv": "NBA TV",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
    "title": "Canyon girls basketball at San Marcos Lady Rattlers",
    "startDate": "2027-01-02",
    "tag": "Away",
@@ -6518,6 +6973,16 @@
    "id": "2027-01-03-spurs-at-timberwolves"
   },
   {
+   "id": "2027-01-03-rockets-vs-cavaliers",
+   "category": "rockets",
+   "title": "Rockets vs. Cavaliers",
+   "startDate": "2027-01-03",
+   "startTime": "18:00",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
    "id": "nbisd-2027-01-04-student-holiday-staff-work-day",
    "title": "Student Holiday / Staff Work Day",
    "startDate": "2027-01-04",
@@ -6541,6 +7006,26 @@
    ],
    "audience": "local",
    "id": "sch-comal-isd-2027-01-04-student-holiday"
+  },
+  {
+   "id": "2027-01-04-mavs-at-pelicans",
+   "category": "mavs",
+   "title": "Mavericks at Pelicans",
+   "startDate": "2027-01-04",
+   "startTime": "19:00",
+   "location": "New Orleans",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-01-04-texans-at-packers",
+   "category": "texans",
+   "title": "Texans at Packers",
+   "startDate": "2027-01-04",
+   "location": "Lambeau Field",
+   "tag": "Away",
+   "sourceURL": "https://www.houstontexans.com/schedule/",
+   "startTime": "19:15"
   },
   {
    "id": "nbisd-2027-01-05-students-return-from-break",
@@ -6682,6 +7167,17 @@
    "id": "sch-canyon-lake-hs-2027-01-05-canyon-lake-girls-basketball-at-davenport"
   },
   {
+   "id": "2027-01-05-rockets-vs-timberwolves",
+   "category": "rockets",
+   "title": "Rockets vs. Timberwolves",
+   "startDate": "2027-01-05",
+   "startTime": "19:00",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
    "title": "Long Creek boys soccer vs. Patriots",
    "startDate": "2027-01-05",
    "tag": "Home",
@@ -6720,7 +7216,7 @@
    "id": "sch-oak-run-ms-2027-01-06-rla-maps-testing"
   },
   {
-   "id": "2027-01-06-txst-bb-colorado-state",
+   "id": "2027-01-06-txst-bb-at-colorado-state",
    "category": "txst-bb",
    "title": "Bobcats at Colorado State",
    "startDate": "2027-01-06",
@@ -6872,6 +7368,26 @@
    ],
    "audience": "local",
    "id": "sch-canyon-hs-2027-01-07-canyon-boys-soccer-at-connally"
+  },
+  {
+   "id": "2027-01-07-mavs-vs-trail-blazers",
+   "category": "mavs",
+   "title": "Mavericks vs. Trail Blazers",
+   "startDate": "2027-01-07",
+   "startTime": "19:00",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-01-07-rockets-vs-grizzlies",
+   "category": "rockets",
+   "title": "Rockets vs. Grizzlies",
+   "startDate": "2027-01-07",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "category": "market",
@@ -7197,6 +7713,17 @@
    "id": "sch-long-creek-hs-2027-01-08-long-creek-girls-soccer-at-tbd"
   },
   {
+   "id": "2027-01-08-mavs-vs-suns",
+   "category": "mavs",
+   "title": "Mavericks vs. Suns",
+   "startDate": "2027-01-08",
+   "startTime": "20:30",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "tv": "ESPN",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
    "category": "music",
    "title": "Sammy Arriaga",
    "startDate": "2027-01-09",
@@ -7300,6 +7827,16 @@
    "id": "sch-davenport-hs-2027-01-09-davenport-boys-wrestling-at-centex"
   },
   {
+   "id": "2027-01-09-rockets-at-nets",
+   "category": "rockets",
+   "title": "Rockets at Nets",
+   "startDate": "2027-01-09",
+   "startTime": "17:00",
+   "location": "Brooklyn",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
    "title": "New Braunfels wrestling at Varsity Boys Individual Tournament Day 2",
    "startDate": "2027-01-09",
    "tag": "Away",
@@ -7353,7 +7890,7 @@
    "id": "2027-01-10-time-travel-half-marathon"
   },
   {
-   "id": "2027-01-10-txst-bb-utah-state",
+   "id": "2027-01-10-txst-bb-vs-utah-state",
    "category": "txst-bb",
    "title": "Bobcats vs. Utah State",
    "startDate": "2027-01-10",
@@ -7370,6 +7907,16 @@
    "location": "Away in Atlanta",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
    "id": "2027-01-10-spurs-at-hawks"
+  },
+  {
+   "id": "2027-01-10-mavs-at-grizzlies",
+   "category": "mavs",
+   "title": "Mavericks at Grizzlies",
+   "startDate": "2027-01-10",
+   "startTime": "17:00",
+   "location": "Memphis",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "id": "nbisd-2027-01-11-board-meeting-sustainability",
@@ -7439,6 +7986,16 @@
    ],
    "audience": "local",
    "id": "sch-memorial-es-2027-01-11-nbisd-board-mtg"
+  },
+  {
+   "id": "2027-01-11-rockets-at-celtics",
+   "category": "rockets",
+   "title": "Rockets at Celtics",
+   "startDate": "2027-01-11",
+   "startTime": "18:30",
+   "location": "Boston",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "title": "Choir Concert",
@@ -7595,6 +8152,16 @@
    "id": "sch-canyon-lake-hs-2027-01-12-canyon-lake-girls-basketball-vs-fredericksburg-bas"
   },
   {
+   "id": "2027-01-12-mavs-at-grizzlies",
+   "category": "mavs",
+   "title": "Mavericks at Grizzlies",
+   "startDate": "2027-01-12",
+   "startTime": "19:00",
+   "location": "Memphis",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
    "title": "Davenport boys wrestling at Madison",
    "startDate": "2027-01-13",
    "tag": "Away",
@@ -7635,6 +8202,17 @@
    ],
    "audience": "local",
    "id": "sch-new-braunfels-hs-2027-01-13-new-braunfels-wrestling-at-long-creek-lc-varsity"
+  },
+  {
+   "id": "2027-01-13-rockets-at-thunder",
+   "category": "rockets",
+   "title": "Rockets at Thunder",
+   "startDate": "2027-01-13",
+   "startTime": "20:30",
+   "location": "Oklahoma City",
+   "tag": "Away",
+   "tv": "ESPN",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "title": "New Braunfels boys soccer at Copa Halcon Day 1",
@@ -7702,7 +8280,7 @@
    "id": "sch-walnut-springs-es-2027-01-14-family-art-night"
   },
   {
-   "id": "2027-01-14-txst-bb-oregon-state",
+   "id": "2027-01-14-txst-bb-vs-oregon-state",
    "category": "txst-bb",
    "title": "Bobcats vs. Oregon State",
    "startDate": "2027-01-14",
@@ -7710,6 +8288,16 @@
    "tag": "Home",
    "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
    "startTime": "18:00"
+  },
+  {
+   "id": "2027-01-14-mavs-at-pistons",
+   "category": "mavs",
+   "title": "Mavericks at Pistons",
+   "startDate": "2027-01-14",
+   "startTime": "18:00",
+   "location": "Detroit",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "title": "Board Workshop",
@@ -7976,6 +8564,16 @@
    "id": "sch-long-creek-hs-2027-01-15-long-creek-girls-soccer-at-tbd"
   },
   {
+   "id": "2027-01-15-rockets-vs-wizards",
+   "category": "rockets",
+   "title": "Rockets vs. Wizards",
+   "startDate": "2027-01-15",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
    "category": "music",
    "title": "Kruse Brothers",
    "startDate": "2027-01-15",
@@ -8106,6 +8704,17 @@
    "id": "sch-comal-isd-2027-01-16-middle-school-night-of-one-acts"
   },
   {
+   "id": "2027-01-16-mavs-at-knicks",
+   "category": "mavs",
+   "title": "Mavericks at Knicks",
+   "startDate": "2027-01-16",
+   "startTime": "18:30",
+   "location": "New York",
+   "tag": "Away",
+   "tv": "NBA TV",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
    "title": "Long Creek girls soccer at TBD",
    "startDate": "2027-01-16",
    "tag": "Away",
@@ -8128,6 +8737,16 @@
    "timeNote": "Dates from ticket listings; confirm at brauntex.org",
    "sourceURL": "https://brauntex.org/",
    "id": "2027-01-16-gary-p-nunn"
+  },
+  {
+   "id": "2027-01-16-rockets-vs-pistons",
+   "category": "rockets",
+   "title": "Rockets vs. Pistons",
+   "startDate": "2027-01-16",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "category": "music",
@@ -8174,6 +8793,26 @@
    "id": "sch-comal-isd-2027-01-18-martin-luther-king-jr-day"
   },
   {
+   "id": "2027-01-18-rockets-at-grizzlies",
+   "category": "rockets",
+   "title": "Rockets at Grizzlies",
+   "startDate": "2027-01-18",
+   "startTime": "18:30",
+   "location": "Memphis",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-01-18-mavs-vs-thunder",
+   "category": "mavs",
+   "title": "Mavericks vs. Thunder",
+   "startDate": "2027-01-18",
+   "startTime": "19:00",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
    "title": "Math is a BIG Deal Night",
    "startDate": "2027-01-19",
    "location": "Memorial Elementary",
@@ -8186,6 +8825,27 @@
    "id": "sch-memorial-es-2027-01-19-math-is-a-big-deal-night"
   },
   {
+   "id": "2027-01-19-mavs-vs-hornets",
+   "category": "mavs",
+   "title": "Mavericks vs. Hornets",
+   "startDate": "2027-01-19",
+   "startTime": "19:00",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-01-20-rockets-at-timberwolves",
+   "category": "rockets",
+   "title": "Rockets at Timberwolves",
+   "startDate": "2027-01-20",
+   "startTime": "19:00",
+   "location": "Minneapolis",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
    "category": "spurs",
    "title": "Spurs vs. Heat",
    "startDate": "2027-01-20",
@@ -8195,7 +8855,7 @@
    "id": "2027-01-20-spurs-vs-heat"
   },
   {
-   "id": "2027-01-20-txst-bb-san-diego-state",
+   "id": "2027-01-20-txst-bb-at-san-diego-state",
    "category": "txst-bb",
    "title": "Bobcats at San Diego State",
    "startDate": "2027-01-20",
@@ -8227,6 +8887,26 @@
    "timeNote": "Dates from ticket listings; confirm at brauntex.org",
    "sourceURL": "https://brauntex.org/",
    "id": "2027-01-21-the-zmed-brothers-everly-brothers-experience"
+  },
+  {
+   "id": "2027-01-22-rockets-at-hornets",
+   "category": "rockets",
+   "title": "Rockets at Hornets",
+   "startDate": "2027-01-22",
+   "startTime": "18:00",
+   "location": "Charlotte",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-01-22-mavs-at-pelicans",
+   "category": "mavs",
+   "title": "Mavericks at Pelicans",
+   "startDate": "2027-01-22",
+   "startTime": "19:00",
+   "location": "New Orleans",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "category": "spurs",
@@ -8299,7 +8979,7 @@
    "id": "2027-01-23-buckets-n-boards"
   },
   {
-   "id": "2027-01-23-txst-bb-fresno-state",
+   "id": "2027-01-23-txst-bb-at-fresno-state",
    "category": "txst-bb",
    "title": "Bobcats at Fresno State",
    "startDate": "2027-01-23",
@@ -8307,6 +8987,16 @@
    "tag": "Away",
    "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
    "startTime": "15:30"
+  },
+  {
+   "id": "2027-01-23-mavs-vs-cavaliers",
+   "category": "mavs",
+   "title": "Mavericks vs. Cavaliers",
+   "startDate": "2027-01-23",
+   "startTime": "19:00",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "category": "music",
@@ -8339,6 +9029,16 @@
    "id": "2027-01-24-spurs-vs-trail-blazers"
   },
   {
+   "id": "2027-01-24-rockets-at-magic",
+   "category": "rockets",
+   "title": "Rockets at Magic",
+   "startDate": "2027-01-24",
+   "startTime": "17:00",
+   "location": "Orlando",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
    "title": "Marathon Monday",
    "startDate": "2027-01-25",
    "startTime": "07:00",
@@ -8351,6 +9051,16 @@
    ],
    "audience": "local",
    "id": "sch-memorial-es-2027-01-25-marathon-monday"
+  },
+  {
+   "id": "2027-01-25-mavs-at-bulls",
+   "category": "mavs",
+   "title": "Mavericks at Bulls",
+   "startDate": "2027-01-25",
+   "startTime": "19:00",
+   "location": "Chicago",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "title": "Progress Reports on Parent Portal",
@@ -8374,6 +9084,17 @@
    "id": "2027-01-26-spurs-vs-rockets"
   },
   {
+   "id": "2027-01-26-rockets-at-spurs",
+   "category": "rockets",
+   "title": "Rockets at Spurs",
+   "startDate": "2027-01-26",
+   "startTime": "19:00",
+   "location": "San Antonio",
+   "tag": "Away",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
    "title": "Group Pictures/Retakes",
    "startDate": "2027-01-27",
    "location": "Veramendi Elementary",
@@ -8386,6 +9107,16 @@
    "id": "sch-veramendi-es-2027-01-27-group-pictures-retakes"
   },
   {
+   "id": "2027-01-27-mavs-at-raptors",
+   "category": "mavs",
+   "title": "Mavericks at Raptors",
+   "startDate": "2027-01-27",
+   "startTime": "18:30",
+   "location": "Toronto",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
    "category": "spurs",
    "title": "Spurs vs. Hornets",
    "startDate": "2027-01-27",
@@ -8395,7 +9126,7 @@
    "id": "2027-01-27-spurs-vs-hornets"
   },
   {
-   "id": "2027-01-27-txst-bb-colorado-state",
+   "id": "2027-01-27-txst-bb-vs-colorado-state",
    "category": "txst-bb",
    "title": "Bobcats vs. Colorado State",
    "startDate": "2027-01-27",
@@ -8403,6 +9134,16 @@
    "tag": "Home",
    "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
    "startTime": "19:00"
+  },
+  {
+   "id": "2027-01-27-rockets-vs-pelicans",
+   "category": "rockets",
+   "title": "Rockets vs. Pelicans",
+   "startDate": "2027-01-27",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "title": "ORMS Boys Basketball vs. DMS",
@@ -8451,6 +9192,16 @@
    "id": "2027-01-28-liverpool-legends-the-complete-beatles-experience"
   },
   {
+   "id": "2027-01-29-mavs-vs-pistons",
+   "category": "mavs",
+   "title": "Mavericks vs. Pistons",
+   "startDate": "2027-01-29",
+   "startTime": "19:00",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
    "category": "music",
    "title": "The Bellamy Brothers",
    "startDate": "2027-01-29",
@@ -8459,6 +9210,16 @@
    "timeNote": "Dates from ticket listings; confirm at brauntex.org",
    "sourceURL": "https://brauntex.org/",
    "id": "2027-01-29-the-bellamy-brothers"
+  },
+  {
+   "id": "2027-01-29-rockets-vs-magic",
+   "category": "rockets",
+   "title": "Rockets vs. Magic",
+   "startDate": "2027-01-29",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "title": "NBMS -UIL Meet #1 @ Dobie Junior High",
@@ -8500,7 +9261,7 @@
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
   },
   {
-   "id": "2027-01-30-txst-bb-boise-state",
+   "id": "2027-01-30-txst-bb-vs-boise-state",
    "category": "txst-bb",
    "title": "Bobcats vs. Boise State",
    "startDate": "2027-01-30",
@@ -8528,6 +9289,28 @@
    "location": "Brauntex Theatre, 290 W San Antonio St",
    "description": "Sponsored by Karen & Don Wagoner and CeCe & Robert Jenkins Get ready for an electric, high-octane celebration of rock ’n’ roll’s greatest keyboard icons. Fronted by rockabilly phenom Josh Christina and backed by a dyn…",
    "sourceURL": "https://brauntex.org/event/a-tribute-to-the-piano-men-jerry-lee-elton-joel-and-more/"
+  },
+  {
+   "id": "2027-01-31-mavs-vs-rockets",
+   "category": "mavs",
+   "title": "Mavericks vs. Rockets",
+   "startDate": "2027-01-31",
+   "startTime": "19:30",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-01-31-rockets-at-mavericks",
+   "category": "rockets",
+   "title": "Rockets at Mavericks",
+   "startDate": "2027-01-31",
+   "startTime": "19:30",
+   "location": "Dallas",
+   "tag": "Away",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "category": "spurs",
@@ -8563,6 +9346,16 @@
    "id": "sch-comal-isd-2027-02-02-groundhog-day"
   },
   {
+   "id": "2027-02-02-mavs-vs-raptors",
+   "category": "mavs",
+   "title": "Mavericks vs. Raptors",
+   "startDate": "2027-02-02",
+   "startTime": "19:00",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
    "category": "spurs",
    "title": "Spurs at Clippers",
    "startDate": "2027-02-02",
@@ -8582,6 +9375,17 @@
    ],
    "audience": "local",
    "id": "sch-comal-isd-2027-02-03-women-in-sports-day"
+  },
+  {
+   "id": "2027-02-03-rockets-vs-jazz",
+   "category": "rockets",
+   "title": "Rockets vs. Jazz",
+   "startDate": "2027-02-03",
+   "startTime": "20:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "tv": "ESPN",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "title": "ORMS Boys Basketball vs. PRMS",
@@ -8632,7 +9436,7 @@
    "sourceURL": "https://brauntex.org/event/a-tribute-to-the-music-memories-of-tony-bennett-starring-steve-leeds/"
   },
   {
-   "id": "2027-02-04-txst-bb-gonzaga",
+   "id": "2027-02-04-txst-bb-at-gonzaga",
    "category": "txst-bb",
    "title": "Bobcats at Gonzaga",
    "startDate": "2027-02-04",
@@ -8640,6 +9444,17 @@
    "tag": "Away",
    "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
    "startTime": "21:00"
+  },
+  {
+   "id": "2027-02-04-mavs-at-nuggets",
+   "category": "mavs",
+   "title": "Mavericks at Nuggets",
+   "startDate": "2027-02-04",
+   "startTime": "21:00",
+   "location": "Denver",
+   "tag": "Away",
+   "tv": "Prime Video",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "title": "Wear Red for Heart Health",
@@ -8664,6 +9479,16 @@
    "id": "2027-02-05-sons-of-the-pioneers"
   },
   {
+   "id": "2027-02-05-rockets-at-suns",
+   "category": "rockets",
+   "title": "Rockets at Suns",
+   "startDate": "2027-02-05",
+   "startTime": "20:00",
+   "location": "Phoenix",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
    "id": "2027-02-06-new-braunfels-farmers-market",
    "category": "market",
    "title": "New Braunfels Farmers Market",
@@ -8675,6 +9500,16 @@
    "description": "Local produce, meats, eggs, baked goods and crafts from area growers and makers. Free to attend.",
    "outdoor": true,
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
+  },
+  {
+   "id": "2027-02-06-mavs-vs-jazz",
+   "category": "mavs",
+   "title": "Mavericks vs. Jazz",
+   "startDate": "2027-02-06",
+   "startTime": "14:00",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "category": "spurs",
@@ -8697,7 +9532,7 @@
    "sourceURL": "https://brauntex.org/event/uptown-a-celebration-of-motown-soul/"
   },
   {
-   "id": "2027-02-06-txst-bb-washington-state",
+   "id": "2027-02-06-txst-bb-at-washington-state",
    "category": "txst-bb",
    "title": "Bobcats at Washington State",
    "startDate": "2027-02-06",
@@ -8705,6 +9540,26 @@
    "tag": "Away",
    "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
    "startTime": "20:00"
+  },
+  {
+   "id": "2027-02-07-mavs-vs-clippers",
+   "category": "mavs",
+   "title": "Mavericks vs. Clippers",
+   "startDate": "2027-02-07",
+   "startTime": "15:30",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-02-07-rockets-at-kings",
+   "category": "rockets",
+   "title": "Rockets at Kings",
+   "startDate": "2027-02-07",
+   "startTime": "21:30",
+   "location": "Sacramento",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "title": "Brauntex",
@@ -8744,6 +9599,28 @@
    "id": "2027-02-09-spurs-at-mavericks"
   },
   {
+   "id": "2027-02-09-mavs-vs-spurs",
+   "category": "mavs",
+   "title": "Mavericks vs. Spurs",
+   "startDate": "2027-02-09",
+   "startTime": "19:00",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-02-09-rockets-at-jazz",
+   "category": "rockets",
+   "title": "Rockets at Jazz",
+   "startDate": "2027-02-09",
+   "startTime": "21:00",
+   "location": "Salt Lake City",
+   "tag": "Away",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
    "title": "ORMS Boys Basketball vs. CHMS",
    "startDate": "2027-02-10",
    "startTime": "17:00",
@@ -8771,7 +9648,7 @@
    "id": "sch-comal-isd-2027-02-11-board-workshop"
   },
   {
-   "id": "2027-02-11-txst-bb-san-diego-state",
+   "id": "2027-02-11-txst-bb-vs-san-diego-state",
    "category": "txst-bb",
    "title": "Bobcats vs. San Diego State",
    "startDate": "2027-02-11",
@@ -8779,6 +9656,26 @@
    "tag": "Home",
    "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
    "startTime": "19:00"
+  },
+  {
+   "id": "2027-02-11-mavs-vs-trail-blazers",
+   "category": "mavs",
+   "title": "Mavericks vs. Trail Blazers",
+   "startDate": "2027-02-11",
+   "startTime": "19:00",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-02-11-rockets-vs-kings",
+   "category": "rockets",
+   "title": "Rockets vs. Kings",
+   "startDate": "2027-02-11",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "category": "spurs",
@@ -8801,6 +9698,16 @@
    ],
    "category": "school",
    "audience": "local"
+  },
+  {
+   "id": "2027-02-12-rockets-at-pelicans",
+   "category": "rockets",
+   "title": "Rockets at Pelicans",
+   "startDate": "2027-02-12",
+   "startTime": "19:00",
+   "location": "New Orleans",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "id": "2027-02-12-the-fabulous-equinox-orchestra",
@@ -8841,6 +9748,17 @@
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
   },
   {
+   "id": "2027-02-13-mavs-at-hornets",
+   "category": "mavs",
+   "title": "Mavericks at Hornets",
+   "startDate": "2027-02-13",
+   "startTime": "14:00",
+   "location": "Charlotte",
+   "tag": "Away",
+   "tv": "Prime Video",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
    "category": "spurs",
    "title": "Spurs at Magic",
    "startDate": "2027-02-13",
@@ -8873,7 +9791,18 @@
    "id": "sch-comal-isd-2027-02-14-valentine-s-day"
   },
   {
-   "id": "2027-02-14-txst-bb-oregon-state",
+   "id": "2027-02-14-rockets-vs-nuggets",
+   "category": "rockets",
+   "title": "Rockets vs. Nuggets",
+   "startDate": "2027-02-14",
+   "startTime": "13:00",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "tv": "NBA TV",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-02-14-txst-bb-at-oregon-state",
    "category": "txst-bb",
    "title": "Bobcats at Oregon State",
    "startDate": "2027-02-14",
@@ -8908,6 +9837,17 @@
    "id": "sch-comal-isd-2027-02-15-president-s-day"
   },
   {
+   "id": "2027-02-15-mavs-vs-76ers",
+   "category": "mavs",
+   "title": "Mavericks vs. 76ers",
+   "startDate": "2027-02-15",
+   "startTime": "13:30",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
    "category": "spurs",
    "title": "Spurs at Heat",
    "startDate": "2027-02-15",
@@ -8915,6 +9855,27 @@
    "location": "Away in Miami",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
    "id": "2027-02-15-spurs-at-heat"
+  },
+  {
+   "id": "2027-02-16-rockets-at-clippers",
+   "category": "rockets",
+   "title": "Rockets at Clippers",
+   "startDate": "2027-02-16",
+   "startTime": "22:00",
+   "location": "Los Angeles",
+   "tag": "Away",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-02-17-mavs-at-magic",
+   "category": "mavs",
+   "title": "Mavericks at Magic",
+   "startDate": "2027-02-17",
+   "startTime": "18:00",
+   "location": "Orlando",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "category": "spurs",
@@ -8935,7 +9896,7 @@
    "id": "2027-02-18-spurs-at-timberwolves"
   },
   {
-   "id": "2027-02-18-txst-bb-fresno-state",
+   "id": "2027-02-18-txst-bb-vs-fresno-state",
    "category": "txst-bb",
    "title": "Bobcats vs. Fresno State",
    "startDate": "2027-02-18",
@@ -8954,6 +9915,17 @@
    "location": "Brauntex Theatre, 290 W San Antonio St",
    "description": "Take a ride through the golden era of rock, pop, and dance with 3 Decades Rewind. Billed as the ultimate rock ’n’ roll time machine, this powerhouse ensemble channels the finest anthems of the ’60s, ’70s, and ’80s wit…",
    "sourceURL": "https://brauntex.org/event/3-decades-rewind/"
+  },
+  {
+   "id": "2027-02-18-rockets-at-lakers",
+   "category": "rockets",
+   "title": "Rockets at Lakers",
+   "startDate": "2027-02-18",
+   "startTime": "21:00",
+   "location": "Los Angeles",
+   "tag": "Away",
+   "tv": "Prime Video",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "id": "2027-02-19-the-ultimate-waylon-tribute",
@@ -8995,7 +9967,7 @@
    "id": "2027-02-20-gruene-market-days"
   },
   {
-   "id": "2027-02-20-txst-bb-boise-state",
+   "id": "2027-02-20-txst-bb-at-boise-state",
    "category": "txst-bb",
    "title": "Bobcats at Boise State",
    "startDate": "2027-02-20",
@@ -9016,7 +9988,7 @@
    "sourceURL": "https://brauntex.org/event/paul-thorn-2/"
   },
   {
-   "id": "2027-02-25-txst-bb-gonzaga",
+   "id": "2027-02-25-txst-bb-vs-gonzaga",
    "category": "txst-bb",
    "title": "Bobcats vs. Gonzaga",
    "startDate": "2027-02-25",
@@ -9024,6 +9996,17 @@
    "tag": "Home",
    "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
    "startTime": "19:00"
+  },
+  {
+   "id": "2027-02-25-mavs-at-warriors",
+   "category": "mavs",
+   "title": "Mavericks at Warriors",
+   "startDate": "2027-02-25",
+   "startTime": "21:00",
+   "location": "San Francisco",
+   "tag": "Away",
+   "tv": "Prime Video",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "category": "spurs",
@@ -9034,6 +10017,26 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
    "description": "One of the Spurs' annual Austin home games, about 45 minutes up I-35.",
    "id": "2027-02-26-spurs-vs-grizzlies-austin"
+  },
+  {
+   "id": "2027-02-26-rockets-vs-hornets",
+   "category": "rockets",
+   "title": "Rockets vs. Hornets",
+   "startDate": "2027-02-26",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-02-26-mavs-at-trail-blazers",
+   "category": "mavs",
+   "title": "Mavericks at Trail Blazers",
+   "startDate": "2027-02-26",
+   "startTime": "21:00",
+   "location": "Portland",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "id": "2027-02-27-new-braunfels-farmers-market",
@@ -9049,7 +10052,7 @@
    "sourceURL": "https://www.visitnbtx.com/directory/new-braunfels-farmers-market"
   },
   {
-   "id": "2027-02-27-txst-bb-washington-state",
+   "id": "2027-02-27-txst-bb-vs-washington-state",
    "category": "txst-bb",
    "title": "Bobcats vs. Washington State",
    "startDate": "2027-02-27",
@@ -9069,7 +10072,49 @@
    "id": "2027-02-28-spurs-vs-nuggets-austin"
   },
   {
-   "id": "2027-03-03-txst-bb-utah-state",
+   "id": "2027-02-28-mavs-vs-lakers",
+   "category": "mavs",
+   "title": "Mavericks vs. Lakers",
+   "startDate": "2027-02-28",
+   "startTime": "14:30",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "tv": "ABC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-02-28-rockets-vs-heat",
+   "category": "rockets",
+   "title": "Rockets vs. Heat",
+   "startDate": "2027-02-28",
+   "startTime": "20:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-03-01-rockets-vs-warriors",
+   "category": "rockets",
+   "title": "Rockets vs. Warriors",
+   "startDate": "2027-03-01",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-03-02-mavs-vs-warriors",
+   "category": "mavs",
+   "title": "Mavericks vs. Warriors",
+   "startDate": "2027-03-02",
+   "startTime": "19:00",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-03-txst-bb-at-utah-state",
    "category": "txst-bb",
    "title": "Bobcats at Utah State",
    "startDate": "2027-03-03",
@@ -9077,6 +10122,1059 @@
    "tag": "Away",
    "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
    "startTime": "19:00"
+  },
+  {
+   "id": "2027-03-03-rockets-vs-pelicans",
+   "category": "rockets",
+   "title": "Rockets vs. Pelicans",
+   "startDate": "2027-03-03",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-03-04-mavs-vs-knicks",
+   "category": "mavs",
+   "title": "Mavericks vs. Knicks",
+   "startDate": "2027-03-04",
+   "startTime": "20:30",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "tv": "Prime Video",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-05-rockets-vs-spurs",
+   "category": "rockets",
+   "title": "Rockets vs. Spurs",
+   "startDate": "2027-03-05",
+   "startTime": "20:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "tv": "ESPN",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-03-07-rockets-at-warriors",
+   "category": "rockets",
+   "title": "Rockets at Warriors",
+   "startDate": "2027-03-07",
+   "startTime": "21:00",
+   "location": "San Francisco",
+   "tag": "Away",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-03-08-mavs-at-thunder",
+   "category": "mavs",
+   "title": "Mavericks at Thunder",
+   "startDate": "2027-03-08",
+   "startTime": "20:30",
+   "location": "Oklahoma City",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-08-rockets-at-clippers",
+   "category": "rockets",
+   "title": "Rockets at Clippers",
+   "startDate": "2027-03-08",
+   "startTime": "21:30",
+   "location": "Los Angeles",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-03-09-mavs-vs-grizzlies",
+   "category": "mavs",
+   "title": "Mavericks vs. Grizzlies",
+   "startDate": "2027-03-09",
+   "startTime": "19:00",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-10-rockets-at-jazz",
+   "category": "rockets",
+   "title": "Rockets at Jazz",
+   "startDate": "2027-03-10",
+   "startTime": "20:00",
+   "location": "Salt Lake City",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-03-11-mavs-vs-wizards",
+   "category": "mavs",
+   "title": "Mavericks vs. Wizards",
+   "startDate": "2027-03-11",
+   "startTime": "19:00",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-13-rockets-vs-pacers",
+   "category": "rockets",
+   "title": "Rockets vs. Pacers",
+   "startDate": "2027-03-13",
+   "startTime": "16:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "tv": "Prime Video",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-03-13-mavs-vs-pelicans",
+   "category": "mavs",
+   "title": "Mavericks vs. Pelicans",
+   "startDate": "2027-03-13",
+   "startTime": "19:00",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-15-mavs-vs-hawks",
+   "category": "mavs",
+   "title": "Mavericks vs. Hawks",
+   "startDate": "2027-03-15",
+   "startTime": "20:30",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-16-rockets-vs-spurs",
+   "category": "rockets",
+   "title": "Rockets vs. Spurs",
+   "startDate": "2027-03-16",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-03-17-mavs-at-thunder",
+   "category": "mavs",
+   "title": "Mavericks at Thunder",
+   "startDate": "2027-03-17",
+   "startTime": "18:30",
+   "location": "Oklahoma City",
+   "tag": "Away",
+   "tv": "ESPN",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-17-rockets-vs-nets",
+   "category": "rockets",
+   "title": "Rockets vs. Nets",
+   "startDate": "2027-03-17",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-03-19-mavs-at-spurs",
+   "category": "mavs",
+   "title": "Mavericks at Spurs",
+   "startDate": "2027-03-19",
+   "startTime": "19:00",
+   "location": "San Antonio",
+   "tag": "Away",
+   "tv": "NBA TV",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-19-rockets-at-pelicans",
+   "category": "rockets",
+   "title": "Rockets at Pelicans",
+   "startDate": "2027-03-19",
+   "startTime": "19:00",
+   "location": "New Orleans",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-03-21-mavs-at-lakers",
+   "category": "mavs",
+   "title": "Mavericks at Lakers",
+   "startDate": "2027-03-21",
+   "startTime": "21:00",
+   "location": "Los Angeles",
+   "tag": "Away",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-22-rockets-at-cavaliers",
+   "category": "rockets",
+   "title": "Rockets at Cavaliers",
+   "startDate": "2027-03-22",
+   "startTime": "18:00",
+   "location": "Cleveland",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-03-22-mavs-at-clippers",
+   "category": "mavs",
+   "title": "Mavericks at Clippers",
+   "startDate": "2027-03-22",
+   "startTime": "21:30",
+   "location": "Los Angeles",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-24-rockets-at-knicks",
+   "category": "rockets",
+   "title": "Rockets at Knicks",
+   "startDate": "2027-03-24",
+   "startTime": "18:30",
+   "location": "New York",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-03-24-mavs-at-timberwolves",
+   "category": "mavs",
+   "title": "Mavericks at Timberwolves",
+   "startDate": "2027-03-24",
+   "startTime": "19:00",
+   "location": "Minneapolis",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-25-astros-vs-rangers",
+   "category": "astros",
+   "title": "Astros vs. Rangers",
+   "startDate": "2027-03-25",
+   "location": "Daikin Park, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "15:10"
+  },
+  {
+   "id": "2027-03-25-rangers-at-astros",
+   "category": "rangers",
+   "title": "Rangers at Astros",
+   "startDate": "2027-03-25",
+   "location": "Daikin Park, Houston",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "15:10"
+  },
+  {
+   "id": "2027-03-25-rockets-at-pistons",
+   "category": "rockets",
+   "title": "Rockets at Pistons",
+   "startDate": "2027-03-25",
+   "startTime": "18:00",
+   "location": "Detroit",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-03-26-astros-vs-rangers",
+   "category": "astros",
+   "title": "Astros vs. Rangers",
+   "startDate": "2027-03-26",
+   "location": "Daikin Park, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "18:10"
+  },
+  {
+   "id": "2027-03-26-rangers-at-astros",
+   "category": "rangers",
+   "title": "Rangers at Astros",
+   "startDate": "2027-03-26",
+   "location": "Daikin Park, Houston",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "18:10"
+  },
+  {
+   "id": "2027-03-26-mavs-vs-pelicans",
+   "category": "mavs",
+   "title": "Mavericks vs. Pelicans",
+   "startDate": "2027-03-26",
+   "startTime": "19:00",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-27-astros-vs-rangers",
+   "category": "astros",
+   "title": "Astros vs. Rangers",
+   "startDate": "2027-03-27",
+   "location": "Daikin Park, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "19:10"
+  },
+  {
+   "id": "2027-03-27-rangers-at-astros",
+   "category": "rangers",
+   "title": "Rangers at Astros",
+   "startDate": "2027-03-27",
+   "location": "Daikin Park, Houston",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "19:10"
+  },
+  {
+   "id": "2027-03-28-rockets-vs-lakers",
+   "category": "rockets",
+   "title": "Rockets vs. Lakers",
+   "startDate": "2027-03-28",
+   "startTime": "14:00",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "tv": "ESPN",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-03-28-mavs-at-wizards",
+   "category": "mavs",
+   "title": "Mavericks at Wizards",
+   "startDate": "2027-03-28",
+   "startTime": "17:00",
+   "location": "Washington",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-29-mavs-at-bucks",
+   "category": "mavs",
+   "title": "Mavericks at Bucks",
+   "startDate": "2027-03-29",
+   "startTime": "19:00",
+   "location": "Milwaukee",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-29-astros-vs-red-sox",
+   "category": "astros",
+   "title": "Astros vs. Red Sox",
+   "startDate": "2027-03-29",
+   "location": "Daikin Park, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "19:10"
+  },
+  {
+   "id": "2027-03-29-rangers-at-mariners",
+   "category": "rangers",
+   "title": "Rangers at Mariners",
+   "startDate": "2027-03-29",
+   "location": "T-Mobile Park, Seattle",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "20:40"
+  },
+  {
+   "id": "2027-03-30-astros-vs-red-sox",
+   "category": "astros",
+   "title": "Astros vs. Red Sox",
+   "startDate": "2027-03-30",
+   "location": "Daikin Park, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "19:10"
+  },
+  {
+   "id": "2027-03-30-rangers-at-mariners",
+   "category": "rangers",
+   "title": "Rangers at Mariners",
+   "startDate": "2027-03-30",
+   "location": "T-Mobile Park, Seattle",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "20:40"
+  },
+  {
+   "id": "2027-03-30-rockets-at-trail-blazers",
+   "category": "rockets",
+   "title": "Rockets at Trail Blazers",
+   "startDate": "2027-03-30",
+   "startTime": "22:00",
+   "location": "Portland",
+   "tag": "Away",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-03-31-astros-vs-red-sox",
+   "category": "astros",
+   "title": "Astros vs. Red Sox",
+   "startDate": "2027-03-31",
+   "location": "Daikin Park, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "13:10"
+  },
+  {
+   "id": "2027-03-31-rangers-at-mariners",
+   "category": "rangers",
+   "title": "Rangers at Mariners",
+   "startDate": "2027-03-31",
+   "location": "T-Mobile Park, Seattle",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "15:10"
+  },
+  {
+   "id": "2027-03-31-mavs-vs-nuggets",
+   "category": "mavs",
+   "title": "Mavericks vs. Nuggets",
+   "startDate": "2027-03-31",
+   "startTime": "20:30",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "tv": "ESPN",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-31-rockets-at-trail-blazers",
+   "category": "rockets",
+   "title": "Rockets at Trail Blazers",
+   "startDate": "2027-03-31",
+   "startTime": "21:00",
+   "location": "Portland",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-04-01-rangers-vs-athletics",
+   "category": "rangers",
+   "title": "Rangers vs. Athletics",
+   "startDate": "2027-04-01",
+   "location": "Globe Life Field, Arlington",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "16:10"
+  },
+  {
+   "id": "2027-04-02-astros-at-braves",
+   "category": "astros",
+   "title": "Astros at Braves",
+   "startDate": "2027-04-02",
+   "location": "Truist Park, Atlanta",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "18:15"
+  },
+  {
+   "id": "2027-04-02-mavs-vs-kings",
+   "category": "mavs",
+   "title": "Mavericks vs. Kings",
+   "startDate": "2027-04-02",
+   "startTime": "19:00",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-04-02-rangers-vs-athletics",
+   "category": "rangers",
+   "title": "Rangers vs. Athletics",
+   "startDate": "2027-04-02",
+   "location": "Globe Life Field, Arlington",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "19:10"
+  },
+  {
+   "id": "2027-04-02-rockets-vs-grizzlies",
+   "category": "rockets",
+   "title": "Rockets vs. Grizzlies",
+   "startDate": "2027-04-02",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-04-03-rangers-vs-athletics",
+   "category": "rangers",
+   "title": "Rangers vs. Athletics",
+   "startDate": "2027-04-03",
+   "location": "Globe Life Field, Arlington",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "18:10"
+  },
+  {
+   "id": "2027-04-03-astros-at-braves",
+   "category": "astros",
+   "title": "Astros at Braves",
+   "startDate": "2027-04-03",
+   "location": "Truist Park, Atlanta",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "18:15"
+  },
+  {
+   "id": "2027-04-04-astros-at-braves",
+   "category": "astros",
+   "title": "Astros at Braves",
+   "startDate": "2027-04-04",
+   "location": "Truist Park, Atlanta",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "12:35"
+  },
+  {
+   "id": "2027-04-04-rangers-vs-athletics",
+   "category": "rangers",
+   "title": "Rangers vs. Athletics",
+   "startDate": "2027-04-04",
+   "location": "Globe Life Field, Arlington",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "13:40"
+  },
+  {
+   "id": "2027-04-04-mavs-vs-timberwolves",
+   "category": "mavs",
+   "title": "Mavericks vs. Timberwolves",
+   "startDate": "2027-04-04",
+   "startTime": "14:00",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "tv": "NBA TV",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-04-04-rockets-vs-bulls",
+   "category": "rockets",
+   "title": "Rockets vs. Bulls",
+   "startDate": "2027-04-04",
+   "startTime": "15:00",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-04-05-astros-at-red-sox",
+   "category": "astros",
+   "title": "Astros at Red Sox",
+   "startDate": "2027-04-05",
+   "location": "Fenway Park, Boston",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/astros/schedule"
+  },
+  {
+   "id": "2027-04-06-astros-at-red-sox",
+   "category": "astros",
+   "title": "Astros at Red Sox",
+   "startDate": "2027-04-06",
+   "location": "Fenway Park, Boston",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/astros/schedule"
+  },
+  {
+   "id": "2027-04-06-rangers-vs-rays",
+   "category": "rangers",
+   "title": "Rangers vs. Rays",
+   "startDate": "2027-04-06",
+   "location": "Globe Life Field, Arlington",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "19:10"
+  },
+  {
+   "id": "2027-04-06-mavs-at-lakers",
+   "category": "mavs",
+   "title": "Mavericks at Lakers",
+   "startDate": "2027-04-06",
+   "startTime": "21:00",
+   "location": "Los Angeles",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-04-07-astros-at-red-sox",
+   "category": "astros",
+   "title": "Astros at Red Sox",
+   "startDate": "2027-04-07",
+   "location": "Fenway Park, Boston",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/astros/schedule"
+  },
+  {
+   "id": "2027-04-07-rangers-vs-rays",
+   "category": "rangers",
+   "title": "Rangers vs. Rays",
+   "startDate": "2027-04-07",
+   "location": "Globe Life Field, Arlington",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "19:10"
+  },
+  {
+   "id": "2027-04-07-rockets-vs-kings",
+   "category": "rockets",
+   "title": "Rockets vs. Kings",
+   "startDate": "2027-04-07",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-04-07-mavs-at-trail-blazers",
+   "category": "mavs",
+   "title": "Mavericks at Trail Blazers",
+   "startDate": "2027-04-07",
+   "startTime": "21:00",
+   "location": "Portland",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-04-08-rangers-vs-rays",
+   "category": "rangers",
+   "title": "Rangers vs. Rays",
+   "startDate": "2027-04-08",
+   "location": "Globe Life Field, Arlington",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "13:40"
+  },
+  {
+   "id": "2027-04-09-rangers-at-cubs",
+   "category": "rangers",
+   "title": "Rangers at Cubs",
+   "startDate": "2027-04-09",
+   "location": "Wrigley Field, Chicago",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/rangers/schedule"
+  },
+  {
+   "id": "2027-04-09-astros-vs-guardians",
+   "category": "astros",
+   "title": "Astros vs. Guardians",
+   "startDate": "2027-04-09",
+   "location": "Daikin Park, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "19:10"
+  },
+  {
+   "id": "2027-04-09-rockets-vs-trail-blazers",
+   "category": "rockets",
+   "title": "Rockets vs. Trail Blazers",
+   "startDate": "2027-04-09",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-04-09-mavs-at-kings",
+   "category": "mavs",
+   "title": "Mavericks at Kings",
+   "startDate": "2027-04-09",
+   "startTime": "21:00",
+   "location": "Sacramento",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-04-10-rangers-at-cubs",
+   "category": "rangers",
+   "title": "Rangers at Cubs",
+   "startDate": "2027-04-10",
+   "location": "Wrigley Field, Chicago",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/rangers/schedule"
+  },
+  {
+   "id": "2027-04-10-astros-vs-guardians",
+   "category": "astros",
+   "title": "Astros vs. Guardians",
+   "startDate": "2027-04-10",
+   "location": "Daikin Park, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "18:10"
+  },
+  {
+   "id": "2027-04-11-rangers-at-cubs",
+   "category": "rangers",
+   "title": "Rangers at Cubs",
+   "startDate": "2027-04-11",
+   "location": "Wrigley Field, Chicago",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/rangers/schedule"
+  },
+  {
+   "id": "2027-04-11-astros-vs-guardians",
+   "category": "astros",
+   "title": "Astros vs. Guardians",
+   "startDate": "2027-04-11",
+   "location": "Daikin Park, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "13:10"
+  },
+  {
+   "id": "2027-04-11-mavs-vs-grizzlies",
+   "category": "mavs",
+   "title": "Mavericks vs. Grizzlies",
+   "startDate": "2027-04-11",
+   "startTime": "19:30",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-04-11-rockets-at-timberwolves",
+   "category": "rockets",
+   "title": "Rockets at Timberwolves",
+   "startDate": "2027-04-11",
+   "startTime": "19:30",
+   "location": "Minneapolis",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-04-13-rangers-at-reds",
+   "category": "rangers",
+   "title": "Rangers at Reds",
+   "startDate": "2027-04-13",
+   "location": "Great American Ball Park, Cincinnati",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "17:40"
+  },
+  {
+   "id": "2027-04-13-astros-vs-blue-jays",
+   "category": "astros",
+   "title": "Astros vs. Blue Jays",
+   "startDate": "2027-04-13",
+   "location": "Daikin Park, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "19:10"
+  },
+  {
+   "id": "2027-04-14-rangers-at-reds",
+   "category": "rangers",
+   "title": "Rangers at Reds",
+   "startDate": "2027-04-14",
+   "location": "Great American Ball Park, Cincinnati",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "17:40"
+  },
+  {
+   "id": "2027-04-14-astros-vs-blue-jays",
+   "category": "astros",
+   "title": "Astros vs. Blue Jays",
+   "startDate": "2027-04-14",
+   "location": "Daikin Park, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "19:10"
+  },
+  {
+   "id": "2027-04-15-rangers-at-reds",
+   "category": "rangers",
+   "title": "Rangers at Reds",
+   "startDate": "2027-04-15",
+   "location": "Great American Ball Park, Cincinnati",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "11:40"
+  },
+  {
+   "id": "2027-04-15-astros-vs-blue-jays",
+   "category": "astros",
+   "title": "Astros vs. Blue Jays",
+   "startDate": "2027-04-15",
+   "location": "Daikin Park, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "13:10"
+  },
+  {
+   "id": "2027-04-16-rangers-vs-cardinals",
+   "category": "rangers",
+   "title": "Rangers vs. Cardinals",
+   "startDate": "2027-04-16",
+   "location": "Globe Life Field, Arlington",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "19:10"
+  },
+  {
+   "id": "2027-04-16-astros-at-mariners",
+   "category": "astros",
+   "title": "Astros at Mariners",
+   "startDate": "2027-04-16",
+   "location": "T-Mobile Park, Seattle",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "20:40"
+  },
+  {
+   "id": "2027-04-17-rangers-vs-cardinals",
+   "category": "rangers",
+   "title": "Rangers vs. Cardinals",
+   "startDate": "2027-04-17",
+   "location": "Globe Life Field, Arlington",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "18:10"
+  },
+  {
+   "id": "2027-04-17-astros-at-mariners",
+   "category": "astros",
+   "title": "Astros at Mariners",
+   "startDate": "2027-04-17",
+   "location": "T-Mobile Park, Seattle",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "18:15"
+  },
+  {
+   "id": "2027-04-18-rangers-vs-cardinals",
+   "category": "rangers",
+   "title": "Rangers vs. Cardinals",
+   "startDate": "2027-04-18",
+   "location": "Globe Life Field, Arlington",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "13:40"
+  },
+  {
+   "id": "2027-04-18-astros-at-mariners",
+   "category": "astros",
+   "title": "Astros at Mariners",
+   "startDate": "2027-04-18",
+   "location": "T-Mobile Park, Seattle",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "15:10"
+  },
+  {
+   "id": "2027-04-19-rangers-vs-mariners",
+   "category": "rangers",
+   "title": "Rangers vs. Mariners",
+   "startDate": "2027-04-19",
+   "location": "Globe Life Field, Arlington",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "19:10"
+  },
+  {
+   "id": "2027-04-19-astros-at-angels",
+   "category": "astros",
+   "title": "Astros at Angels",
+   "startDate": "2027-04-19",
+   "location": "Angel Stadium, Anaheim",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "20:38"
+  },
+  {
+   "id": "2027-04-20-rangers-vs-mariners",
+   "category": "rangers",
+   "title": "Rangers vs. Mariners",
+   "startDate": "2027-04-20",
+   "location": "Globe Life Field, Arlington",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "19:10"
+  },
+  {
+   "id": "2027-04-20-astros-at-angels",
+   "category": "astros",
+   "title": "Astros at Angels",
+   "startDate": "2027-04-20",
+   "location": "Angel Stadium, Anaheim",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "20:38"
+  },
+  {
+   "id": "2027-04-21-astros-at-angels",
+   "category": "astros",
+   "title": "Astros at Angels",
+   "startDate": "2027-04-21",
+   "location": "Angel Stadium, Anaheim",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/astros/schedule"
+  },
+  {
+   "id": "2027-04-21-rangers-vs-mariners",
+   "category": "rangers",
+   "title": "Rangers vs. Mariners",
+   "startDate": "2027-04-21",
+   "location": "Globe Life Field, Arlington",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "13:40"
+  },
+  {
+   "id": "2027-04-23-rangers-at-mets",
+   "category": "rangers",
+   "title": "Rangers at Mets",
+   "startDate": "2027-04-23",
+   "location": "Citi Field, Flushing",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "18:10"
+  },
+  {
+   "id": "2027-04-23-astros-vs-yankees",
+   "category": "astros",
+   "title": "Astros vs. Yankees",
+   "startDate": "2027-04-23",
+   "location": "Daikin Park, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "19:10"
+  },
+  {
+   "id": "2027-04-24-rangers-at-mets",
+   "category": "rangers",
+   "title": "Rangers at Mets",
+   "startDate": "2027-04-24",
+   "location": "Citi Field, Flushing",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "15:10"
+  },
+  {
+   "id": "2027-04-24-astros-vs-yankees",
+   "category": "astros",
+   "title": "Astros vs. Yankees",
+   "startDate": "2027-04-24",
+   "location": "Daikin Park, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "18:10"
+  },
+  {
+   "id": "2027-04-25-rangers-at-mets",
+   "category": "rangers",
+   "title": "Rangers at Mets",
+   "startDate": "2027-04-25",
+   "location": "Citi Field, Flushing",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "12:40"
+  },
+  {
+   "id": "2027-04-25-astros-vs-yankees",
+   "category": "astros",
+   "title": "Astros vs. Yankees",
+   "startDate": "2027-04-25",
+   "location": "Daikin Park, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "13:10"
+  },
+  {
+   "id": "2027-04-26-rangers-at-nationals",
+   "category": "rangers",
+   "title": "Rangers at Nationals",
+   "startDate": "2027-04-26",
+   "location": "Nationals Park, Washington",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "17:45"
+  },
+  {
+   "id": "2027-04-26-astros-vs-angels",
+   "category": "astros",
+   "title": "Astros vs. Angels",
+   "startDate": "2027-04-26",
+   "location": "Daikin Park, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "19:10"
+  },
+  {
+   "id": "2027-04-27-rangers-at-nationals",
+   "category": "rangers",
+   "title": "Rangers at Nationals",
+   "startDate": "2027-04-27",
+   "location": "Nationals Park, Washington",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "17:45"
+  },
+  {
+   "id": "2027-04-27-astros-vs-angels",
+   "category": "astros",
+   "title": "Astros vs. Angels",
+   "startDate": "2027-04-27",
+   "location": "Daikin Park, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "19:10"
+  },
+  {
+   "id": "2027-04-28-rangers-at-nationals",
+   "category": "rangers",
+   "title": "Rangers at Nationals",
+   "startDate": "2027-04-28",
+   "location": "Nationals Park, Washington",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "15:05"
+  },
+  {
+   "id": "2027-04-28-astros-vs-angels",
+   "category": "astros",
+   "title": "Astros vs. Angels",
+   "startDate": "2027-04-28",
+   "location": "Daikin Park, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "19:10"
+  },
+  {
+   "id": "2027-04-29-rangers-vs-royals",
+   "category": "rangers",
+   "title": "Rangers vs. Royals",
+   "startDate": "2027-04-29",
+   "location": "Globe Life Field, Arlington",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "19:10"
+  },
+  {
+   "id": "2027-04-30-astros-at-marlins",
+   "category": "astros",
+   "title": "Astros at Marlins",
+   "startDate": "2027-04-30",
+   "location": "loanDepot park, Miami",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/astros/schedule"
+  },
+  {
+   "id": "2027-04-30-rangers-vs-royals",
+   "category": "rangers",
+   "title": "Rangers vs. Royals",
+   "startDate": "2027-04-30",
+   "location": "Globe Life Field, Arlington",
+   "tag": "Home",
+   "sourceURL": "https://www.mlb.com/rangers/schedule",
+   "startTime": "19:10"
   }
  ],
  "notDated": [
