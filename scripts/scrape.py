@@ -82,7 +82,7 @@ BOERNE_SOURCES = [
          location="Boerne Community Theatre, 907 E Blanco Rd"),
     # The City of Boerne's "Visit Boerne" calendar (Timely). Covers the whole town.
     dict(name="Visit Boerne", url="https://events.timely.fun/api/calendars/54730033/export?format=ics",
-         category="fest", location="Boerne", drop=BOERNE_NOISE, recurring=2),
+         category="fest", location="Boerne", drop=BOERNE_NOISE, weekly=True),
     dict(name="The Boerne Life", api="https://theboernelife.com/wp-json/tribe/events/v1/events",
          location="Boerne",
          # Their categories → ours, first match wins. Events in none of these are skipped.
@@ -95,7 +95,7 @@ BOERNE_SOURCES = [
               r"support group|workshop|webinar|cigar|wing bar|mixer|downtown diy|crafts & corks|clay earrings|"
               r"ornament painting|bangle|dis-carded|lobby stop|burger king|watercolor|volunteer|clean-?up|trailblazers|"
               r"nature makers|author alley|drop-off|dinner|singer/songwriter|live music with|closed|sold out|case sale|name that tune|spades",
-         recurring=2),
+         weekly=True, music_note="Live music around Boerne"),
 ]
 
 SOURCES = {"new-braunfels": NB_SOURCES, "boerne": BOERNE_SOURCES}
@@ -219,7 +219,7 @@ def fetch_visitnb(src):
     return out
 
 
-def drop_weekly(raw):
+def drop_weekly(raw, regulars=None):
     """Series that repeat every week or so: a months-long regular (dance lessons, the Friday Afternoon
     Club, a weekly market) is dropped; a short run (Christmas at the Caverns, a Renaissance Faire's
     weekends) becomes one multi-day event. Monthly ones like First Friday are left alone."""
@@ -231,10 +231,16 @@ def drop_weekly(raw):
     for t, vs in groups.items():
         ds = sorted({v["DTSTART"][0] for v in vs})
         gaps = sorted((date.fromisoformat(b) - date.fromisoformat(a)).days for a, b in zip(ds, ds[1:]))
-        if len(ds) < 3 or gaps[len(gaps) // 2] > 8 or re.search(MOVIE, t, re.I):
-            out.extend(vs)
+        gap = gaps[len(gaps) // 2] if gaps else 0
+        if len(ds) < 3 or gap > 16 or re.search(MOVIE, t, re.I):
+            out.extend(vs)                             # one-offs, monthly series, screenings
             continue
-        if (date.fromisoformat(ds[-1]) - date.fromisoformat(ds[0])).days > 45:
+        # Weekly or every-other-week (some listings only run a month ahead), or a nightly run that
+        # goes on for months: a standing regular. A run of nights or weekends becomes one event.
+        house_gig = re.search(r"live music|\btunes\b|^live at\b|jazz brunch|music bingo|open mic", t, re.I)
+        if gap >= 6 or house_gig or (date.fromisoformat(ds[-1]) - date.fromisoformat(ds[0])).days > 45:
+            if regulars is not None:
+                regulars.append(vs[0])
             continue                                   # a standing weekly regular
         first = min(vs, key=lambda v: v["DTSTART"])
         last = max(vs, key=lambda v: v["DTSTART"])
@@ -250,6 +256,31 @@ def drop_weekly(raw):
         merged["DESCRIPTION"] = f"Select dates {DayLabel(ds[0])} to {DayLabel(ds[-1])}, {hours}. Check the source for each day."
         out.append(merged)
     return out
+
+
+def music_note(feed, src, regulars):
+    """Keeps the "Every week" live-music note current: the places that host weekly music."""
+    places = []
+    for v in regulars:
+        if "Music" not in (v.get("CATEGORIES") or []) and not re.search(r"live music|music|tunes|jazz", v.get("SUMMARY", ""), re.I):
+            continue
+        if re.search(r"karaoke|trivia|burger|bingo|happy hour|name that tune|ladies night|dinner", v.get("SUMMARY", ""), re.I):
+            continue
+        m = re.search(r".*\bat (?:the )?(.+)$", clean_title(v.get("SUMMARY", "")), re.I)
+        place = (m.group(1) if m else (v.get("LOCATION") or "").split(",")[0]).strip()
+        place = re.sub(r"\s+(Hill Country Resort|Restaurant|Company|Co\.)$", "", place)
+        if place and place.lower() not in {p.lower() for p in places}:
+            places.append(place)
+    if len(places) < 2:
+        return
+    shown = places[:8]
+    detail = ("Most weeks at " + ", ".join(shown[:-1]) + " and " + shown[-1] +
+              (", and more" if len(places) > 8 else "") + ". See The Boerne Life for the week's lineup.")
+    note = {"category": "music", "title": src["music_note"], "detail": detail,
+            "sourceURL": "https://theboernelife.com/things-to-do-in-boerne-this-week/"}
+    weekly = feed.setdefault("weekly", [])
+    keep = [w for w in weekly if w.get("category") != "music" or not w["title"].lower().startswith("live music")]
+    feed["weekly"] = keep + [note]
 
 
 def DayLabel(d):
@@ -450,22 +481,11 @@ def main(path, apply=False):
         except Exception as ex:  # one bad source shouldn't stop the rest
             print(f"! {src['name']}: {ex}")
             continue
-        if src.get("recurring"):
-            # Weekly regulars (trivia, wine-bar gigs) belong in "Every week" notes, not the calendar.
-            # Monthly ones (a guided hike, a market) stay: a series is dropped only when it repeats
-            # more than src["recurring"] times and its dates average under three weeks apart.
-            days = {}
-            for v in raw:
-                days.setdefault(clean_title(v.get("SUMMARY", "")).lower(), set()).add(v["DTSTART"][0])
-
-            def regular(title):
-                d = sorted(days[title])
-                if len(d) <= src["recurring"]:
-                    return False
-                span = (date.fromisoformat(d[-1]) - date.fromisoformat(d[0])).days
-                return span / (len(d) - 1) < 21
-            raw = [v for v in raw if not regular(clean_title(v.get("SUMMARY", "")).lower())
-                   or re.search(MOVIE, v.get("SUMMARY", ""), re.I)]
+        if src.get("weekly") and not src.get("visitnb"):      # Visit NB applies it while fetching
+            regulars = []
+            raw = drop_weekly(raw, regulars)
+            if src.get("music_note"):
+                music_note(feed, src, regulars)
         for v in raw:
             if "DTSTART" not in v or not v.get("SUMMARY"):
                 continue
@@ -521,7 +541,7 @@ def main(path, apply=False):
     for e in found:
         print(f"  {e['startDate']} {e.get('startTime', '     ')}  [{e['category']:<7}] {e['title']}  ({e['source']})")
 
-    if apply and found:
+    if apply:       # also saves an updated "Every week" note when no events are new
         for e in found:
             e.pop("source", None)
         feed["events"].extend(found)
