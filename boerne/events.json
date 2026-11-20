@@ -563,6 +563,16 @@
    "tv": "Prime Video"
   },
   {
+   "id": "2026-11-19-chasing-the-sun-art-show-at-singing-water-vineyards",
+   "category": "market",
+   "title": "“Chasing The Sun” Art Show at Singing Water Vineyards",
+   "startDate": "2026-11-19",
+   "endDate": "2026-11-22",
+   "location": "Singing Water Vineyards, 316 Mill Dam Rd",
+   "description": "Select dates Nov 19 to Nov 22, 12 PM to 6 PM. Check the source for each day.",
+   "sourceURL": "https://theboernelife.com/events/chasing-the-sun-art-show-at-singing-water-vineyards/2026-11-19/"
+  },
+  {
    "title": "Boerne girls basketball at Saisd Tournament",
    "startDate": "2026-11-20",
    "tag": "Away",
@@ -5993,6 +6003,16 @@
    "tv": "Space City Home Network"
   },
   {
+   "id": "2027-01-29-revive-refresh-renew-sale-at-the-8th-street-market",
+   "category": "fest",
+   "title": "Revive. Refresh. Renew. Sale at The 8th Street Market",
+   "startDate": "2027-01-29",
+   "endDate": "2027-01-31",
+   "location": "8th Street Market, 523 8th Street",
+   "description": "Select dates Jan 29 to Jan 31, times vary. Check the source for each day.",
+   "sourceURL": "https://theboernelife.com/events/revive-refresh-renew-sale-at-the-8th-street-market/2027-01-29/"
+  },
+  {
    "id": "2027-01-30-horns-bb-vs-kentucky",
    "category": "horns-bb",
    "title": "Texas vs. Kentucky",
@@ -8634,14 +8654,20 @@
   },
   {
    "category": "market",
+   "title": "Cibolo Farmers Market at Herff Farm",
+   "detail": "Saturdays from 9 AM at Herff Farm, 33 Herff Rd.",
+   "sourceURL": "https://theboernelife.com/things-to-do-in-boerne-this-week/"
+  },
+  {
+   "category": "market",
    "title": "Boerne Market Days",
    "detail": "Second weekend of each month on the Main Plaza, Sat 10–5 and Sun 10–4.",
    "sourceURL": "https://business.boerne.org/events"
   },
   {
    "category": "music",
-   "title": "Live music at wineries and breweries",
-   "detail": "Most evenings at spots like Lost Oak Cellars, Cibolo Creek Brewing and DeVino Cellars. See The Boerne Life for the week's lineup.",
+   "title": "Live music around Boerne",
+   "detail": "Most weeks at Dodging Duck Brewhaus, Valeria, Cibolo Creek Brewing, Pinchy’s Lobster & Raw Bar, Tapatio Springs, 259 Brantley’s Bistro & Bar, Bevy Hotel and AgriCultural Museum and Arts Center, and more. See The Boerne Life for the week's lineup.",
    "sourceURL": "https://theboernelife.com/things-to-do-in-boerne-this-week/"
   }
  ],
@@ -8793,36 +8819,76 @@
  ],
  "newPlaces": [
   {
+   "name": "Los Jimadores Grill and Bar",
+   "kind": "restaurant",
+   "address": "215 W Bandera Rd",
+   "since": "2026-11-09",
+   "source": "Texas Comptroller sales-tax permits",
+   "url": "https://data.texas.gov/Government-and-Taxes/Active-Sales-Tax-Permit-Holders/jrea-zgmq"
+  },
+  {
+   "name": "Dicicco's Pizzeria & Backyard Oasis",
+   "kind": "restaurant",
+   "address": "118 Old San Antonio Rd",
+   "since": "2026-11-09",
+   "source": "Texas Comptroller sales-tax permits",
+   "url": "https://data.texas.gov/Government-and-Taxes/Active-Sales-Tax-Permit-Holders/jrea-zgmq"
+  },
+  {
+   "name": "Luckys Texas",
+   "kind": "bar",
+   "address": "1481 S Main St",
+   "since": "2026-11-01",
+   "source": "Texas Comptroller sales-tax permits",
+   "url": "https://data.texas.gov/Government-and-Taxes/Active-Sales-Tax-Permit-Holders/jrea-zgmq"
+  },
+  {
    "name": "Elevate Bistro",
    "kind": "bar & restaurant",
    "address": "161 S Main St",
    "since": "2026-10-21",
-   "source": "Texas Alcoholic Beverage Commission",
-   "url": "https://data.texas.gov/Government-and-Taxes/TABC-License-Information/7hf9-qc9f"
+   "source": "Texas Comptroller sales-tax permits and Texas Alcoholic Beverage Commission",
+   "url": "https://data.texas.gov/Government-and-Taxes/Active-Sales-Tax-Permit-Holders/jrea-zgmq"
   },
   {
-   "name": "Chipotle Mexican Grill",
+   "name": "Le Steak",
    "kind": "restaurant",
-   "address": "34674 Interstate 10 W",
-   "since": "2026-10-08",
-   "source": "Texas Alcoholic Beverage Commission",
-   "url": "https://data.texas.gov/Government-and-Taxes/TABC-License-Information/7hf9-qc9f"
+   "address": "119 Staffel St",
+   "since": "2026-09-24",
+   "source": "Texas Comptroller sales-tax permits",
+   "url": "https://data.texas.gov/Government-and-Taxes/Active-Sales-Tax-Permit-Holders/jrea-zgmq"
+  },
+  {
+   "name": "Bergheim Pizza Company",
+   "kind": "restaurant",
+   "address": "1 FM 3351 S",
+   "since": "2026-08-20",
+   "source": "Texas Comptroller sales-tax permits",
+   "url": "https://data.texas.gov/Government-and-Taxes/Active-Sales-Tax-Permit-Holders/jrea-zgmq"
   },
   {
    "name": "The Cypress Bar",
-   "kind": "bar & restaurant",
-   "address": "170 S. Main St",
-   "since": "2026-08-11",
-   "source": "Texas Alcoholic Beverage Commission",
-   "url": "https://data.texas.gov/Government-and-Taxes/TABC-License-Information/7hf9-qc9f"
+   "kind": "bar",
+   "address": "170 S Main St",
+   "since": "2026-08-01",
+   "source": "Texas Comptroller sales-tax permits and Texas Alcoholic Beverage Commission",
+   "url": "https://data.texas.gov/Government-and-Taxes/Active-Sales-Tax-Permit-Holders/jrea-zgmq"
   },
   {
-   "name": "Boerne Grill",
-   "kind": "restaurant",
-   "address": "143 S Main St",
-   "since": "2026-07-27",
-   "source": "Texas Alcoholic Beverage Commission",
-   "url": "https://data.texas.gov/Government-and-Taxes/TABC-License-Information/7hf9-qc9f"
+   "name": "Bad Ass Coffee of Hawii",
+   "kind": "coffee & treats",
+   "address": "34590 Interstate 10 W",
+   "since": "2026-08-27",
+   "source": "Texas Comptroller sales-tax permits",
+   "url": "https://data.texas.gov/Government-and-Taxes/Active-Sales-Tax-Permit-Holders/jrea-zgmq"
+  },
+  {
+   "name": "Panda Express",
+   "kind": "quick bite",
+   "address": "34646 Interstate 10 W",
+   "since": "2026-08-01",
+   "source": "Texas Comptroller sales-tax permits",
+   "url": "https://data.texas.gov/Government-and-Taxes/Active-Sales-Tax-Permit-Holders/jrea-zgmq"
   }
  ],
  "eats": {
@@ -8882,5 +8948,19 @@
     ]
    }
   ]
- }
+ },
+ "newPlacesNews": [
+  {
+   "title": "Mystery Solved: DiCicco’s Pizzeria & Backyard Oasis Coming to Former Z’s Pizza Location in Boerne",
+   "url": "https://theboernelife.com/diciccos-pizzeria-backyard-oasis-boerne/",
+   "source": "The Boerne Life",
+   "date": "2026-11-08"
+  },
+  {
+   "title": "Fork to Fit Kitchen Plans New Boerne Location as San Antonio Expansion Grows",
+   "url": "https://whatnow.com/san-antonio/restaurants/fork-to-fit-kitchen-plans-new-boerne-location-as-san-antonio-expansion-grows/",
+   "source": "WhatNow San Antonio",
+   "date": "2026-10-02"
+  }
+ ]
 }
