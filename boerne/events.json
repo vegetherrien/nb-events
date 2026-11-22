@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "timeZone": "America/Chicago",
  "title": "Boerne Event Calendar",
  "city": {
@@ -447,58 +447,6 @@
    "sourceURL": "https://events.timely.fun/e6hnx1k2/event/the-kendall-bar-featured-artist-caleb-lopez-jazz-standards?instance_id=20261120190000"
   },
   {
-   "title": "Boerne girls basketball at Saisd Tournament",
-   "startDate": "2026-11-21",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Saisd Tournament",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "tags": [
-    "school:boerne-hs"
-   ],
-   "audience": "local",
-   "id": "sch-boerne-hs-2026-11-21-boerne-girls-basketball-at-saisd-tournament"
-  },
-  {
-   "title": "Champion girls basketball at Southside Tournament",
-   "startDate": "2026-11-21",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Southside Tournament",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "tags": [
-    "school:champion-hs"
-   ],
-   "audience": "local",
-   "id": "sch-champion-hs-2026-11-21-champion-girls-basketball-at-southside-tournament"
-  },
-  {
-   "title": "Champion boys basketball at Marble Falls Tournament",
-   "startDate": "2026-11-21",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Marble Falls High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "tags": [
-    "school:champion-hs"
-   ],
-   "audience": "local",
-   "id": "sch-champion-hs-2026-11-21-champion-boys-basketball-at-marble-falls-tournament"
-  },
-  {
-   "title": "Champion golf at State Preview",
-   "startDate": "2026-11-21",
-   "tag": "Away",
-   "category": "hs-sports",
-   "location": "LEGACY HILLS GOLF CLUB",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "tags": [
-    "school:champion-hs"
-   ],
-   "audience": "local",
-   "id": "sch-champion-hs-2026-11-21-champion-golf-at-state-preview"
-  },
-  {
    "id": "2026-11-21-boerne-last-man-standing-at-boerne-city-park",
    "category": "nature",
    "title": "Boerne Last Man Standing at Boerne City Park",
@@ -519,34 +467,6 @@
    "location": "Boerne Main Plaza @ 100 North Main Street, Boerne",
    "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/YMCA%20Turkey%20Trot%20Photo_ZQRN.jpg' /></div><p>The 15th Annual 5k/10k Turkey Trot takes p…",
    "sourceURL": "https://events.timely.fun/e6hnx1k2/event/boerne-family-ymca-15th-annual-turkey-trot-5k-10k?instance_id=20261121073000"
-  },
-  {
-   "title": "Boerne swimming & diving at Hornet Tisca",
-   "startDate": "2026-11-21",
-   "tag": "Away",
-   "category": "hs-sports",
-   "location": "FLOUR BLUFF NATATORIUM",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "startTime": "09:30",
-   "tags": [
-    "school:boerne-hs"
-   ],
-   "audience": "local",
-   "id": "sch-boerne-hs-2026-11-21-boerne-swimming-diving-at-hornet-tisca"
-  },
-  {
-   "title": "Champion swimming & diving at Tisca Finals",
-   "startDate": "2026-11-21",
-   "tag": "Away",
-   "category": "hs-sports",
-   "location": "FLOUR BLUFF NATATORIUM",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
-   "startTime": "09:30",
-   "tags": [
-    "school:champion-hs"
-   ],
-   "audience": "local",
-   "id": "sch-champion-hs-2026-11-21-champion-swimming-diving-at-tisca-finals"
   },
   {
    "id": "2026-11-21-rugby-watch-party-at-pioneers-meats",
@@ -590,17 +510,6 @@
    "location": "Memorial Stadium, Norman, OK",
    "sourceURL": "https://12thman.com/sports/football/schedule",
    "outdoor": false
-  },
-  {
-   "id": "2026-11-21-fcdallas-vs-portland-timbers",
-   "category": "fcdallas",
-   "title": "FC Dallas vs. Portland Timbers",
-   "startDate": "2026-11-21",
-   "startTime": "15:00",
-   "location": "Toyota Stadium, Frisco",
-   "tag": "Home",
-   "tv": "Apple TV",
-   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-kickoff-times-and-dates-set-for-audi-2026-mls-cup-playoffs-round-one-best-of-3-series-against-the-portland-timbers"
   },
   {
    "id": "2026-11-21-utsa-bb-vs-air-force",
@@ -654,28 +563,6 @@
    "location": "The Kendall Bar @ 128 W. Blanco Rd., Boerne",
    "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Bearded%20Musician%20Performing%20at%20a%20Bar_n0Su.png' /></div><p>Spend an evening enjoyin…",
    "sourceURL": "https://events.timely.fun/e6hnx1k2/event/live-at-the-kendall-bar-david-selbo?instance_id=20261121190000"
-  },
-  {
-   "id": "2026-11-21-spurs-vs-pelicans",
-   "category": "spurs",
-   "title": "Spurs vs. Pelicans",
-   "startDate": "2026-11-21",
-   "startTime": "19:00",
-   "location": "Frost Bank Center, San Antonio",
-   "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "tv": "DAZN"
-  },
-  {
-   "id": "2026-11-21-mavs-vs-clippers",
-   "category": "mavs",
-   "title": "Mavericks vs. Clippers",
-   "startDate": "2026-11-21",
-   "startTime": "19:00",
-   "location": "American Airlines Center, Dallas",
-   "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
-   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2026-11-22-cowboys-vs-titans",
@@ -1710,19 +1597,6 @@
    "id": "sch-boerne-hs-2026-12-04-boerne-boys-basketball-at-lorena-tournament"
   },
   {
-   "title": "Boerne girls basketball at Georgetown Tournament",
-   "startDate": "2026-12-04",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Georgetown Tournament",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
-   "tags": [
-    "school:boerne-hs"
-   ],
-   "audience": "local",
-   "id": "sch-boerne-hs-2026-12-04-boerne-girls-basketball-at-georgetown-tournament"
-  },
-  {
    "title": "Boerne swimming & diving at Neisd South Zone Tisca…",
    "startDate": "2026-12-04",
    "tag": "Away",
@@ -1734,6 +1608,19 @@
    ],
    "audience": "local",
    "id": "sch-boerne-hs-2026-12-04-boerne-swimming-diving-at-neisd-south-zone-tisca"
+  },
+  {
+   "title": "Boerne girls basketball at Georgetown Tournament",
+   "startDate": "2026-12-04",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Georgetown Tournament",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-04-boerne-girls-basketball-at-georgetown-tournament"
   },
   {
    "title": "Champion boys basketball at Border Olympics",
@@ -1782,6 +1669,17 @@
    "location": "Boerne",
    "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Miracle%20on%2034th%20Street_2QhA.jpg' /></div><p>Experience the magic of the holiday season…",
    "sourceURL": "https://events.timely.fun/e6hnx1k2/event/boerne-community-theatre-presents-miracle-on-34th-street?instance_id=20261204080000"
+  },
+  {
+   "id": "2026-12-04-inside-edquisitive",
+   "category": "fest",
+   "title": "Inside Edquisitive",
+   "startDate": "2026-12-04",
+   "startTime": "09:30",
+   "endTime": "12:00",
+   "location": "Edquisitive Montessori, 27521 I-10 W",
+   "description": "Meet our Montessori teachers, step inside the classrooms, and talk with current parents. Ask what helped them choose Edquisitive, how their children settled in, and what a typical school day looks like. Bring your chi…",
+   "sourceURL": "https://theboernelife.com/events/inside-edquisitive/"
   },
   {
    "id": "2026-12-04-stocking-stroll",
@@ -2015,6 +1913,17 @@
    "location": "Kendall County Fairgrounds, 1307 River Road",
    "description": "Browse handcrafted goods from about 100 Texas vendors across three buildings. Santa will visit Santa Land, where guests can enjoy lunch and free photos. Children’s activities include a coloring contest Saturday and Su…",
    "sourceURL": "https://theboernelife.com/events/omas-christmas-fair-at-kendall-county-fairgrounds/2026-12-05/"
+  },
+  {
+   "id": "2026-12-05-cibolo-farmers-market-at-herff-farm",
+   "category": "market",
+   "title": "Cibolo Farmers Market at Herff Farm",
+   "startDate": "2026-12-05",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "Herff Farm, 33 Herff Rd",
+   "description": "Fresh local goods and a vibrant community atmosphere come together at the Cibolo Farmers Market at Herff Farm every Saturday from 9 am to 1 pm in Boerne, TX. Located just a mile from the Historic Hill Country Mile, th…",
+   "sourceURL": "https://theboernelife.com/events/cibolo-farmers-market-at-herff-farm/2026-12-05/"
   },
   {
    "id": "2026-12-05-christmas-back-lot-market-at-little-to-luxe",
@@ -2387,6 +2296,16 @@
    "id": "sch-champion-hs-2026-12-08-champion-girls-basketball-at-seguin"
   },
   {
+   "id": "2026-12-08-utsa-bb-at-smu",
+   "category": "utsa-bb",
+   "title": "UTSA at SMU",
+   "startDate": "2026-12-08",
+   "location": "Dallas, Texas",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
+  },
+  {
    "title": "Charger Band Concert #2-Concert Bands",
    "startDate": "2026-12-08",
    "startTime": "19:00",
@@ -2410,16 +2329,6 @@
    "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
    "startTime": "19:00",
    "tv": "SEC Network+"
-  },
-  {
-   "id": "2026-12-08-utsa-bb-at-smu",
-   "category": "utsa-bb",
-   "title": "UTSA at SMU",
-   "startDate": "2026-12-08",
-   "location": "Dallas, Texas",
-   "tag": "Away",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "19:00"
   },
   {
    "title": "Champion boys basketball at Sam Houston",
@@ -2499,6 +2408,17 @@
    ],
    "audience": "local",
    "id": "sch-boerne-isd-2026-12-10-fores-choir-winter-concert"
+  },
+  {
+   "id": "2026-12-10-frost-boerne-holiday-open-house",
+   "category": "holiday",
+   "title": "Frost Boerne Holiday Open House",
+   "startDate": "2026-12-10",
+   "startTime": "17:30",
+   "endTime": "19:30",
+   "location": "Boerne Financial Center, 1300 S Main St",
+   "description": "Join us at our Boerne Financial Center for a festive evening with your friends at Frost. We’ll have cookies and a special guest, Santa Claus. Be sure to invite your family and friends. This event is free and open to t…",
+   "sourceURL": "https://theboernelife.com/events/frost-boerne-holiday-open-house/"
   },
   {
    "title": "HES Polar Express Night",
@@ -2789,6 +2709,17 @@
    "location": "Boerne Family YMCA, 820 Adler Road",
    "description": "Families can enjoy a pancake breakfast, make a Christmas craft and reindeer food, and take a photo with Santa. Bring a camera for pictures. The free event takes place Saturday, December 12, from 9 am to 10:30 am at Bo…",
    "sourceURL": "https://theboernelife.com/events/breakfast-with-santa-at-boerne-family-ymca/"
+  },
+  {
+   "id": "2026-12-12-cibolo-farmers-market-at-herff-farm",
+   "category": "market",
+   "title": "Cibolo Farmers Market at Herff Farm",
+   "startDate": "2026-12-12",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "location": "Herff Farm, 33 Herff Rd",
+   "description": "Fresh local goods and a vibrant community atmosphere come together at the Cibolo Farmers Market at Herff Farm every Saturday from 9 am to 1 pm in Boerne, TX. Located just a mile from the Historic Hill Country Mile, th…",
+   "sourceURL": "https://theboernelife.com/events/cibolo-farmers-market-at-herff-farm/2026-12-12/"
   },
   {
    "id": "2026-12-12-boerne-market-days",
@@ -3153,6 +3084,16 @@
    "id": "sch-boerne-ms-north-ms-2026-12-15-choir-concert"
   },
   {
+   "id": "2026-12-15-utsa-bb-vs-our-lady-of-the-lake",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Our Lady of the Lake",
+   "startDate": "2026-12-15",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "18:30"
+  },
+  {
    "title": "Boerne girls basketball vs. Harlandale",
    "startDate": "2026-12-15",
    "tag": "Home",
@@ -3181,16 +3122,6 @@
    "id": "sch-champion-hs-2026-12-15-champion-girls-basketball-vs-john-jay"
   },
   {
-   "id": "2026-12-15-utsa-bb-vs-our-lady-of-the-lake",
-   "category": "utsa-bb",
-   "title": "UTSA vs. Our Lady of the Lake",
-   "startDate": "2026-12-15",
-   "location": "Convocation Center, San Antonio",
-   "tag": "Home",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "18:30"
-  },
-  {
    "title": "Boerne girls soccer at Davenport",
    "startDate": "2026-12-15",
    "tag": "Away",
@@ -3205,18 +3136,18 @@
    "id": "sch-boerne-hs-2026-12-15-boerne-girls-soccer-at-davenport"
   },
   {
-   "title": "Champion girls soccer at Johnson",
+   "title": "Champion boys basketball at Clemens",
    "startDate": "2026-12-15",
    "tag": "Away",
-   "category": "hs-soccer",
-   "location": "JOHNSON HIGH SCHOOL",
+   "category": "hs-basketball",
+   "location": "CLEMENS HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "19:00",
    "tags": [
     "school:champion-hs"
    ],
    "audience": "local",
-   "id": "sch-champion-hs-2026-12-15-champion-girls-soccer-at-johnson"
+   "id": "sch-champion-hs-2026-12-15-champion-boys-basketball-at-clemens"
   },
   {
    "title": "Champion boys soccer at Roosevelt",
@@ -3233,18 +3164,18 @@
    "id": "sch-champion-hs-2026-12-15-champion-boys-soccer-at-roosevelt"
   },
   {
-   "title": "Champion boys basketball at Clemens",
+   "title": "Champion girls soccer at Johnson",
    "startDate": "2026-12-15",
    "tag": "Away",
-   "category": "hs-basketball",
-   "location": "CLEMENS HIGH SCHOOL",
+   "category": "hs-soccer",
+   "location": "JOHNSON HIGH SCHOOL",
    "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
    "startTime": "19:00",
    "tags": [
     "school:champion-hs"
    ],
    "audience": "local",
-   "id": "sch-champion-hs-2026-12-15-champion-boys-basketball-at-clemens"
+   "id": "sch-champion-hs-2026-12-15-champion-girls-soccer-at-johnson"
   },
   {
    "id": "2026-12-15-spurs-at-cavaliers",
@@ -3353,6 +3284,17 @@
    ],
    "audience": "local",
    "id": "sch-cibolo-creek-es-2026-12-17-5th-grade-business-fair"
+  },
+  {
+   "id": "2026-12-17-christine-crowley-s-retirement-reception-at-boerne-community",
+   "category": "fest",
+   "title": "Christine Crowley’s Retirement Reception at Boerne Community Theatre",
+   "startDate": "2026-12-17",
+   "startTime": "16:00",
+   "endTime": "18:00",
+   "location": "Boerne Community Theatre, 907 E. Blanco Rd.",
+   "description": "Celebrate Christine Crowley’s nine years as Executive Director and her contributions onstage, as a director and as a champion for Boerne Community Theatre’s audiences and volunteers. The come-and-go reception includes…",
+   "sourceURL": "https://theboernelife.com/events/christine-crowleys-retirement-reception-at-boerne-community-theatre/"
   },
   {
    "id": "2026-12-17-mavs-at-76ers",
@@ -3733,6 +3675,16 @@
    "tv": "DAZN"
   },
   {
+   "id": "2026-12-22-utsa-bb-vs-huston-tillotson",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Huston-Tillotson",
+   "startDate": "2026-12-22",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "12:00"
+  },
+  {
    "title": "Boerne girls basketball vs. South San",
    "startDate": "2026-12-22",
    "tag": "Home",
@@ -3745,16 +3697,6 @@
    ],
    "audience": "local",
    "id": "sch-boerne-hs-2026-12-22-boerne-girls-basketball-vs-south-san"
-  },
-  {
-   "id": "2026-12-22-utsa-bb-vs-huston-tillotson",
-   "category": "utsa-bb",
-   "title": "UTSA vs. Huston-Tillotson",
-   "startDate": "2026-12-22",
-   "location": "Convocation Center, San Antonio",
-   "tag": "Home",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "12:00"
   },
   {
    "title": "Boerne boys basketball at South San",
@@ -3813,6 +3755,17 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
    "tv": "MavsTV+ or League Pass"
+  },
+  {
+   "id": "2026-12-24-christmas-in-the-city",
+   "category": "holiday",
+   "title": "Christmas In The City",
+   "startDate": "2026-12-24",
+   "startTime": "18:00",
+   "endTime": "19:00",
+   "location": "Boerne Main Plaza, 100 N. Main Street",
+   "description": "Celebrate Christmas Eve with us at Christmas in the City! Join 1910 Church on December 24th from 6–7 PM at the Boerne Main Plaza for a special candlelight service as we come together to celebrate the true meaning of C…",
+   "sourceURL": "https://theboernelife.com/events/christmas-in-the-city/"
   },
   {
    "id": "2026-12-24-texans-at-eagles",
@@ -4023,6 +3976,16 @@
    "id": "sch-champion-hs-2026-12-29-champion-girls-basketball-vs-boerne-isd-holiday-tourn"
   },
   {
+   "id": "2026-12-29-utsa-bb-at-minnesota",
+   "category": "utsa-bb",
+   "title": "UTSA at Minnesota",
+   "startDate": "2026-12-29",
+   "location": "Minneapolis, Minn.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
+  },
+  {
    "id": "2026-12-29-horns-bb-vs-east-texas-a-m",
    "category": "horns-bb",
    "title": "Texas vs. East Texas A&M",
@@ -4032,16 +3995,6 @@
    "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
    "startTime": "19:00",
    "tv": "SEC Network+"
-  },
-  {
-   "id": "2026-12-29-utsa-bb-at-minnesota",
-   "category": "utsa-bb",
-   "title": "UTSA at Minnesota",
-   "startDate": "2026-12-29",
-   "location": "Minneapolis, Minn.",
-   "tag": "Away",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "19:00"
   },
   {
    "id": "2026-12-29-spurs-at-grizzlies",
@@ -4255,6 +4208,16 @@
    "id": "sch-boerne-hs-2027-01-02-boerne-girls-soccer-at-northside-isd-tournament"
   },
   {
+   "id": "2027-01-02-utsa-bb-at-temple",
+   "category": "utsa-bb",
+   "title": "UTSA at Temple",
+   "startDate": "2027-01-02",
+   "location": "Philadelphia, Pa.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "13:00"
+  },
+  {
    "title": "Champion boys basketball vs. South San",
    "startDate": "2027-01-02",
    "tag": "Home",
@@ -4267,16 +4230,6 @@
    ],
    "audience": "local",
    "id": "sch-champion-hs-2027-01-02-champion-boys-basketball-vs-south-san"
-  },
-  {
-   "id": "2027-01-02-utsa-bb-at-temple",
-   "category": "utsa-bb",
-   "title": "UTSA at Temple",
-   "startDate": "2027-01-02",
-   "location": "Philadelphia, Pa.",
-   "tag": "Away",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "13:00"
   },
   {
    "title": "Boerne boys basketball vs. Mccollum",
@@ -6539,15 +6492,32 @@
    "id": "sch-boerne-ms-north-ms-2027-02-19-musical-public-performance"
   },
   {
-   "id": "2027-02-20-fcdallas-at-austin-fc",
-   "category": "fcdallas",
-   "title": "FC Dallas at Austin FC",
+   "title": "BMSN Spring Musical",
    "startDate": "2027-02-20",
-   "startTime": "19:00",
-   "location": "Q2 Stadium, Austin",
-   "tag": "Away",
-   "tv": "Apple TV",
-   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
+   "startTime": "14:00",
+   "endTime": "15:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2027-02-20-bmsn-spring-musical"
+  },
+  {
+   "title": "Musical Public Performance",
+   "startDate": "2027-02-20",
+   "startTime": "14:00",
+   "endTime": "15:00",
+   "location": "Boerne Middle School North",
+   "sourceURL": "https://bmsn.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-north-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-north-ms-2027-02-20-musical-public-performance"
   },
   {
    "id": "2027-02-20-dynamo-vs-sporting-kansas-city",
@@ -6559,6 +6529,17 @@
    "tag": "Home",
    "tv": "Apple TV",
    "sourceURL": "https://houstondynamofc.com/news/houston-dynamo-fc-announce-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-02-20-fcdallas-at-austin-fc",
+   "category": "fcdallas",
+   "title": "FC Dallas at Austin FC",
+   "startDate": "2027-02-20",
+   "startTime": "19:00",
+   "location": "Q2 Stadium, Austin",
+   "tag": "Away",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
   },
   {
    "id": "2027-02-20-austinfc-vs-fc-dallas",
@@ -6689,17 +6670,6 @@
    "startTime": "16:00"
   },
   {
-   "id": "2027-02-27-fcdallas-vs-portland-timbers",
-   "category": "fcdallas",
-   "title": "FC Dallas vs. Portland Timbers",
-   "startDate": "2027-02-27",
-   "startTime": "19:00",
-   "location": "Toyota Stadium, Frisco",
-   "tag": "Home",
-   "tv": "Apple TV",
-   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
-  },
-  {
    "id": "2027-02-27-dynamo-at-san-jose-earthquakes",
    "category": "dynamo",
    "title": "Houston Dynamo FC at San Jose Earthquakes",
@@ -6709,6 +6679,17 @@
    "tag": "Away",
    "tv": "Apple TV",
    "sourceURL": "https://houstondynamofc.com/news/houston-dynamo-fc-announce-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-02-27-fcdallas-vs-portland-timbers",
+   "category": "fcdallas",
+   "title": "FC Dallas vs. Portland Timbers",
+   "startDate": "2027-02-27",
+   "startTime": "19:00",
+   "location": "Toyota Stadium, Frisco",
+   "tag": "Home",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
   },
   {
    "id": "2027-02-28-spurs-vs-nuggets-austin",
@@ -6776,17 +6757,6 @@
    "tv": "MavsTV+ or League Pass"
   },
   {
-   "id": "2027-03-03-fcdallas-vs-la-galaxy",
-   "category": "fcdallas",
-   "title": "FC Dallas vs. LA Galaxy",
-   "startDate": "2027-03-03",
-   "startTime": "19:00",
-   "location": "Toyota Stadium, Frisco",
-   "tag": "Home",
-   "tv": "Apple TV",
-   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
-  },
-  {
    "id": "2027-03-03-dynamo-vs-vancouver-whitecaps-fc",
    "category": "dynamo",
    "title": "Houston Dynamo FC vs. Vancouver Whitecaps FC",
@@ -6796,6 +6766,17 @@
    "tag": "Home",
    "tv": "Apple TV",
    "sourceURL": "https://houstondynamofc.com/news/houston-dynamo-fc-announce-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-03-03-fcdallas-vs-la-galaxy",
+   "category": "fcdallas",
+   "title": "FC Dallas vs. LA Galaxy",
+   "startDate": "2027-03-03",
+   "startTime": "19:00",
+   "location": "Toyota Stadium, Frisco",
+   "tag": "Home",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
   },
   {
    "id": "2027-03-03-austinfc-vs-colorado-rapids",
@@ -7993,17 +7974,6 @@
    "startTime": "18:10"
   },
   {
-   "id": "2027-04-10-fcdallas-vs-san-jose-earthquakes",
-   "category": "fcdallas",
-   "title": "FC Dallas vs. San Jose Earthquakes",
-   "startDate": "2027-04-10",
-   "startTime": "19:00",
-   "location": "Toyota Stadium, Frisco",
-   "tag": "Home",
-   "tv": "Apple TV",
-   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
-  },
-  {
    "id": "2027-04-10-dynamo-vs-seattle-sounders-fc",
    "category": "dynamo",
    "title": "Houston Dynamo FC vs. Seattle Sounders FC",
@@ -8013,6 +7983,17 @@
    "tag": "Home",
    "tv": "Apple TV",
    "sourceURL": "https://houstondynamofc.com/news/houston-dynamo-fc-announce-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-04-10-fcdallas-vs-san-jose-earthquakes",
+   "category": "fcdallas",
+   "title": "FC Dallas vs. San Jose Earthquakes",
+   "startDate": "2027-04-10",
+   "startTime": "19:00",
+   "location": "Toyota Stadium, Frisco",
+   "tag": "Home",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
   },
   {
    "id": "2027-04-10-austinfc-at-vancouver-whitecaps-fc",
@@ -8312,17 +8293,6 @@
    "startTime": "13:40"
   },
   {
-   "id": "2027-04-21-fcdallas-at-sporting-kansas-city",
-   "category": "fcdallas",
-   "title": "FC Dallas at Sporting Kansas City",
-   "startDate": "2027-04-21",
-   "startTime": "19:00",
-   "location": "Sporting Park, Kansas City",
-   "tag": "Away",
-   "tv": "Apple TV",
-   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
-  },
-  {
    "id": "2027-04-21-dynamo-vs-san-diego-fc",
    "category": "dynamo",
    "title": "Houston Dynamo FC vs. San Diego FC",
@@ -8332,6 +8302,17 @@
    "tag": "Home",
    "tv": "Apple TV",
    "sourceURL": "https://houstondynamofc.com/news/houston-dynamo-fc-announce-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-04-21-fcdallas-at-sporting-kansas-city",
+   "category": "fcdallas",
+   "title": "FC Dallas at Sporting Kansas City",
+   "startDate": "2027-04-21",
+   "startTime": "19:00",
+   "location": "Sporting Park, Kansas City",
+   "tag": "Away",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
   },
   {
    "id": "2027-04-23-rangers-at-mets",
@@ -8374,17 +8355,6 @@
    "startTime": "18:10"
   },
   {
-   "id": "2027-04-24-fcdallas-vs-houston-dynamo-fc",
-   "category": "fcdallas",
-   "title": "FC Dallas vs. Houston Dynamo FC",
-   "startDate": "2027-04-24",
-   "startTime": "19:00",
-   "location": "Toyota Stadium, Frisco",
-   "tag": "Home",
-   "tv": "Apple TV",
-   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
-  },
-  {
    "id": "2027-04-24-dynamo-at-fc-dallas",
    "category": "dynamo",
    "title": "Houston Dynamo FC at FC Dallas",
@@ -8394,6 +8364,17 @@
    "tag": "Away",
    "tv": "Apple TV",
    "sourceURL": "https://houstondynamofc.com/news/houston-dynamo-fc-announce-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-04-24-fcdallas-vs-houston-dynamo-fc",
+   "category": "fcdallas",
+   "title": "FC Dallas vs. Houston Dynamo FC",
+   "startDate": "2027-04-24",
+   "startTime": "19:00",
+   "location": "Toyota Stadium, Frisco",
+   "tag": "Home",
+   "tv": "Apple TV",
+   "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
   },
   {
    "id": "2027-04-24-austinfc-at-minnesota-united-fc",
@@ -8547,45 +8528,45 @@
   {
    "category": "music",
    "title": "Live music around Boerne",
-   "detail": "Most weeks at Dodging Duck Brewhaus, Cibolo Creek Brewing, Pinchy’s Lobster & Raw Bar, Valeria, Tapatio Springs, 259 Brantley’s Bistro & Bar, Bevy Hotel and AgriCultural Museum and Arts Center, and more. See The Boerne Life for the week's lineup.",
+   "detail": "Most weeks at Dodging Duck Brewhaus, Valeria, Cibolo Creek Brewing, Pinchy’s Lobster & Raw Bar, Tapatio Springs, 259 Brantley’s Bistro & Bar, Bevy Hotel and AgriCultural Museum and Arts Center, and more. See The Boerne Life for the week's lineup.",
    "sourceURL": "https://theboernelife.com/things-to-do-in-boerne-this-week/"
   }
  ],
  "notices": [
   {
-   "id": "boerne-pet-50066973",
+   "id": "boerne-pet-50081266",
    "kind": "pets",
-   "title": "Adoptable: Tinsel, 3-month-old Domestic Shorthair",
+   "title": "Adoptable: Jewel, 4-month-old Domestic Shorthair",
    "detail": "Female cat available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
    "level": "info",
-   "url": "https://www.adoptapet.com/pet/50066973-boerne-texas-cat",
+   "url": "https://www.adoptapet.com/pet/50081266-boerne-texas-cat",
    "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
-   "until": "2026-11-22",
-   "asOf": "2026-11-21",
+   "until": "2026-11-23",
+   "asOf": "2026-11-22",
    "collector": "civic"
   },
   {
-   "id": "boerne-pet-50066974",
+   "id": "boerne-pet-41138855",
    "kind": "pets",
-   "title": "Adoptable: Winter, 3-month-old Domestic Shorthair",
-   "detail": "Male cat available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
+   "title": "Adoptable: Zoe, adult terrier (unknown type, small)",
+   "detail": "Female dog available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
    "level": "info",
-   "url": "https://www.adoptapet.com/pet/50066974-boerne-texas-cat",
+   "url": "https://www.adoptapet.com/pet/41138855-boerne-texas-terrier-unknown-type-small-mix",
    "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
-   "until": "2026-11-22",
-   "asOf": "2026-11-21",
+   "until": "2026-11-23",
+   "asOf": "2026-11-22",
    "collector": "civic"
   },
   {
-   "id": "boerne-pet-50068802",
+   "id": "boerne-pet-41290471",
    "kind": "pets",
-   "title": "Adoptable: Bumblebee, 1-month-old Domestic Shorthair",
-   "detail": "Male cat available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
+   "title": "Adoptable: Brownie, puppy american pit bull terrier",
+   "detail": "Male dog available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
    "level": "info",
-   "url": "https://www.adoptapet.com/pet/50068802-boerne-texas-cat",
+   "url": "https://www.adoptapet.com/pet/41290471-boerne-texas-american-pit-bull-terrier-mix",
    "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
-   "until": "2026-11-22",
-   "asOf": "2026-11-21",
+   "until": "2026-11-23",
+   "asOf": "2026-11-22",
    "collector": "civic"
   },
   {
@@ -8597,7 +8578,7 @@
    "url": "https://business.boerne.org/events/details/ribbon-cutting-for-the-fix-wellness-and-aesthetics-34905",
    "source": "Greater Boerne Chamber of Commerce",
    "until": "2026-11-24",
-   "asOf": "2026-11-21",
+   "asOf": "2026-11-22",
    "collector": "civic"
   },
   {
@@ -8609,7 +8590,7 @@
    "url": "https://business.boerne.org/events/details/ribbon-cutting-for-behavior-resource-center-34906",
    "source": "Greater Boerne Chamber of Commerce",
    "until": "2026-11-24",
-   "asOf": "2026-11-21",
+   "asOf": "2026-11-22",
    "collector": "civic"
   },
   {
@@ -8621,7 +8602,7 @@
    "url": "https://business.boerne.org/events/details/ribbon-cutting-for-iron-star-excavation-clearing-35923",
    "source": "Greater Boerne Chamber of Commerce",
    "until": "2026-12-01",
-   "asOf": "2026-11-21",
+   "asOf": "2026-11-22",
    "collector": "civic"
   },
   {
@@ -8632,7 +8613,7 @@
    "level": "info",
    "url": "https://www.boerneisd.net/",
    "source": "Boerne ISD",
-   "asOf": "2026-11-21",
+   "asOf": "2026-11-22",
    "until": "2026-11-27",
    "tags": [
     "district:boerne-isd"
@@ -8648,7 +8629,7 @@
    "level": "info",
    "url": "https://myboernenews.com/holiday-trash-and-recycling-schedule-for-boerne-wm-customers/",
    "source": "City of Boerne",
-   "asOf": "2026-11-21",
+   "asOf": "2026-11-22",
    "until": "2026-12-03",
    "collector": "schools_trash"
   },
@@ -8660,7 +8641,7 @@
    "level": "warn",
    "url": "https://www.ci.boerne.tx.us/1947/Water-Restrictions",
    "source": "City of Boerne (Boerne Utilities)",
-   "asOf": "2026-11-21",
+   "asOf": "2026-11-22",
    "waterDays": {
     "0": "Monday",
     "1": "Monday",
