@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "timeZone": "America/Chicago",
  "title": "Corinth Event Calendar",
  "city": {
@@ -347,28 +347,6 @@
    "location": "Harvest House, 331 E. Hickory St., Denton",
    "description": "Paperback Productions presents staged readings of Lady Susan, an original adaptation of the novella by Jane Austen, written by Claire F. Martin. Hell hath no fury like a widow scorned. 35-year-old Lady Susan Vernon ha…",
    "sourceURL": "https://www.discoverdenton.com/event/lady-susan%3a-a-staged-reading/12514/"
-  },
-  {
-   "id": "2026-11-22-horns-bb-vs-southern-indiana",
-   "category": "horns-bb",
-   "title": "Texas vs. Southern Indiana",
-   "startDate": "2026-11-22",
-   "location": "Moody Center, Austin",
-   "tag": "Home",
-   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
-   "startTime": "14:00",
-   "tv": "SEC Network+"
-  },
-  {
-   "id": "2026-11-22-mavs-at-jazz",
-   "category": "mavs",
-   "title": "Mavericks at Jazz",
-   "startDate": "2026-11-22",
-   "startTime": "18:00",
-   "location": "Salt Lake City",
-   "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
-   "tv": "KFAA 29 or MavsTV+"
   },
   {
    "title": "District Closed (Thanksgiving Break)",
@@ -2610,17 +2588,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "2027-01-01-mavs-at-rockets",
-   "category": "mavs",
-   "title": "Mavericks at Rockets",
-   "startDate": "2027-01-01",
-   "startTime": "19:30",
-   "location": "Houston",
-   "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
-   "tv": "KFAA 29 or MavsTV+"
-  },
-  {
    "id": "2027-01-01-rockets-vs-mavericks",
    "category": "rockets",
    "title": "Rockets vs. Mavericks",
@@ -2630,6 +2597,17 @@
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "id": "2027-01-01-mavs-at-rockets",
+   "category": "mavs",
+   "title": "Mavericks at Rockets",
+   "startDate": "2027-01-01",
+   "startTime": "19:30",
+   "location": "Houston",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "KFAA 29 or MavsTV+"
   },
   {
    "title": "Winter Break",
@@ -3680,6 +3658,20 @@
    "id": "sch-lake-dallas-hs-2027-01-22-ntca-winterguard-contest-host"
   },
   {
+   "title": "Guyer girls basketball vs. Lewisville LHS",
+   "startDate": "2027-01-22",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Guyer Main Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=730FD002-2D34-4C63-8FFD-03CCDD940EFB&S=54&Mt=0",
+   "startTime": "18:00",
+   "tags": [
+    "school:guyer-hs"
+   ],
+   "audience": "local",
+   "id": "sch-guyer-hs-2027-01-22-guyer-girls-basketball-vs-lewisville-lhs"
+  },
+  {
    "id": "2027-01-22-rockets-at-hornets",
    "category": "rockets",
    "title": "Rockets at Hornets",
@@ -3691,6 +3683,20 @@
    "tv": "Space City Home Network"
   },
   {
+   "title": "Lake Dallas girls basketball at Krum",
+   "startDate": "2027-01-22",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Krum High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
+   "startTime": "18:15",
+   "tags": [
+    "school:lake-dallas-hs"
+   ],
+   "audience": "local",
+   "id": "sch-lake-dallas-hs-2027-01-22-lake-dallas-girls-basketball-at-krum"
+  },
+  {
    "id": "2027-01-22-mavs-at-pelicans",
    "category": "mavs",
    "title": "Mavericks at Pelicans",
@@ -3700,6 +3706,34 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
    "tv": "KFAA 29 or MavsTV+"
+  },
+  {
+   "title": "Guyer boys basketball vs. Lewisville LHS",
+   "startDate": "2027-01-22",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Guyer Main Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=730FD002-2D34-4C63-8FFD-03CCDD940EFB&S=54&Mt=0",
+   "startTime": "19:15",
+   "tags": [
+    "school:guyer-hs"
+   ],
+   "audience": "local",
+   "id": "sch-guyer-hs-2027-01-22-guyer-boys-basketball-vs-lewisville-lhs"
+  },
+  {
+   "title": "Lake Dallas boys basketball at Krum",
+   "startDate": "2027-01-22",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Krum High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
+   "startTime": "19:30",
+   "tags": [
+    "school:lake-dallas-hs"
+   ],
+   "audience": "local",
+   "id": "sch-lake-dallas-hs-2027-01-22-lake-dallas-boys-basketball-at-krum"
   },
   {
    "id": "2027-01-22-spurs-vs-timberwolves",
@@ -4006,17 +4040,6 @@
    "startTime": "15:00"
   },
   {
-   "id": "2027-01-31-mavs-vs-rockets",
-   "category": "mavs",
-   "title": "Mavericks vs. Rockets",
-   "startDate": "2027-01-31",
-   "startTime": "19:30",
-   "location": "American Airlines Center, Dallas",
-   "tag": "Home",
-   "tv": "NBC",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
-  },
-  {
    "id": "2027-01-31-rockets-at-mavericks",
    "category": "rockets",
    "title": "Rockets at Mavericks",
@@ -4026,6 +4049,17 @@
    "tag": "Away",
    "tv": "NBC",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-01-31-mavs-vs-rockets",
+   "category": "mavs",
+   "title": "Mavericks vs. Rockets",
+   "startDate": "2027-01-31",
+   "startTime": "19:30",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "id": "2027-02-01-spurs-at-warriors",
@@ -5293,17 +5327,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "2027-03-19-mavs-at-spurs",
-   "category": "mavs",
-   "title": "Mavericks at Spurs",
-   "startDate": "2027-03-19",
-   "startTime": "19:00",
-   "location": "San Antonio",
-   "tag": "Away",
-   "tv": "NBA TV",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
-  },
-  {
    "id": "2027-03-19-rockets-at-pelicans",
    "category": "rockets",
    "title": "Rockets at Pelicans",
@@ -5313,6 +5336,17 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "id": "2027-03-19-mavs-at-spurs",
+   "category": "mavs",
+   "title": "Mavericks at Spurs",
+   "startDate": "2027-03-19",
+   "startTime": "19:00",
+   "location": "San Antonio",
+   "tag": "Away",
+   "tv": "NBA TV",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "id": "2027-03-20-egg-streme-easter-hunt",
@@ -6160,17 +6194,6 @@
    "tv": "DAZN"
   },
   {
-   "id": "2027-04-11-mavs-vs-grizzlies",
-   "category": "mavs",
-   "title": "Mavericks vs. Grizzlies",
-   "startDate": "2027-04-11",
-   "startTime": "19:30",
-   "location": "American Airlines Center, Dallas",
-   "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
-   "tv": "KFAA 29 or MavsTV+"
-  },
-  {
    "id": "2027-04-11-rockets-at-timberwolves",
    "category": "rockets",
    "title": "Rockets at Timberwolves",
@@ -6180,6 +6203,17 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "id": "2027-04-11-mavs-vs-grizzlies",
+   "category": "mavs",
+   "title": "Mavericks vs. Grizzlies",
+   "startDate": "2027-04-11",
+   "startTime": "19:30",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "KFAA 29 or MavsTV+"
   },
   {
    "id": "2027-04-13-rangers-at-reds",
@@ -6629,6 +6663,30 @@
  ],
  "notices": [
   {
+   "id": "corinth-road-txdot-ih0035e-southbound-2026-11-11",
+   "kind": "road",
+   "title": "I-35E: daytime closure only",
+   "detail": "Southbound, 0.793 Miles East of I-35 on I-35E to 1209.12 Feet East of I-35 on I-35E, through Wed Nov 25. Daytime closure only. Left lane closed. Right lane closed. Frontage road right/left lane closures for various…",
+   "level": "info",
+   "url": "http://conditions.drivetexas.org/current/",
+   "source": "TxDOT DriveTexas",
+   "until": "2026-11-25",
+   "asOf": "2026-11-23",
+   "collector": "civic"
+  },
+  {
+   "id": "corinth-road-txdot-ih0035e-northbound-2026-11-11",
+   "kind": "road",
+   "title": "I-35E: daytime closure only",
+   "detail": "Northbound, 1304.16 Feet East of I-35 on I-35E to 5.28 Feet East of I-35 on I-35E, through Wed Nov 25. Daytime closure only. Left lane closed. Right lane closed. Frontage road lane closures for misc items on required…",
+   "level": "info",
+   "url": "http://conditions.drivetexas.org/current/",
+   "source": "TxDOT DriveTexas",
+   "until": "2026-11-25",
+   "asOf": "2026-11-23",
+   "collector": "civic"
+  },
+  {
    "id": "corinth-school-denton-isd-planned-2026-11-23",
    "kind": "school",
    "title": "No school Nov 23 to 25 (Denton ISD)",
@@ -6636,7 +6694,7 @@
    "level": "info",
    "url": "https://guyerhs.dentonisd.org/",
    "source": "Denton ISD",
-   "asOf": "2026-11-22",
+   "asOf": "2026-11-23",
    "until": "2026-11-25",
    "tags": [
     "district:denton-isd"
@@ -6652,7 +6710,7 @@
    "level": "info",
    "url": "https://ce.ldisd.net/",
    "source": "Corinth ES campus calendar",
-   "asOf": "2026-11-22",
+   "asOf": "2026-11-23",
    "until": "2026-11-27",
    "tags": [
     "school:corinth-es"
@@ -6668,7 +6726,7 @@
    "level": "info",
    "url": "https://lde.ldisd.net/",
    "source": "Lake Dallas ES campus calendar",
-   "asOf": "2026-11-22",
+   "asOf": "2026-11-23",
    "until": "2026-11-27",
    "tags": [
     "school:lake-dallas-es"
@@ -6684,7 +6742,7 @@
    "level": "info",
    "url": "https://ldhs.ldisd.net/",
    "source": "Lake Dallas HS campus calendar",
-   "asOf": "2026-11-22",
+   "asOf": "2026-11-23",
    "until": "2026-11-27",
    "tags": [
     "school:lake-dallas-hs"
@@ -6700,7 +6758,7 @@
    "level": "info",
    "url": "https://www.corinthtx.gov/3258/Water-Conservation-and-Drought-Contingen",
    "source": "Upper Trinity Regional Water District",
-   "asOf": "2026-11-22",
+   "asOf": "2026-11-23",
    "collector": "utilities"
   }
  ],
