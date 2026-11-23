@@ -12,7 +12,7 @@ from datetime import date
 
 KEEP = ['short', 'mascot', 'url', 'calendar', 'athletics', 'address', 'member', 'day', 'status',
         'weekday', 'recycleWeekday', 'recycleWeek', 'weekAStart']
-ORDER = ['communities', 'nbisd', 'comal-isd', 'boerne-isd', 'city']
+ORDER = ['communities', 'nbisd', 'comal-isd', 'boerne-isd', 'schools', 'city']
 
 
 def main(research, local_out, events_path):
