@@ -32,7 +32,9 @@ PERMITS, HISTORY, TABC = "jrea-zgmq", "3kx8-uryv", "7hf9-qc9f"
 PAGES = {"comptroller": "https://data.texas.gov/Government-and-Taxes/Active-Sales-Tax-Permit-Holders/jrea-zgmq",
          "tabc": "https://data.texas.gov/Government-and-Taxes/TABC-License-Information/7hf9-qc9f"}
 DAYS, AHEAD, LIMIT = 120, 30, 12
-CITY = {"new-braunfels": "NEW BRAUNFELS", "boerne": "BOERNE"}
+CITY = {"new-braunfels": "NEW BRAUNFELS", "boerne": "BOERNE", "corinth": "CORINTH"}
+# Small towns that share a main street with the city: their new places count too (shown with the town).
+ALSO = {"corinth": ["LAKE DALLAS", "HICKORY CREEK", "SHADY SHORES"]}
 NAICS = {"722511": "restaurant", "722513": "quick bite", "722515": "coffee & treats", "722410": "bar"}
 TABC_TYPES = {"MB": "bar & restaurant", "BG": "restaurant", "BE": "restaurant", "BP": "brewpub"}
 # Not somewhere you'd go "to try": hotels, venues, caterers, stores, institutions.
@@ -59,7 +61,7 @@ def query(dataset, **params):
 def tidy(name):
     name = re.sub(r"\s+", " ", name).strip()
     for _ in range(2):      # "Los Jimadores Grill and Bar LLC #2", "Chipotle Mexican Grill #5720"
-        name = re.sub(r"\s*#\s*\d+$", "", name).strip(" ,.-")
+        name = re.sub(r"\s*#\s*\d+$|\s+\d{4,}$", "", name).strip(" ,.-")
         name = re.sub(r",?\s*\b(l\.?l\.?c\.?|inc\.?|ltd\.?|limited liability company)$", "", name, flags=re.I).strip(" ,.-")
     letters = [c for c in name if c.isalpha()]
     if letters and sum(c.isupper() for c in letters) / len(letters) > 0.7:
@@ -99,6 +101,8 @@ def same_place(a, b):
 
 NEWS = {
     "new-braunfels": [("WhatNow San Antonio", "https://whatnow.com/wp-json/wp/v2/posts", {"search": "New Braunfels"}, r"New Braunfels|Gruene")],
+    "corinth": [("WhatNow Dallas", "https://whatnow.com/wp-json/wp/v2/posts", {"search": "Corinth"}, r"\bCorinth\b|Lake Dallas|Hickory Creek"),
+                ("WhatNow Dallas", "https://whatnow.com/wp-json/wp/v2/posts", {"search": "Denton"}, r"\bDenton\b(?! County)")],
     "boerne": [("The Boerne Life", "https://theboernelife.com/wp-json/wp/v2/posts", {"categories": "4,241"}, r""),
                ("WhatNow San Antonio", "https://whatnow.com/wp-json/wp/v2/posts", {"search": "Boerne"}, r"Boerne|Fair Oaks")],
 }
@@ -138,6 +142,7 @@ def main(path, apply=False):
     today = date.today()
     since, until = (today - timedelta(days=DAYS)).isoformat(), (today + timedelta(days=AHEAD)).isoformat()
     found = {}
+    towns = ",".join(repr(t) for t in [CITY[city]] + ALSO.get(city, []))
 
     def add(name, kind, address, day, source):
         name, address = tidy(name), tidy_address(address)
@@ -153,7 +158,7 @@ def main(path, apply=False):
         found[key] = {"name": name, "kind": kind, "address": address, "since": day, "sources": {source}}
 
     rows = query(PERMITS, select="outlet_name,outlet_address,outlet_naics_code,outlet_first_sales_date",
-                 where=f"outlet_city='{CITY[city]}' AND outlet_first_sales_date between '{since}' and '{until}' "
+                 where=f"outlet_city in({towns}) AND outlet_first_sales_date between '{since}' and '{until}' "
                        f"AND outlet_naics_code in({','.join(NAICS)})",
                  order="outlet_first_sales_date DESC", limit="200")
     for r in rows:
@@ -163,7 +168,7 @@ def main(path, apply=False):
             r["outlet_first_sales_date"][:10], "comptroller")
 
     rows = query(TABC, select="trade_name,license_type,original_issue_date,address",
-                 where=f"upper(city)='{CITY[city]}' AND license_type in({','.join(repr(t) for t in TABC_TYPES)}) "
+                 where=f"upper(city) in({towns}) AND license_type in({','.join(repr(t) for t in TABC_TYPES)}) "
                        f"AND original_issue_date > '{since}T00:00:00' AND license_status='Active'",
                  order="original_issue_date DESC", limit="60")
     for r in rows:
@@ -172,7 +177,7 @@ def main(path, apply=False):
 
     # New owners at an old place: same address and same leading name word, selling before the window.
     history = query(HISTORY, select="loc_name,address_number,address_text,first_sale_date",
-                    where=f"loc_city='{CITY[city]}' AND first_sale_date < '{since}' AND starts_with(naics, '722')",
+                    where=f"loc_city in({towns}) AND first_sale_date < '{since}' AND starts_with(naics, '722')",
                     limit="20000")
     older = {}
     for h in history:
