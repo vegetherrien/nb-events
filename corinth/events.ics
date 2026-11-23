@@ -1,0 +1,1993 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NB Events//New Braunfels Event Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NB Events
+X-WR-CALDESC:Festivals, music, markets, holidays and games around New Braun
+ fels, Texas.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:D
+ AYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T02
+ 0000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZO
+ FFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:
+ FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-22-joan-of-bark-presents-killick-hinds-schmekelhead-joan-of-bar
+ @nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Joan of Bark Presents Killick Hinds\, Schmekelhead\, & Joan of Bark
+  Ensemble
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+LOCATION:Rubber Gloves Rehearsal Studios\, 411 E. Sycamore St.\, Denton
+URL:https://www.discoverdenton.com/event/joan-of-bark-presents-killick-hind
+ s-schmekelhead-%26-joan-of-bark-ensemble/12471/
+DESCRIPTION:SUNDAY\, NOVEMBER 22 ** Killick Hinds (Athens\, GA) | Schmekelh
+ ead (Dallas) | Joan of Bark Ensemble DOORS AT 7:00\, MUSIC AT 7:30 $5-$20 
+ SLIDING SCALE Killick Hinds’s music is self-described as Appalachian Tra
+ nce Metal\, …\nhttps://www.discoverdenton.com/event/joan-of-bark-present
+ s-killick-hinds-schmekelhead-%26-joan-of-bark-ensemble/12471/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-lady-susan-a-staged-reading@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Lady Susan: A Staged Reading
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+LOCATION:Harvest House\, 331 E. Hickory St.\, Denton
+URL:https://www.discoverdenton.com/event/lady-susan%3a-a-staged-reading/125
+ 14/
+DESCRIPTION:Paperback Productions presents staged readings of Lady Susan\, 
+ an original adaptation of the novella by Jane Austen\, written by Claire F
+ . Martin. Hell hath no fury like a widow scorned. 35-year-old Lady Susan V
+ ernon ha…\nhttps://www.discoverdenton.com/event/lady-susan%3a-a-staged-r
+ eading/12514/
+CATEGORIES:Theater & arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-mavs-at-jazz@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Jazz
+DTSTART;TZID=America/Chicago:20261122T180000
+DTEND;TZID=America/Chicago:20261122T200000
+LOCATION:Salt Lake City
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-mavs-at-nuggets@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Nuggets
+DTSTART;TZID=America/Chicago:20261124T210000
+DTEND;TZID=America/Chicago:20261124T230000
+LOCATION:Denver
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: NBC\nhttps://www.cbssports.com/nba/teams/DAL/dallas-maveric
+ ks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-cowboys-vs-eagles@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Cowboys vs. Eagles
+DTSTART;TZID=America/Chicago:20261126T153000
+DTEND;TZID=America/Chicago:20261126T173000
+LOCATION:AT&T Stadium\, Arlington
+URL:https://www.dallascowboys.com/schedule/
+DESCRIPTION:TV: FOX\nhttps://www.dallascowboys.com/schedule/
+CATEGORIES:Cowboys football
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-germany-s-great-bavarian-circus@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Germany's Great Bavarian Circus
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+LOCATION:North Texas Fair & Rodeo\, 2217 N. Carroll Blvd\, Denton
+URL:https://www.discoverdenton.com/event/germanys-great-bavarian-circus/124
+ 37/
+DESCRIPTION:Germany’s Great Bavarian Circus is coming to Denton\, TX! Fou
+ nded in 1985 in München\, Bavaria\, the Spindler family dreamt of bringin
+ g their European-styled circus show to the world. In 2026\, Benjamin & Dav
+ id Spindler a…\nhttps://www.discoverdenton.com/event/germanys-great-bava
+ rian-circus/12437/
+CATEGORIES:Theater & arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-ghosts-gunslingers-greenbacks-the-wild-and-weird-history-of-
+ @nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Ghosts\, Gunslingers & Greenbacks: The Wild (and Weird) History of 
+ Denton
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+LOCATION:PO Box 475\, Argyle
+URL:https://www.discoverdenton.com/event/ghosts-gunslingers-%26-greenbacks%
+ 3a-the-wild-(and-weird)-history-of-denton/12474/
+DESCRIPTION:Ghosts\, Gunslingers & Greenbacks: The Wild (and Weird) History
+  of Denton Come learn about the history of Denton as we take an hour and a
+  half walk around the Square led by a knowledgeable local guide. The talk 
+ will in…\nhttps://www.discoverdenton.com/event/ghosts-gunslingers-%26-gr
+ eenbacks%3a-the-wild-(and-weird)-history-of-denton/12474/
+CATEGORIES:Theater & arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-meangreen-bb-vs-north-dakota-state@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green vs. North Dakota State
+DTSTART;TZID=America/Chicago:20261127T190000
+DTEND;TZID=America/Chicago:20261127T210000
+LOCATION:Idaho Falls\, ID
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-mavs-at-suns@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Suns
+DTSTART;TZID=America/Chicago:20261127T200000
+DTEND;TZID=America/Chicago:20261127T220000
+LOCATION:Phoenix
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-2nd-annual-santa-s-christmas-market@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:2nd Annual Santa's Christmas Market
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+LOCATION:Golden Triangle Mall\, 2201 S. Interstate 35 E.\, Denton
+URL:https://www.discoverdenton.com/event/2nd-annual-santas-christmas-market
+ /12244/
+DESCRIPTION:An Old-World holiday market featuring 40+ unique\, local vendor
+ s\, plus portraits with Santa and Mrs. Claus provided by Hart and Guin Pho
+ tography! A perfect way to support local businesses\, complete your holida
+ y shoppin…\nhttps://www.discoverdenton.com/event/2nd-annual-santas-chris
+ tmas-market/12244/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-meangreen-bb-vs-boise-state@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green vs. Boise State
+DTSTART;TZID=America/Chicago:20261128T143000
+DTEND;TZID=America/Chicago:20261128T163000
+LOCATION:Idaho Falls\, ID
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-meangreen-vs-uab@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green vs. UAB
+DTSTART;TZID=America/Chicago:20261128T150000
+DTEND;TZID=America/Chicago:20261128T170000
+LOCATION:DATCU Stadium\, Denton
+URL:https://meangreensports.com/sports/football/schedule
+DESCRIPTION:https://meangreensports.com/sports/football/schedule
+CATEGORIES:Mean Green football
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-fcdallas-at-portland-timbers@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:FC Dallas at Portland Timbers
+DTSTART;TZID=America/Chicago:20261128T213000
+DTEND;TZID=America/Chicago:20261128T233000
+LOCATION:Providence Park\, Portland
+URL:https://www.fcdallas.com/news/fc-dallas-kickoff-times-and-dates-set-for
+ -audi-2026-mls-cup-playoffs-round-one-best-of-3-series-against-the-portlan
+ d-timbers
+DESCRIPTION:TV: Apple TV\, FS1\, FOX Deportes\nhttps://www.fcdallas.com/new
+ s/fc-dallas-kickoff-times-and-dates-set-for-audi-2026-mls-cup-playoffs-rou
+ nd-one-best-of-3-series-against-the-portland-timbers
+CATEGORIES:FC Dallas soccer
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-meangreen-bb-vs-drake@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green vs. Drake
+DTSTART;TZID=America/Chicago:20261129T173000
+DTEND;TZID=America/Chicago:20261129T193000
+LOCATION:Idaho Falls\, ID
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-mavs-vs-celtics@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Celtics
+DTSTART;TZID=America/Chicago:20261130T190000
+DTEND;TZID=America/Chicago:20261130T210000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-mavs-vs-magic@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Magic
+DTSTART;TZID=America/Chicago:20261202T190000
+DTEND;TZID=America/Chicago:20261202T210000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-denton-arts-walk-of-fame-guided-tour@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Denton Arts Walk of Fame Guided Tour
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+LOCATION:Downtown Denton
+URL:https://www.discoverdenton.com/event/denton-arts-walk-of-fame-guided-to
+ ur/12481/
+DESCRIPTION:First Friday is a great time to sip-and-stroll the downtown Den
+ ton Square festivities! Join this jaunt down E. Hickory’s Denton Arts Wa
+ lk of Fame and learn more about the local legends & historic luminaries im
+ mortaliz…\nhttps://www.discoverdenton.com/event/denton-arts-walk-of-fame
+ -guided-tour/12481/
+CATEGORIES:Theater & arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-meangreen-bb-vs-bradley@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green vs. Bradley
+DTSTART;TZID=America/Chicago:20261204T190000
+DTEND;TZID=America/Chicago:20261204T210000
+LOCATION:UNT Coliseum (The Super Pit)\, Denton
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-breakfast-with-the-grinch@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Breakfast with The Grinch
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+LOCATION:MLK Jr. Rec Center\, Park\, and Playground\, 1300 Wilson\, Denton
+URL:https://www.discoverdenton.com/event/breakfast-with-the-grinch/12075/
+DESCRIPTION:Breakfast with The Grinch is a fun-filled event for the entire 
+ family. Children and parents come to spend time with The Grinch for a wond
+ erful wintry breakfast. The event is at the MLK Jr. Recreation Center (130
+ 0 Wils…\nhttps://www.discoverdenton.com/event/breakfast-with-the-grinch/
+ 12075/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-denton-holiday-lighting-festival@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Denton Holiday Lighting Festival
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+LOCATION:Quakertown Park\, Denton
+URL:https://www.discoverdenton.com/event/denton-holiday-lighting-festival/1
+ 2405/
+DESCRIPTION:Join us for the 39th annual Denton Holiday Lighting Festival! I
+ t's free\, family-friendly and full of lights\, music and hometown holiday
+  spirit in Quakertown Park. 🪗 BRAVE COMBO IS BACK! For the first time i
+ n years\, De…\nhttps://www.discoverdenton.com/event/denton-holiday-light
+ ing-festival/12405/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-meangreen-bb-vs-mississippi-valley-state@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green vs. Mississippi Valley State
+DTSTART;TZID=America/Chicago:20261206T150000
+DTEND;TZID=America/Chicago:20261206T170000
+LOCATION:UNT Coliseum (The Super Pit)\, Denton
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-cowboys-at-seahawks@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Cowboys at Seahawks
+DTSTART;TZID=America/Chicago:20261207T191500
+DTEND;TZID=America/Chicago:20261207T211500
+LOCATION:Lumen Field NFL&#x2B\;
+URL:https://www.dallascowboys.com/schedule/
+DESCRIPTION:TV: ESPN\nhttps://www.dallascowboys.com/schedule/
+CATEGORIES:Cowboys football
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-cookies-cocoa@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Cookies & Cocoa
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+LOCATION:Denia Recreation Center\, 1001 Parvin St.\, Denton
+URL:https://www.discoverdenton.com/event/cookies-%26-cocoa/12311/
+DESCRIPTION:We have 200 cookies and hot chocolate to give out to anyone who
+  drives through. The cookies are individually wrapped and purchased from a
+  local business. This is a first-come\, first-served event. Drive up\, and
+  we will…\nhttps://www.discoverdenton.com/event/cookies-%26-cocoa/12311/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-show-me-reptile-show-denton@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Show Me Reptile Show — Denton
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+LOCATION:LONE STAR EVENTS AND SPORTS\, 222 S Mayhill Rd Ste 101\, Denton
+URL:https://www.discoverdenton.com/event/show-me-reptile-show-%e2%80%94-den
+ ton/12444/
+DESCRIPTION:The Show Me Reptile Show is back in Denton — snakes\, lizards
+ \, geckos\, tarantulas\, vendors\, and supplies. Family-friendly. Advance 
+ tickets $12 GA\, $17 VIP\, kids 7–12 $5\, accessible $12\, 6 and under f
+ ree\; door $15 GA\, $…\nhttps://www.discoverdenton.com/event/show-me-rep
+ tile-show-%e2%80%94-denton/12444/
+CATEGORIES:Festivals & community
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-meangreen-bb-vs-texas-state@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green vs. Texas State
+DTSTART;TZID=America/Chicago:20261213T163000
+DTEND;TZID=America/Chicago:20261213T183000
+LOCATION:Fort Worth\, TX\, Ariat Arena
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-mavs-vs-bucks@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Bucks
+DTSTART;TZID=America/Chicago:20261214T190000
+DTEND;TZID=America/Chicago:20261214T210000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-mavs-at-nets@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Nets
+DTSTART;TZID=America/Chicago:20261216T183000
+DTEND;TZID=America/Chicago:20261216T203000
+LOCATION:Brooklyn
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-meangreen-bb-vs-winthrop@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green vs. Winthrop
+DTSTART;TZID=America/Chicago:20261216T190000
+DTEND;TZID=America/Chicago:20261216T210000
+LOCATION:UNT Coliseum (The Super Pit)\, Denton
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-mavs-at-76ers@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at 76ers
+DTSTART;TZID=America/Chicago:20261217T180000
+DTEND;TZID=America/Chicago:20261217T200000
+LOCATION:Philadelphia
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: NBA TV\nhttps://www.cbssports.com/nba/teams/DAL/dallas-mave
+ ricks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-kwanzaa-celebration@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Kwanzaa Celebration
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+LOCATION:MLK Jr. Rec Center\, Park\, and Playground\, 1300 Wilson\, Denton
+URL:https://www.discoverdenton.com/event/kwanzaa-celebration/12508/
+DESCRIPTION:Kwanzaa was created by Dr. Maulana Karenga. It is based on Afri
+ can harvest festival traditions from across West and Southeast Africa. The
+  celebration lasts one week\, beginning the day after Christmas and ending
+  on New…\nhttps://www.discoverdenton.com/event/kwanzaa-celebration/12508
+ /
+CATEGORIES:Theater & arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-christmas-at-the-commons@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Christmas at the Commons
+DTSTART;TZID=America/Chicago:20261219T150000
+DTEND;TZID=America/Chicago:20261219T200000
+LOCATION:Commons at Agora - 3280 Agora Way  Corinth TX 76208
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
+DESCRIPTION:https://www.corinthtx.gov/calendar.aspx?EID=451\n/common/module
+ s/iCalendar/iCalendar.aspx?feed=calendar&catID=22
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-mavs-vs-bulls@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Bulls
+DTSTART;TZID=America/Chicago:20261219T190000
+DTEND;TZID=America/Chicago:20261219T210000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-meangreen-bb-vs-bethune-cookman@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green vs. Bethune-Cookman
+DTSTART;TZID=America/Chicago:20261220T150000
+DTEND;TZID=America/Chicago:20261220T170000
+LOCATION:UNT Coliseum (The Super Pit)\, Denton
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-cowboys-at-rams@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Cowboys at Rams
+DTSTART;TZID=America/Chicago:20261220T152500
+DTEND;TZID=America/Chicago:20261220T172500
+LOCATION:SoFi Stadium NFL&#x2B\;
+URL:https://www.dallascowboys.com/schedule/
+DESCRIPTION:TV: CBS\nhttps://www.dallascowboys.com/schedule/
+CATEGORIES:Cowboys football
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-meangreen-bb-vs-university-of-the-southwest-n-m@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green vs. University of the Southwest (N.M.)
+DTSTART;TZID=America/Chicago:20261222T130000
+DTEND;TZID=America/Chicago:20261222T150000
+LOCATION:UNT Coliseum (The Super Pit)\, Denton
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-mavs-at-warriors@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Warriors
+DTSTART;TZID=America/Chicago:20261222T213000
+DTEND;TZID=America/Chicago:20261222T233000
+LOCATION:San Francisco
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: NBC\nhttps://www.cbssports.com/nba/teams/DAL/dallas-maveric
+ ks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-mavs-at-kings@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Kings
+DTSTART;TZID=America/Chicago:20261223T210000
+DTEND;TZID=America/Chicago:20261223T230000
+LOCATION:Sacramento
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-26-mavs-vs-suns@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Suns
+DTSTART;TZID=America/Chicago:20261226T190000
+DTEND;TZID=America/Chicago:20261226T210000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: NBA TV\nhttps://www.cbssports.com/nba/teams/DAL/dallas-mave
+ ricks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-27-cowboys-vs-jaguars@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Cowboys vs. Jaguars
+DTSTART;TZID=America/Chicago:20261227T192000
+DTEND;TZID=America/Chicago:20261227T212000
+LOCATION:AT&T Stadium\, Arlington
+URL:https://www.dallascowboys.com/schedule/
+DESCRIPTION:TV: NBC\nhttps://www.dallascowboys.com/schedule/
+CATEGORIES:Cowboys football
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-mavs-vs-heat@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Heat
+DTSTART;TZID=America/Chicago:20261229T190000
+DTEND;TZID=America/Chicago:20261229T210000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: NBC\nhttps://www.cbssports.com/nba/teams/DAL/dallas-maveric
+ ks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-meangreen-bb-at-wichita-state@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green at Wichita State
+DTSTART;TZID=America/Chicago:20261231T200000
+DTEND;TZID=America/Chicago:20261231T220000
+LOCATION:Charles Koch Arena\, Wichita
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-01-breakfast-with-santa-mrs-claus-i-denton-woman-s-club@nb-even
+ ts
+DTSTAMP:20261123T044620Z
+SUMMARY:Breakfast with Santa & Mrs Claus I Denton Woman’s Club
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+LOCATION:Denton Woman's Club Building\, 610 Oakland\, Denton
+URL:https://www.discoverdenton.com/event/breakfast-with-santa-%26-mrs-claus
+ -i-denton-woman%e2%80%99s-club/12472/
+DESCRIPTION:🎅🎄 Breakfast with Santa & Mrs. Claus! 🎄🤶 Make magic
+ al holiday memories with the whole family at the historic Denton Woman’s
+  Club Building! Join Santa and Mrs. Claus for a festive morning filled wit
+ h delicious food\, ho…\nhttps://www.discoverdenton.com/event/breakfast-w
+ ith-santa-%26-mrs-claus-i-denton-woman%e2%80%99s-club/12472/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-01-mavs-at-rockets@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Rockets
+DTSTART;TZID=America/Chicago:20270101T193000
+DTEND;TZID=America/Chicago:20270101T213000
+LOCATION:Houston
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-02-mavs-at-hawks@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Hawks
+DTSTART;TZID=America/Chicago:20270102T183000
+DTEND;TZID=America/Chicago:20270102T203000
+LOCATION:Atlanta
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: NBA TV\nhttps://www.cbssports.com/nba/teams/DAL/dallas-mave
+ ricks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-03-cowboys-vs-giants@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Cowboys vs. Giants
+DTSTART;TZID=America/Chicago:20270103T120000
+DTEND;TZID=America/Chicago:20270103T140000
+LOCATION:AT&T Stadium\, Arlington
+URL:https://www.dallascowboys.com/schedule/
+DESCRIPTION:TV: FOX\nhttps://www.dallascowboys.com/schedule/
+CATEGORIES:Cowboys football
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-mavs-at-pelicans@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Pelicans
+DTSTART;TZID=America/Chicago:20270104T190000
+DTEND;TZID=America/Chicago:20270104T210000
+LOCATION:New Orleans
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-meangreen-bb-vs-florida-atlantic@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green vs. Florida Atlantic
+DTSTART;TZID=America/Chicago:20270106T190000
+DTEND;TZID=America/Chicago:20270106T210000
+LOCATION:UNT Coliseum (The Super Pit)\, Denton
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-mavs-vs-trail-blazers@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Trail Blazers
+DTSTART;TZID=America/Chicago:20270107T190000
+DTEND;TZID=America/Chicago:20270107T210000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-mavs-vs-suns@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Suns
+DTSTART;TZID=America/Chicago:20270108T203000
+DTEND;TZID=America/Chicago:20270108T223000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: ESPN\nhttps://www.cbssports.com/nba/teams/DAL/dallas-maveri
+ cks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-10-meangreen-bb-at-rice@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green at Rice
+DTSTART;TZID=America/Chicago:20270110T170000
+DTEND;TZID=America/Chicago:20270110T190000
+LOCATION:Tudor Fieldhouse\, Houston
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-10-mavs-at-grizzlies@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Grizzlies
+DTSTART;TZID=America/Chicago:20270110T170000
+DTEND;TZID=America/Chicago:20270110T190000
+LOCATION:Memphis
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-mavs-at-grizzlies@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Grizzlies
+DTSTART;TZID=America/Chicago:20270112T190000
+DTEND;TZID=America/Chicago:20270112T210000
+LOCATION:Memphis
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-mavs-at-pistons@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Pistons
+DTSTART;TZID=America/Chicago:20270114T180000
+DTEND;TZID=America/Chicago:20270114T200000
+LOCATION:Detroit
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-meangreen-bb-vs-tulane@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green vs. Tulane
+DTSTART;TZID=America/Chicago:20270114T190000
+DTEND;TZID=America/Chicago:20270114T210000
+LOCATION:UNT Coliseum (The Super Pit)\, Denton
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-16-mavs-at-knicks@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Knicks
+DTSTART;TZID=America/Chicago:20270116T183000
+DTEND;TZID=America/Chicago:20270116T203000
+LOCATION:New York
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: NBA TV\nhttps://www.cbssports.com/nba/teams/DAL/dallas-mave
+ ricks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-17-meangreen-bb-vs-charlotte@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green vs. Charlotte
+DTSTART;TZID=America/Chicago:20270117T150000
+DTEND;TZID=America/Chicago:20270117T170000
+LOCATION:UNT Coliseum (The Super Pit)\, Denton
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-mavs-vs-thunder@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Thunder
+DTSTART;TZID=America/Chicago:20270118T190000
+DTEND;TZID=America/Chicago:20270118T210000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-mavs-vs-hornets@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Hornets
+DTSTART;TZID=America/Chicago:20270119T190000
+DTEND;TZID=America/Chicago:20270119T210000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: NBC\nhttps://www.cbssports.com/nba/teams/DAL/dallas-maveric
+ ks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-meangreen-bb-vs-wichita-state@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green vs. Wichita State
+DTSTART;TZID=America/Chicago:20270120T190000
+DTEND;TZID=America/Chicago:20270120T210000
+LOCATION:UNT Coliseum (The Super Pit)\, Denton
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-mavs-at-pelicans@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Pelicans
+DTSTART;TZID=America/Chicago:20270122T190000
+DTEND;TZID=America/Chicago:20270122T210000
+LOCATION:New Orleans
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-23-meangreen-bb-at-memphis@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green at Memphis
+DTSTART;TZID=America/Chicago:20270123T140000
+DTEND;TZID=America/Chicago:20270123T160000
+LOCATION:FedEx Forum\, Memphis
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-23-mavs-vs-cavaliers@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Cavaliers
+DTSTART;TZID=America/Chicago:20270123T190000
+DTEND;TZID=America/Chicago:20270123T210000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-25-mavs-at-bulls@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Bulls
+DTSTART;TZID=America/Chicago:20270125T190000
+DTEND;TZID=America/Chicago:20270125T210000
+LOCATION:Chicago
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-mavs-at-raptors@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Raptors
+DTSTART;TZID=America/Chicago:20270127T183000
+DTEND;TZID=America/Chicago:20270127T203000
+LOCATION:Toronto
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-meangreen-bb-at-utsa@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green at UTSA
+DTSTART;TZID=America/Chicago:20270128T200000
+DTEND;TZID=America/Chicago:20270128T220000
+LOCATION:Convocation Center\, San Antonio
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-mavs-vs-pistons@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Pistons
+DTSTART;TZID=America/Chicago:20270129T190000
+DTEND;TZID=America/Chicago:20270129T210000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-30-there-s-no-place-like-home-a-tribute-to-judy-garland@nb-even
+ ts
+DTSTAMP:20261123T044620Z
+SUMMARY:There's No Place Like Home: A Tribute to Judy Garland
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+LOCATION:Dan's Silverleaf\, 103 Industrial\, Denton
+URL:https://www.discoverdenton.com/event/theres-no-place-like-home%3a-a-tri
+ bute-to-judy-garland/12033/
+DESCRIPTION:There's No Place Like Home: A Tribute to Judy Garland Somewhere
+  over the rainbow\, everyone deserves a place to call home. 🌈🏠 Join 
+ Denton Affordable Housing Corporation for an unforgettable evening celebra
+ ting the musi…\nhttps://www.discoverdenton.com/event/theres-no-place-lik
+ e-home%3a-a-tribute-to-judy-garland/12033/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-31-meangreen-bb-vs-tulsa@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green vs. Tulsa
+DTSTART;TZID=America/Chicago:20270131T150000
+DTEND;TZID=America/Chicago:20270131T170000
+LOCATION:UNT Coliseum (The Super Pit)\, Denton
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-31-mavs-vs-rockets@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Rockets
+DTSTART;TZID=America/Chicago:20270131T193000
+DTEND;TZID=America/Chicago:20270131T213000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: NBC\nhttps://www.cbssports.com/nba/teams/DAL/dallas-maveric
+ ks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-mavs-vs-raptors@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Raptors
+DTSTART;TZID=America/Chicago:20270202T190000
+DTEND;TZID=America/Chicago:20270202T210000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-meangreen-bb-vs-temple@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green vs. Temple
+DTSTART;TZID=America/Chicago:20270203T190000
+DTEND;TZID=America/Chicago:20270203T210000
+LOCATION:UNT Coliseum (The Super Pit)\, Denton
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-mavs-at-nuggets@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Nuggets
+DTSTART;TZID=America/Chicago:20270204T210000
+DTEND;TZID=America/Chicago:20270204T230000
+LOCATION:Denver
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: Prime Video\nhttps://www.cbssports.com/nba/teams/DAL/dallas
+ -mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-06-aubory-bugg-denton@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Aubory Bugg - Denton
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+LOCATION:Rubber Gloves Rehearsal Studios\, 411 E. Sycamore St.\, Denton
+URL:https://www.discoverdenton.com/event/aubory-bugg-denton/12356/
+DESCRIPTION:Get ready for an unforgettable night as Aubory Bugg takes the s
+ tage in Denton! Join us at The Showroom at Rubber Gloves Rehearsal Studios
+ \, where the intimate atmosphere and vibrant energy create the perfect bac
+ kdrop f…\nhttps://www.discoverdenton.com/event/aubory-bugg-denton/12356/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-06-mavs-vs-jazz@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Jazz
+DTSTART;TZID=America/Chicago:20270206T140000
+DTEND;TZID=America/Chicago:20270206T160000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-07-mavs-vs-clippers@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Clippers
+DTSTART;TZID=America/Chicago:20270207T153000
+DTEND;TZID=America/Chicago:20270207T173000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-mavs-vs-spurs@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Spurs
+DTSTART;TZID=America/Chicago:20270209T190000
+DTEND;TZID=America/Chicago:20270209T210000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: NBC\nhttps://www.cbssports.com/nba/teams/DAL/dallas-maveric
+ ks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-11-mavs-vs-trail-blazers@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Trail Blazers
+DTSTART;TZID=America/Chicago:20270211T190000
+DTEND;TZID=America/Chicago:20270211T210000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-11-meangreen-bb-at-uab@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green at UAB
+DTSTART;TZID=America/Chicago:20270211T193000
+DTEND;TZID=America/Chicago:20270211T213000
+LOCATION:Bartow Arena\, Birmingham
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-13-mavs-at-hornets@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Hornets
+DTSTART;TZID=America/Chicago:20270213T140000
+DTEND;TZID=America/Chicago:20270213T160000
+LOCATION:Charlotte
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: Prime Video\nhttps://www.cbssports.com/nba/teams/DAL/dallas
+ -mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-14-meangreen-bb-at-tulsa@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green at Tulsa
+DTSTART;TZID=America/Chicago:20270214T140000
+DTEND;TZID=America/Chicago:20270214T160000
+LOCATION:Reynolds Center\, Tulsa
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-15-mavs-vs-76ers@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. 76ers
+DTSTART;TZID=America/Chicago:20270215T133000
+DTEND;TZID=America/Chicago:20270215T153000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: NBC\nhttps://www.cbssports.com/nba/teams/DAL/dallas-maveric
+ ks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-mavs-at-magic@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Magic
+DTSTART;TZID=America/Chicago:20270217T180000
+DTEND;TZID=America/Chicago:20270217T200000
+LOCATION:Orlando
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-meangreen-bb-vs-memphis@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green vs. Memphis
+DTSTART;TZID=America/Chicago:20270217T190000
+DTEND;TZID=America/Chicago:20270217T210000
+LOCATION:UNT Coliseum (The Super Pit)\, Denton
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-20-fcdallas-at-austin-fc@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:FC Dallas at Austin FC
+DTSTART;TZID=America/Chicago:20270220T190000
+DTEND;TZID=America/Chicago:20270220T210000
+LOCATION:Q2 Stadium\, Austin
+URL:https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-seaso
+ n-schedule
+DESCRIPTION:TV: Apple TV\nhttps://www.fcdallas.com/news/fc-dallas-announces
+ -2027-mls-sprint-season-schedule
+CATEGORIES:FC Dallas soccer
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-21-meangreen-bb-at-florida-atlantic@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green at Florida Atlantic
+DTSTART;TZID=America/Chicago:20270221T140000
+DTEND;TZID=America/Chicago:20270221T160000
+LOCATION:Baldwin Arena\, Boca Raton
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-24-meangreen-bb-at-south-florida@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green at South Florida
+DTSTART;TZID=America/Chicago:20270224T190000
+DTEND;TZID=America/Chicago:20270224T210000
+LOCATION:Yuengling Center\, Tampa
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-25-mavs-at-warriors@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Warriors
+DTSTART;TZID=America/Chicago:20270225T210000
+DTEND;TZID=America/Chicago:20270225T230000
+LOCATION:San Francisco
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: Prime Video\nhttps://www.cbssports.com/nba/teams/DAL/dallas
+ -mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-26-mavs-at-trail-blazers@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Trail Blazers
+DTSTART;TZID=America/Chicago:20270226T210000
+DTEND;TZID=America/Chicago:20270226T230000
+LOCATION:Portland
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-27-meangreen-bb-vs-utsa@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green vs. UTSA
+DTSTART;TZID=America/Chicago:20270227T170000
+DTEND;TZID=America/Chicago:20270227T190000
+LOCATION:UNT Coliseum (The Super Pit)\, Denton
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-27-fcdallas-vs-portland-timbers@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:FC Dallas vs. Portland Timbers
+DTSTART;TZID=America/Chicago:20270227T190000
+DTEND;TZID=America/Chicago:20270227T210000
+LOCATION:Toyota Stadium\, Frisco
+URL:https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-seaso
+ n-schedule
+DESCRIPTION:TV: Apple TV\nhttps://www.fcdallas.com/news/fc-dallas-announces
+ -2027-mls-sprint-season-schedule
+CATEGORIES:FC Dallas soccer
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-28-mavs-vs-lakers@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Lakers
+DTSTART;TZID=America/Chicago:20270228T143000
+DTEND;TZID=America/Chicago:20270228T163000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: ABC\nhttps://www.cbssports.com/nba/teams/DAL/dallas-maveric
+ ks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-02-meangreen-bb-at-east-carolina@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green at East Carolina
+DTSTART;TZID=America/Chicago:20270302T190000
+DTEND;TZID=America/Chicago:20270302T210000
+LOCATION:Minges Coliseum\, Greenville
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-02-mavs-vs-warriors@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Warriors
+DTSTART;TZID=America/Chicago:20270302T190000
+DTEND;TZID=America/Chicago:20270302T210000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-03-fcdallas-vs-la-galaxy@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:FC Dallas vs. LA Galaxy
+DTSTART;TZID=America/Chicago:20270303T190000
+DTEND;TZID=America/Chicago:20270303T210000
+LOCATION:Toyota Stadium\, Frisco
+URL:https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-seaso
+ n-schedule
+DESCRIPTION:TV: Apple TV\nhttps://www.fcdallas.com/news/fc-dallas-announces
+ -2027-mls-sprint-season-schedule
+CATEGORIES:FC Dallas soccer
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-04-texas-storytelling-festival@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Texas Storytelling Festival
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+LOCATION:Denton Civic Center\, 321 E McKinney\, Denton
+URL:https://www.discoverdenton.com/event/texas-storytelling-festival/12331/
+DESCRIPTION:**42nd Texas Storytelling Festival — New Voices\, Familiar Fa
+ ces** **March 4–7\, 2027 | Denton\, Texas** Everybody has a story. Come 
+ experience the magic of hearing them told! The Tejas Storytelling Associat
+ ion invites y…\nhttps://www.discoverdenton.com/event/texas-storytelling-
+ festival/12331/
+CATEGORIES:Festivals & community
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-04-mavs-vs-knicks@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Knicks
+DTSTART;TZID=America/Chicago:20270304T203000
+DTEND;TZID=America/Chicago:20270304T223000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: Prime Video\nhttps://www.cbssports.com/nba/teams/DAL/dallas
+ -mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-06-fcdallas-at-san-diego-fc@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:FC Dallas at San Diego FC
+DTSTART;TZID=America/Chicago:20270306T210000
+DTEND;TZID=America/Chicago:20270306T230000
+LOCATION:Snapdragon Stadium\, San Diego
+URL:https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-seaso
+ n-schedule
+DESCRIPTION:TV: Apple TV\nhttps://www.fcdallas.com/news/fc-dallas-announces
+ -2027-mls-sprint-season-schedule
+CATEGORIES:FC Dallas soccer
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-07-meangreen-bb-vs-rice@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mean Green vs. Rice
+DTSTART;TZID=America/Chicago:20270307T150000
+DTEND;TZID=America/Chicago:20270307T170000
+LOCATION:UNT Coliseum (The Super Pit)\, Denton
+URL:https://meangreensports.com/sports/mens-basketball/schedule
+DESCRIPTION:https://meangreensports.com/sports/mens-basketball/schedule
+CATEGORIES:Mean Green basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-08-mavs-at-thunder@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Thunder
+DTSTART;TZID=America/Chicago:20270308T203000
+DTEND;TZID=America/Chicago:20270308T223000
+LOCATION:Oklahoma City
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-09-mavs-vs-grizzlies@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Grizzlies
+DTSTART;TZID=America/Chicago:20270309T190000
+DTEND;TZID=America/Chicago:20270309T210000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-11-mavs-vs-wizards@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Wizards
+DTSTART;TZID=America/Chicago:20270311T190000
+DTEND;TZID=America/Chicago:20270311T210000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-13-shamrock-roll@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Shamrock & Roll
+DTSTART;TZID=America/Chicago:20270313T150000
+DTEND;TZID=America/Chicago:20270313T210000
+LOCATION:Commons at Agora - 3280 Agora Way  Corinth TX 76208
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
+DESCRIPTION:We're turning up the volume and celebrating St. Patrick's Day l
+ ike never before at the Commons at Agora during Shamrock & Roll! https://w
+ ww.corinthtx.gov/calendar.aspx?EID=536\n/common/modules/iCalendar/iCalenda
+ r.aspx?feed=calendar&catID=22
+CATEGORIES:Festivals & community
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-13-fcdallas-vs-colorado-rapids@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:FC Dallas vs. Colorado Rapids
+DTSTART;TZID=America/Chicago:20270313T190000
+DTEND;TZID=America/Chicago:20270313T210000
+LOCATION:Toyota Stadium\, Frisco
+URL:https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-seaso
+ n-schedule
+DESCRIPTION:TV: Apple TV\nhttps://www.fcdallas.com/news/fc-dallas-announces
+ -2027-mls-sprint-season-schedule
+CATEGORIES:FC Dallas soccer
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-13-mavs-vs-pelicans@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Pelicans
+DTSTART;TZID=America/Chicago:20270313T190000
+DTEND;TZID=America/Chicago:20270313T210000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-15-mavs-vs-hawks@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Hawks
+DTSTART;TZID=America/Chicago:20270315T203000
+DTEND;TZID=America/Chicago:20270315T223000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-17-mavs-at-thunder@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Thunder
+DTSTART;TZID=America/Chicago:20270317T183000
+DTEND;TZID=America/Chicago:20270317T203000
+LOCATION:Oklahoma City
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: ESPN\nhttps://www.cbssports.com/nba/teams/DAL/dallas-maveri
+ cks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-19-mavs-at-spurs@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Spurs
+DTSTART;TZID=America/Chicago:20270319T190000
+DTEND;TZID=America/Chicago:20270319T210000
+LOCATION:San Antonio
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: NBA TV\nhttps://www.cbssports.com/nba/teams/DAL/dallas-mave
+ ricks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-20-egg-streme-easter-hunt@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Egg-Streme Easter Hunt
+DTSTART;TZID=America/Chicago:20270320T140000
+DTEND;TZID=America/Chicago:20270320T180000
+LOCATION:Corinth Community Park - Baseball/Softball - 4001 Corinth Pkwy  Co
+ rinth TX 76208
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
+DESCRIPTION:The Egg-Streme Easter Hunt is back at the Corinth Community Par
+ k and we're ready to celebrate with you! https://www.corinthtx.gov/calenda
+ r.aspx?EID=537\n/common/modules/iCalendar/iCalendar.aspx?feed=calendar&cat
+ ID=22
+CATEGORIES:Festivals & community
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-20-fcdallas-at-real-salt-lake@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:FC Dallas at Real Salt Lake
+DTSTART;TZID=America/Chicago:20270320T200000
+DTEND;TZID=America/Chicago:20270320T220000
+LOCATION:America First Field\, Sandy
+URL:https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-seaso
+ n-schedule
+DESCRIPTION:TV: Apple TV\nhttps://www.fcdallas.com/news/fc-dallas-announces
+ -2027-mls-sprint-season-schedule
+CATEGORIES:FC Dallas soccer
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-21-mavs-at-lakers@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Lakers
+DTSTART;TZID=America/Chicago:20270321T210000
+DTEND;TZID=America/Chicago:20270321T230000
+LOCATION:Los Angeles
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: NBC\nhttps://www.cbssports.com/nba/teams/DAL/dallas-maveric
+ ks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-22-mavs-at-clippers@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Clippers
+DTSTART;TZID=America/Chicago:20270322T213000
+DTEND;TZID=America/Chicago:20270322T233000
+LOCATION:Los Angeles
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-24-mavs-at-timberwolves@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Timberwolves
+DTSTART;TZID=America/Chicago:20270324T190000
+DTEND;TZID=America/Chicago:20270324T210000
+LOCATION:Minneapolis
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-25-rangers-at-astros@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers at Astros
+DTSTART;TZID=America/Chicago:20270325T151000
+DTEND;TZID=America/Chicago:20270325T171000
+LOCATION:Daikin Park\, Houston
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-26-rangers-at-astros@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers at Astros
+DTSTART;TZID=America/Chicago:20270326T181000
+DTEND;TZID=America/Chicago:20270326T201000
+LOCATION:Daikin Park\, Houston
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-26-mavs-vs-pelicans@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Pelicans
+DTSTART;TZID=America/Chicago:20270326T190000
+DTEND;TZID=America/Chicago:20270326T210000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-27-fcdallas-vs-vancouver-whitecaps-fc@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:FC Dallas vs. Vancouver Whitecaps FC
+DTSTART;TZID=America/Chicago:20270327T190000
+DTEND;TZID=America/Chicago:20270327T210000
+LOCATION:Toyota Stadium\, Frisco
+URL:https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-seaso
+ n-schedule
+DESCRIPTION:TV: Apple TV\nhttps://www.fcdallas.com/news/fc-dallas-announces
+ -2027-mls-sprint-season-schedule
+CATEGORIES:FC Dallas soccer
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-27-rangers-at-astros@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers at Astros
+DTSTART;TZID=America/Chicago:20270327T191000
+DTEND;TZID=America/Chicago:20270327T211000
+LOCATION:Daikin Park\, Houston
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-28-mavs-at-wizards@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Wizards
+DTSTART;TZID=America/Chicago:20270328T170000
+DTEND;TZID=America/Chicago:20270328T190000
+LOCATION:Washington
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-29-mavs-at-bucks@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Bucks
+DTSTART;TZID=America/Chicago:20270329T190000
+DTEND;TZID=America/Chicago:20270329T210000
+LOCATION:Milwaukee
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-29-rangers-at-mariners@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers at Mariners
+DTSTART;TZID=America/Chicago:20270329T204000
+DTEND;TZID=America/Chicago:20270329T224000
+LOCATION:T-Mobile Park\, Seattle
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-30-rangers-at-mariners@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers at Mariners
+DTSTART;TZID=America/Chicago:20270330T204000
+DTEND;TZID=America/Chicago:20270330T224000
+LOCATION:T-Mobile Park\, Seattle
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-31-rangers-at-mariners@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers at Mariners
+DTSTART;TZID=America/Chicago:20270331T151000
+DTEND;TZID=America/Chicago:20270331T171000
+LOCATION:T-Mobile Park\, Seattle
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-31-mavs-vs-nuggets@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Nuggets
+DTSTART;TZID=America/Chicago:20270331T203000
+DTEND;TZID=America/Chicago:20270331T223000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: ESPN\nhttps://www.cbssports.com/nba/teams/DAL/dallas-maveri
+ cks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-01-rangers-vs-athletics@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers vs. Athletics
+DTSTART;TZID=America/Chicago:20270401T161000
+DTEND;TZID=America/Chicago:20270401T181000
+LOCATION:Globe Life Field\, Arlington
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-02-mavs-vs-kings@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Kings
+DTSTART;TZID=America/Chicago:20270402T190000
+DTEND;TZID=America/Chicago:20270402T210000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-02-rangers-vs-athletics@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers vs. Athletics
+DTSTART;TZID=America/Chicago:20270402T191000
+DTEND;TZID=America/Chicago:20270402T211000
+LOCATION:Globe Life Field\, Arlington
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-03-rangers-vs-athletics@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers vs. Athletics
+DTSTART;TZID=America/Chicago:20270403T181000
+DTEND;TZID=America/Chicago:20270403T201000
+LOCATION:Globe Life Field\, Arlington
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-03-fcdallas-at-los-angeles-football-club@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:FC Dallas at Los Angeles Football Club
+DTSTART;TZID=America/Chicago:20270403T210000
+DTEND;TZID=America/Chicago:20270403T230000
+LOCATION:BMO Stadium\, Los Angeles
+URL:https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-seaso
+ n-schedule
+DESCRIPTION:TV: Apple TV\nhttps://www.fcdallas.com/news/fc-dallas-announces
+ -2027-mls-sprint-season-schedule
+CATEGORIES:FC Dallas soccer
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-04-rangers-vs-athletics@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers vs. Athletics
+DTSTART;TZID=America/Chicago:20270404T134000
+DTEND;TZID=America/Chicago:20270404T154000
+LOCATION:Globe Life Field\, Arlington
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-04-mavs-vs-timberwolves@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Timberwolves
+DTSTART;TZID=America/Chicago:20270404T140000
+DTEND;TZID=America/Chicago:20270404T160000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: NBA TV\nhttps://www.cbssports.com/nba/teams/DAL/dallas-mave
+ ricks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-06-rangers-vs-rays@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers vs. Rays
+DTSTART;TZID=America/Chicago:20270406T191000
+DTEND;TZID=America/Chicago:20270406T211000
+LOCATION:Globe Life Field\, Arlington
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-06-mavs-at-lakers@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Lakers
+DTSTART;TZID=America/Chicago:20270406T210000
+DTEND;TZID=America/Chicago:20270406T230000
+LOCATION:Los Angeles
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-07-rangers-vs-rays@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers vs. Rays
+DTSTART;TZID=America/Chicago:20270407T191000
+DTEND;TZID=America/Chicago:20270407T211000
+LOCATION:Globe Life Field\, Arlington
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-07-mavs-at-trail-blazers@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Trail Blazers
+DTSTART;TZID=America/Chicago:20270407T210000
+DTEND;TZID=America/Chicago:20270407T230000
+LOCATION:Portland
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-08-rangers-vs-rays@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers vs. Rays
+DTSTART;TZID=America/Chicago:20270408T134000
+DTEND;TZID=America/Chicago:20270408T154000
+LOCATION:Globe Life Field\, Arlington
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-09-rangers-at-cubs@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers at Cubs
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+LOCATION:Wrigley Field\, Chicago
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-09-mavs-at-kings@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks at Kings
+DTSTART;TZID=America/Chicago:20270409T210000
+DTEND;TZID=America/Chicago:20270409T230000
+LOCATION:Sacramento
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-10-rangers-at-cubs@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers at Cubs
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+LOCATION:Wrigley Field\, Chicago
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-10-touch-a-truck@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Touch-A-Truck
+DTSTART;TZID=America/Chicago:20270410T103000
+DTEND;TZID=America/Chicago:20270410T133000
+LOCATION:Commons at Agora - 3280 Agora Way  Corinth TX 76208
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
+DESCRIPTION:Come explore\, climb\, and learn more about all your favorite v
+ ehicles and city departments at Touch-A-Truck at the Commons at Agora! htt
+ ps://www.corinthtx.gov/calendar.aspx?EID=538\n/common/modules/iCalendar/iC
+ alendar.aspx?feed=calendar&catID=22
+CATEGORIES:Festivals & community
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-10-fcdallas-vs-san-jose-earthquakes@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:FC Dallas vs. San Jose Earthquakes
+DTSTART;TZID=America/Chicago:20270410T190000
+DTEND;TZID=America/Chicago:20270410T210000
+LOCATION:Toyota Stadium\, Frisco
+URL:https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-seaso
+ n-schedule
+DESCRIPTION:TV: Apple TV\nhttps://www.fcdallas.com/news/fc-dallas-announces
+ -2027-mls-sprint-season-schedule
+CATEGORIES:FC Dallas soccer
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-11-rangers-at-cubs@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers at Cubs
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+LOCATION:Wrigley Field\, Chicago
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-11-mavs-vs-grizzlies@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Mavericks vs. Grizzlies
+DTSTART;TZID=America/Chicago:20270411T193000
+DTEND;TZID=America/Chicago:20270411T213000
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
+DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
+ /dallas-mavericks/schedule/
+CATEGORIES:Mavericks basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-13-rangers-at-reds@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers at Reds
+DTSTART;TZID=America/Chicago:20270413T174000
+DTEND;TZID=America/Chicago:20270413T194000
+LOCATION:Great American Ball Park\, Cincinnati
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-14-rangers-at-reds@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers at Reds
+DTSTART;TZID=America/Chicago:20270414T174000
+DTEND;TZID=America/Chicago:20270414T194000
+LOCATION:Great American Ball Park\, Cincinnati
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-15-rangers-at-reds@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers at Reds
+DTSTART;TZID=America/Chicago:20270415T114000
+DTEND;TZID=America/Chicago:20270415T134000
+LOCATION:Great American Ball Park\, Cincinnati
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-16-rangers-vs-cardinals@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers vs. Cardinals
+DTSTART;TZID=America/Chicago:20270416T191000
+DTEND;TZID=America/Chicago:20270416T211000
+LOCATION:Globe Life Field\, Arlington
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-17-rangers-vs-cardinals@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers vs. Cardinals
+DTSTART;TZID=America/Chicago:20270417T181000
+DTEND;TZID=America/Chicago:20270417T201000
+LOCATION:Globe Life Field\, Arlington
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-17-fcdallas-at-seattle-sounders-fc@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:FC Dallas at Seattle Sounders FC
+DTSTART;TZID=America/Chicago:20270417T190000
+DTEND;TZID=America/Chicago:20270417T210000
+LOCATION:Lumen Field\, Seattle
+URL:https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-seaso
+ n-schedule
+DESCRIPTION:TV: Apple TV\nhttps://www.fcdallas.com/news/fc-dallas-announces
+ -2027-mls-sprint-season-schedule
+CATEGORIES:FC Dallas soccer
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-18-rangers-vs-cardinals@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers vs. Cardinals
+DTSTART;TZID=America/Chicago:20270418T134000
+DTEND;TZID=America/Chicago:20270418T154000
+LOCATION:Globe Life Field\, Arlington
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-19-rangers-vs-mariners@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers vs. Mariners
+DTSTART;TZID=America/Chicago:20270419T191000
+DTEND;TZID=America/Chicago:20270419T211000
+LOCATION:Globe Life Field\, Arlington
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-20-rangers-vs-mariners@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers vs. Mariners
+DTSTART;TZID=America/Chicago:20270420T191000
+DTEND;TZID=America/Chicago:20270420T211000
+LOCATION:Globe Life Field\, Arlington
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-21-rangers-vs-mariners@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers vs. Mariners
+DTSTART;TZID=America/Chicago:20270421T134000
+DTEND;TZID=America/Chicago:20270421T154000
+LOCATION:Globe Life Field\, Arlington
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-21-fcdallas-at-sporting-kansas-city@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:FC Dallas at Sporting Kansas City
+DTSTART;TZID=America/Chicago:20270421T190000
+DTEND;TZID=America/Chicago:20270421T210000
+LOCATION:Sporting Park\, Kansas City
+URL:https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-seaso
+ n-schedule
+DESCRIPTION:TV: Apple TV\nhttps://www.fcdallas.com/news/fc-dallas-announces
+ -2027-mls-sprint-season-schedule
+CATEGORIES:FC Dallas soccer
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-23-rangers-at-mets@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers at Mets
+DTSTART;TZID=America/Chicago:20270423T181000
+DTEND;TZID=America/Chicago:20270423T201000
+LOCATION:Citi Field\, Flushing
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-24-rangers-at-mets@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers at Mets
+DTSTART;TZID=America/Chicago:20270424T151000
+DTEND;TZID=America/Chicago:20270424T171000
+LOCATION:Citi Field\, Flushing
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-24-fcdallas-vs-houston-dynamo-fc@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:FC Dallas vs. Houston Dynamo FC
+DTSTART;TZID=America/Chicago:20270424T190000
+DTEND;TZID=America/Chicago:20270424T210000
+LOCATION:Toyota Stadium\, Frisco
+URL:https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-seaso
+ n-schedule
+DESCRIPTION:TV: Apple TV\nhttps://www.fcdallas.com/news/fc-dallas-announces
+ -2027-mls-sprint-season-schedule
+CATEGORIES:FC Dallas soccer
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-25-rangers-at-mets@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers at Mets
+DTSTART;TZID=America/Chicago:20270425T124000
+DTEND;TZID=America/Chicago:20270425T144000
+LOCATION:Citi Field\, Flushing
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-26-rangers-at-nationals@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers at Nationals
+DTSTART;TZID=America/Chicago:20270426T174500
+DTEND;TZID=America/Chicago:20270426T194500
+LOCATION:Nationals Park\, Washington
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-27-rangers-at-nationals@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers at Nationals
+DTSTART;TZID=America/Chicago:20270427T174500
+DTEND;TZID=America/Chicago:20270427T194500
+LOCATION:Nationals Park\, Washington
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-28-rangers-at-nationals@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers at Nationals
+DTSTART;TZID=America/Chicago:20270428T150500
+DTEND;TZID=America/Chicago:20270428T170500
+LOCATION:Nationals Park\, Washington
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-29-rangers-vs-royals@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers vs. Royals
+DTSTART;TZID=America/Chicago:20270429T191000
+DTEND;TZID=America/Chicago:20270429T211000
+LOCATION:Globe Life Field\, Arlington
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-30-rangers-vs-royals@nb-events
+DTSTAMP:20261123T044620Z
+SUMMARY:Rangers vs. Royals
+DTSTART;TZID=America/Chicago:20270430T191000
+DTEND;TZID=America/Chicago:20270430T211000
+LOCATION:Globe Life Field\, Arlington
+URL:https://www.mlb.com/rangers/schedule
+DESCRIPTION:https://www.mlb.com/rangers/schedule
+CATEGORIES:Rangers baseball
+END:VEVENT
+END:VCALENDAR
