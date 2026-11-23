@@ -25,6 +25,9 @@ TRADITIONS = {
                      r"christmas market days|d[ií]a de los muertos|saengerfest|folkfest|gruene music (&|and) wine",
     "boerne": r"dickens on main|weihnachts|berges ?fest|kendall county fair(?!grounds)|parade|new year'?s eve|"
               r"chocolate walk|wassail walk|stocking stroll",
+    "corinth": r"christmas at the commons|shamrock & roll|easter hunt|touch-a-truck|pumpkin palooza|howl-o-ween|"
+               r"friday night flicks|holiday lighting festival|arts & jazz|storytelling festival|parade|"
+               r"north texas fair|new year'?s eve|fourth of july|july 4",
 }
 GAMES = (r"lone star showdown|red river|\(thanksgiving\)|christmas day|i-35 (rivalry|showdown)|"
          r"texas (vs\.|at) texas a&m|texas a&m (vs\.|at) texas\b|(bobcats|texas state) (vs\.|at) utsa|utsa (vs\.|at) (bobcats|texas state)|"
