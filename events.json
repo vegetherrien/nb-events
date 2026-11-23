@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "timeZone": "America/Chicago",
  "title": "New Braunfels Event Calendar",
  "city": {
@@ -1570,17 +1570,6 @@
    "sourceURL": "https://www.visitnbtx.com/events/alli-mattice-duo-6"
   },
   {
-   "id": "2026-11-22-cowboys-vs-titans",
-   "category": "cowboys",
-   "title": "Cowboys vs. Titans",
-   "startDate": "2026-11-22",
-   "location": "AT&T Stadium, Arlington",
-   "tag": "Home",
-   "sourceURL": "https://www.dallascowboys.com/schedule/",
-   "startTime": "12:00",
-   "tv": "FOX"
-  },
-  {
    "id": "2026-11-22-holiday-tea",
    "category": "holiday",
    "title": "Holiday Tea",
@@ -1590,27 +1579,6 @@
    "location": "New Braunfels Civic and Convention Center - 375 S Castell Ave  New Braunfels TX 78130",
    "description": "Join us as we celebrate the season with a Holiday Tea, Sunday, November 22, from 1:00-3:00 pm. You will be immersed in festive holiday decor, seated in our beautifully decorated “tearoom,” including elegantly set tabl…",
    "sourceURL": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42"
-  },
-  {
-   "id": "2026-11-22-horns-bb-vs-southern-indiana",
-   "category": "horns-bb",
-   "title": "Texas vs. Southern Indiana",
-   "startDate": "2026-11-22",
-   "location": "Moody Center, Austin",
-   "tag": "Home",
-   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
-   "startTime": "14:00",
-   "tv": "SEC Network+"
-  },
-  {
-   "id": "2026-11-22-txst-bb-vs-mcneese",
-   "category": "txst-bb",
-   "title": "Bobcats vs. McNeese",
-   "startDate": "2026-11-22",
-   "location": "Strahan Arena, San Marcos",
-   "tag": "Home",
-   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
-   "startTime": "14:30"
   },
   {
    "id": "2026-11-22-cactus-country-live-at-krause-s-cafe",
@@ -1642,17 +1610,6 @@
    "endTime": "20:00",
    "location": "Gristmill River Restaurant & Bar, 1287 Gruene Rd",
    "sourceURL": "https://www.gruenetexas.com/event/matt-kirk-50/"
-  },
-  {
-   "id": "2026-11-22-mavs-at-jazz",
-   "category": "mavs",
-   "title": "Mavericks at Jazz",
-   "startDate": "2026-11-22",
-   "startTime": "18:00",
-   "location": "Salt Lake City",
-   "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
-   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2026-11-22-b3",
@@ -2223,6 +2180,16 @@
    "sourceURL": "https://mlssoccer.com/news/mls-announces-schedule-for-audi-2026-mls-cup-playoffs-round-one-best-of-3-series"
   },
   {
+   "id": "2026-11-28-ryan-snipes",
+   "category": "music",
+   "title": "Ryan Snipes",
+   "startDate": "2026-11-28",
+   "startTime": "17:00",
+   "endTime": "20:00",
+   "location": "The Grapevine, 1612 Hunter Rd.",
+   "sourceURL": "https://www.gruenetexas.com/event/ryan-snipes-10/"
+  },
+  {
    "id": "2026-11-28-passing-strangers-at-krause-s-cafe",
    "category": "music",
    "title": "Passing Strangers at Krause's Cafe",
@@ -2419,20 +2386,6 @@
    "tv": "MavsTV+ or League Pass"
   },
   {
-   "title": "3rd Grade Cemex Field Trip",
-   "startDate": "2026-12-01",
-   "startTime": "09:00",
-   "endTime": "14:00",
-   "location": "Seele Elementary",
-   "sourceURL": "https://nbisd.org/se/",
-   "category": "school",
-   "tags": [
-    "school:seele-es"
-   ],
-   "audience": "local",
-   "id": "sch-seele-es-2026-12-01-3rd-grade-cemex-field-trip"
-  },
-  {
    "title": "SE First Grade Field to Magik Theater",
    "startDate": "2026-12-01",
    "startTime": "09:00",
@@ -2445,6 +2398,20 @@
    ],
    "audience": "local",
    "id": "sch-seele-es-2026-12-01-se-first-grade-field-to-magik-theater"
+  },
+  {
+   "title": "3rd Grade Cemex Field Trip",
+   "startDate": "2026-12-01",
+   "startTime": "09:00",
+   "endTime": "14:00",
+   "location": "Seele Elementary",
+   "sourceURL": "https://nbisd.org/se/",
+   "category": "school",
+   "tags": [
+    "school:seele-es"
+   ],
+   "audience": "local",
+   "id": "sch-seele-es-2026-12-01-3rd-grade-cemex-field-trip"
   },
   {
    "id": "2026-12-01-slim-bawb",
@@ -3922,20 +3889,6 @@
    "id": "sch-klein-road-es-2026-12-10-kre-choir-hallway-performance"
   },
   {
-   "title": "Davenport girls swimming & diving at NISD Relays",
-   "startDate": "2026-12-10",
-   "tag": "Away",
-   "category": "hs-sports",
-   "location": "Northside Natatorium",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
-   "startTime": "08:00",
-   "tags": [
-    "school:davenport-hs"
-   ],
-   "audience": "local",
-   "id": "sch-davenport-hs-2026-12-10-davenport-girls-swimming-diving-at-nisd-relays"
-  },
-  {
    "title": "Davenport boys swimming & diving at NISD Relays",
    "startDate": "2026-12-10",
    "tag": "Away",
@@ -3948,6 +3901,20 @@
    ],
    "audience": "local",
    "id": "sch-davenport-hs-2026-12-10-davenport-boys-swimming-diving-at-nisd-relays"
+  },
+  {
+   "title": "Davenport girls swimming & diving at NISD Relays",
+   "startDate": "2026-12-10",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "Northside Natatorium",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
+   "startTime": "08:00",
+   "tags": [
+    "school:davenport-hs"
+   ],
+   "audience": "local",
+   "id": "sch-davenport-hs-2026-12-10-davenport-girls-swimming-diving-at-nisd-relays"
   },
   {
    "title": "Long Creek swimming at Relays",
@@ -6384,17 +6351,6 @@
    "sourceURL": "https://www.visitnbtx.com/events/art-haus-in-downtown-nb"
   },
   {
-   "id": "2027-01-01-mavs-at-rockets",
-   "category": "mavs",
-   "title": "Mavericks at Rockets",
-   "startDate": "2027-01-01",
-   "startTime": "19:30",
-   "location": "Houston",
-   "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
-   "tv": "MavsTV+ or League Pass"
-  },
-  {
    "id": "2027-01-01-rockets-vs-mavericks",
    "category": "rockets",
    "title": "Rockets vs. Mavericks",
@@ -6404,6 +6360,17 @@
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "id": "2027-01-01-mavs-at-rockets",
+   "category": "mavs",
+   "title": "Mavericks at Rockets",
+   "startDate": "2027-01-01",
+   "startTime": "19:30",
+   "location": "Houston",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "title": "New Braunfels girls soccer at SCUC Tournament",
@@ -6877,19 +6844,6 @@
    "tv": "DAZN"
   },
   {
-   "title": "New Braunfels boys soccer at Byron Nelson Tournament Day 1",
-   "startDate": "2027-01-07",
-   "tag": "Away",
-   "category": "hs-soccer",
-   "location": "Byron Nelson Tournament Day 1",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "tags": [
-    "school:new-braunfels-hs"
-   ],
-   "audience": "local",
-   "id": "sch-new-braunfels-hs-2027-01-07-new-braunfels-boys-soccer-at-byron-nelson-tourna"
-  },
-  {
    "title": "New Braunfels girls soccer at Governor's Cup",
    "startDate": "2027-01-07",
    "tag": "Away",
@@ -6901,6 +6855,19 @@
    ],
    "audience": "local",
    "id": "sch-new-braunfels-hs-2027-01-07-new-braunfels-girls-soccer-at-governor-s-cup"
+  },
+  {
+   "title": "New Braunfels boys soccer at Byron Nelson Tournament Day 1",
+   "startDate": "2027-01-07",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Byron Nelson Tournament Day 1",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "tags": [
+    "school:new-braunfels-hs"
+   ],
+   "audience": "local",
+   "id": "sch-new-braunfels-hs-2027-01-07-new-braunfels-boys-soccer-at-byron-nelson-tourna"
   },
   {
    "title": "Kinder Semester Awards",
@@ -7028,17 +6995,17 @@
    "id": "2027-01-08-huser-brothers"
   },
   {
-   "title": "New Braunfels swimming at NEISD Winter Invite",
+   "title": "New Braunfels boys soccer at Byron Nelson Tournament Day 2",
    "startDate": "2027-01-08",
    "tag": "Away",
-   "category": "hs-sports",
-   "location": "Blossom Athletic Complex",
+   "category": "hs-soccer",
+   "location": "Byron Nelson Tournament Day 2",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "tags": [
     "school:new-braunfels-hs"
    ],
    "audience": "local",
-   "id": "sch-new-braunfels-hs-2027-01-08-new-braunfels-swimming-at-neisd-winter-invite"
+   "id": "sch-new-braunfels-hs-2027-01-08-new-braunfels-boys-soccer-at-byron-nelson-tourna"
   },
   {
    "title": "New Braunfels girls soccer at Governor's Cup",
@@ -7054,17 +7021,17 @@
    "id": "sch-new-braunfels-hs-2027-01-08-new-braunfels-girls-soccer-at-governor-s-cup"
   },
   {
-   "title": "New Braunfels boys soccer at Byron Nelson Tournament Day 2",
+   "title": "New Braunfels swimming at NEISD Winter Invite",
    "startDate": "2027-01-08",
    "tag": "Away",
-   "category": "hs-soccer",
-   "location": "Byron Nelson Tournament Day 2",
+   "category": "hs-sports",
+   "location": "Blossom Athletic Complex",
    "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
    "tags": [
     "school:new-braunfels-hs"
    ],
    "audience": "local",
-   "id": "sch-new-braunfels-hs-2027-01-08-new-braunfels-boys-soccer-at-byron-nelson-tourna"
+   "id": "sch-new-braunfels-hs-2027-01-08-new-braunfels-swimming-at-neisd-winter-invite"
   },
   {
    "title": "3rd Grade Semester Awards",
@@ -7336,19 +7303,6 @@
    "id": "2027-01-09-sammy-arriaga"
   },
   {
-   "title": "New Braunfels boys soccer at Byron Nelson Tournament Day 3",
-   "startDate": "2027-01-09",
-   "tag": "Away",
-   "category": "hs-soccer",
-   "location": "Byron Nelson Tournament Day 3",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "tags": [
-    "school:new-braunfels-hs"
-   ],
-   "audience": "local",
-   "id": "sch-new-braunfels-hs-2027-01-09-new-braunfels-boys-soccer-at-byron-nelson-tourna"
-  },
-  {
    "title": "New Braunfels girls soccer at Governor's Cup",
    "startDate": "2027-01-09",
    "tag": "Away",
@@ -7360,6 +7314,19 @@
    ],
    "audience": "local",
    "id": "sch-new-braunfels-hs-2027-01-09-new-braunfels-girls-soccer-at-governor-s-cup"
+  },
+  {
+   "title": "New Braunfels boys soccer at Byron Nelson Tournament Day 3",
+   "startDate": "2027-01-09",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Byron Nelson Tournament Day 3",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "tags": [
+    "school:new-braunfels-hs"
+   ],
+   "audience": "local",
+   "id": "sch-new-braunfels-hs-2027-01-09-new-braunfels-boys-soccer-at-byron-nelson-tourna"
   },
   {
    "title": "Canyon Lake wrestling at Brack Brawl",
@@ -8443,20 +8410,6 @@
    "id": "sch-long-creek-hs-2027-01-19-long-creek-girls-basketball-vs-new-braunfels-new"
   },
   {
-   "title": "Long Creek girls soccer at Davenport",
-   "startDate": "2027-01-19",
-   "tag": "Away",
-   "category": "hs-soccer",
-   "location": "Davenport HS",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
-   "startTime": "19:00",
-   "tags": [
-    "school:long-creek-hs"
-   ],
-   "audience": "local",
-   "id": "sch-long-creek-hs-2027-01-19-long-creek-girls-soccer-at-davenport"
-  },
-  {
    "title": "Long Creek boys soccer at Samuel Clemens Buffaloes",
    "startDate": "2027-01-19",
    "tag": "Away",
@@ -8469,6 +8422,20 @@
    ],
    "audience": "local",
    "id": "sch-long-creek-hs-2027-01-19-long-creek-boys-soccer-at-samuel-clemens-buffaloes"
+  },
+  {
+   "title": "Long Creek girls soccer at Davenport",
+   "startDate": "2027-01-19",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Davenport HS",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
+   "startTime": "19:00",
+   "tags": [
+    "school:long-creek-hs"
+   ],
+   "audience": "local",
+   "id": "sch-long-creek-hs-2027-01-19-long-creek-girls-soccer-at-davenport"
   },
   {
    "title": "Canyon girls basketball at Judson",
@@ -8671,6 +8638,76 @@
    "id": "2027-01-21-the-zmed-brothers-everly-brothers-experience"
   },
   {
+   "title": "New Braunfels tennis at Tournament",
+   "startDate": "2027-01-22",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "San Marcos HS",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "startTime": "08:00",
+   "tags": [
+    "school:new-braunfels-hs"
+   ],
+   "audience": "local",
+   "id": "sch-new-braunfels-hs-2027-01-22-new-braunfels-tennis-at-tournament"
+  },
+  {
+   "title": "Canyon tennis spring at Winter Classic",
+   "startDate": "2027-01-22",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "San Marcos High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
+   "startTime": "08:00",
+   "tags": [
+    "school:canyon-hs"
+   ],
+   "audience": "local",
+   "id": "sch-canyon-hs-2027-01-22-canyon-tennis-spring-at-winter-classic"
+  },
+  {
+   "title": "Davenport boys swimming & diving at District 15 Meet",
+   "startDate": "2027-01-22",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "Northside Natatorium",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
+   "startTime": "08:00",
+   "tags": [
+    "school:davenport-hs"
+   ],
+   "audience": "local",
+   "id": "sch-davenport-hs-2027-01-22-davenport-boys-swimming-diving-at-district-15-meet"
+  },
+  {
+   "title": "Davenport girls swimming & diving at District 15 Meet",
+   "startDate": "2027-01-22",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "Northside Natatorium",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
+   "startTime": "08:00",
+   "tags": [
+    "school:davenport-hs"
+   ],
+   "audience": "local",
+   "id": "sch-davenport-hs-2027-01-22-davenport-girls-swimming-diving-at-district-15-meet"
+  },
+  {
+   "title": "Long Creek swimming at District",
+   "startDate": "2027-01-22",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "District",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
+   "startTime": "09:00",
+   "tags": [
+    "school:long-creek-hs"
+   ],
+   "audience": "local",
+   "id": "sch-long-creek-hs-2027-01-22-long-creek-swimming-at-district"
+  },
+  {
    "id": "2027-01-22-rockets-at-hornets",
    "category": "rockets",
    "title": "Rockets at Hornets",
@@ -8682,6 +8719,132 @@
    "tv": "Space City Home Network"
   },
   {
+   "title": "New Braunfels girls basketball at Smithson Valley",
+   "startDate": "2027-01-22",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Smithson Valley",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "startTime": "18:45",
+   "tags": [
+    "school:new-braunfels-hs"
+   ],
+   "audience": "local",
+   "id": "sch-new-braunfels-hs-2027-01-22-new-braunfels-girls-basketball-at-smithson-valle"
+  },
+  {
+   "title": "New Braunfels boys basketball vs. Smithson Valley Rangers",
+   "startDate": "2027-01-22",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "NBHS Competition Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "startTime": "18:45",
+   "tags": [
+    "school:new-braunfels-hs"
+   ],
+   "audience": "local",
+   "id": "sch-new-braunfels-hs-2027-01-22-new-braunfels-boys-basketball-vs-smithson-valley"
+  },
+  {
+   "title": "Long Creek boys basketball at Seguin BBB Matadors",
+   "startDate": "2027-01-22",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Seguin HS",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
+   "startTime": "18:45",
+   "tags": [
+    "school:long-creek-hs"
+   ],
+   "audience": "local",
+   "id": "sch-long-creek-hs-2027-01-22-long-creek-boys-basketball-at-seguin-bbb-matadors"
+  },
+  {
+   "title": "Long Creek girls basketball vs. Seguin GBB Lady Matadors",
+   "startDate": "2027-01-22",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Long Creek High School",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
+   "startTime": "18:45",
+   "tags": [
+    "school:long-creek-hs"
+   ],
+   "audience": "local",
+   "id": "sch-long-creek-hs-2027-01-22-long-creek-girls-basketball-vs-seguin-gbb-lady-mata"
+  },
+  {
+   "title": "Canyon girls basketball at EAST CENTRAL HIGH SCHOOL Lady…",
+   "startDate": "2027-01-22",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "EAST CENTRAL HIGH SCHOOL Lady…",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
+   "startTime": "19:00",
+   "tags": [
+    "school:canyon-hs"
+   ],
+   "audience": "local",
+   "id": "sch-canyon-hs-2027-01-22-canyon-girls-basketball-at-east-central-high-school-lad"
+  },
+  {
+   "title": "Canyon boys soccer at EAST CENTRAL HIGH SCHOOL Hornets",
+   "startDate": "2027-01-22",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "East Central High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
+   "startTime": "19:00",
+   "tags": [
+    "school:canyon-hs"
+   ],
+   "audience": "local",
+   "id": "sch-canyon-hs-2027-01-22-canyon-boys-soccer-at-east-central-high-school-hornets"
+  },
+  {
+   "title": "Canyon boys basketball vs. EAST CENTRAL HIGH SCHOOL Hornets",
+   "startDate": "2027-01-22",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Cougar Den",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
+   "startTime": "19:00",
+   "tags": [
+    "school:canyon-hs"
+   ],
+   "audience": "local",
+   "id": "sch-canyon-hs-2027-01-22-canyon-boys-basketball-vs-east-central-high-school-horn"
+  },
+  {
+   "title": "Davenport girls basketball at Canyon Lake CLHS Hawks",
+   "startDate": "2027-01-22",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Canyon Lake HS",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
+   "startTime": "19:00",
+   "tags": [
+    "school:davenport-hs"
+   ],
+   "audience": "local",
+   "id": "sch-davenport-hs-2027-01-22-davenport-girls-basketball-at-canyon-lake-clhs-hawks"
+  },
+  {
+   "title": "Canyon Lake girls basketball vs. Davenport",
+   "startDate": "2027-01-22",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Canyon Lake Main Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
+   "startTime": "19:00",
+   "tags": [
+    "school:canyon-lake-hs"
+   ],
+   "audience": "local",
+   "id": "sch-canyon-lake-hs-2027-01-22-canyon-lake-girls-basketball-vs-davenport"
+  },
+  {
    "id": "2027-01-22-mavs-at-pelicans",
    "category": "mavs",
    "title": "Mavericks at Pelicans",
@@ -8691,6 +8854,62 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
    "tv": "MavsTV+ or League Pass"
+  },
+  {
+   "title": "New Braunfels girls soccer at Lehman LHS Var Soccer",
+   "startDate": "2027-01-22",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Lehman LHS Var Soccer",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "startTime": "19:15",
+   "tags": [
+    "school:new-braunfels-hs"
+   ],
+   "audience": "local",
+   "id": "sch-new-braunfels-hs-2027-01-22-new-braunfels-girls-soccer-at-lehman-lhs-var-soc"
+  },
+  {
+   "title": "New Braunfels boys soccer vs. Lehman LHS Var Soccer",
+   "startDate": "2027-01-22",
+   "tag": "Home",
+   "category": "hs-soccer",
+   "location": "Unicorn Stadium",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "startTime": "19:15",
+   "tags": [
+    "school:new-braunfels-hs"
+   ],
+   "audience": "local",
+   "id": "sch-new-braunfels-hs-2027-01-22-new-braunfels-boys-soccer-vs-lehman-lhs-var-socc"
+  },
+  {
+   "title": "Long Creek boys soccer at Veterans Memorial Veterans…",
+   "startDate": "2027-01-22",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Veterans Memorial HS",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
+   "startTime": "19:15",
+   "tags": [
+    "school:long-creek-hs"
+   ],
+   "audience": "local",
+   "id": "sch-long-creek-hs-2027-01-22-long-creek-boys-soccer-at-veterans-memorial-veteran"
+  },
+  {
+   "title": "Long Creek girls soccer vs. Veterans Memorial",
+   "startDate": "2027-01-22",
+   "tag": "Home",
+   "category": "hs-soccer",
+   "location": "Dragon Stadium",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
+   "startTime": "19:15",
+   "tags": [
+    "school:long-creek-hs"
+   ],
+   "audience": "local",
+   "id": "sch-long-creek-hs-2027-01-22-long-creek-girls-soccer-vs-veterans-memorial"
   },
   {
    "id": "2027-01-22-pecos-the-rooftops",
@@ -9128,17 +9347,6 @@
    "startTime": "13:00"
   },
   {
-   "id": "2027-01-31-mavs-vs-rockets",
-   "category": "mavs",
-   "title": "Mavericks vs. Rockets",
-   "startDate": "2027-01-31",
-   "startTime": "19:30",
-   "location": "American Airlines Center, Dallas",
-   "tag": "Home",
-   "tv": "NBC",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
-  },
-  {
    "id": "2027-01-31-rockets-at-mavericks",
    "category": "rockets",
    "title": "Rockets at Mavericks",
@@ -9148,6 +9356,17 @@
    "tag": "Away",
    "tv": "NBC",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-01-31-mavs-vs-rockets",
+   "category": "mavs",
+   "title": "Mavericks vs. Rockets",
+   "startDate": "2027-01-31",
+   "startTime": "19:30",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "id": "2027-02-01-spurs-at-warriors",
@@ -10877,17 +11096,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "2027-03-19-mavs-at-spurs",
-   "category": "mavs",
-   "title": "Mavericks at Spurs",
-   "startDate": "2027-03-19",
-   "startTime": "19:00",
-   "location": "San Antonio",
-   "tag": "Away",
-   "tv": "NBA TV",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
-  },
-  {
    "id": "2027-03-19-rockets-at-pelicans",
    "category": "rockets",
    "title": "Rockets at Pelicans",
@@ -10897,6 +11105,17 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "id": "2027-03-19-mavs-at-spurs",
+   "category": "mavs",
+   "title": "Mavericks at Spurs",
+   "startDate": "2027-03-19",
+   "startTime": "19:00",
+   "location": "San Antonio",
+   "tag": "Away",
+   "tv": "NBA TV",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "id": "2027-03-20-castell-st-market",
@@ -11849,17 +12068,6 @@
    "tv": "DAZN"
   },
   {
-   "id": "2027-04-11-mavs-vs-grizzlies",
-   "category": "mavs",
-   "title": "Mavericks vs. Grizzlies",
-   "startDate": "2027-04-11",
-   "startTime": "19:30",
-   "location": "American Airlines Center, Dallas",
-   "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
-   "tv": "MavsTV+ or League Pass"
-  },
-  {
    "id": "2027-04-11-rockets-at-timberwolves",
    "category": "rockets",
    "title": "Rockets at Timberwolves",
@@ -11869,6 +12077,17 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "id": "2027-04-11-mavs-vs-grizzlies",
+   "category": "mavs",
+   "title": "Mavericks vs. Grizzlies",
+   "startDate": "2027-04-11",
+   "startTime": "19:30",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-04-13-rangers-at-reds",
@@ -12454,7 +12673,7 @@
    "url": "https://newbraunfels.legistar1.com/newbraunfels/meetings/2026/11/6047_A_City_Council_26-11-23_Agenda.pdf",
    "source": "City of New Braunfels",
    "until": "2026-11-23",
-   "asOf": "2026-11-22",
+   "asOf": "2026-11-23",
    "collector": "civic"
   },
   {
@@ -12470,7 +12689,7 @@
     "community:gruene"
    ],
    "audience": "local",
-   "asOf": "2026-11-22",
+   "asOf": "2026-11-23",
    "collector": "civic"
   },
   {
@@ -12486,7 +12705,7 @@
     "community:summerwood"
    ],
    "audience": "local",
-   "asOf": "2026-11-22",
+   "asOf": "2026-11-23",
    "collector": "civic"
   },
   {
@@ -12502,43 +12721,43 @@
     "community:veramendi"
    ],
    "audience": "local",
-   "asOf": "2026-11-22",
+   "asOf": "2026-11-23",
    "collector": "civic"
   },
   {
-   "id": "nb-pet-77767",
+   "id": "nb-pet-78079",
    "kind": "pets",
-   "title": "Adoptable: Ethel Cain, young adult Domestic Short Hair",
-   "detail": "Cat available for adoption at HSNBA, 3353 Morningside Dr. Photos and adoption steps are on the listing.",
-   "level": "info",
-   "url": "https://hsnba.org/listing/77767-ethel-cain-nfc202612213/",
-   "source": "Humane Society of the New Braunfels Area",
-   "until": "2026-11-23",
-   "asOf": "2026-11-22",
-   "collector": "civic"
-  },
-  {
-   "id": "nb-pet-77776",
-   "kind": "pets",
-   "title": "Adoptable: Chase, adult Domestic Short Hair",
-   "detail": "Cat available for adoption at HSNBA, 3353 Morningside Dr. Photos and adoption steps are on the listing.",
-   "level": "info",
-   "url": "https://hsnba.org/listing/77776-chase-cfc20261889/",
-   "source": "Humane Society of the New Braunfels Area",
-   "until": "2026-11-23",
-   "asOf": "2026-11-22",
-   "collector": "civic"
-  },
-  {
-   "id": "nb-pet-77795",
-   "kind": "pets",
-   "title": "Adoptable: Obtuse, young adult pit bull terrier",
+   "title": "Adoptable: Jean, young adult heeler",
    "detail": "Dog available for adoption at HSNBA, 3353 Morningside Dr. Photos and adoption steps are on the listing.",
    "level": "info",
-   "url": "https://hsnba.org/listing/77795-obtuse-nfd202612215/",
+   "url": "https://hsnba.org/listing/78079-jean-mercury-bud20261506/",
    "source": "Humane Society of the New Braunfels Area",
-   "until": "2026-11-23",
-   "asOf": "2026-11-22",
+   "until": "2026-11-24",
+   "asOf": "2026-11-23",
+   "collector": "civic"
+  },
+  {
+   "id": "nb-pet-78084",
+   "kind": "pets",
+   "title": "Adoptable: Gingerbread, young adult affenpinscher",
+   "detail": "Dog available for adoption at HSNBA, 3353 Morningside Dr. Photos and adoption steps are on the listing.",
+   "level": "info",
+   "url": "https://hsnba.org/listing/78084-gingerbread-cfd20261938/",
+   "source": "Humane Society of the New Braunfels Area",
+   "until": "2026-11-24",
+   "asOf": "2026-11-23",
+   "collector": "civic"
+  },
+  {
+   "id": "nb-pet-78086",
+   "kind": "pets",
+   "title": "Adoptable: Sourdough, adult chow chow/pomeranian",
+   "detail": "Dog available for adoption at HSNBA, 3353 Morningside Dr. Photos and adoption steps are on the listing.",
+   "level": "info",
+   "url": "https://hsnba.org/listing/78086-sourdough-cfd20261939/",
+   "source": "Humane Society of the New Braunfels Area",
+   "until": "2026-11-24",
+   "asOf": "2026-11-23",
    "collector": "civic"
   },
   {
@@ -12549,7 +12768,7 @@
    "level": "info",
    "url": "https://www.comalisd.org/apps/events/46144257/",
    "source": "Comal ISD",
-   "asOf": "2026-11-22",
+   "asOf": "2026-11-23",
    "until": "2026-11-27",
    "tags": [
     "district:comal-isd"
@@ -12565,7 +12784,7 @@
    "level": "info",
    "url": "https://nbisd.org/wp-content/uploads/2026/03/26-27-School-Calendar-English-1-30-26-9-weeks.pdf",
    "source": "NBISD",
-   "asOf": "2026-11-22",
+   "asOf": "2026-11-23",
    "until": "2026-11-30",
    "tags": [
     "district:nbisd"
@@ -12581,7 +12800,7 @@
    "level": "info",
    "url": "https://www.newbraunfels.gov/3974/Holiday-Trash-Recycling",
    "source": "City of New Braunfels Solid Waste",
-   "asOf": "2026-11-22",
+   "asOf": "2026-11-23",
    "until": "2026-11-27",
    "tags": [
     "trash:6",
@@ -12599,7 +12818,7 @@
    "level": "warn",
    "url": "https://www.nbutexas.com/current-drought-stage/",
    "source": "New Braunfels Utilities",
-   "asOf": "2026-11-22",
+   "asOf": "2026-11-23",
    "waterDays": {
     "0": "Monday",
     "1": "Monday",
@@ -12665,14 +12884,6 @@
  ],
  "newPlaces": [
   {
-   "name": "The Weighted Plate",
-   "kind": "restaurant",
-   "address": "118 S Union Ave",
-   "since": "2026-11-23",
-   "source": "Texas Comptroller sales-tax permits",
-   "url": "https://data.texas.gov/Government-and-Taxes/Active-Sales-Tax-Permit-Holders/jrea-zgmq"
-  },
-  {
    "name": "Gruene Saloon",
    "kind": "bar",
    "address": "1254 Gruene Rd",
@@ -12685,6 +12896,14 @@
    "kind": "bar",
    "address": "278 W San Antonio St",
    "since": "2026-12-01",
+   "source": "Texas Comptroller sales-tax permits",
+   "url": "https://data.texas.gov/Government-and-Taxes/Active-Sales-Tax-Permit-Holders/jrea-zgmq"
+  },
+  {
+   "name": "The Weighted Plate",
+   "kind": "restaurant",
+   "address": "118 S Union Ave",
+   "since": "2026-11-23",
    "source": "Texas Comptroller sales-tax permits",
    "url": "https://data.texas.gov/Government-and-Taxes/Active-Sales-Tax-Permit-Holders/jrea-zgmq"
   },
@@ -12774,14 +12993,6 @@
    "address": "675 N Business IH 35",
    "since": "2026-08-01",
    "source": "Texas Comptroller sales-tax permits and Texas Alcoholic Beverage Commission",
-   "url": "https://data.texas.gov/Government-and-Taxes/Active-Sales-Tax-Permit-Holders/jrea-zgmq"
-  },
-  {
-   "name": "Mi Taqueria",
-   "kind": "quick bite",
-   "address": "4148 FM 725",
-   "since": "2026-08-01",
-   "source": "Texas Comptroller sales-tax permits",
    "url": "https://data.texas.gov/Government-and-Taxes/Active-Sales-Tax-Permit-Holders/jrea-zgmq"
   }
  ],
