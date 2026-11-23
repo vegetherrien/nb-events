@@ -4,15 +4,17 @@
 set -e
 N="$1"; MSG="$2"; cd "$(dirname "$0")/.."
 cp "$N/feed/events.json" events.json; cp "$N/feed/local.json" local.json
-cp "$N/feed/boerne-events.json" boerne/events.json; cp "$N/feed/boerne-local.json" boerne/local.json
+for c in boerne corinth; do mkdir -p $c; cp "$N/feed/$c-events.json" $c/events.json; cp "$N/feed/$c-local.json" $c/local.json; done
 cp "$N"/scripts/*.py scripts/   # run this copy (in the feed repo), not one inside the app project
 # Stop before anything is pushed if either feed fails its checks.
 python3 scripts/validate_feed.py events.json >/dev/null || { echo "events.json failed validation; nothing published"; python3 scripts/validate_feed.py events.json | tail -5; exit 1; }
-python3 scripts/validate_feed.py boerne/events.json >/dev/null || { echo "boerne/events.json failed validation; nothing published"; python3 scripts/validate_feed.py boerne/events.json | tail -5; exit 1; }
+for c in boerne corinth; do
+  python3 scripts/validate_feed.py $c/events.json >/dev/null || { echo "$c/events.json failed validation; nothing published"; python3 scripts/validate_feed.py $c/events.json | tail -5; exit 1; }
+done
 python3 scripts/build_ics.py events.json nb-events.ics 2>/dev/null
-python3 scripts/build_ics.py boerne/events.json boerne/events.ics 2>/dev/null
+for c in boerne corinth; do python3 scripts/build_ics.py $c/events.json $c/events.ics 2>/dev/null; done
 export GH_TOKEN=$(gh auth token -u vegetherrien)
-for f in events.json local.json nb-events.ics boerne/events.json boerne/local.json boerne/events.ics privacy.html deal.html stats.html scripts/*.py scripts/publish.sh; do
+for f in events.json local.json nb-events.ics boerne/events.json boerne/local.json boerne/events.ics corinth/events.json corinth/local.json corinth/events.ics cities.json privacy.html deal.html stats.html scripts/*.py scripts/publish.sh; do
   # Look up the current file (retry: right after wake the network can be flaky). A 404 means a new file.
   sha=""; for try in 1 2 3 4 5; do
     out=$(gh api "repos/vegetherrien/nb-events/contents/$f" --jq .sha 2>&1) && { sha=$out; break; }
