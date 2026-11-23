@@ -98,7 +98,26 @@ BOERNE_SOURCES = [
          weekly=True, music_note="Live music around Boerne"),
 ]
 
-SOURCES = {"new-braunfels": NB_SOURCES, "boerne": BOERNE_SOURCES}
+# Corinth, Texas (Denton County, on Lewisville Lake). The city's own events are few and big;
+# Denton, ten minutes north, supplies most of the week-to-week calendar.
+CORINTH_NOISE = (r"trivia|karaoke|bingo|loteria|open mic|yoga|\bclass(es)?\b|workshop|intro to|pottery|paint (your|with|\+)|"
+                 r"watercolor|stained glass|ornaments?\b|life drawing|game (night|day)|board &|tcg|ping pong|craft n chat|"
+                 r"college night|looking for players|art camp|open studio|passport|50\+|adapted|portraits|wreath making|"
+                 r"film development|custom family bowls|date night|mini makers|cook fresh|park & play|meeting|"
+                 r"commission|council|board\b|closed|workdays?")
+CORINTH_SOURCES = [
+    # catID 22 is the city's Special Events calendar (Commons at Agora, Community Park).
+    dict(name="City of Corinth", url="https://www.corinthtx.gov/common/modules/iCalendar/iCalendar.aspx?catID=22&feed=calendar",
+         link="https://www.corinthtx.gov/calendar", category="fest", location="Corinth", drop=CORINTH_NOISE),
+    dict(name="Discover Denton", sitemap="https://www.discoverdenton.com/sitemap.xml", match=r"/event/[^/]+/\d+/$",
+         town="Corinth", location="Denton", drop=CORINTH_NOISE, drop_always=r"film development|50\+|adapted",
+         towns=r"denton|corinth|lake dallas|hickory creek|shady shores|argyle|lewisville|highland village|aubrey|sanger|krum|ponder|lantana",
+         category_map=[("Concerts/Live Music", "music"), ("Holiday Events", "holiday"), ("Festivals", "fest"),
+                       ("Shopping", "market"), ("Arts and Culture", "arts"), ("Outdoors", "nature"),
+                       ("Family", "fest"), ("Sports", "fest"), ("Free", "fest"), ("One Time", "fest")]),
+]
+
+SOURCES = {"new-braunfels": NB_SOURCES, "boerne": BOERNE_SOURCES, "corinth": CORINTH_SOURCES}
 
 # Title words that mean the event belongs in another category.
 CATEGORY_HINTS = [
@@ -291,6 +310,76 @@ def _ampm(t):
     return datetime.strptime(t, "%H:%M").strftime("%-I:%M %p").replace(":00", "")
 
 
+def fetch_sitemap(src):
+    """A tourism site with no feed: event pages are found in its sitemap and each page's schema.org
+    Event data is read. Pages are cached (re-read weekly) and fetched slowly, per the site's robots.txt."""
+    import time
+    cache_path = os.path.join(os.path.dirname(VNB_CACHE), "sitemap-" + slug(src["name"]) + ".json")
+    cache = json.load(open(cache_path)) if os.path.exists(cache_path) else {}
+    urls = [u for u in re.findall(r"<loc>([^<]+)</loc>", fetch(src["sitemap"])) if re.search(src["match"], u)]
+    today, fetched = date.today().isoformat(), 0
+    for u in urls:
+        got = cache.get(u)
+        if got and got.get("read", "") >= (date.today() - timedelta(days=7)).isoformat():
+            continue
+        if fetched >= src.get("max_new", 150):
+            break
+        if fetched:
+            time.sleep(src.get("delay", 2))
+        fetched += 1
+        try:
+            page = fetch(u)
+        except Exception:
+            continue
+        ev = None
+        for block in re.findall(r'<script type="application/ld\+json"[^>]*>(.*?)</script>', page, re.S):
+            try:
+                data = json.loads(block)
+            except ValueError:
+                continue
+            for g in (data.get("@graph", [data]) if isinstance(data, dict) else data):
+                if isinstance(g, dict) and "Event" in str(g.get("@type")) and g.get("startDate"):
+                    ev = g
+        cache[u] = {"read": today, "event": ev and {
+            "name": ev.get("name"), "start": ev.get("startDate"), "end": ev.get("endDate"),
+            "keywords": ev.get("keywords") or "", "description": ev.get("description") or "",
+            "place": ((ev.get("location") or {}).get("name") or ""),
+            "street": (((ev.get("location") or {}).get("address") or {}).get("streetAddress") or ""),
+            "town": (((ev.get("location") or {}).get("address") or {}).get("addressLocality") or "")}}
+    for u in [u for u in cache if u not in urls]:
+        del cache[u]                                   # gone from the sitemap: the event is over
+    os.makedirs(os.path.dirname(cache_path), exist_ok=True)
+    json.dump(cache, open(cache_path, "w"), ensure_ascii=False, indent=0)
+    out = []
+    for u, c in cache.items():
+        e = c.get("event")
+        if not e or not e.get("name") or not e.get("start"):
+            continue
+        cats = [k.strip() for k in e["keywords"].split(",") if k.strip()]
+        if "On-Going" in cats:                          # standing weekly things (trivia, karaoke, classes)
+            continue
+        sd, ed = e["start"][:10], (e.get("end") or e["start"])[:10]
+        st = e["start"][11:16] if len(e["start"]) > 10 else None
+        et = e["end"][11:16] if e.get("end") and len(e["end"]) > 10 else None
+        if (date.fromisoformat(ed) - date.fromisoformat(sd)).days > src.get("max_days", 21):
+            continue                                   # a season-long class or exhibit
+        if sd < today <= ed:
+            sd = today                                 # a run already under way
+        if src.get("towns") and e["town"] and not re.search(src["towns"], e["town"], re.I):
+            continue                                   # listed by the bureau but held somewhere else
+        if src.get("towns") and re.search(r"houston|dallas, tx|fort worth|coppell", e["place"] + " " + e["street"], re.I):
+            continue
+        place = ", ".join(x for x in [e["place"], e["street"]] if x)
+        if e["town"] and e["town"].lower() != src.get("town", "").lower():
+            place = ", ".join(x for x in [place, e["town"]] if x)
+        v = {"SUMMARY": unescape_html(e["name"]), "DTSTART": (sd, st), "DTEND": (ed, et), "LOCATION": place,
+             "DESCRIPTION": strip_html(e["description"]), "URL": u, "CATEGORIES": cats}
+        if ed > sd and not st:
+            v["MULTI"] = True
+        out.append(v)
+    return out
+
+
 def fetch_ttc(src):
     """A TicketstotheCity venue page: each show is its title then '(November 20, 2026 - November 22, 2026)'."""
     text = fetch(src["ttc"])
@@ -477,6 +566,7 @@ def main(path, apply=False):
         try:
             raw = (fetch_api(src, today, until) if src.get("api") else fetch_libcal(src) if src.get("libcal")
                    else fetch_visitnb(src) if src.get("visitnb") else fetch_ttc(src) if src.get("ttc")
+                   else fetch_sitemap(src) if src.get("sitemap")
                    else fetch_ics(src["url"], today, until))
         except Exception as ex:  # one bad source shouldn't stop the rest
             print(f"! {src['name']}: {ex}")
@@ -497,6 +587,8 @@ def main(path, apply=False):
                 continue
             if src.get("drop") and re.search(src["drop"], title, re.I) and not re.search(MOVIE, title, re.I):
                 continue
+            if src.get("drop_always") and re.search(src["drop_always"], title, re.I):
+                continue                               # dropped even when the title mentions a film
             if src.get("after") and (start is None or start < src["after"]):
                 continue
             if is_duplicate(feed["events"] + found, day, title):
@@ -528,7 +620,7 @@ def main(path, apply=False):
             desc = re.sub(r"\s+", " ", v.get("DESCRIPTION", "")).strip()
             if desc:
                 e["description"] = (desc[:217] + "…") if len(desc) > 220 else desc
-            e["sourceURL"] = v.get("URL") or (src.get("url") or src.get("libcal") or src.get("visitnb") or src.get("ttc") or src.get("api", "")).split("?")[0]
+            e["sourceURL"] = v.get("URL") or (src.get("link") or src.get("url") or src.get("libcal") or src.get("visitnb") or src.get("ttc") or src.get("sitemap") or src.get("api", "")).split("?")[0]
             if src.get("tags"): e["tags"] = list(src["tags"])
             if src.get("audience"): e["audience"] = src["audience"]
             e["source"] = src["name"]  # shown in the report only, removed before saving
