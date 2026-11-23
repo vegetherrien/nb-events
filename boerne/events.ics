@@ -33,7 +33,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-18-wednesday-nature-walk-at-cibolo-nature-center@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Wednesday Nature Walk at Cibolo Nature Center
 DTSTART;TZID=America/Chicago:20261118T143000
 DTEND;TZID=America/Chicago:20261118T150000
@@ -50,7 +50,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-chasing-the-sun-art-show-at-singing-water-vineyards@nb-event
  s
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:“Chasing The Sun” Art Show at Singing Water Vineyards
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261123
@@ -65,7 +65,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-mindful-wellness-walk-in-boerne-at-bear-moon-bakery-cafe@nb-
  events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Mindful Wellness Walk in Boerne at Bear Moon Bakery Cafe
 DTSTART;TZID=America/Chicago:20261119T110000
 DTEND;TZID=America/Chicago:20261119T130000
@@ -81,7 +81,7 @@ CATEGORIES:Nature & outdoors
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-custom-cowboy-hat-experience@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Custom Cowboy Hat Experience
 DTSTART;TZID=America/Chicago:20261119T180000
 DTEND;TZID=America/Chicago:20261119T200000
@@ -97,7 +97,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-pink-friday-on-the-hill-country-mile@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Pink Friday on the Hill Country Mile
 DTSTART;TZID=America/Chicago:20261120T100000
 DTEND;TZID=America/Chicago:20261120T170000
@@ -112,7 +112,7 @@ CATEGORIES:Markets & shopping
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-turkey-camp-at-gina-marie-s-art-studio@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Turkey Camp at Gina Marie’s Art Studio
 DTSTART;TZID=America/Chicago:20261120T100000
 DTEND;TZID=America/Chicago:20261120T150000
@@ -128,7 +128,7 @@ CATEGORIES:Markets & shopping
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-crumbling-castle-lights@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Crumbling Castle Lights
 DTSTART;TZID=America/Chicago:20261120T180000
 DTEND;TZID=America/Chicago:20261120T235900
@@ -144,7 +144,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-jp-bergman-and-slowpoke-at-cibolo-creek-brewing-co@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:JP Bergman and Slowpoke at Cibolo Creek Brewing Co.
 DTSTART;TZID=America/Chicago:20261120T190000
 DTEND;TZID=America/Chicago:20261120T220000
@@ -160,7 +160,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-live-at-the-kendall-bar-caleb-lopez-jazz-standards@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Live at The Kendall Bar: Caleb Lopez Jazz Standards
 DTSTART;TZID=America/Chicago:20261120T190000
 DTEND;TZID=America/Chicago:20261120T220000
@@ -176,7 +176,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-boerne-last-man-standing-at-boerne-city-park@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Boerne Last Man Standing at Boerne City Park
 DTSTART;TZID=America/Chicago:20261121T040000
 DTEND;TZID=America/Chicago:20261121T110000
@@ -192,7 +192,7 @@ CATEGORIES:Nature & outdoors
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-15th-annual-turkey-trot-5k-10k@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:15th Annual Turkey Trot 5K & 10K
 DTSTART;TZID=America/Chicago:20261121T073000
 DTEND;TZID=America/Chicago:20261121T103000
@@ -208,7 +208,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-rugby-watch-party-at-pioneers-meats@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Rugby Watch Party at Pioneers Meats
 DTSTART;TZID=America/Chicago:20261121T103000
 DTEND;TZID=America/Chicago:20261121T130000
@@ -223,7 +223,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-david-selbo-at-singing-water-vineyards@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:David Selbo at Singing Water Vineyards
 DTSTART;TZID=America/Chicago:20261121T130000
 DTEND;TZID=America/Chicago:20261121T160000
@@ -239,7 +239,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-texas-vs-arkansas@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas vs. Arkansas
 DTSTART;TZID=America/Chicago:20261121T143000
 DTEND;TZID=America/Chicago:20261121T163000
@@ -253,7 +253,7 @@ CATEGORIES:Longhorns football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-texas-a-m-at-oklahoma@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas A&M at Oklahoma
 DTSTART;TZID=America/Chicago:20261121T144500
 DTEND;TZID=America/Chicago:20261121T164500
@@ -264,7 +264,7 @@ CATEGORIES:Texas A&M football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-hunter-billingsley-at-singing-water-vineyards@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Hunter Billingsley at Singing Water Vineyards
 DTSTART;TZID=America/Chicago:20261121T170000
 DTEND;TZID=America/Chicago:20261121T200000
@@ -280,7 +280,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-utsa-at-uab@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:UTSA at UAB
 DTSTART;TZID=America/Chicago:20261121T190000
 DTEND;TZID=America/Chicago:20261121T210000
@@ -292,7 +292,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-live-music-saturday-kyle-mathis-at-lost-oak-cellars@nb-event
  s
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Live Music Saturday: Kyle Mathis at Lost Oak Cellars
 DTSTART;TZID=America/Chicago:20261121T190000
 DTEND;TZID=America/Chicago:20261121T220000
@@ -308,7 +308,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-live-at-the-kendall-bar-david-selbo@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Live at the Kendall Bar: David Selbo
 DTSTART;TZID=America/Chicago:20261121T190000
 DTEND;TZID=America/Chicago:20261121T220000
@@ -324,7 +324,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-julian-escobedo-at-singing-water-vineyards@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Julian Escobedo at Singing Water Vineyards
 DTSTART;TZID=America/Chicago:20261122T130000
 DTEND;TZID=America/Chicago:20261122T160000
@@ -340,7 +340,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-horns-bb-vs-southern-indiana@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas vs. Southern Indiana
 DTSTART;TZID=America/Chicago:20261122T140000
 DTEND;TZID=America/Chicago:20261122T160000
@@ -352,7 +352,7 @@ CATEGORIES:Longhorns basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-turkey-camp-at-gina-marie-s-art-studio@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Turkey Camp at Gina Marie’s Art Studio
 DTSTART;TZID=America/Chicago:20261123T100000
 DTEND;TZID=America/Chicago:20261123T150000
@@ -368,7 +368,7 @@ CATEGORIES:Markets & shopping
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-spurs-at-kings@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Kings
 DTSTART;TZID=America/Chicago:20261123T210000
 DTEND;TZID=America/Chicago:20261123T230000
@@ -380,7 +380,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-kids-thanksgiving-craft-morning-at-girls-night-in@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Kids Thanksgiving Craft Morning at Girls Night In
 DTSTART;TZID=America/Chicago:20261125T090000
 DTEND;TZID=America/Chicago:20261125T110000
@@ -396,7 +396,7 @@ CATEGORIES:Markets & shopping
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-spurs-at-trail-blazers@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Trail Blazers
 DTSTART;TZID=America/Chicago:20261125T210000
 DTEND;TZID=America/Chicago:20261125T230000
@@ -409,7 +409,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-6th-annual-bulverde-turkey-trot-at-bulverde-community-park@n
  b-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:6th Annual Bulverde Turkey Trot at Bulverde Community Park
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
@@ -425,7 +425,7 @@ CATEGORIES:Nature & outdoors
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-turkey-talk-at-guadalupe-river-state-park@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Turkey Talk at Guadalupe River State Park
 DTSTART;TZID=America/Chicago:20261126T100000
 DTEND;TZID=America/Chicago:20261126T110000
@@ -441,7 +441,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-thanksgiving-feast-at-tapatio-springs@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Thanksgiving Feast at Tapatio Springs
 DTSTART;TZID=America/Chicago:20261126T110000
 DTEND;TZID=America/Chicago:20261126T160000
@@ -458,7 +458,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-horns-bb-vs-georgetown@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas vs. Georgetown
 DTSTART;TZID=America/Chicago:20261126T133000
 DTEND;TZID=America/Chicago:20261126T153000
@@ -470,7 +470,7 @@ CATEGORIES:Longhorns basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-dickens-on-main@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Dickens on Main
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261129
@@ -485,7 +485,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-opt-outside-day-at-guadalupe-river-state-park@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Opt Outside Day at Guadalupe River State Park
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
@@ -501,7 +501,7 @@ CATEGORIES:Nature & outdoors
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-utsa-vs-tulsa@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:UTSA vs. Tulsa
 DTSTART;TZID=America/Chicago:20261127T110000
 DTEND;TZID=America/Chicago:20261127T130000
@@ -514,7 +514,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-plaid-friday-and-small-business-saturday-at-handmade-on-main
  @nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Plaid Friday and Small Business Saturday at Handmade on Main
 DTSTART;TZID=America/Chicago:20261127T110000
 DTEND;TZID=America/Chicago:20261127T130000
@@ -530,7 +530,7 @@ CATEGORIES:Markets & shopping
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-old-west-christmas-light-fest@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Old West Christmas Light Fest
 DTSTART;TZID=America/Chicago:20261127T170000
 DTEND;TZID=America/Chicago:20261127T220000
@@ -547,7 +547,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-band-of-confusion-a-genesis-tribute-at-singing-water-vineyar
  @nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Band of Confusion: A Genesis Tribute at Singing Water Vineyards
 DTSTART;TZID=America/Chicago:20261127T180000
 DTEND;TZID=America/Chicago:20261127T210000
@@ -563,7 +563,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-live-music-at-indulge-with-hip-tones@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Live Music at Indulge with Hip Tones
 DTSTART;TZID=America/Chicago:20261127T180000
 DTEND;TZID=America/Chicago:20261127T210000
@@ -579,7 +579,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-texas-at-texas-a-m-lone-star-showdown@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas at Texas A&M (Lone Star Showdown)
 DTSTART;TZID=America/Chicago:20261127T183000
 DTEND;TZID=America/Chicago:20261127T203000
@@ -593,7 +593,7 @@ CATEGORIES:Longhorns football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-texas-a-m-vs-texas-lone-star-showdown@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas A&M vs. Texas (Lone Star Showdown)
 DTSTART;TZID=America/Chicago:20261127T183000
 DTEND;TZID=America/Chicago:20261127T203000
@@ -605,7 +605,7 @@ CATEGORIES:Texas A&M football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-spurs-vs-lakers@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Lakers
 DTSTART;TZID=America/Chicago:20261127T203000
 DTEND;TZID=America/Chicago:20261127T223000
@@ -617,7 +617,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-breakfast-with-santa-at-la-cascada-table-bar@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Breakfast with Santa at La Cascada Table & Bar
 DTSTART;TZID=America/Chicago:20261128T083000
 DTEND;TZID=America/Chicago:20261128T120000
@@ -633,7 +633,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-christmas-market-at-the-8th-street-market@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Christmas Market at The 8th Street Market
 DTSTART;TZID=America/Chicago:20261128T090000
 DTEND;TZID=America/Chicago:20261128T180000
@@ -649,7 +649,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-holiday-art-and-shopping-at-esther-benedict-gallery-hill-cou
  @nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Holiday Art and Shopping at Esther Benedict Gallery & Hill Country 
  Sculpture Walk
 DTSTART;TZID=America/Chicago:20261128T100000
@@ -666,7 +666,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-5k-beer-run@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:5k Beer Run
 DTSTART;TZID=America/Chicago:20261128T110000
 DTEND;TZID=America/Chicago:20261128T130000
@@ -682,7 +682,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-sam-and-lilly-platts-at-singing-water-vineyards@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Sam and Lilly Platts at Singing Water Vineyards
 DTSTART;TZID=America/Chicago:20261128T130000
 DTEND;TZID=America/Chicago:20261128T160000
@@ -699,7 +699,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-music-in-the-cave-sounds-of-the-season-at-cave-without-a-nam
  @nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Music in the Cave: Sounds of the Season at Cave Without a Name
 DTSTART;TZID=America/Chicago:20261128T190000
 DTEND;TZID=America/Chicago:20261128T210000
@@ -715,7 +715,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-jr-castro-the-reed-brothers-live-at-salvador-dobbs@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:JR Castro & the Reed Brothers Live at Salvador DOBBS
 DTSTART;TZID=America/Chicago:20261128T210000
 DTEND;TZID=America/Chicago:20261128T233000
@@ -731,7 +731,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-jeff-jacobs-at-singing-water-vineyards@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Jeff Jacobs at Singing Water Vineyards
 DTSTART;TZID=America/Chicago:20261129T130000
 DTEND;TZID=America/Chicago:20261129T160000
@@ -747,7 +747,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-spurs-vs-celtics@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Celtics
 DTSTART;TZID=America/Chicago:20261129T150000
 DTEND;TZID=America/Chicago:20261129T170000
@@ -759,7 +759,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-spurs-at-bucks@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Bucks
 DTSTART;TZID=America/Chicago:20261130T190000
 DTEND;TZID=America/Chicago:20261130T210000
@@ -772,7 +772,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-homegrown-holiday-festival-at-boerne-farmers-market@nb-event
  s
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Homegrown Holiday Festival at Boerne Farmers’ Market
 DTSTART;TZID=America/Chicago:20261201T160000
 DTEND;TZID=America/Chicago:20261201T220000
@@ -788,7 +788,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-horns-bb-at-louisville@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas at Louisville
 DTSTART;TZID=America/Chicago:20261201T200000
 DTEND;TZID=America/Chicago:20261201T220000
@@ -800,7 +800,7 @@ CATEGORIES:Longhorns basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-christmas-churches-by-candlelight@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Christmas Churches by Candlelight
 DTSTART;TZID=America/Chicago:20261202T173000
 DTEND;TZID=America/Chicago:20261202T200000
@@ -816,7 +816,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-comedy-show-game-night@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Comedy Show & Game Night
 DTSTART;TZID=America/Chicago:20261202T193000
 DTEND;TZID=America/Chicago:20261202T210000
@@ -833,7 +833,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-blizzard-of-bows-winter-concert-at-champion-high-school-audi
  @nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Blizzard of Bows Winter Concert at Champion High School Auditorium
 DTSTART;TZID=America/Chicago:20261203T180000
 DTEND;TZID=America/Chicago:20261203T210000
@@ -849,7 +849,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-spurs-vs-raptors@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Raptors
 DTSTART;TZID=America/Chicago:20261203T190000
 DTEND;TZID=America/Chicago:20261203T210000
@@ -861,7 +861,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-miracle-on-34th-street@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Miracle On 34th Street
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261221
@@ -874,7 +874,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-boerne-isd-cookies-cocoa-toy-drive-at-boerne-isd-central-off
  @nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Boerne ISD Cookies & Cocoa Toy Drive at Boerne ISD Central Office
 DTSTART;TZID=America/Chicago:20261204T080000
 DTEND;TZID=America/Chicago:20261204T143000
@@ -891,7 +891,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-boerne-community-theatre-presents-miracle-on-34th-street@nb-
  events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Boerne Community Theatre Presents: 'Miracle on 34th Street'
 DTSTART;TZID=America/Chicago:20261204T080000
 DTEND;TZID=America/Chicago:20261204T090000
@@ -907,7 +907,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-inside-edquisitive@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Inside Edquisitive
 DTSTART;TZID=America/Chicago:20261204T093000
 DTEND;TZID=America/Chicago:20261204T120000
@@ -921,7 +921,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-stocking-stroll@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Stocking Stroll
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261206
@@ -935,7 +935,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-st-nicholas-market-at-st-john-lutheran-school-boerne@nb-even
  ts
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:St. Nicholas Market at St. John Lutheran School Boerne
 DTSTART;TZID=America/Chicago:20261204T120000
 DTEND;TZID=America/Chicago:20261204T130000
@@ -950,7 +950,7 @@ CATEGORIES:Markets & shopping
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-weihnachts-weekend-on-the-hill-country-mile@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Weihnachts Weekend on the Hill Country Mile
 DTSTART;TZID=America/Chicago:20261204T160000
 DTEND;TZID=America/Chicago:20261204T180000
@@ -966,7 +966,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-wassail-walk-on-the-hill-country-mile@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Wassail Walk on the Hill Country Mile
 DTSTART;TZID=America/Chicago:20261204T160000
 DTEND;TZID=America/Chicago:20261204T200000
@@ -981,7 +981,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-boujee-nutcrackers@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Boujee Nutcrackers
 DTSTART;TZID=America/Chicago:20261204T180000
 DTEND;TZID=America/Chicago:20261204T200000
@@ -997,7 +997,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-holiday-hunger-5k-run-walk-at-bulverde-city-park@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Holiday Hunger 5K Run & Walk at Bulverde City Park
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
@@ -1013,7 +1013,7 @@ CATEGORIES:Nature & outdoors
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-how-the-grinch-stole-breakfast-at-tapatio-springs@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:How the Grinch Stole Breakfast at Tapatio Springs
 DTSTART;TZID=America/Chicago:20261205T080000
 DTEND;TZID=America/Chicago:20261205T110000
@@ -1029,7 +1029,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-winter-prairie-birding-at-cibolo-nature-center@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Winter Prairie Birding at Cibolo Nature Center
 DTSTART;TZID=America/Chicago:20261205T090000
 DTEND;TZID=America/Chicago:20261205T120000
@@ -1045,7 +1045,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-oma-s-christmas-fair-at-kendall-county-fairgrounds@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Oma’s Christmas Fair at Kendall County Fairgrounds
 DTSTART;TZID=America/Chicago:20261205T090000
 DTEND;TZID=America/Chicago:20261205T170000
@@ -1061,7 +1061,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-cibolo-farmers-market-at-herff-farm@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Cibolo Farmers Market at Herff Farm
 DTSTART;TZID=America/Chicago:20261205T090000
 DTEND;TZID=America/Chicago:20261205T130000
@@ -1077,7 +1077,7 @@ CATEGORIES:Markets & shopping
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-christmas-back-lot-market-at-little-to-luxe@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Christmas Back Lot Market at Little to Luxe
 DTSTART;TZID=America/Chicago:20261205T100000
 DTEND;TZID=America/Chicago:20261205T150000
@@ -1094,7 +1094,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-down-home-christmas-at-the-agricultural-museum-and-arts-cent
  @nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Down Home Christmas at The AgriCultural Museum and Arts Center
 DTSTART;TZID=America/Chicago:20261205T120000
 DTEND;TZID=America/Chicago:20261205T160000
@@ -1111,7 +1111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-art-in-the-park-christmas-cards-at-guadalupe-river-state-par
  @nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Art in the Park: Christmas Cards at Guadalupe River State Park
 DTSTART;TZID=America/Chicago:20261205T120000
 DTEND;TZID=America/Chicago:20261205T130000
@@ -1127,7 +1127,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-sec-championship-game@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:SEC Championship Game
 DTSTART;TZID=America/Chicago:20261205T150000
 DTEND;TZID=America/Chicago:20261205T170000
@@ -1140,7 +1140,7 @@ CATEGORIES:Longhorns football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-first-saturday-on-main-at-hill-country-mile@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:First Saturday on Main at Hill Country Mile
 DTSTART;TZID=America/Chicago:20261205T170000
 DTEND;TZID=America/Chicago:20261205T200000
@@ -1156,7 +1156,7 @@ CATEGORIES:Markets & shopping
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-weihnachts-parade@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Weihnachts Parade (39th annual)
 DTSTART;TZID=America/Chicago:20261205T180000
 DTEND;TZID=America/Chicago:20261205T200000
@@ -1169,7 +1169,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-rejoice-christmas-worship-concert-at-first-baptist-church-bo
  @nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:REJOICE! Christmas Worship Concert at First Baptist Church Boerne
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
@@ -1185,7 +1185,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-christkindlmarkt-at-cana-ballroom@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Christkindlmarkt at Cana Ballroom
 DTSTART;TZID=America/Chicago:20261206T100000
 DTEND;TZID=America/Chicago:20261206T170000
@@ -1200,7 +1200,7 @@ CATEGORIES:Markets & shopping
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-oma-s-christmas-fair-at-kendall-county-fairgrounds@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Oma’s Christmas Fair at Kendall County Fairgrounds
 DTSTART;TZID=America/Chicago:20261206T100000
 DTEND;TZID=America/Chicago:20261206T160000
@@ -1216,7 +1216,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-a-storybook-st-nicholas-day-and-a-visit-from-santa@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:A Storybook St. Nicholas Day and a Visit from Santa
 DTSTART;TZID=America/Chicago:20261206T160000
 DTEND;TZID=America/Chicago:20261206T235900
@@ -1233,7 +1233,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-movie-monday-rise-of-the-guardians-at-patrick-heath-public-l
  @nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Movie Monday! – Rise of the Guardians at Patrick Heath Public Lib
  rary
 DTSTART;TZID=America/Chicago:20261207T160000
@@ -1251,7 +1251,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-annual-boerne-chanukah-celebration-at-boerne-main-plaza@nb-e
  vents
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Annual Boerne Chanukah Celebration at Boerne Main Plaza
 DTSTART;TZID=America/Chicago:20261207T173000
 DTEND;TZID=America/Chicago:20261207T193000
@@ -1268,7 +1268,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-a-walk-in-bethlehem-at-st-helena-s-episcopal-church@nb-event
  s
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:A Walk in Bethlehem at St. Helena’s Episcopal Church
 DTSTART;TZID=America/Chicago:20261208T180000
 DTEND;TZID=America/Chicago:20261208T200000
@@ -1284,7 +1284,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-horns-bb-vs-jackson-state@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas vs. Jackson State
 DTSTART;TZID=America/Chicago:20261208T190000
 DTEND;TZID=America/Chicago:20261208T210000
@@ -1296,7 +1296,7 @@ CATEGORIES:Longhorns basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-frost-boerne-holiday-open-house@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Frost Boerne Holiday Open House
 DTSTART;TZID=America/Chicago:20261210T173000
 DTEND;TZID=America/Chicago:20261210T193000
@@ -1312,7 +1312,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-hill-country-poets-monthly-open-mic-at-the-boerne-bookshop@n
  b-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Hill Country Poets Monthly Open Mic at The Boerne Bookshop
 DTSTART;TZID=America/Chicago:20261210T180000
 DTEND;TZID=America/Chicago:20261210T200000
@@ -1328,7 +1328,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-rustic-christmas-trees@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Rustic Christmas Trees
 DTSTART;TZID=America/Chicago:20261210T180000
 DTEND;TZID=America/Chicago:20261210T200000
@@ -1344,7 +1344,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-kinder-fest-weekend-on-the-hill-country-mile@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Kinder Fest Weekend on the Hill Country Mile
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261214
@@ -1361,7 +1361,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-christmas-in-the-park-at-guadalupe-river-state-park@nb-event
  s
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Christmas in the Park at Guadalupe River State Park
 DTSTART;TZID=America/Chicago:20261211T170000
 DTEND;TZID=America/Chicago:20261211T210000
@@ -1377,7 +1377,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-ugly-sweater-party-at-lost-oak-cellars@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Ugly Sweater Party at Lost Oak Cellars
 DTSTART;TZID=America/Chicago:20261211T190000
 DTEND;TZID=America/Chicago:20261211T220000
@@ -1394,7 +1394,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-jingle-all-the-way-5k-10k-fun-run-at-patrick-heath-public-am
  @nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Jingle All the Way 5K\, 10K & Fun Run at Patrick Heath Public Amphi
  theater
 DTSTART;TZID=America/Chicago:20261212T080000
@@ -1411,7 +1411,7 @@ CATEGORIES:Nature & outdoors
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-breakfast-with-santa-at-boerne-family-ymca@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Breakfast with Santa at Boerne Family YMCA
 DTSTART;TZID=America/Chicago:20261212T090000
 DTEND;TZID=America/Chicago:20261212T103000
@@ -1427,7 +1427,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-cibolo-farmers-market-at-herff-farm@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Cibolo Farmers Market at Herff Farm
 DTSTART;TZID=America/Chicago:20261212T090000
 DTEND;TZID=America/Chicago:20261212T130000
@@ -1443,7 +1443,7 @@ CATEGORIES:Markets & shopping
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-boerne-market-days@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Boerne Market Days
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
@@ -1456,7 +1456,7 @@ CATEGORIES:Markets & shopping
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-historic-toys-from-boerne-at-kuhlmann-king-museum@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Historic Toys from Boerne at Kuhlmann-King Museum
 DTSTART;TZID=America/Chicago:20261212T100000
 DTEND;TZID=America/Chicago:20261212T120000
@@ -1472,7 +1472,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-bluegrass-jams@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Bluegrass Jams
 DTSTART;TZID=America/Chicago:20261212T110000
 DTEND;TZID=America/Chicago:20261212T130000
@@ -1487,7 +1487,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-horns-bb-vs-miami-fla@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas vs. Miami (Fla.)
 DTSTART;TZID=America/Chicago:20261212T163000
 DTEND;TZID=America/Chicago:20261212T183000
@@ -1500,7 +1500,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-christmas-in-the-park-at-guadalupe-river-state-park@nb-event
  s
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Christmas in the Park at Guadalupe River State Park
 DTSTART;TZID=America/Chicago:20261212T170000
 DTEND;TZID=America/Chicago:20261212T210000
@@ -1517,7 +1517,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-live-music-saturday-josh-flores-at-lost-oak-cellars@nb-event
  s
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Live Music Saturday: Josh Flores at Lost Oak Cellars
 DTSTART;TZID=America/Chicago:20261212T190000
 DTEND;TZID=America/Chicago:20261212T220000
@@ -1534,7 +1534,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-paws-and-paths-exploring-the-bauer-unit-at-guadalupe-river-s
  @nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Paws and Paths: Exploring the Bauer Unit at Guadalupe River State P
  ark
 DTSTART;TZID=America/Chicago:20261213T090000
@@ -1551,7 +1551,7 @@ CATEGORIES:Pets & adoptions
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-a-very-merry-christmas-concert@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:A Very Merry Christmas Concert
 DTSTART;TZID=America/Chicago:20261213T160000
 DTEND;TZID=America/Chicago:20261213T173000
@@ -1568,7 +1568,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-a-boerne-concert-band-christmas-at-boerne-high-school-audito
  @nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:A Boerne Concert Band Christmas at Boerne High School Auditorium
 DTSTART;TZID=America/Chicago:20261213T160000
 DTEND;TZID=America/Chicago:20261213T173000
@@ -1584,7 +1584,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-spurs-vs-clippers@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Clippers
 DTSTART;TZID=America/Chicago:20261213T180000
 DTEND;TZID=America/Chicago:20261213T200000
@@ -1596,7 +1596,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-spurs-at-cavaliers@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Cavaliers
 DTSTART;TZID=America/Chicago:20261215T190000
 DTEND;TZID=America/Chicago:20261215T210000
@@ -1608,7 +1608,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-spurs-at-raptors@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Raptors
 DTSTART;TZID=America/Chicago:20261216T183000
 DTEND;TZID=America/Chicago:20261216T203000
@@ -1620,7 +1620,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-horns-bb-vs-memphis@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas vs. Memphis
 DTSTART;TZID=America/Chicago:20261216T200000
 DTEND;TZID=America/Chicago:20261216T220000
@@ -1633,7 +1633,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-christine-crowley-s-retirement-reception-at-boerne-community
  @nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Christine Crowley’s Retirement Reception at Boerne Community Thea
  tre
 DTSTART;TZID=America/Chicago:20261217T160000
@@ -1650,7 +1650,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-spurs-vs-bulls@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Bulls
 DTSTART;TZID=America/Chicago:20261218T190000
 DTEND;TZID=America/Chicago:20261218T210000
@@ -1662,7 +1662,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-dueling-pianos-with-shelley-mier-at-salvador-dobbs@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Dueling Pianos with Shelley Mier at Salvador DOBBS
 DTSTART;TZID=America/Chicago:20261218T210000
 DTEND;TZID=America/Chicago:20261218T233000
@@ -1679,7 +1679,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-christmas-for-the-birds-at-guadalupe-river-state-park@nb-eve
  nts
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Christmas for the Birds at Guadalupe River State Park
 DTSTART;TZID=America/Chicago:20261219T100000
 DTEND;TZID=America/Chicago:20261219T110000
@@ -1695,7 +1695,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-cowboy-christmas-market-days@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Cowboy Christmas Market Days
 DTSTART;TZID=America/Chicago:20261219T100000
 DTEND;TZID=America/Chicago:20261219T170000
@@ -1712,7 +1712,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-live-music-saturday-nef-hernandez-at-lost-oak-cellars@nb-eve
  nts
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Live Music Saturday: Nef Hernandez at Lost Oak Cellars
 DTSTART;TZID=America/Chicago:20261219T190000
 DTEND;TZID=America/Chicago:20261219T220000
@@ -1728,7 +1728,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-spurs-at-pelicans@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Pelicans
 DTSTART;TZID=America/Chicago:20261220T180000
 DTEND;TZID=America/Chicago:20261220T200000
@@ -1740,7 +1740,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-horns-bb-vs-prairie-view-a-m@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas vs. Prairie View A&M
 DTSTART;TZID=America/Chicago:20261221T190000
 DTEND;TZID=America/Chicago:20261221T210000
@@ -1752,7 +1752,7 @@ CATEGORIES:Longhorns basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-spurs-vs-bucks@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Bucks
 DTSTART;TZID=America/Chicago:20261221T190000
 DTEND;TZID=America/Chicago:20261221T210000
@@ -1764,7 +1764,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23-spurs-at-nets@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Nets
 DTSTART;TZID=America/Chicago:20261223T183000
 DTEND;TZID=America/Chicago:20261223T203000
@@ -1776,7 +1776,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-24-christmas-in-the-city@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Christmas In The City
 DTSTART;TZID=America/Chicago:20261224T180000
 DTEND;TZID=America/Chicago:20261224T190000
@@ -1790,7 +1790,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-25-spurs-at-knicks@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Knicks
 DTSTART;TZID=America/Chicago:20261225T110000
 DTEND;TZID=America/Chicago:20261225T130000
@@ -1803,7 +1803,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-26-live-music-saturday-brad-hughes-at-lost-oak-cellars@nb-event
  s
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Live Music Saturday: Brad Hughes at Lost Oak Cellars
 DTSTART;TZID=America/Chicago:20261226T190000
 DTEND;TZID=America/Chicago:20261226T220000
@@ -1819,7 +1819,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-27-spurs-vs-hawks@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Hawks
 DTSTART;TZID=America/Chicago:20261227T180000
 DTEND;TZID=America/Chicago:20261227T200000
@@ -1831,7 +1831,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-29-horns-bb-vs-east-texas-a-m@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas vs. East Texas A&M
 DTSTART;TZID=America/Chicago:20261229T190000
 DTEND;TZID=America/Chicago:20261229T210000
@@ -1843,7 +1843,7 @@ CATEGORIES:Longhorns basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-29-spurs-at-grizzlies@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Grizzlies
 DTSTART;TZID=America/Chicago:20261229T190000
 DTEND;TZID=America/Chicago:20261229T210000
@@ -1855,7 +1855,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-spurs-at-hornets@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Hornets
 DTSTART;TZID=America/Chicago:20261231T120000
 DTEND;TZID=America/Chicago:20261231T140000
@@ -1868,7 +1868,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-bond-blackjack-bubbly-at-tapatio-springs-hill-country-resort
  @nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Bond\, Blackjack & Bubbly at Tapatio Springs Hill Country Resort
 DTSTART;TZID=America/Chicago:20261231T180000
 DTEND;TZID=America/Chicago:20261231T200000
@@ -1885,7 +1885,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-new-year-s-eve-party-with-kat-dawn-small-town-trouble-at-sal
  @nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:New Year’s Eve Party with Kat Dawn & Small Town Trouble at Salvad
  or DOBBS
 DTSTART;TZID=America/Chicago:20261231T210000
@@ -1903,7 +1903,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-01-self-guided-first-day-nature-hikes-at-guadalupe-river-state-
  @nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Self-Guided First Day Nature Hikes at Guadalupe River State Park
 DTSTART;TZID=America/Chicago:20270101T080000
 DTEND;TZID=America/Chicago:20270101T163000
@@ -1919,7 +1919,7 @@ CATEGORIES:Nature & outdoors
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-01-first-day-guided-hike-at-old-tunnel-state-park@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:First Day Guided Hike at Old Tunnel State Park
 DTSTART;TZID=America/Chicago:20270101T130000
 DTEND;TZID=America/Chicago:20270101T140000
@@ -1935,7 +1935,7 @@ CATEGORIES:Nature & outdoors
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-01-spurs-at-wizards@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Wizards
 DTSTART;TZID=America/Chicago:20270101T160000
 DTEND;TZID=America/Chicago:20270101T180000
@@ -1947,7 +1947,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-02-horns-bb-vs-florida@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas vs. Florida
 DTSTART;TZID=America/Chicago:20270102T170000
 DTEND;TZID=America/Chicago:20270102T190000
@@ -1958,7 +1958,7 @@ CATEGORIES:Longhorns basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-03-spurs-at-timberwolves@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Timberwolves
 DTSTART;TZID=America/Chicago:20270103T180000
 DTEND;TZID=America/Chicago:20270103T200000
@@ -1970,7 +1970,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-horns-bb-at-georgia@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas at Georgia
 DTSTART;TZID=America/Chicago:20270105T200000
 DTEND;TZID=America/Chicago:20270105T220000
@@ -1981,7 +1981,7 @@ CATEGORIES:Longhorns basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-spurs-vs-pacers@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Pacers
 DTSTART;TZID=America/Chicago:20270106T190000
 DTEND;TZID=America/Chicago:20270106T210000
@@ -1993,7 +1993,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-spurs-vs-grizzlies@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Grizzlies
 DTSTART;TZID=America/Chicago:20270108T190000
 DTEND;TZID=America/Chicago:20270108T210000
@@ -2006,7 +2006,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-09-river-road-run-half-10-miler-skydome-10k-5k-05k-at-comfort-p
  @nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:River Road Run Half\, 10 Miler SKYDOME\, 10K\, 5K & .05K at Comfort
   Park
 DTSTART;VALUE=DATE:20270109
@@ -2023,7 +2023,7 @@ CATEGORIES:Nature & outdoors
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-09-boerne-market-days@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Boerne Market Days
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270111
@@ -2036,7 +2036,7 @@ CATEGORIES:Markets & shopping
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-09-horns-bb-at-ole-miss@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas at Ole Miss
 DTSTART;TZID=America/Chicago:20270109T110000
 DTEND;TZID=America/Chicago:20270109T130000
@@ -2049,7 +2049,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-10-paws-and-paths-exploring-the-bauer-unit-at-guadalupe-river-s
  @nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Paws and Paths: Exploring the Bauer Unit at Guadalupe River State P
  ark
 DTSTART;TZID=America/Chicago:20270110T090000
@@ -2066,7 +2066,7 @@ CATEGORIES:Pets & adoptions
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-10-spurs-at-hawks@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Hawks
 DTSTART;TZID=America/Chicago:20270110T140000
 DTEND;TZID=America/Chicago:20270110T160000
@@ -2078,7 +2078,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-horns-bb-vs-auburn@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas vs. Auburn
 DTSTART;TZID=America/Chicago:20270112T200000
 DTEND;TZID=America/Chicago:20270112T220000
@@ -2089,7 +2089,7 @@ CATEGORIES:Longhorns basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-spurs-vs-pelicans-nba-paris-game@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Pelicans (NBA Paris Game)
 DTSTART;TZID=America/Chicago:20270114T130000
 DTEND;TZID=America/Chicago:20270114T150000
@@ -2101,7 +2101,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-16-horns-bb-vs-oklahoma@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas vs. Oklahoma
 DTSTART;TZID=America/Chicago:20270116T110000
 DTEND;TZID=America/Chicago:20270116T130000
@@ -2112,7 +2112,7 @@ CATEGORIES:Longhorns basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-16-music-in-the-cave-of-strings-and-silence@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Music in the Cave - Of Strings and Silence
 DTSTART;TZID=America/Chicago:20270116T190000
 DTEND;TZID=America/Chicago:20270116T203000
@@ -2128,7 +2128,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-17-spurs-at-pelicans-nba-manchester-game@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Pelicans (NBA Manchester Game)
 DTSTART;TZID=America/Chicago:20270117T093000
 DTEND;TZID=America/Chicago:20270117T113000
@@ -2140,7 +2140,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-horns-bb-at-lsu@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas at LSU
 DTSTART;TZID=America/Chicago:20270119T200000
 DTEND;TZID=America/Chicago:20270119T220000
@@ -2152,7 +2152,7 @@ CATEGORIES:Longhorns basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-spurs-vs-heat@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Heat
 DTSTART;TZID=America/Chicago:20270120T203000
 DTEND;TZID=America/Chicago:20270120T223000
@@ -2164,7 +2164,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-spurs-vs-timberwolves@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Timberwolves
 DTSTART;TZID=America/Chicago:20270122T203000
 DTEND;TZID=America/Chicago:20270122T223000
@@ -2176,7 +2176,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-horns-bb-vs-arkansas@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas vs. Arkansas
 DTSTART;TZID=America/Chicago:20270123T170000
 DTEND;TZID=America/Chicago:20270123T190000
@@ -2187,7 +2187,7 @@ CATEGORIES:Longhorns basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24-spurs-vs-trail-blazers@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Trail Blazers
 DTSTART;TZID=America/Chicago:20270124T143000
 DTEND;TZID=America/Chicago:20270124T163000
@@ -2199,7 +2199,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-spurs-vs-rockets@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Rockets
 DTSTART;TZID=America/Chicago:20270126T190000
 DTEND;TZID=America/Chicago:20270126T210000
@@ -2211,7 +2211,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-horns-bb-at-south-carolina@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas at South Carolina
 DTSTART;TZID=America/Chicago:20270127T190000
 DTEND;TZID=America/Chicago:20270127T210000
@@ -2223,7 +2223,7 @@ CATEGORIES:Longhorns basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-spurs-vs-hornets@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Hornets
 DTSTART;TZID=America/Chicago:20270127T190000
 DTEND;TZID=America/Chicago:20270127T210000
@@ -2235,7 +2235,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-revive-refresh-renew-sale-at-the-8th-street-market@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Revive. Refresh. Renew. Sale at The 8th Street Market
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270201
@@ -2249,7 +2249,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-horns-bb-vs-kentucky@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas vs. Kentucky
 DTSTART;TZID=America/Chicago:20270130T110000
 DTEND;TZID=America/Chicago:20270130T130000
@@ -2260,7 +2260,7 @@ CATEGORIES:Longhorns basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-spurs-at-warriors@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Warriors
 DTSTART;TZID=America/Chicago:20270130T163000
 DTEND;TZID=America/Chicago:20270130T183000
@@ -2272,7 +2272,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-spurs-at-warriors@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Warriors
 DTSTART;TZID=America/Chicago:20270201T210000
 DTEND;TZID=America/Chicago:20270201T230000
@@ -2284,7 +2284,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-spurs-at-clippers@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Clippers
 DTSTART;TZID=America/Chicago:20270202T213000
 DTEND;TZID=America/Chicago:20270202T233000
@@ -2296,7 +2296,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-spurs-vs-magic@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Magic
 DTSTART;TZID=America/Chicago:20270204T190000
 DTEND;TZID=America/Chicago:20270204T210000
@@ -2308,7 +2308,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-06-boerne-home-outdoor-living-show@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Boerne Home & Outdoor Living Show
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270208
@@ -2322,7 +2322,7 @@ CATEGORIES:Markets & shopping
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-06-horns-bb-at-florida@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas at Florida
 DTSTART;TZID=America/Chicago:20270206T110000
 DTEND;TZID=America/Chicago:20270206T130000
@@ -2334,7 +2334,7 @@ CATEGORIES:Longhorns basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-06-spurs-vs-lakers@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Lakers
 DTSTART;TZID=America/Chicago:20270206T193000
 DTEND;TZID=America/Chicago:20270206T213000
@@ -2346,7 +2346,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-horns-bb-vs-alabama@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas vs. Alabama
 DTSTART;TZID=America/Chicago:20270209T180000
 DTEND;TZID=America/Chicago:20270209T200000
@@ -2358,7 +2358,7 @@ CATEGORIES:Longhorns basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-spurs-at-mavericks@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Mavericks
 DTSTART;TZID=America/Chicago:20270209T190000
 DTEND;TZID=America/Chicago:20270209T210000
@@ -2370,7 +2370,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-spurs-at-thunder@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Thunder
 DTSTART;TZID=America/Chicago:20270211T203000
 DTEND;TZID=America/Chicago:20270211T223000
@@ -2382,7 +2382,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-boerne-chocolate-walk@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Boerne Chocolate Walk
 DTSTART;TZID=America/Chicago:20270212T100000
 DTEND;TZID=America/Chicago:20270212T120000
@@ -2398,7 +2398,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-boerne-market-days@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Boerne Market Days
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270215
@@ -2411,7 +2411,7 @@ CATEGORIES:Markets & shopping
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-horns-bb-at-vanderbilt@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas at Vanderbilt
 DTSTART;TZID=America/Chicago:20270213T130000
 DTEND;TZID=America/Chicago:20270213T150000
@@ -2422,7 +2422,7 @@ CATEGORIES:Longhorns basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-spurs-at-magic@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Magic
 DTSTART;TZID=America/Chicago:20270213T180000
 DTEND;TZID=America/Chicago:20270213T200000
@@ -2435,7 +2435,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-music-in-the-cave-for-valentine-s-an-evening-with-slaid-clea
  @nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Music in the Cave for Valentine's - an Evening with Slaid Cleaves
 DTSTART;TZID=America/Chicago:20270213T190000
 DTEND;TZID=America/Chicago:20270213T203000
@@ -2451,7 +2451,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-15-spurs-at-heat@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Heat
 DTSTART;TZID=America/Chicago:20270215T160000
 DTEND;TZID=America/Chicago:20270215T180000
@@ -2463,7 +2463,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-spurs-at-grizzlies@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Grizzlies
 DTSTART;TZID=America/Chicago:20270217T190000
 DTEND;TZID=America/Chicago:20270217T210000
@@ -2475,7 +2475,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-horns-bb-vs-texas-a-m@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas vs. Texas A&M
 DTSTART;TZID=America/Chicago:20270217T200000
 DTEND;TZID=America/Chicago:20270217T220000
@@ -2486,7 +2486,7 @@ CATEGORIES:Longhorns basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-spurs-at-timberwolves@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Timberwolves
 DTSTART;TZID=America/Chicago:20270218T183000
 DTEND;TZID=America/Chicago:20270218T203000
@@ -2498,7 +2498,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-austinfc-vs-fc-dallas@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Austin FC vs. FC Dallas
 DTSTART;TZID=America/Chicago:20270220T190000
 DTEND;TZID=America/Chicago:20270220T210000
@@ -2511,7 +2511,7 @@ CATEGORIES:Austin FC soccer
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-horns-bb-at-oklahoma@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas at Oklahoma
 DTSTART;TZID=America/Chicago:20270220T193000
 DTEND;TZID=America/Chicago:20270220T213000
@@ -2524,7 +2524,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-21-paws-and-paths-exploring-the-bauer-unit-at-guadalupe-river-s
  @nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Paws and Paths: Exploring the Bauer Unit at Guadalupe River State P
  ark
 DTSTART;TZID=America/Chicago:20270221T090000
@@ -2541,7 +2541,7 @@ CATEGORIES:Pets & adoptions
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-24-horns-bb-at-mississippi-state@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas at Mississippi State
 DTSTART;TZID=America/Chicago:20270224T180000
 DTEND;TZID=America/Chicago:20270224T200000
@@ -2552,7 +2552,7 @@ CATEGORIES:Longhorns basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-26-spurs-vs-grizzlies-austin@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Grizzlies (Austin)
 DTSTART;TZID=America/Chicago:20270226T190000
 DTEND;TZID=America/Chicago:20270226T210000
@@ -2564,7 +2564,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-27-austinfc-at-st-louis-city-sc@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Austin FC at St. Louis CITY SC
 DTSTART;TZID=America/Chicago:20270227T150000
 DTEND;TZID=America/Chicago:20270227T170000
@@ -2577,7 +2577,7 @@ CATEGORIES:Austin FC soccer
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-spurs-vs-nuggets-austin@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Nuggets (Austin)
 DTSTART;TZID=America/Chicago:20270228T120000
 DTEND;TZID=America/Chicago:20270228T140000
@@ -2589,7 +2589,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-02-horns-bb-vs-missouri@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas vs. Missouri
 DTSTART;TZID=America/Chicago:20270302T180000
 DTEND;TZID=America/Chicago:20270302T200000
@@ -2600,7 +2600,7 @@ CATEGORIES:Longhorns basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-03-austinfc-vs-colorado-rapids@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Austin FC vs. Colorado Rapids
 DTSTART;TZID=America/Chicago:20270303T190000
 DTEND;TZID=America/Chicago:20270303T210000
@@ -2613,7 +2613,7 @@ CATEGORIES:Austin FC soccer
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-03-spurs-at-nuggets@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Nuggets
 DTSTART;TZID=America/Chicago:20270303T210000
 DTEND;TZID=America/Chicago:20270303T230000
@@ -2625,7 +2625,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-05-spurs-at-rockets@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Rockets
 DTSTART;TZID=America/Chicago:20270305T203000
 DTEND;TZID=America/Chicago:20270305T223000
@@ -2637,7 +2637,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-06-horns-bb-at-texas-a-m@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas at Texas A&M
 DTSTART;TZID=America/Chicago:20270306T190000
 DTEND;TZID=America/Chicago:20270306T210000
@@ -2649,7 +2649,7 @@ CATEGORIES:Longhorns basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-06-austinfc-vs-seattle-sounders-fc@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Austin FC vs. Seattle Sounders FC
 DTSTART;TZID=America/Chicago:20270306T190000
 DTEND;TZID=America/Chicago:20270306T210000
@@ -2662,7 +2662,7 @@ CATEGORIES:Austin FC soccer
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-07-spurs-vs-knicks@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Knicks
 DTSTART;TZID=America/Chicago:20270307T183000
 DTEND;TZID=America/Chicago:20270307T203000
@@ -2674,7 +2674,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-09-spurs-vs-wizards@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Wizards
 DTSTART;TZID=America/Chicago:20270309T190000
 DTEND;TZID=America/Chicago:20270309T210000
@@ -2686,7 +2686,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-11-spurs-vs-76ers@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. 76ers
 DTSTART;TZID=America/Chicago:20270311T183000
 DTEND;TZID=America/Chicago:20270311T203000
@@ -2698,7 +2698,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-13-austinfc-at-portland-timbers@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Austin FC at Portland Timbers
 DTSTART;TZID=America/Chicago:20270313T210000
 DTEND;TZID=America/Chicago:20270313T230000
@@ -2712,7 +2712,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-14-paws-and-paths-exploring-the-bauer-unit-at-guadalupe-river-s
  @nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Paws and Paths: Exploring the Bauer Unit at Guadalupe River State P
  ark
 DTSTART;TZID=America/Chicago:20270314T090000
@@ -2729,7 +2729,7 @@ CATEGORIES:Pets & adoptions
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-14-spurs-at-thunder@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Thunder
 DTSTART;TZID=America/Chicago:20270314T133000
 DTEND;TZID=America/Chicago:20270314T153000
@@ -2741,7 +2741,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-16-spurs-at-rockets@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Rockets
 DTSTART;TZID=America/Chicago:20270316T193000
 DTEND;TZID=America/Chicago:20270316T213000
@@ -2753,7 +2753,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-18-spurs-vs-nets@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Nets
 DTSTART;TZID=America/Chicago:20270318T190000
 DTEND;TZID=America/Chicago:20270318T210000
@@ -2765,7 +2765,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-19-spurs-vs-mavericks@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Mavericks
 DTSTART;TZID=America/Chicago:20270319T190000
 DTEND;TZID=America/Chicago:20270319T210000
@@ -2777,7 +2777,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-20-music-in-the-cave-spring-equinox@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Music in the Cave - Spring Equinox
 DTSTART;TZID=America/Chicago:20270320T190000
 DTEND;TZID=America/Chicago:20270320T203000
@@ -2793,7 +2793,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-20-austinfc-at-san-diego-fc@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Austin FC at San Diego FC
 DTSTART;TZID=America/Chicago:20270320T210000
 DTEND;TZID=America/Chicago:20270320T230000
@@ -2806,7 +2806,7 @@ CATEGORIES:Austin FC soccer
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-21-spurs-at-76ers@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at 76ers
 DTSTART;TZID=America/Chicago:20270321T183000
 DTEND;TZID=America/Chicago:20270321T203000
@@ -2818,7 +2818,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-24-spurs-at-celtics@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Celtics
 DTSTART;TZID=America/Chicago:20270324T183000
 DTEND;TZID=America/Chicago:20270324T203000
@@ -2830,7 +2830,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-25-astros-vs-rangers@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros vs. Rangers
 DTSTART;TZID=America/Chicago:20270325T151000
 DTEND;TZID=America/Chicago:20270325T171000
@@ -2841,7 +2841,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-25-spurs-at-pacers@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Pacers
 DTSTART;TZID=America/Chicago:20270325T180000
 DTEND;TZID=America/Chicago:20270325T200000
@@ -2853,7 +2853,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-26-astros-vs-rangers@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros vs. Rangers
 DTSTART;TZID=America/Chicago:20270326T181000
 DTEND;TZID=America/Chicago:20270326T201000
@@ -2864,7 +2864,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-27-15th-annual-community-garage-sale@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:15th Annual Community Garage Sale
 DTSTART;TZID=America/Chicago:20270327T080000
 DTEND;TZID=America/Chicago:20270327T160000
@@ -2880,7 +2880,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-27-spurs-at-pistons@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Pistons
 DTSTART;TZID=America/Chicago:20270327T140000
 DTEND;TZID=America/Chicago:20270327T160000
@@ -2892,7 +2892,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-27-austinfc-vs-los-angeles-football-club@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Austin FC vs. Los Angeles Football Club
 DTSTART;TZID=America/Chicago:20270327T190000
 DTEND;TZID=America/Chicago:20270327T210000
@@ -2905,7 +2905,7 @@ CATEGORIES:Austin FC soccer
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-27-astros-vs-rangers@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros vs. Rangers
 DTSTART;TZID=America/Chicago:20270327T191000
 DTEND;TZID=America/Chicago:20270327T211000
@@ -2916,7 +2916,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-29-astros-vs-red-sox@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros vs. Red Sox
 DTSTART;TZID=America/Chicago:20270329T191000
 DTEND;TZID=America/Chicago:20270329T211000
@@ -2927,7 +2927,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-29-spurs-vs-suns@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Suns
 DTSTART;TZID=America/Chicago:20270329T203000
 DTEND;TZID=America/Chicago:20270329T223000
@@ -2939,7 +2939,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-30-astros-vs-red-sox@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros vs. Red Sox
 DTSTART;TZID=America/Chicago:20270330T191000
 DTEND;TZID=America/Chicago:20270330T211000
@@ -2950,7 +2950,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-31-astros-vs-red-sox@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros vs. Red Sox
 DTSTART;TZID=America/Chicago:20270331T131000
 DTEND;TZID=America/Chicago:20270331T151000
@@ -2961,7 +2961,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-31-spurs-vs-suns@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Suns
 DTSTART;TZID=America/Chicago:20270331T190000
 DTEND;TZID=America/Chicago:20270331T210000
@@ -2973,7 +2973,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-02-astros-at-braves@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros at Braves
 DTSTART;TZID=America/Chicago:20270402T181500
 DTEND;TZID=America/Chicago:20270402T201500
@@ -2984,7 +2984,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-02-spurs-at-clippers@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Clippers
 DTSTART;TZID=America/Chicago:20270402T213000
 DTEND;TZID=America/Chicago:20270402T233000
@@ -2996,7 +2996,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-03-astros-at-braves@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros at Braves
 DTSTART;TZID=America/Chicago:20270403T181500
 DTEND;TZID=America/Chicago:20270403T201500
@@ -3007,7 +3007,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-03-austinfc-at-houston-dynamo-fc@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Austin FC at Houston Dynamo FC
 DTSTART;TZID=America/Chicago:20270403T190000
 DTEND;TZID=America/Chicago:20270403T210000
@@ -3020,7 +3020,7 @@ CATEGORIES:Austin FC soccer
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-04-astros-at-braves@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros at Braves
 DTSTART;TZID=America/Chicago:20270404T123500
 DTEND;TZID=America/Chicago:20270404T143500
@@ -3031,7 +3031,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-04-spurs-at-lakers@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs at Lakers
 DTSTART;TZID=America/Chicago:20270404T210000
 DTEND;TZID=America/Chicago:20270404T230000
@@ -3043,7 +3043,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-05-astros-at-red-sox@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros at Red Sox
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270406
@@ -3054,7 +3054,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-06-astros-at-red-sox@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros at Red Sox
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
@@ -3065,7 +3065,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-06-spurs-vs-kings@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Kings
 DTSTART;TZID=America/Chicago:20270406T190000
 DTEND;TZID=America/Chicago:20270406T210000
@@ -3077,7 +3077,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-07-astros-at-red-sox@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros at Red Sox
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
@@ -3088,7 +3088,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-07-spurs-vs-cavaliers@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Cavaliers
 DTSTART;TZID=America/Chicago:20270407T183000
 DTEND;TZID=America/Chicago:20270407T203000
@@ -3100,7 +3100,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-07-austinfc-vs-san-jose-earthquakes@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Austin FC vs. San Jose Earthquakes
 DTSTART;TZID=America/Chicago:20270407T190000
 DTEND;TZID=America/Chicago:20270407T210000
@@ -3113,7 +3113,7 @@ CATEGORIES:Austin FC soccer
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-09-astros-vs-guardians@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros vs. Guardians
 DTSTART;TZID=America/Chicago:20270409T191000
 DTEND;TZID=America/Chicago:20270409T211000
@@ -3124,7 +3124,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-09-spurs-vs-nuggets@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Nuggets
 DTSTART;TZID=America/Chicago:20270409T203000
 DTEND;TZID=America/Chicago:20270409T223000
@@ -3136,7 +3136,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-10-astros-vs-guardians@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros vs. Guardians
 DTSTART;TZID=America/Chicago:20270410T181000
 DTEND;TZID=America/Chicago:20270410T201000
@@ -3147,7 +3147,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-10-austinfc-at-vancouver-whitecaps-fc@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Austin FC at Vancouver Whitecaps FC
 DTSTART;TZID=America/Chicago:20270410T210000
 DTEND;TZID=America/Chicago:20270410T230000
@@ -3161,7 +3161,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-11-paws-and-paths-exploring-the-bauer-unit-at-guadalupe-river-s
  @nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Paws and Paths: Exploring the Bauer Unit at Guadalupe River State P
  ark
 DTSTART;TZID=America/Chicago:20270411T090000
@@ -3178,7 +3178,7 @@ CATEGORIES:Pets & adoptions
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-11-astros-vs-guardians@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros vs. Guardians
 DTSTART;TZID=America/Chicago:20270411T131000
 DTEND;TZID=America/Chicago:20270411T151000
@@ -3189,7 +3189,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-11-spurs-vs-trail-blazers@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Spurs vs. Trail Blazers
 DTSTART;TZID=America/Chicago:20270411T193000
 DTEND;TZID=America/Chicago:20270411T213000
@@ -3201,7 +3201,7 @@ CATEGORIES:Spurs basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-13-astros-vs-blue-jays@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros vs. Blue Jays
 DTSTART;TZID=America/Chicago:20270413T191000
 DTEND;TZID=America/Chicago:20270413T211000
@@ -3212,7 +3212,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-14-astros-vs-blue-jays@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros vs. Blue Jays
 DTSTART;TZID=America/Chicago:20270414T191000
 DTEND;TZID=America/Chicago:20270414T211000
@@ -3223,7 +3223,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-15-astros-vs-blue-jays@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros vs. Blue Jays
 DTSTART;TZID=America/Chicago:20270415T131000
 DTEND;TZID=America/Chicago:20270415T151000
@@ -3234,7 +3234,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-16-astros-at-mariners@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros at Mariners
 DTSTART;TZID=America/Chicago:20270416T204000
 DTEND;TZID=America/Chicago:20270416T224000
@@ -3245,7 +3245,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-17-texas-corvette-association-open-car-show@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Texas Corvette Association Open Car Show
 DTSTART;TZID=America/Chicago:20270417T080000
 DTEND;TZID=America/Chicago:20270417T163000
@@ -3261,7 +3261,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-17-astros-at-mariners@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros at Mariners
 DTSTART;TZID=America/Chicago:20270417T181500
 DTEND;TZID=America/Chicago:20270417T201500
@@ -3272,7 +3272,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-17-austinfc-vs-sporting-kansas-city@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Austin FC vs. Sporting Kansas City
 DTSTART;TZID=America/Chicago:20270417T190000
 DTEND;TZID=America/Chicago:20270417T210000
@@ -3285,7 +3285,7 @@ CATEGORIES:Austin FC soccer
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-18-astros-at-mariners@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros at Mariners
 DTSTART;TZID=America/Chicago:20270418T151000
 DTEND;TZID=America/Chicago:20270418T171000
@@ -3296,7 +3296,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-19-astros-at-angels@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros at Angels
 DTSTART;TZID=America/Chicago:20270419T203800
 DTEND;TZID=America/Chicago:20270419T223800
@@ -3307,7 +3307,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-20-astros-at-angels@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros at Angels
 DTSTART;TZID=America/Chicago:20270420T203800
 DTEND;TZID=America/Chicago:20270420T223800
@@ -3318,7 +3318,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-21-astros-at-angels@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros at Angels
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
@@ -3329,7 +3329,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-23-astros-vs-yankees@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros vs. Yankees
 DTSTART;TZID=America/Chicago:20270423T191000
 DTEND;TZID=America/Chicago:20270423T211000
@@ -3340,7 +3340,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-24-astros-vs-yankees@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros vs. Yankees
 DTSTART;TZID=America/Chicago:20270424T181000
 DTEND;TZID=America/Chicago:20270424T201000
@@ -3351,7 +3351,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-24-austinfc-at-minnesota-united-fc@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Austin FC at Minnesota United FC
 DTSTART;TZID=America/Chicago:20270424T190000
 DTEND;TZID=America/Chicago:20270424T210000
@@ -3364,7 +3364,7 @@ CATEGORIES:Austin FC soccer
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-25-astros-vs-yankees@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros vs. Yankees
 DTSTART;TZID=America/Chicago:20270425T131000
 DTEND;TZID=America/Chicago:20270425T151000
@@ -3375,7 +3375,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-26-astros-vs-angels@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros vs. Angels
 DTSTART;TZID=America/Chicago:20270426T191000
 DTEND;TZID=America/Chicago:20270426T211000
@@ -3386,7 +3386,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-27-astros-vs-angels@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros vs. Angels
 DTSTART;TZID=America/Chicago:20270427T191000
 DTEND;TZID=America/Chicago:20270427T211000
@@ -3397,7 +3397,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-28-astros-vs-angels@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros vs. Angels
 DTSTART;TZID=America/Chicago:20270428T191000
 DTEND;TZID=America/Chicago:20270428T211000
@@ -3408,7 +3408,7 @@ CATEGORIES:Astros baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-30-astros-at-marlins@nb-events
-DTSTAMP:20261122T171857Z
+DTSTAMP:20261123T044620Z
 SUMMARY:Astros at Marlins
 DTSTART;TZID=America/Chicago:20270430T181000
 DTEND;TZID=America/Chicago:20270430T201000
