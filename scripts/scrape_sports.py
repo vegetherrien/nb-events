@@ -25,16 +25,19 @@ RANGE_END = "2027-04-30"
 GROUPS = {
     "Pro sports": ["spurs", "mavs", "rockets", "astros", "rangers", "cowboys", "texans",
                    "safc", "austinfc", "dynamo", "fcdallas", "dash", "locomotive"],
-    "College sports": ["horns", "horns-bb", "txst", "txst-bb", "utsa", "utsa-bb", "aggies"],
+    "College sports": ["meangreen", "meangreen-bb", "horns", "horns-bb", "txst", "txst-bb", "utsa", "utsa-bb", "aggies"],
 }
 BOTH = ["new-braunfels", "boerne"]
+ALL = BOTH + ["corinth"]
+# In a city listed here, only these teams start switched on; every other team is opt-in.
+HOME_TEAMS = {"corinth": {"cowboys", "mavs", "rangers", "fcdallas", "meangreen", "meangreen-bb"}}
 
 # hidden=True: the team starts switched off (people opt in), like the Cowboys.
 SOURCES = [
     dict(kind="page", category="txst-bb", name="Texas State basketball", nick="Bobcats", cities=["new-braunfels"],
          url="https://txst.com/sports/mens-basketball/schedule", team="Texas State University",
          home="Strahan Arena, San Marcos", home_marks=["Strahan", "San Marcos"], symbol="basketball.fill", light="#6B2D1A", dark="#D9A441"),
-    dict(kind="ics", category="horns-bb", name="Longhorns basketball", nick="Texas", cities=BOTH,
+    dict(kind="ics", category="horns-bb", name="Longhorns basketball", nick="Texas", cities=ALL,
          url="https://texaslonghorns.com/calendar.ashx/calendar.ics?sport_id=4",
          link="https://texaslonghorns.com/sports/mens-basketball/schedule",
          team="University of Texas Men's Basketball", home="Moody Center, Austin",
@@ -42,15 +45,25 @@ SOURCES = [
     dict(kind="page", category="utsa-bb", name="UTSA basketball", nick="UTSA", cities=BOTH, hidden=True,
          url="https://goutsa.com/sports/mens-basketball/schedule", team="UTSA",
          home="Convocation Center, San Antonio", symbol="basketball.fill", light="#0C2340", dark="#F15A22"),
-    dict(kind="page", category="texans", name="Texans football", nick="Texans", cities=BOTH, hidden=True,
+    dict(kind="page", category="texans", name="Texans football", nick="Texans", cities=ALL, hidden=True,
          url="https://www.houstontexans.com/schedule/", team="Houston Texans", short_opponent=True, tv_table=True,
          home="NRG Stadium, Houston", home_marks=["Reliant", "NRG", "Houston"], symbol="football.fill", light="#03202F", dark="#C8414B"),
-    dict(kind="nfl", category="cowboys", name="Cowboys football", nick="Cowboys", cities=BOTH, hidden=True,
+    dict(kind="nfl", category="cowboys", name="Cowboys football", nick="Cowboys", cities=ALL, hidden=True,
          url="https://www.dallascowboys.com/schedule/", home="AT&T Stadium, Arlington",
          symbol="football.fill", light="#041E42", dark="#869397"),
-    dict(kind="mlb", category="astros", name="Astros baseball", nick="Astros", cities=BOTH, team_id=117,
+    dict(kind="ics", category="meangreen", name="Mean Green football", nick="Mean Green", cities=["corinth"],
+         url="https://meangreensports.com/calendar.ashx/calendar.ics?sport_id=2",
+         link="https://meangreensports.com/sports/football/schedule",
+         team="University of North Texas Football", home="DATCU Stadium, Denton",
+         symbol="football.fill", light="#00853E", dark="#5CD68A"),
+    dict(kind="ics", category="meangreen-bb", name="Mean Green basketball", nick="Mean Green", cities=["corinth"],
+         url="https://meangreensports.com/calendar.ashx/calendar.ics?sport_id=4",
+         link="https://meangreensports.com/sports/mens-basketball/schedule",
+         team="University of North Texas Men's Basketball", home="UNT Coliseum (The Super Pit), Denton",
+         symbol="basketball.fill", light="#00853E", dark="#5CD68A"),
+    dict(kind="mlb", category="astros", name="Astros baseball", nick="Astros", cities=ALL, team_id=117,
          symbol="baseball.fill", light="#EB6E1F", dark="#F4A261"),
-    dict(kind="mlb", category="rangers", name="Rangers baseball", nick="Rangers", cities=BOTH, team_id=140,
+    dict(kind="mlb", category="rangers", name="Rangers baseball", nick="Rangers", cities=ALL, team_id=140,
          hidden=True, symbol="baseball.fill", light="#003278", dark="#7FA8E8"),
 ]
 # Where a team's games air when no national network has them (2026-27 season).
@@ -58,6 +71,9 @@ SOURCES = [
 # Rockets: Space City Home Network. Mavericks: KFAA/WFAA are Dallas over-the-air stations that don't
 # reach this area, so the streaming options are listed (MavsTV+ in-market, League Pass outside it).
 LOCAL_TV = {"spurs": "DAZN", "rockets": "Space City Home Network", "mavs": "MavsTV+ or League Pass"}
+
+# Where the local broadcast can actually be picked up over the air.
+LOCAL_TV_HERE = {"corinth": {"mavs": "KFAA 29 or MavsTV+"}}
 
 # Colors and symbols for teams entered from research files.
 EXTRA = {
@@ -244,7 +260,11 @@ def main(path, apply=False):
     today = date.today().isoformat()
     cats = feed["categories"]
 
+    home = HOME_TEAMS.get(city)
+
     def ensure(cid, name, symbol, light, dark, hidden):
+        if home is not None:
+            hidden = cid not in home
         if not any(c["id"] == cid for c in cats):
             c = {"id": cid, "name": name, "light": light, "dark": dark, "symbol": symbol}
             if hidden: c["defaultHidden"] = True
@@ -287,7 +307,7 @@ def main(path, apply=False):
     for cid, found in by_cat.items():
         # Games no national network picked up are on the team's own outlet.
         for e in found:
-            if not e.get("tv") and cid in LOCAL_TV: e["tv"] = LOCAL_TV[cid]
+            if not e.get("tv") and cid in LOCAL_TV: e["tv"] = LOCAL_TV_HERE.get(city, {}).get(cid, LOCAL_TV[cid])
         name, symbol, light, dark, hidden = EXTRA[cid]
         print(f"  {name}: {len(found)} game(s) from research file")
         ensure(cid, name, symbol, light, dark, hidden)
