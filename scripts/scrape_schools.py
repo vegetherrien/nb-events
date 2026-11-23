@@ -8,6 +8,7 @@ event is tagged with its school and marked "audience": "local", so only families
 school see it. Each run replaces all scraped school events (ids starting "sch-"), so time changes
 and cancellations carry through. Hand-entered district items (ids starting "nbisd-") are kept.
 """
+import html
 import json
 import re
 import sys
@@ -27,6 +28,7 @@ DROP = re.compile(r"appreciation|awareness|\bmonth\b|\bweek\b(?!end)|national .*
                   r"\bplc\b|faculty|lunch menu|\bA day\b|\bB day\b|birthday|tutorial|duty|"
                   r"board (meeting|mtg|workshop)|\bmtg\b|\bmeeting\b|progress reports?|report cards?|retakes?|"
                   r"end of (9|six|6|nine)|\b(staar|tsia|psat|sat|act|eoc|map) (test|testing|exam)|\btesting\b|"
+                  r"assessment|\bEOC\b|\bMAP\b|happy thanksgiving|shirt day|\bBB\b|auditions?|end of \w+ 9 weeks|"
                   r"rehearsal|practice|tryouts?|deadline|marathon monday|\bdue\b|grades? (post|due)|exchange day|committee|educators day|spirit day|dress[- ]up|wear \\w+ (for|day)", re.I)
 # Games that some schools also type into the campus calendar; the athletics feed already has them.
 GAME_ROW = re.compile(r"(basketball|soccer|football|volleyball|baseball|softball|wrestling|swim|tennis|golf|"
@@ -134,10 +136,63 @@ def tidy(title):
     return t[:90]
 
 
+def finalsite_events(url, today):
+    """A Finalsite calendar element (its month grid, as the school's own page loads it), read for this
+    month and the next three. Returns the same dicts as parse_ics()."""
+    out, seen = [], set()
+    first = today.replace(day=1)
+    for n in range(4):
+        month = date(first.year + (first.month - 1 + n) // 12, (first.month - 1 + n) % 12 + 1, 1)
+        page = fetch(f"{url}?cal_date={month.isoformat()}&is_draft=false&is_load_more=true")
+        if "fsCalendarDaybox" not in page:
+            # A short "upcoming" list instead of a month grid: it only ever shows the next few items.
+            for art in re.split(r"<article ", page)[1:]:
+                d = re.search(r'<time datetime="(\d{4}-\d\d-\d\d)T[^"]*" class="fsDate"', art)
+                t = re.search(r'<a class="fsCalendarEventLink" data-occur-id="([^"]+)"[^>]*>([^<]+)</a>', art)
+                if not d or not t or t.group(1) in seen:
+                    continue
+                seen.add(t.group(1))
+                st = re.search(r'datetime="\d{4}-\d\d-\d\dT(\d\d:\d\d)[^"]*" class="fsStartTime"', art)
+                en = re.search(r'datetime="(\d{4}-\d\d-\d\d)T(\d\d:\d\d)[^"]*" class="fsEndTime"', art)
+                v = {"SUMMARY": html.unescape(t.group(2)).strip(), "start": (date.fromisoformat(d.group(1)), st.group(1) if st else None), "days": 1}
+                if en: v["end"] = (date.fromisoformat(en.group(1)), en.group(2))
+                out.append(v)
+            break
+        for box in re.split(r'<div class="fsCalendarDaybox', page)[1:]:
+            d = re.search(r'data-day="(\d+)" data-year="(\d+)" data-month="(\d+)"', box)     # month is 0-based
+            if not d:
+                continue
+            day = date(int(d.group(2)), int(d.group(3)) + 1, int(d.group(1)))
+            for info in re.split(r'<div class="fsCalendarInfo">', box)[1:]:
+                t = re.search(r'class="fsCalendarEventTitle[^"]*"[^>]*title="([^"]*)"[^>]*data-occur-id="(\d+)"', info)
+                if not t or t.group(2) in seen:
+                    continue
+                seen.add(t.group(2))
+                st = re.search(r'datetime="(\d{4}-\d\d-\d\d)T(\d\d:\d\d)[^"]*" class="fsStartTime"', info)
+                en = re.search(r'datetime="(\d{4}-\d\d-\d\d)T(\d\d:\d\d)[^"]*" class="fsEndTime"', info)
+                loc = re.search(r'<div class="fsLocation">([^<]*)</div>', info)
+                v = {"SUMMARY": html.unescape(t.group(1)), "start": (day, st.group(2) if st else None), "days": 1}
+                if en: v["end"] = (date.fromisoformat(en.group(1)), en.group(2))
+                if loc: v["LOCATION"] = re.sub(r",? (TX|Texas) \d{5}.*$|, USA$", "", html.unescape(loc.group(1))).strip()
+                out.append(v)
+    # A multi-day item appears once per day; keep the first day and count the rest.
+    merged = {}
+    for v in sorted(out, key=lambda v: v["start"][0]):
+        k = v["SUMMARY"].lower()
+        prev = merged.get(k)
+        if prev and v["start"][1] is None and (v["start"][0] - prev["start"][0]).days == prev["days"]:
+            prev["days"] += 1
+        else:
+            merged[k + str(v["start"][0])] = v
+            if v["start"][1] is None: merged[k] = v
+    return list({id(v): v for v in merged.values()}.values())
+
+
 def calendar_events(school, today):
     """Upcoming items from one campus (or district) calendar."""
     items = []
-    for v in parse_ics(fetch(school["info"]["calendar"])):
+    url = school["info"]["calendar"]
+    for v in (finalsite_events(url, today) if "/fs/elements/" in url else parse_ics(fetch(url))):
         title = tidy(v.get("SUMMARY", ""))
         if not title or v.get("STATUS") == "CANCELLED" or v.get("repeat") == -1 or DROP.search(title) or SPORT_ROW.search(title) \
                 or GAME_ROW.search(title):
