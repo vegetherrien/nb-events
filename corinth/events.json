@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "timeZone": "America/Chicago",
  "title": "Corinth Event Calendar",
  "city": {
@@ -349,19 +349,6 @@
    "sourceURL": "https://www.discoverdenton.com/event/lady-susan%3a-a-staged-reading/12514/"
   },
   {
-   "title": "District Closed (Thanksgiving Break)",
-   "startDate": "2026-11-23",
-   "endDate": "2026-11-27",
-   "location": "Lake Dallas High School",
-   "sourceURL": "https://ldhs.ldisd.net/",
-   "category": "school",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-11-23-district-closed-thanksgiving-break"
-  },
-  {
    "title": "District Closed- Fall Break",
    "startDate": "2026-11-23",
    "endDate": "2026-11-27",
@@ -389,7 +376,7 @@
   },
   {
    "title": "Thanksgiving Break",
-   "startDate": "2026-11-23",
+   "startDate": "2026-11-24",
    "endDate": "2026-11-25",
    "location": "All campuses",
    "sourceURL": "https://guyerhs.dentonisd.org/",
@@ -398,11 +385,11 @@
     "district:denton-isd"
    ],
    "audience": "local",
-   "id": "sch-denton-isd-2026-11-23-thanksgiving-break"
+   "id": "sch-denton-isd-2026-11-24-thanksgiving-break"
   },
   {
    "title": "Thanksgiving Holiday Break",
-   "startDate": "2026-11-23",
+   "startDate": "2026-11-24",
    "location": "McNair Elementary",
    "sourceURL": "https://mcnaires.dentonisd.org/",
    "category": "school",
@@ -410,99 +397,7 @@
     "school:mcnair-es"
    ],
    "audience": "local",
-   "id": "sch-mcnair-es-2026-11-23-thanksgiving-holiday-break"
-  },
-  {
-   "title": "Guyer girls basketball at Keller Keller Lady Indians",
-   "startDate": "2026-11-23",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Keller High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=730FD002-2D34-4C63-8FFD-03CCDD940EFB&S=54&Mt=0",
-   "startTime": "11:30",
-   "tags": [
-    "school:guyer-hs"
-   ],
-   "audience": "local",
-   "id": "sch-guyer-hs-2026-11-23-guyer-girls-basketball-at-keller-keller-lady-indians"
-  },
-  {
-   "title": "Lake Dallas boys basketball vs. HSAA",
-   "startDate": "2026-11-23",
-   "tag": "Home",
-   "category": "hs-basketball",
-   "location": "LDHS Competition Gym",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "13:00",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-11-23-lake-dallas-boys-basketball-vs-hsaa"
-  },
-  {
-   "id": "2026-11-23-rockets-vs-clippers",
-   "category": "rockets",
-   "title": "Rockets vs. Clippers",
-   "startDate": "2026-11-23",
-   "startTime": "19:30",
-   "location": "Toyota Center, Houston",
-   "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
-   "tv": "Space City Home Network"
-  },
-  {
-   "id": "2026-11-23-spurs-at-kings",
-   "category": "spurs",
-   "title": "Spurs at Kings",
-   "startDate": "2026-11-23",
-   "startTime": "21:00",
-   "location": "Golden 1 Center, Sacramento",
-   "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
-   "tv": "DAZN"
-  },
-  {
-   "title": "LDHS Boys Basketball (9th) @ Granbury HS",
-   "startDate": "2026-11-24",
-   "startTime": "09:30",
-   "endTime": "10:30",
-   "location": "Lake Dallas High School",
-   "sourceURL": "https://ldhs.ldisd.net/",
-   "category": "school",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-11-24-ldhs-boys-basketball-9th-granbury-hs"
-  },
-  {
-   "title": "Lake Dallas girls basketball vs. Hillsboro Hillsboro Eagles",
-   "startDate": "2026-11-24",
-   "tag": "Home",
-   "category": "hs-basketball",
-   "location": "LDHS Competition Gym",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "11:15",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-11-24-lake-dallas-girls-basketball-vs-hillsboro-hillsbor"
-  },
-  {
-   "title": "Lake Dallas boys basketball at Granbury Pirates",
-   "startDate": "2026-11-24",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Granbury High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "12:00",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-11-24-lake-dallas-boys-basketball-at-granbury-pirates"
+   "id": "sch-mcnair-es-2026-11-24-thanksgiving-holiday-break"
   },
   {
    "id": "2026-11-24-dynamo-at-san-jose-earthquakes",
@@ -588,6 +483,18 @@
    "location": "PO Box 475, Argyle",
    "description": "Ghosts, Gunslingers & Greenbacks: The Wild (and Weird) History of Denton Come learn about the history of Denton as we take an hour and a half walk around the Square led by a knowledgeable local guide. The talk will in…",
    "sourceURL": "https://www.discoverdenton.com/event/ghosts-gunslingers-%26-greenbacks%3a-the-wild-(and-weird)-history-of-denton/12474/"
+  },
+  {
+   "title": "Thanksgiving Break",
+   "startDate": "2026-11-27",
+   "location": "Guyer High School",
+   "sourceURL": "https://guyerhs.dentonisd.org/",
+   "category": "school",
+   "tags": [
+    "school:guyer-hs"
+   ],
+   "audience": "local",
+   "id": "sch-guyer-hs-2026-11-27-thanksgiving-break"
   },
   {
    "id": "2026-11-27-meangreen-bb-vs-north-dakota-state",
@@ -805,20 +712,6 @@
    "id": "sch-guyer-hs-2026-12-01-guyer-girls-basketball-vs-allen"
   },
   {
-   "title": "Lake Dallas girls basketball at Lake Ridge Lady Eagles",
-   "startDate": "2026-12-01",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Lake Ridge Lady Eagles",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "18:15",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-01-lake-dallas-girls-basketball-at-lake-ridge-lady-ea"
-  },
-  {
    "title": "Guyer boys basketball vs. Keller Keller Indians",
    "startDate": "2026-12-01",
    "tag": "Home",
@@ -831,20 +724,6 @@
    ],
    "audience": "local",
    "id": "sch-guyer-hs-2026-12-01-guyer-boys-basketball-vs-keller-keller-indians"
-  },
-  {
-   "title": "Lake Dallas boys basketball vs. Sherman Bearcats",
-   "startDate": "2026-12-01",
-   "tag": "Home",
-   "category": "hs-basketball",
-   "location": "LDHS Competition Gym",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "19:30",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-01-lake-dallas-boys-basketball-vs-sherman-bearcats"
   },
   {
    "id": "2026-12-01-rockets-vs-raptors",
@@ -921,48 +800,6 @@
    "id": "sch-lake-dallas-es-2026-12-03-lde-pta-elf-shelf-holiday-store"
   },
   {
-   "title": "Lake Dallas boys basketball at Nacogdoches Dragons",
-   "startDate": "2026-12-03",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Heritage High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "09:00",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-03-lake-dallas-boys-basketball-at-nacogdoches-dragons"
-  },
-  {
-   "title": "Lake Dallas boys basketball at Arlington Heights Arlington",
-   "startDate": "2026-12-03",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Heritage High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "13:30",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-03-lake-dallas-boys-basketball-at-arlington-heights-a"
-  },
-  {
-   "title": "Lake Dallas girls basketball at Bishop Lynch Lady Friars",
-   "startDate": "2026-12-03",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Bishop Lynch HS",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "18:00",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-03-lake-dallas-girls-basketball-at-bishop-lynch-lady-"
-  },
-  {
    "title": "LDE PTA Elf Shelf Holiday Store Open",
    "startDate": "2026-12-03",
    "startTime": "18:00",
@@ -989,20 +826,6 @@
    ],
    "audience": "local",
    "id": "sch-lake-dallas-es-2026-12-03-lde-pta-reindeer-games"
-  },
-  {
-   "title": "Dance Holiday Show",
-   "startDate": "2026-12-03",
-   "startTime": "18:30",
-   "endTime": "20:00",
-   "location": "Lake Dallas High School",
-   "sourceURL": "https://ldhs.ldisd.net/",
-   "category": "school",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-03-dance-holiday-show"
   },
   {
    "title": "LDE Elementary Choir Performance",
@@ -1092,48 +915,6 @@
    ],
    "audience": "local",
    "id": "sch-lake-dallas-es-2026-12-04-lde-parent-cafe"
-  },
-  {
-   "title": "Lake Dallas boys basketball at Midlothian Heritage",
-   "startDate": "2026-12-04",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Heritage High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "10:30",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-04-lake-dallas-boys-basketball-at-midlothian-heritage"
-  },
-  {
-   "title": "Lake Dallas boys basketball at Ranchview",
-   "startDate": "2026-12-04",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Heritage High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "16:30",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-04-lake-dallas-boys-basketball-at-ranchview"
-  },
-  {
-   "title": "MS Winter Choir Holiday Concert",
-   "startDate": "2026-12-04",
-   "startTime": "19:00",
-   "endTime": "20:00",
-   "location": "Lake Dallas High School",
-   "sourceURL": "https://ldhs.ldisd.net/",
-   "category": "school",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-04-ms-winter-choir-holiday-concert"
   },
   {
    "title": "Choir Winter Concert @ LDHS",
@@ -1276,20 +1057,6 @@
    "id": "sch-shady-shores-es-2026-12-08-shady-shores-elementary-school-s-pta-hosts-reinde"
   },
   {
-   "title": "LDISD Band Winter Concert (HS/MS)",
-   "startDate": "2026-12-08",
-   "startTime": "18:00",
-   "endTime": "20:30",
-   "location": "Lake Dallas High School",
-   "sourceURL": "https://ldhs.ldisd.net/",
-   "category": "school",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-08-ldisd-band-winter-concert-hs-ms"
-  },
-  {
    "title": "LDISD Band Winter Concert MS/@HS- Linton",
    "startDate": "2026-12-08",
    "startTime": "18:00",
@@ -1346,20 +1113,6 @@
    "id": "sch-guyer-hs-2026-12-08-guyer-girls-basketball-vs-south-grand-prairie-south-gran"
   },
   {
-   "title": "Lake Dallas girls basketball vs. Irving MacArthur",
-   "startDate": "2026-12-08",
-   "tag": "Home",
-   "category": "hs-basketball",
-   "location": "LDHS Competition Gym",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "18:45",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-08-lake-dallas-girls-basketball-vs-irving-macarthur"
-  },
-  {
    "id": "2026-12-08-horns-bb-vs-jackson-state",
    "category": "horns-bb",
    "title": "Texas vs. Jackson State",
@@ -1381,34 +1134,6 @@
    ],
    "audience": "local",
    "id": "sch-lake-dallas-ms-2026-12-09-band-spirit-night-cfa"
-  },
-  {
-   "title": "Lake Dallas boys basketball at Marble Falls",
-   "startDate": "2026-12-10",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Robinson High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "09:55",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-10-lake-dallas-boys-basketball-at-marble-falls"
-  },
-  {
-   "title": "Lake Dallas boys basketball at Waco Meyer Ravens",
-   "startDate": "2026-12-10",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Robinson High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "15:35",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-10-lake-dallas-boys-basketball-at-waco-meyer-ravens"
   },
   {
    "title": "Theater Holiday Performance",
@@ -1453,20 +1178,6 @@
    "id": "sch-lake-dallas-es-2026-12-10-lde-elementary-choir-concert"
   },
   {
-   "title": "LDHS Choir Winter Concert",
-   "startDate": "2026-12-10",
-   "startTime": "19:00",
-   "endTime": "20:00",
-   "location": "Lake Dallas High School",
-   "sourceURL": "https://ldhs.ldisd.net/",
-   "category": "school",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-10-ldhs-choir-winter-concert"
-  },
-  {
    "title": "LDE Leadership Assembly",
    "startDate": "2026-12-11",
    "startTime": "08:00",
@@ -1495,20 +1206,6 @@
    "id": "sch-lake-dallas-ms-2026-12-11-choir-holiday-caroling-tour"
   },
   {
-   "title": "Lake Dallas boys basketball at Waco",
-   "startDate": "2026-12-11",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Robinson High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "09:55",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-11-lake-dallas-boys-basketball-at-waco"
-  },
-  {
    "title": "Leadership Assembly",
    "startDate": "2026-12-11",
    "startTime": "14:45",
@@ -1523,20 +1220,6 @@
    "id": "sch-corinth-es-2026-12-11-leadership-assembly"
   },
   {
-   "title": "Lake Dallas girls soccer at Faith Family Academy -Oak Cliff…",
-   "startDate": "2026-12-11",
-   "tag": "Away",
-   "category": "hs-soccer",
-   "location": "Faith Family Acadmey Dallas",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "17:00",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-11-lake-dallas-girls-soccer-at-faith-family-academy-o"
-  },
-  {
    "title": "Guyer girls basketball vs. Wakeland",
    "startDate": "2026-12-11",
    "tag": "Home",
@@ -1549,34 +1232,6 @@
    ],
    "audience": "local",
    "id": "sch-guyer-hs-2026-12-11-guyer-girls-basketball-vs-wakeland"
-  },
-  {
-   "title": "Lake Dallas girls basketball at Whitesboro Lady Cats",
-   "startDate": "2026-12-11",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Whitesboro High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "18:15",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-11-lake-dallas-girls-basketball-at-whitesboro-lady-ca"
-  },
-  {
-   "title": "Lake Dallas boys soccer vs. Denton DHS",
-   "startDate": "2026-12-11",
-   "tag": "Home",
-   "category": "hs-soccer",
-   "location": "LDHS Falcon Stadium",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "19:15",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-11-lake-dallas-boys-soccer-vs-denton-dhs"
   },
   {
    "id": "2026-12-12-cookies-cocoa",
@@ -1653,20 +1308,6 @@
    "tv": "DAZN"
   },
   {
-   "title": "Moonlit Monologue Performances",
-   "startDate": "2026-12-14",
-   "startTime": "18:30",
-   "endTime": "20:00",
-   "location": "Lake Dallas High School",
-   "sourceURL": "https://ldhs.ldisd.net/",
-   "category": "school",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-14-moonlit-monologue-performances"
-  },
-  {
    "id": "2026-12-14-mavs-vs-bucks",
    "category": "mavs",
    "title": "Mavericks vs. Bucks",
@@ -1717,34 +1358,6 @@
    "id": "sch-guyer-hs-2026-12-15-guyer-girls-basketball-at-braswell"
   },
   {
-   "title": "Lake Dallas girls basketball vs. Aubrey",
-   "startDate": "2026-12-15",
-   "tag": "Home",
-   "category": "hs-basketball",
-   "location": "LDHS Competition Gym",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "18:15",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-15-lake-dallas-girls-basketball-vs-aubrey"
-  },
-  {
-   "title": "Lake Dallas girls soccer vs. Denton High",
-   "startDate": "2026-12-15",
-   "tag": "Home",
-   "category": "hs-soccer",
-   "location": "LDHS Falcon Stadium",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "18:30",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-15-lake-dallas-girls-soccer-vs-denton-high"
-  },
-  {
    "id": "2026-12-15-spurs-at-cavaliers",
    "category": "spurs",
    "title": "Spurs at Cavaliers",
@@ -1754,34 +1367,6 @@
    "tag": "Away",
    "tv": "NBC",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
-  },
-  {
-   "title": "Lake Dallas boys soccer at Denton Ryan",
-   "startDate": "2026-12-15",
-   "tag": "Away",
-   "category": "hs-soccer",
-   "location": "Denton Ryan",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "19:15",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-15-lake-dallas-boys-soccer-at-denton-ryan"
-  },
-  {
-   "title": "Lake Dallas boys basketball vs. North Forney Falcon Basketball",
-   "startDate": "2026-12-15",
-   "tag": "Home",
-   "category": "hs-basketball",
-   "location": "LDHS Competition Gym",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "19:30",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-15-lake-dallas-boys-basketball-vs-north-forney-falcon"
   },
   {
    "title": "Guyer boys basketball at Arlington Bowie",
@@ -1964,34 +1549,6 @@
    "id": "sch-guyer-hs-2026-12-18-guyer-boys-basketball-at-lewisville-lhs"
   },
   {
-   "title": "Lake Dallas boys basketball vs. Kemp Yellowjacket Basketball",
-   "startDate": "2026-12-18",
-   "tag": "Home",
-   "category": "hs-basketball",
-   "location": "LDHS Competition Gym",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "18:00",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-18-lake-dallas-boys-basketball-vs-kemp-yellowjacket-b"
-  },
-  {
-   "title": "Lake Dallas girls basketball at Sanger Lady Indians",
-   "startDate": "2026-12-18",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Sanger High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "18:15",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-18-lake-dallas-girls-basketball-at-sanger-lady-indian"
-  },
-  {
    "id": "2026-12-18-spurs-vs-bulls",
    "category": "spurs",
    "title": "Spurs vs. Bulls",
@@ -2114,19 +1671,6 @@
    "tv": "DAZN"
   },
   {
-   "title": "District Closed - Winter Break",
-   "startDate": "2026-12-21",
-   "endDate": "2026-12-25",
-   "location": "Lake Dallas High School",
-   "sourceURL": "https://ldhs.ldisd.net/",
-   "category": "school",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-21-district-closed-winter-break"
-  },
-  {
    "title": "Winter Break",
    "startDate": "2026-12-21",
    "endDate": "2026-12-26",
@@ -2212,20 +1756,6 @@
    "tv": "DAZN"
   },
   {
-   "title": "Lake Dallas girls basketball vs. Krum",
-   "startDate": "2026-12-22",
-   "tag": "Home",
-   "category": "hs-basketball",
-   "location": "LDHS Competition Gym",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "12:15",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-22-lake-dallas-girls-basketball-vs-krum"
-  },
-  {
    "id": "2026-12-22-meangreen-bb-vs-university-of-the-southwest-n-m",
    "category": "meangreen-bb",
    "title": "Mean Green vs. University of the Southwest (N.M.)",
@@ -2248,20 +1778,6 @@
    ],
    "audience": "local",
    "id": "sch-guyer-hs-2026-12-22-guyer-girls-basketball-vs-little-elm-lady-lobos"
-  },
-  {
-   "title": "Lake Dallas boys basketball vs. Krum",
-   "startDate": "2026-12-22",
-   "tag": "Home",
-   "category": "hs-basketball",
-   "location": "LDHS Competition Gym",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "13:30",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-22-lake-dallas-boys-basketball-vs-krum"
   },
   {
    "title": "Guyer boys basketball vs. Little Elm Lobos",
@@ -2400,19 +1916,6 @@
    "tv": "NBC"
   },
   {
-   "title": "District Closed - Winter Break",
-   "startDate": "2026-12-28",
-   "endDate": "2027-01-01",
-   "location": "Lake Dallas High School",
-   "sourceURL": "https://ldhs.ldisd.net/",
-   "category": "school",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-28-district-closed-winter-break"
-  },
-  {
    "title": "Winter Break",
    "startDate": "2026-12-28",
    "endDate": "2027-01-02",
@@ -2463,20 +1966,6 @@
    ],
    "audience": "local",
    "id": "sch-guyer-hs-2026-12-29-guyer-girls-basketball-at-sandra-meadows-classic"
-  },
-  {
-   "title": "Lake Dallas boys basketball at Fossil Ridge FRHS Panthers",
-   "startDate": "2026-12-29",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Keller Fossil Ridge High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "13:00",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2026-12-29-lake-dallas-boys-basketball-at-fossil-ridge-frhs-p"
   },
   {
    "id": "2026-12-29-horns-bb-vs-east-texas-a-m",
@@ -2588,17 +2077,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "2027-01-01-rockets-vs-mavericks",
-   "category": "rockets",
-   "title": "Rockets vs. Mavericks",
-   "startDate": "2027-01-01",
-   "startTime": "19:30",
-   "location": "Toyota Center, Houston",
-   "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
-   "tv": "Space City Home Network"
-  },
-  {
    "id": "2027-01-01-mavs-at-rockets",
    "category": "mavs",
    "title": "Mavericks at Rockets",
@@ -2608,6 +2086,17 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
    "tv": "KFAA 29 or MavsTV+"
+  },
+  {
+   "id": "2027-01-01-rockets-vs-mavericks",
+   "category": "rockets",
+   "title": "Rockets vs. Mavericks",
+   "startDate": "2027-01-01",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "title": "Winter Break",
@@ -2620,34 +2109,6 @@
    ],
    "audience": "local",
    "id": "sch-lake-dallas-ms-2027-01-02-winter-break"
-  },
-  {
-   "title": "Lake Dallas girls basketball at Ponder",
-   "startDate": "2027-01-02",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Ponder High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "12:15",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-02-lake-dallas-girls-basketball-at-ponder"
-  },
-  {
-   "title": "Lake Dallas boys basketball at Ponder",
-   "startDate": "2027-01-02",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Ponder High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "13:30",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-02-lake-dallas-boys-basketball-at-ponder"
   },
   {
    "id": "2027-01-02-horns-bb-vs-florida",
@@ -2776,20 +2237,6 @@
    "id": "sch-guyer-hs-2027-01-05-guyer-girls-basketball-at-hebron"
   },
   {
-   "title": "Lake Dallas girls soccer vs. Denton Ryan",
-   "startDate": "2027-01-05",
-   "tag": "Home",
-   "category": "hs-soccer",
-   "location": "LDHS Falcon Stadium",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "18:30",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-05-lake-dallas-girls-soccer-vs-denton-ryan"
-  },
-  {
    "id": "2027-01-05-rockets-vs-timberwolves",
    "category": "rockets",
    "title": "Rockets vs. Timberwolves",
@@ -2799,20 +2246,6 @@
    "tag": "Home",
    "tv": "NBC",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
-  },
-  {
-   "title": "Lake Dallas boys soccer at Argyle",
-   "startDate": "2027-01-05",
-   "tag": "Away",
-   "category": "hs-soccer",
-   "location": "Argyle (NEW) Stadium",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "19:15",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-05-lake-dallas-boys-soccer-at-argyle"
   },
   {
    "title": "Guyer boys basketball at Hebron",
@@ -2860,20 +2293,6 @@
    "tv": "DAZN"
   },
   {
-   "title": "Lake Dallas boys soccer at Parkland",
-   "startDate": "2027-01-07",
-   "tag": "Away",
-   "category": "hs-soccer",
-   "location": "Northwest ISD Stadium",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "14:00",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-07-lake-dallas-boys-soccer-at-parkland"
-  },
-  {
    "id": "2027-01-07-mavs-vs-trail-blazers",
    "category": "mavs",
    "title": "Mavericks vs. Trail Blazers",
@@ -2910,20 +2329,6 @@
    "id": "sch-lake-dallas-es-2027-01-08-lde-parent-cafe"
   },
   {
-   "title": "Lake Dallas boys soccer at New Braunfels New",
-   "startDate": "2027-01-08",
-   "tag": "Away",
-   "category": "hs-soccer",
-   "location": "Northwest ISD Stadium",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "16:00",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-08-lake-dallas-boys-soccer-at-new-braunfels-new"
-  },
-  {
    "title": "Guyer girls basketball vs. Marcus Marcus",
    "startDate": "2027-01-08",
    "tag": "Home",
@@ -2936,20 +2341,6 @@
    ],
    "audience": "local",
    "id": "sch-guyer-hs-2027-01-08-guyer-girls-basketball-vs-marcus-marcus"
-  },
-  {
-   "title": "Lake Dallas girls basketball vs. Van Alstyne Lady Panthers",
-   "startDate": "2027-01-08",
-   "tag": "Home",
-   "category": "hs-basketball",
-   "location": "LDHS Competition Gym",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "18:15",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-08-lake-dallas-girls-basketball-vs-van-alstyne-lady-p"
   },
   {
    "id": "2027-01-08-spurs-vs-grizzlies",
@@ -2977,20 +2368,6 @@
    "id": "sch-guyer-hs-2027-01-08-guyer-boys-basketball-vs-marcus-marcus"
   },
   {
-   "title": "Lake Dallas boys basketball vs. Van Alstyne Panthers",
-   "startDate": "2027-01-08",
-   "tag": "Home",
-   "category": "hs-basketball",
-   "location": "LDHS Competition Gym",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "19:30",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-08-lake-dallas-boys-basketball-vs-van-alstyne-panther"
-  },
-  {
    "id": "2027-01-08-mavs-vs-suns",
    "category": "mavs",
    "title": "Mavericks vs. Suns",
@@ -3011,20 +2388,6 @@
    "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
    "startTime": "11:00",
    "tv": "ESPNU"
-  },
-  {
-   "title": "Lake Dallas boys soccer at Eagle Mountain EMHS Soccer",
-   "startDate": "2027-01-09",
-   "tag": "Away",
-   "category": "hs-soccer",
-   "location": "Northwest ISD Stadium",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "12:00",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-09-lake-dallas-boys-soccer-at-eagle-mountain-emhs-soc"
   },
   {
    "id": "2027-01-09-rockets-at-nets",
@@ -3081,20 +2444,6 @@
    "tv": "Space City Home Network"
   },
   {
-   "title": "Lake Dallas girls soccer at Frisco Memorial",
-   "startDate": "2027-01-12",
-   "tag": "Away",
-   "category": "hs-soccer",
-   "location": "Frisco Memorial High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "17:30",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-12-lake-dallas-girls-soccer-at-frisco-memorial"
-  },
-  {
    "title": "Guyer girls basketball at Flower Mound Flower",
    "startDate": "2027-01-12",
    "tag": "Away",
@@ -3109,20 +2458,6 @@
    "id": "sch-guyer-hs-2027-01-12-guyer-girls-basketball-at-flower-mound-flower"
   },
   {
-   "title": "Lake Dallas girls basketball at Gainesville GHS",
-   "startDate": "2027-01-12",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Gainesville High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "18:15",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-12-lake-dallas-girls-basketball-at-gainesville-ghs"
-  },
-  {
    "id": "2027-01-12-mavs-at-grizzlies",
    "category": "mavs",
    "title": "Mavericks at Grizzlies",
@@ -3132,20 +2467,6 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
    "tv": "KFAA 29 or MavsTV+"
-  },
-  {
-   "title": "Lake Dallas boys soccer vs. Decatur",
-   "startDate": "2027-01-12",
-   "tag": "Home",
-   "category": "hs-soccer",
-   "location": "LDHS Falcon Stadium",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "19:15",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-12-lake-dallas-boys-soccer-vs-decatur"
   },
   {
    "title": "Guyer boys basketball at Flower Mound Flower",
@@ -3160,20 +2481,6 @@
    ],
    "audience": "local",
    "id": "sch-guyer-hs-2027-01-12-guyer-boys-basketball-at-flower-mound-flower"
-  },
-  {
-   "title": "Lake Dallas boys basketball at Gainesville GHS",
-   "startDate": "2027-01-12",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Gainesville High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "19:30",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-12-lake-dallas-boys-basketball-at-gainesville-ghs"
   },
   {
    "id": "2027-01-12-horns-bb-vs-auburn",
@@ -3195,20 +2502,6 @@
    "tag": "Away",
    "tv": "ESPN",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
-  },
-  {
-   "title": "Lake Dallas boys soccer at Conrad Conrad Chargers",
-   "startDate": "2027-01-14",
-   "tag": "Away",
-   "category": "hs-soccer",
-   "location": "Mustang Panther Stadium",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "08:00",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-14-lake-dallas-boys-soccer-at-conrad-conrad-chargers"
   },
   {
    "title": "Band Region Clinic and Concert (HOLD)",
@@ -3257,20 +2550,6 @@
    "startTime": "19:00"
   },
   {
-   "title": "Lake Dallas boys soccer at Castleberry CHS",
-   "startDate": "2027-01-15",
-   "tag": "Away",
-   "category": "hs-soccer",
-   "location": "Grapevine Middle School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "10:45",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-15-lake-dallas-boys-soccer-at-castleberry-chs"
-  },
-  {
    "title": "Guyer girls basketball at Wakeland",
    "startDate": "2027-01-15",
    "tag": "Away",
@@ -3285,20 +2564,6 @@
    "id": "sch-guyer-hs-2027-01-15-guyer-girls-basketball-at-wakeland"
   },
   {
-   "title": "Lake Dallas girls basketball at Aubrey",
-   "startDate": "2027-01-15",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Aubrey High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "18:15",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-15-lake-dallas-girls-basketball-at-aubrey"
-  },
-  {
    "title": "Guyer boys basketball at Wakeland",
    "startDate": "2027-01-15",
    "tag": "Away",
@@ -3311,20 +2576,6 @@
    ],
    "audience": "local",
    "id": "sch-guyer-hs-2027-01-15-guyer-boys-basketball-at-wakeland"
-  },
-  {
-   "title": "Lake Dallas boys basketball at Aubrey",
-   "startDate": "2027-01-15",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Aubrey High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "19:30",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-15-lake-dallas-boys-basketball-at-aubrey"
   },
   {
    "id": "2027-01-15-rockets-vs-wizards",
@@ -3357,20 +2608,6 @@
    "tag": "Away",
    "tv": "NBA TV",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
-  },
-  {
-   "title": "Lake Dallas boys soccer at HSAA",
-   "startDate": "2027-01-16",
-   "tag": "Away",
-   "category": "hs-soccer",
-   "location": "Cross Timbers Middle School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "19:15",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-16-lake-dallas-boys-soccer-at-hsaa"
   },
   {
    "id": "2027-01-16-rockets-vs-pistons",
@@ -3407,14 +2644,26 @@
   {
    "title": "District Closed - Holiday",
    "startDate": "2027-01-18",
-   "location": "All campuses",
-   "sourceURL": "https://ldhs.ldisd.net/",
+   "location": "Lake Dallas Middle School",
+   "sourceURL": "https://ldms.ldisd.net/",
    "category": "school",
    "tags": [
-    "district:lake-dallas-isd"
+    "school:lake-dallas-ms"
    ],
    "audience": "local",
-   "id": "sch-lake-dallas-isd-2027-01-18-district-closed-holiday"
+   "id": "sch-lake-dallas-ms-2027-01-18-district-closed-holiday"
+  },
+  {
+   "title": "District Closed - Holiday",
+   "startDate": "2027-01-18",
+   "location": "Corinth Elementary",
+   "sourceURL": "https://ce.ldisd.net/",
+   "category": "school",
+   "tags": [
+    "school:corinth-es"
+   ],
+   "audience": "local",
+   "id": "sch-corinth-es-2027-01-18-district-closed-holiday"
   },
   {
    "title": "LDE Student Holiday/No School",
@@ -3427,20 +2676,6 @@
    ],
    "audience": "local",
    "id": "sch-lake-dallas-es-2027-01-18-lde-student-holiday-no-school"
-  },
-  {
-   "title": "Lake Dallas girls soccer at Bonham",
-   "startDate": "2027-01-18",
-   "tag": "Away",
-   "category": "hs-soccer",
-   "location": "Bonham High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "16:30",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-18-lake-dallas-girls-soccer-at-bonham"
   },
   {
    "id": "2027-01-18-rockets-at-grizzlies",
@@ -3463,20 +2698,6 @@
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
    "tv": "KFAA 29 or MavsTV+"
-  },
-  {
-   "title": "Lake Dallas boys soccer at Bonham Warrior Soccer",
-   "startDate": "2027-01-18",
-   "tag": "Away",
-   "category": "hs-soccer",
-   "location": "Warrior Stadium",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "19:45",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-18-lake-dallas-boys-soccer-at-bonham-warrior-soccer"
   },
   {
    "title": "Boosterthon",
@@ -3506,20 +2727,6 @@
    "id": "sch-guyer-hs-2027-01-19-guyer-girls-basketball-vs-braswell"
   },
   {
-   "title": "Lake Dallas girls basketball vs. Sanger Lady Indians",
-   "startDate": "2027-01-19",
-   "tag": "Home",
-   "category": "hs-basketball",
-   "location": "LDHS Competition Gym",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "18:15",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-19-lake-dallas-girls-basketball-vs-sanger-lady-indian"
-  },
-  {
    "id": "2027-01-19-mavs-vs-hornets",
    "category": "mavs",
    "title": "Mavericks vs. Hornets",
@@ -3543,20 +2750,6 @@
    ],
    "audience": "local",
    "id": "sch-guyer-hs-2027-01-19-guyer-boys-basketball-vs-braswell"
-  },
-  {
-   "title": "Lake Dallas boys basketball vs. Sanger Indians",
-   "startDate": "2027-01-19",
-   "tag": "Home",
-   "category": "hs-basketball",
-   "location": "LDHS Competition Gym",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "19:30",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-19-lake-dallas-boys-basketball-vs-sanger-indians"
   },
   {
    "id": "2027-01-19-horns-bb-at-lsu",
@@ -3602,34 +2795,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "title": "Lake Dallas girls soccer vs. Sanger",
-   "startDate": "2027-01-21",
-   "tag": "Home",
-   "category": "hs-soccer",
-   "location": "LDHS Falcon Stadium",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "16:30",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-21-lake-dallas-girls-soccer-vs-sanger"
-  },
-  {
-   "title": "Lake Dallas boys soccer vs. Sanger Indians",
-   "startDate": "2027-01-21",
-   "tag": "Home",
-   "category": "hs-soccer",
-   "location": "LDHS Falcon Stadium",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "18:00",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-21-lake-dallas-boys-soccer-vs-sanger-indians"
-  },
-  {
    "title": "LDE 2nd Grade Dance Expo & Open House",
    "startDate": "2027-01-21",
    "startTime": "18:30",
@@ -3642,20 +2807,6 @@
    ],
    "audience": "local",
    "id": "sch-lake-dallas-es-2027-01-21-lde-2nd-grade-dance-expo-open-house"
-  },
-  {
-   "title": "NTCA Winterguard Contest (Host)",
-   "startDate": "2027-01-22",
-   "startTime": "15:30",
-   "endTime": "23:55",
-   "location": "Lake Dallas High School",
-   "sourceURL": "https://ldhs.ldisd.net/",
-   "category": "school",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-22-ntca-winterguard-contest-host"
   },
   {
    "title": "Guyer girls basketball vs. Lewisville LHS",
@@ -3683,20 +2834,6 @@
    "tv": "Space City Home Network"
   },
   {
-   "title": "Lake Dallas girls basketball at Krum",
-   "startDate": "2027-01-22",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Krum High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "18:15",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-22-lake-dallas-girls-basketball-at-krum"
-  },
-  {
    "id": "2027-01-22-mavs-at-pelicans",
    "category": "mavs",
    "title": "Mavericks at Pelicans",
@@ -3720,20 +2857,6 @@
    ],
    "audience": "local",
    "id": "sch-guyer-hs-2027-01-22-guyer-boys-basketball-vs-lewisville-lhs"
-  },
-  {
-   "title": "Lake Dallas boys basketball at Krum",
-   "startDate": "2027-01-22",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Krum High School",
-   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
-   "startTime": "19:30",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-22-lake-dallas-boys-basketball-at-krum"
   },
   {
    "id": "2027-01-22-spurs-vs-timberwolves",
@@ -3823,20 +2946,6 @@
    ],
    "audience": "local",
    "id": "sch-corinth-es-2027-01-25-boosterthon"
-  },
-  {
-   "title": "LDHS Marching Madness",
-   "startDate": "2027-01-25",
-   "startTime": "17:00",
-   "endTime": "19:00",
-   "location": "Lake Dallas High School",
-   "sourceURL": "https://ldhs.ldisd.net/",
-   "category": "school",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-01-25-ldhs-marching-madness"
   },
   {
    "id": "2027-01-25-mavs-at-bulls",
@@ -4040,17 +3149,6 @@
    "startTime": "15:00"
   },
   {
-   "id": "2027-01-31-rockets-at-mavericks",
-   "category": "rockets",
-   "title": "Rockets at Mavericks",
-   "startDate": "2027-01-31",
-   "startTime": "19:30",
-   "location": "Dallas",
-   "tag": "Away",
-   "tv": "NBC",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
-  },
-  {
    "id": "2027-01-31-mavs-vs-rockets",
    "category": "mavs",
    "title": "Mavericks vs. Rockets",
@@ -4060,6 +3158,17 @@
    "tag": "Home",
    "tv": "NBC",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-01-31-rockets-at-mavericks",
+   "category": "rockets",
+   "title": "Rockets at Mavericks",
+   "startDate": "2027-01-31",
+   "startTime": "19:30",
+   "location": "Dallas",
+   "tag": "Away",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "id": "2027-02-01-spurs-at-warriors",
@@ -4212,20 +3321,6 @@
    "sourceURL": "https://www.discoverdenton.com/event/aubory-bugg-denton/12356/"
   },
   {
-   "title": "Band UIL Solo & Ensemble (Hold for Approval)",
-   "startDate": "2027-02-06",
-   "startTime": "08:00",
-   "endTime": "16:00",
-   "location": "Lake Dallas High School",
-   "sourceURL": "https://ldhs.ldisd.net/",
-   "category": "school",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-02-06-band-uil-solo-ensemble-hold-for-approval"
-  },
-  {
    "title": "Falcon Family Day (Registration Event)",
    "startDate": "2027-02-06",
    "startTime": "08:00",
@@ -4344,20 +3439,6 @@
    "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
    "startTime": "18:00",
    "tv": "ESPN"
-  },
-  {
-   "title": "LDISD Percussion Concert",
-   "startDate": "2027-02-09",
-   "startTime": "18:30",
-   "endTime": "19:30",
-   "location": "Lake Dallas High School",
-   "sourceURL": "https://ldhs.ldisd.net/",
-   "category": "school",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-02-09-ldisd-percussion-concert"
   },
   {
    "id": "2027-02-09-spurs-at-mavericks",
@@ -4538,18 +3619,6 @@
    "tag": "Away",
    "sourceURL": "https://meangreensports.com/sports/mens-basketball/schedule",
    "startTime": "14:00"
-  },
-  {
-   "title": "No School (226 Work Day)",
-   "startDate": "2027-02-15",
-   "location": "Lake Dallas High School",
-   "sourceURL": "https://ldhs.ldisd.net/",
-   "category": "school",
-   "tags": [
-    "school:lake-dallas-hs"
-   ],
-   "audience": "local",
-   "id": "sch-lake-dallas-hs-2027-02-15-no-school-226-work-day"
   },
   {
    "title": "School Closed",
@@ -5327,17 +4396,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "2027-03-19-rockets-at-pelicans",
-   "category": "rockets",
-   "title": "Rockets at Pelicans",
-   "startDate": "2027-03-19",
-   "startTime": "19:00",
-   "location": "New Orleans",
-   "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
-   "tv": "Space City Home Network"
-  },
-  {
    "id": "2027-03-19-mavs-at-spurs",
    "category": "mavs",
    "title": "Mavericks at Spurs",
@@ -5347,6 +4405,17 @@
    "tag": "Away",
    "tv": "NBA TV",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-19-rockets-at-pelicans",
+   "category": "rockets",
+   "title": "Rockets at Pelicans",
+   "startDate": "2027-03-19",
+   "startTime": "19:00",
+   "location": "New Orleans",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-03-20-egg-streme-easter-hunt",
@@ -6194,17 +5263,6 @@
    "tv": "DAZN"
   },
   {
-   "id": "2027-04-11-rockets-at-timberwolves",
-   "category": "rockets",
-   "title": "Rockets at Timberwolves",
-   "startDate": "2027-04-11",
-   "startTime": "19:30",
-   "location": "Minneapolis",
-   "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
-   "tv": "Space City Home Network"
-  },
-  {
    "id": "2027-04-11-mavs-vs-grizzlies",
    "category": "mavs",
    "title": "Mavericks vs. Grizzlies",
@@ -6214,6 +5272,17 @@
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
    "tv": "KFAA 29 or MavsTV+"
+  },
+  {
+   "id": "2027-04-11-rockets-at-timberwolves",
+   "category": "rockets",
+   "title": "Rockets at Timberwolves",
+   "startDate": "2027-04-11",
+   "startTime": "19:30",
+   "location": "Minneapolis",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-04-13-rangers-at-reds",
@@ -6409,15 +5478,6 @@
    "startTime": "20:38"
   },
   {
-   "id": "2027-04-21-astros-at-angels",
-   "category": "astros",
-   "title": "Astros at Angels",
-   "startDate": "2027-04-21",
-   "location": "Angel Stadium, Anaheim",
-   "tag": "Away",
-   "sourceURL": "https://www.mlb.com/astros/schedule"
-  },
-  {
    "id": "2027-04-21-rangers-vs-mariners",
    "category": "rangers",
    "title": "Rangers vs. Mariners",
@@ -6448,6 +5508,16 @@
    "tag": "Away",
    "tv": "Apple TV",
    "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-04-21-astros-at-angels",
+   "category": "astros",
+   "title": "Astros at Angels",
+   "startDate": "2027-04-21",
+   "location": "Angel Stadium, Anaheim",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "20:38"
   },
   {
    "id": "2027-04-23-rangers-at-mets",
@@ -6663,38 +5733,14 @@
  ],
  "notices": [
   {
-   "id": "corinth-road-txdot-ih0035e-southbound-2026-11-11",
-   "kind": "road",
-   "title": "I-35E: daytime closure only",
-   "detail": "Southbound, 0.793 Miles East of I-35 on I-35E to 1209.12 Feet East of I-35 on I-35E, through Wed Nov 25. Daytime closure only. Left lane closed. Right lane closed. Frontage road right/left lane closures for various…",
-   "level": "info",
-   "url": "http://conditions.drivetexas.org/current/",
-   "source": "TxDOT DriveTexas",
-   "until": "2026-11-25",
-   "asOf": "2026-11-23",
-   "collector": "civic"
-  },
-  {
-   "id": "corinth-road-txdot-ih0035e-northbound-2026-11-11",
-   "kind": "road",
-   "title": "I-35E: daytime closure only",
-   "detail": "Northbound, 1304.16 Feet East of I-35 on I-35E to 5.28 Feet East of I-35 on I-35E, through Wed Nov 25. Daytime closure only. Left lane closed. Right lane closed. Frontage road lane closures for misc items on required…",
-   "level": "info",
-   "url": "http://conditions.drivetexas.org/current/",
-   "source": "TxDOT DriveTexas",
-   "until": "2026-11-25",
-   "asOf": "2026-11-23",
-   "collector": "civic"
-  },
-  {
-   "id": "corinth-school-denton-isd-planned-2026-11-23",
+   "id": "corinth-school-denton-isd-planned-2026-11-24",
    "kind": "school",
-   "title": "No school Nov 23 to 25 (Denton ISD)",
-   "detail": "Denton ISD calendar: no school Nov 23 to 25. (Thanksgiving Break)",
+   "title": "No school Nov 24 to 25 (Denton ISD)",
+   "detail": "Denton ISD calendar: no school Nov 24 to 25. (Thanksgiving Break)",
    "level": "info",
    "url": "https://guyerhs.dentonisd.org/",
    "source": "Denton ISD",
-   "asOf": "2026-11-23",
+   "asOf": "2026-11-24",
    "until": "2026-11-25",
    "tags": [
     "district:denton-isd"
@@ -6703,14 +5749,14 @@
    "collector": "schools_trash"
   },
   {
-   "id": "corinth-school-corinth-es-planned-2026-11-23",
+   "id": "corinth-school-corinth-es-planned-2026-11-24",
    "kind": "school",
-   "title": "No school Nov 23 to 27 (Corinth ES)",
-   "detail": "Corinth ES calendar: no school Nov 23 to 27. (District Closed- Fall Break)",
+   "title": "No school Nov 24 to 27 (Corinth ES)",
+   "detail": "Corinth ES calendar: no school Nov 24 to 27. (District Closed- Fall Break)",
    "level": "info",
    "url": "https://ce.ldisd.net/",
    "source": "Corinth ES campus calendar",
-   "asOf": "2026-11-23",
+   "asOf": "2026-11-24",
    "until": "2026-11-27",
    "tags": [
     "school:corinth-es"
@@ -6719,33 +5765,33 @@
    "collector": "schools_trash"
   },
   {
-   "id": "corinth-school-lake-dallas-es-planned-2026-11-23",
+   "id": "corinth-school-guyer-hs-planned-2026-11-27",
    "kind": "school",
-   "title": "No school Nov 23 to 27 (Lake Dallas ES)",
-   "detail": "Lake Dallas ES calendar: no school Nov 23 to 27. (LDE Student Holiday/No School)",
+   "title": "No school Nov 27 (Guyer HS)",
+   "detail": "Guyer HS calendar: no school Nov 27. (Thanksgiving Break)",
    "level": "info",
-   "url": "https://lde.ldisd.net/",
-   "source": "Lake Dallas ES campus calendar",
-   "asOf": "2026-11-23",
+   "url": "https://guyerhs.dentonisd.org/",
+   "source": "Guyer HS campus calendar",
+   "asOf": "2026-11-24",
    "until": "2026-11-27",
    "tags": [
-    "school:lake-dallas-es"
+    "school:guyer-hs"
    ],
    "audience": "local",
    "collector": "schools_trash"
   },
   {
-   "id": "corinth-school-lake-dallas-hs-planned-2026-11-23",
+   "id": "corinth-school-lake-dallas-es-planned-2026-11-24",
    "kind": "school",
-   "title": "No school Nov 23 to 27 (Lake Dallas HS)",
-   "detail": "Lake Dallas HS calendar: no school Nov 23 to 27. (District Closed (Thanksgiving Break))",
+   "title": "No school Nov 24 to 27 (Lake Dallas ES)",
+   "detail": "Lake Dallas ES calendar: no school Nov 24 to 27. (LDE Student Holiday/No School)",
    "level": "info",
-   "url": "https://ldhs.ldisd.net/",
-   "source": "Lake Dallas HS campus calendar",
-   "asOf": "2026-11-23",
+   "url": "https://lde.ldisd.net/",
+   "source": "Lake Dallas ES campus calendar",
+   "asOf": "2026-11-24",
    "until": "2026-11-27",
    "tags": [
-    "school:lake-dallas-hs"
+    "school:lake-dallas-es"
    ],
    "audience": "local",
    "collector": "schools_trash"
@@ -6758,7 +5804,7 @@
    "level": "info",
    "url": "https://www.corinthtx.gov/3258/Water-Conservation-and-Drought-Contingen",
    "source": "Upper Trinity Regional Water District",
-   "asOf": "2026-11-23",
+   "asOf": "2026-11-24",
    "collector": "utilities"
   }
  ],
