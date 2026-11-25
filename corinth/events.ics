@@ -34,7 +34,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-22-joan-of-bark-presents-killick-hinds-schmekelhead-joan-of-bar
  @nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Joan of Bark Presents Killick Hinds\, Schmekelhead\, & Joan of Bark
   Ensemble
 DTSTART;VALUE=DATE:20261122
@@ -51,7 +51,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-lady-susan-a-staged-reading@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Lady Susan: A Staged Reading
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
@@ -66,20 +66,8 @@ DESCRIPTION:Paperback Productions presents staged readings of Lady Susan\,
 CATEGORIES:Theater & arts
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-24-mavs-at-nuggets@nb-events
-DTSTAMP:20261124T162720Z
-SUMMARY:Mavericks at Nuggets
-DTSTART;TZID=America/Chicago:20261124T210000
-DTEND;TZID=America/Chicago:20261124T230000
-LOCATION:Denver
-URL:https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/
-DESCRIPTION:TV: NBC\nhttps://www.cbssports.com/nba/teams/DAL/dallas-maveric
- ks/schedule/
-CATEGORIES:Mavericks basketball
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-26-cowboys-vs-eagles@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Cowboys vs. Eagles
 DTSTART;TZID=America/Chicago:20261126T153000
 DTEND;TZID=America/Chicago:20261126T173000
@@ -90,7 +78,7 @@ CATEGORIES:Cowboys football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-germany-s-great-bavarian-circus@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Germany's Great Bavarian Circus
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261130
@@ -107,7 +95,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-ghosts-gunslingers-greenbacks-the-wild-and-weird-history-of-
  @nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Ghosts\, Gunslingers & Greenbacks: The Wild (and Weird) History of 
  Denton
 DTSTART;VALUE=DATE:20261127
@@ -123,8 +111,24 @@ DESCRIPTION:Ghosts\, Gunslingers & Greenbacks: The Wild (and Weird) History
 CATEGORIES:Theater & arts
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-queersgiving-community-potluck@nb-events
+DTSTAMP:20261125T113552Z
+SUMMARY:QUEERSgiving Community Potluck
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+LOCATION:Bearded Monk\, 122 E. McKinney St.\, Denton
+URL:https://www.discoverdenton.com/event/queersgiving-community-potluck/125
+ 21/
+DESCRIPTION:It’s Black Friday and we’re inviting you to our community d
+ inner! We’ll order some brisket and turkey to set the QUEERSgiving Table
+ . Comment on the Facebook event (link below) with the dish you want to sha
+ re with ever…\nhttps://www.discoverdenton.com/event/queersgiving-communi
+ ty-potluck/12521/
+CATEGORIES:Festivals & community
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-meangreen-bb-vs-north-dakota-state@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green vs. North Dakota State
 DTSTART;TZID=America/Chicago:20261127T190000
 DTEND;TZID=America/Chicago:20261127T210000
@@ -135,7 +139,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-mavs-at-suns@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Suns
 DTSTART;TZID=America/Chicago:20261127T200000
 DTEND;TZID=America/Chicago:20261127T220000
@@ -147,7 +151,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-2nd-annual-santa-s-christmas-market@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:2nd Annual Santa's Christmas Market
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
@@ -163,7 +167,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-meangreen-bb-vs-boise-state@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green vs. Boise State
 DTSTART;TZID=America/Chicago:20261128T143000
 DTEND;TZID=America/Chicago:20261128T163000
@@ -174,7 +178,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-meangreen-vs-uab@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green vs. UAB
 DTSTART;TZID=America/Chicago:20261128T150000
 DTEND;TZID=America/Chicago:20261128T170000
@@ -185,7 +189,7 @@ CATEGORIES:Mean Green football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-fcdallas-at-portland-timbers@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:FC Dallas at Portland Timbers
 DTSTART;TZID=America/Chicago:20261128T213000
 DTEND;TZID=America/Chicago:20261128T233000
@@ -199,8 +203,56 @@ DESCRIPTION:TV: Apple TV\, FS1\, FOX Deportes\nhttps://www.fcdallas.com/new
 CATEGORIES:FC Dallas soccer
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-basically-basie-big-band-at-harvest-house@nb-events
+DTSTAMP:20261125T113552Z
+SUMMARY:Basically Basie Big Band at Harvest House
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+LOCATION:Harvest House\, 331 E. Hickory St.\, Denton
+URL:https://www.discoverdenton.com/event/basically-basie-big-band-at-harves
+ t-house/12544/
+DESCRIPTION:Come check out our tribute to the great Count Basie orchestra a
+ t the best outdoor music venue in town! Musicians bring your instrument to
+  sit in!\nhttps://www.discoverdenton.com/event/basically-basie-big-band-at
+ -harvest-house/12544/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-create-you-rown-mari-lwyd-by-shelby-rexrode-cox@nb-events
+DTSTAMP:20261125T113552Z
+SUMMARY:Create you rown Mari Lwyd by Shelby Rexrode-Cox
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+LOCATION:Denton Maker Center\, 728 N Elm St\, Denton
+URL:https://www.discoverdenton.com/event/create-you-rown-mari-lwyd-by-shelb
+ y-rexrode-cox/12546/
+DESCRIPTION:The Mari Lwyd is a wild Welsh folk custom during wassailing in 
+ Yule season. While wassailing\, a person carries a festively decorated hor
+ se skull on a pole. Participants will build their own design\, starting wi
+ th paint…\nhttps://www.discoverdenton.com/event/create-you-rown-mari-lwy
+ d-by-shelby-rexrode-cox/12546/
+CATEGORIES:Theater & arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-plant-swap-and-painting-yellow-dog@nb-events
+DTSTAMP:20261125T113552Z
+SUMMARY:Plant Swap and Painting @ Yellow Dog
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+LOCATION:Bramblitt's Yellow Dog Art Bar & Gallery\, 219 E Hickory St.\, Den
+ ton
+URL:https://www.discoverdenton.com/event/plant-swap-and-painting-%40-yellow
+ -dog/12545/
+DESCRIPTION:Bring a plant\, trade it for something new\, and stick around t
+ o paint with us! 🌿 Plant Swap | Sunday\, November 29\, 3–5 p.m. Bring
+  a healthy plant\, rooted cutting\, or a few cuttings to share. If you kno
+ w the plant’s nam…\nhttps://www.discoverdenton.com/event/plant-swap-an
+ d-painting-%40-yellow-dog/12545/
+CATEGORIES:Theater & arts
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-meangreen-bb-vs-drake@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green vs. Drake
 DTSTART;TZID=America/Chicago:20261129T173000
 DTEND;TZID=America/Chicago:20261129T193000
@@ -211,7 +263,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-mavs-vs-celtics@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Celtics
 DTSTART;TZID=America/Chicago:20261130T190000
 DTEND;TZID=America/Chicago:20261130T210000
@@ -223,7 +275,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-mavs-vs-magic@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Magic
 DTSTART;TZID=America/Chicago:20261202T190000
 DTEND;TZID=America/Chicago:20261202T210000
@@ -234,8 +286,23 @@ DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
 CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-03-practical-soldering-with-kaki-crowell-hilde@nb-events
+DTSTAMP:20261125T113552Z
+SUMMARY:Practical Soldering with Kaki Crowell-Hilde
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261218
+LOCATION:Denton Maker Center\, 728 N Elm St\, Denton
+URL:https://www.discoverdenton.com/event/practical-soldering-with-kaki-crow
+ ell-hilde/12548/
+DESCRIPTION:This is a skills-based class\, not a project-based class. The t
+ echniques will be learned are: fabricating and soldering bezels and endcap
+ s. 15$ materials fee will be paid cash to the instructor.\nhttps://www.dis
+ coverdenton.com/event/practical-soldering-with-kaki-crowell-hilde/12548/
+CATEGORIES:Theater & arts
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-04-denton-arts-walk-of-fame-guided-tour@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Denton Arts Walk of Fame Guided Tour
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
@@ -250,8 +317,24 @@ DESCRIPTION:First Friday is a great time to sip-and-stroll the downtown Den
 CATEGORIES:Theater & arts
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-04-shop-the-gallery-opening-reception@nb-events
+DTSTAMP:20261125T113552Z
+SUMMARY:Shop The Gallery - Opening Reception
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+LOCATION:The UNT CoLab\, 207 N. Elm St. # 101\, Denton
+URL:https://www.discoverdenton.com/event/shop-the-gallery-opening-reception
+ /12551/
+DESCRIPTION:The holiday season is officially here!🎁 Join us on Friday\, 
+ Dec. 4 from 6 p.m. - 8 p.m. for the opening reception of our December Shop
+  the Gallery exhibit\, showcasing local artists. Shop our gallery walls fo
+ r one-of-a-…\nhttps://www.discoverdenton.com/event/shop-the-gallery-open
+ ing-reception/12551/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-04-meangreen-bb-vs-bradley@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green vs. Bradley
 DTSTART;TZID=America/Chicago:20261204T190000
 DTEND;TZID=America/Chicago:20261204T210000
@@ -262,7 +345,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-breakfast-with-the-grinch@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Breakfast with The Grinch
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
@@ -277,7 +360,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-denton-holiday-lighting-festival@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Denton Holiday Lighting Festival
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
@@ -293,7 +376,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-meangreen-bb-vs-mississippi-valley-state@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green vs. Mississippi Valley State
 DTSTART;TZID=America/Chicago:20261206T150000
 DTEND;TZID=America/Chicago:20261206T170000
@@ -304,7 +387,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-cowboys-at-seahawks@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Cowboys at Seahawks
 DTSTART;TZID=America/Chicago:20261207T191500
 DTEND;TZID=America/Chicago:20261207T211500
@@ -315,7 +398,7 @@ CATEGORIES:Cowboys football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-cookies-cocoa@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Cookies & Cocoa
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
@@ -329,7 +412,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-show-me-reptile-show-denton@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Show Me Reptile Show — Denton
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
@@ -345,7 +428,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-meangreen-bb-vs-texas-state@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green vs. Texas State
 DTSTART;TZID=America/Chicago:20261213T163000
 DTEND;TZID=America/Chicago:20261213T183000
@@ -356,7 +439,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-mavs-vs-bucks@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Bucks
 DTSTART;TZID=America/Chicago:20261214T190000
 DTEND;TZID=America/Chicago:20261214T210000
@@ -367,8 +450,40 @@ DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
 CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-15-mocktail-mixology-holiday-spice@nb-events
+DTSTAMP:20261125T113552Z
+SUMMARY:Mocktail Mixology: Holiday Spice
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+LOCATION:Denton Senior Center\, 509 N. Bell Ave.\, Denton
+URL:https://www.discoverdenton.com/event/mocktail-mixology%3a-holiday-spice
+ /12543/
+DESCRIPTION:Celebrate the season with our Holiday Spice Mocktail Class at t
+ he Senior Center! In each session\, you'll learn how to make classic holid
+ ay-inspired drinks\, both chilled and warm\, that are perfect to share at 
+ any festi…\nhttps://www.discoverdenton.com/event/mocktail-mixology%3a-ho
+ liday-spice/12543/
+CATEGORIES:Holiday & seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-the-trammell-group-presents-jingle-tales@nb-events
+DTSTAMP:20261125T113552Z
+SUMMARY:The Trammell Group Presents: Jingle Tales
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+LOCATION:Golden Triangle Mall\, 2201 S. Interstate 35 E.\, Denton
+URL:https://www.discoverdenton.com/event/the-trammell-group-presents%3a-jin
+ gle-tales/12541/
+DESCRIPTION:Holiday Magic\, Music & Giving! Get ready to jingle all the way
+  into the holiday spirit! The Trammell Group proudly presents "Jingle Tale
+ s V\," a festive\, family-friendly celebration filled with holiday music\,
+  heartwarm…\nhttps://www.discoverdenton.com/event/the-trammell-group-pre
+ sents%3a-jingle-tales/12541/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-16-mavs-at-nets@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Nets
 DTSTART;TZID=America/Chicago:20261216T183000
 DTEND;TZID=America/Chicago:20261216T203000
@@ -380,7 +495,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-meangreen-bb-vs-winthrop@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green vs. Winthrop
 DTSTART;TZID=America/Chicago:20261216T190000
 DTEND;TZID=America/Chicago:20261216T210000
@@ -391,7 +506,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-mavs-at-76ers@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at 76ers
 DTSTART;TZID=America/Chicago:20261217T180000
 DTEND;TZID=America/Chicago:20261217T200000
@@ -403,7 +518,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-kwanzaa-celebration@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Kwanzaa Celebration
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
@@ -418,7 +533,7 @@ CATEGORIES:Theater & arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-christmas-at-the-commons@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Christmas at the Commons
 DTSTART;TZID=America/Chicago:20261219T150000
 DTEND;TZID=America/Chicago:20261219T200000
@@ -430,7 +545,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-mavs-vs-bulls@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Bulls
 DTSTART;TZID=America/Chicago:20261219T190000
 DTEND;TZID=America/Chicago:20261219T210000
@@ -441,8 +556,23 @@ DESCRIPTION:TV: KFAA 29 or MavsTV+\nhttps://www.cbssports.com/nba/teams/DAL
 CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-20-christmas-concert@nb-events
+DTSTAMP:20261125T113552Z
+SUMMARY:Christmas Concert
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+LOCATION:FUMC Denton\, 201 S. Locust St.\, Denton
+URL:https://www.discoverdenton.com/event/christmas-concert/12550/
+DESCRIPTION:We're looking forward to a night full of Christmas fun with our
+  FUMC Denton Modern Band! We will play fun Christmas hits—some familiar 
+ and some new! Feel free to sing-a-long\, sit and relax\, or dance the nigh
+ t away. Th…\nhttps://www.discoverdenton.com/event/christmas-concert/1255
+ 0/
+CATEGORIES:Live music
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-20-meangreen-bb-vs-bethune-cookman@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green vs. Bethune-Cookman
 DTSTART;TZID=America/Chicago:20261220T150000
 DTEND;TZID=America/Chicago:20261220T170000
@@ -453,7 +583,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-cowboys-at-rams@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Cowboys at Rams
 DTSTART;TZID=America/Chicago:20261220T152500
 DTEND;TZID=America/Chicago:20261220T172500
@@ -464,7 +594,7 @@ CATEGORIES:Cowboys football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-meangreen-bb-vs-university-of-the-southwest-n-m@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green vs. University of the Southwest (N.M.)
 DTSTART;TZID=America/Chicago:20261222T130000
 DTEND;TZID=America/Chicago:20261222T150000
@@ -475,7 +605,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-mavs-at-warriors@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Warriors
 DTSTART;TZID=America/Chicago:20261222T213000
 DTEND;TZID=America/Chicago:20261222T233000
@@ -487,7 +617,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23-mavs-at-kings@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Kings
 DTSTART;TZID=America/Chicago:20261223T210000
 DTEND;TZID=America/Chicago:20261223T230000
@@ -499,7 +629,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-26-mavs-vs-suns@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Suns
 DTSTART;TZID=America/Chicago:20261226T190000
 DTEND;TZID=America/Chicago:20261226T210000
@@ -511,7 +641,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-27-cowboys-vs-jaguars@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Cowboys vs. Jaguars
 DTSTART;TZID=America/Chicago:20261227T192000
 DTEND;TZID=America/Chicago:20261227T212000
@@ -522,7 +652,7 @@ CATEGORIES:Cowboys football
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-29-mavs-vs-heat@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Heat
 DTSTART;TZID=America/Chicago:20261229T190000
 DTEND;TZID=America/Chicago:20261229T210000
@@ -534,7 +664,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-meangreen-bb-at-wichita-state@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green at Wichita State
 DTSTART;TZID=America/Chicago:20261231T200000
 DTEND;TZID=America/Chicago:20261231T220000
@@ -546,7 +676,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-01-breakfast-with-santa-mrs-claus-i-denton-woman-s-club@nb-even
  ts
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Breakfast with Santa & Mrs Claus I Denton Woman’s Club
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
@@ -562,7 +692,7 @@ CATEGORIES:Holiday & seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-01-mavs-at-rockets@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Rockets
 DTSTART;TZID=America/Chicago:20270101T193000
 DTEND;TZID=America/Chicago:20270101T213000
@@ -574,7 +704,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-02-mavs-at-hawks@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Hawks
 DTSTART;TZID=America/Chicago:20270102T183000
 DTEND;TZID=America/Chicago:20270102T203000
@@ -586,7 +716,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-03-cowboys-vs-giants@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Cowboys vs. Giants
 DTSTART;TZID=America/Chicago:20270103T120000
 DTEND;TZID=America/Chicago:20270103T140000
@@ -597,7 +727,7 @@ CATEGORIES:Cowboys football
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-04-mavs-at-pelicans@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Pelicans
 DTSTART;TZID=America/Chicago:20270104T190000
 DTEND;TZID=America/Chicago:20270104T210000
@@ -609,7 +739,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-meangreen-bb-vs-florida-atlantic@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green vs. Florida Atlantic
 DTSTART;TZID=America/Chicago:20270106T190000
 DTEND;TZID=America/Chicago:20270106T210000
@@ -620,7 +750,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-mavs-vs-trail-blazers@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Trail Blazers
 DTSTART;TZID=America/Chicago:20270107T190000
 DTEND;TZID=America/Chicago:20270107T210000
@@ -632,7 +762,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-mavs-vs-suns@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Suns
 DTSTART;TZID=America/Chicago:20270108T203000
 DTEND;TZID=America/Chicago:20270108T223000
@@ -644,7 +774,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-10-meangreen-bb-at-rice@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green at Rice
 DTSTART;TZID=America/Chicago:20270110T170000
 DTEND;TZID=America/Chicago:20270110T190000
@@ -655,7 +785,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-10-mavs-at-grizzlies@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Grizzlies
 DTSTART;TZID=America/Chicago:20270110T170000
 DTEND;TZID=America/Chicago:20270110T190000
@@ -667,7 +797,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-mavs-at-grizzlies@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Grizzlies
 DTSTART;TZID=America/Chicago:20270112T190000
 DTEND;TZID=America/Chicago:20270112T210000
@@ -679,7 +809,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-mavs-at-pistons@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Pistons
 DTSTART;TZID=America/Chicago:20270114T180000
 DTEND;TZID=America/Chicago:20270114T200000
@@ -691,7 +821,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-meangreen-bb-vs-tulane@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green vs. Tulane
 DTSTART;TZID=America/Chicago:20270114T190000
 DTEND;TZID=America/Chicago:20270114T210000
@@ -702,7 +832,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-16-mavs-at-knicks@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Knicks
 DTSTART;TZID=America/Chicago:20270116T183000
 DTEND;TZID=America/Chicago:20270116T203000
@@ -714,7 +844,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-17-meangreen-bb-vs-charlotte@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green vs. Charlotte
 DTSTART;TZID=America/Chicago:20270117T150000
 DTEND;TZID=America/Chicago:20270117T170000
@@ -725,7 +855,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-18-mavs-vs-thunder@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Thunder
 DTSTART;TZID=America/Chicago:20270118T190000
 DTEND;TZID=America/Chicago:20270118T210000
@@ -737,7 +867,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-mavs-vs-hornets@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Hornets
 DTSTART;TZID=America/Chicago:20270119T190000
 DTEND;TZID=America/Chicago:20270119T210000
@@ -749,7 +879,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-meangreen-bb-vs-wichita-state@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green vs. Wichita State
 DTSTART;TZID=America/Chicago:20270120T190000
 DTEND;TZID=America/Chicago:20270120T210000
@@ -760,7 +890,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-mavs-at-pelicans@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Pelicans
 DTSTART;TZID=America/Chicago:20270122T190000
 DTEND;TZID=America/Chicago:20270122T210000
@@ -772,7 +902,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-meangreen-bb-at-memphis@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green at Memphis
 DTSTART;TZID=America/Chicago:20270123T140000
 DTEND;TZID=America/Chicago:20270123T160000
@@ -783,7 +913,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-mavs-vs-cavaliers@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Cavaliers
 DTSTART;TZID=America/Chicago:20270123T190000
 DTEND;TZID=America/Chicago:20270123T210000
@@ -795,7 +925,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-25-mavs-at-bulls@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Bulls
 DTSTART;TZID=America/Chicago:20270125T190000
 DTEND;TZID=America/Chicago:20270125T210000
@@ -807,7 +937,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-mavs-at-raptors@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Raptors
 DTSTART;TZID=America/Chicago:20270127T183000
 DTEND;TZID=America/Chicago:20270127T203000
@@ -819,7 +949,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-meangreen-bb-at-utsa@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green at UTSA
 DTSTART;TZID=America/Chicago:20270128T200000
 DTEND;TZID=America/Chicago:20270128T220000
@@ -830,7 +960,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-mavs-vs-pistons@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Pistons
 DTSTART;TZID=America/Chicago:20270129T190000
 DTEND;TZID=America/Chicago:20270129T210000
@@ -843,7 +973,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-there-s-no-place-like-home-a-tribute-to-judy-garland@nb-even
  ts
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:There's No Place Like Home: A Tribute to Judy Garland
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
@@ -859,7 +989,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-31-meangreen-bb-vs-tulsa@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green vs. Tulsa
 DTSTART;TZID=America/Chicago:20270131T150000
 DTEND;TZID=America/Chicago:20270131T170000
@@ -870,7 +1000,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-31-mavs-vs-rockets@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Rockets
 DTSTART;TZID=America/Chicago:20270131T193000
 DTEND;TZID=America/Chicago:20270131T213000
@@ -882,7 +1012,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-mavs-vs-raptors@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Raptors
 DTSTART;TZID=America/Chicago:20270202T190000
 DTEND;TZID=America/Chicago:20270202T210000
@@ -894,7 +1024,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-meangreen-bb-vs-temple@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green vs. Temple
 DTSTART;TZID=America/Chicago:20270203T190000
 DTEND;TZID=America/Chicago:20270203T210000
@@ -905,7 +1035,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-mavs-at-nuggets@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Nuggets
 DTSTART;TZID=America/Chicago:20270204T210000
 DTEND;TZID=America/Chicago:20270204T230000
@@ -917,7 +1047,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-06-aubory-bugg-denton@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Aubory Bugg - Denton
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
@@ -931,7 +1061,7 @@ CATEGORIES:Live music
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-06-mavs-vs-jazz@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Jazz
 DTSTART;TZID=America/Chicago:20270206T140000
 DTEND;TZID=America/Chicago:20270206T160000
@@ -943,7 +1073,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-mavs-vs-clippers@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Clippers
 DTSTART;TZID=America/Chicago:20270207T153000
 DTEND;TZID=America/Chicago:20270207T173000
@@ -955,7 +1085,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-mavs-vs-spurs@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Spurs
 DTSTART;TZID=America/Chicago:20270209T190000
 DTEND;TZID=America/Chicago:20270209T210000
@@ -967,7 +1097,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-mavs-vs-trail-blazers@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Trail Blazers
 DTSTART;TZID=America/Chicago:20270211T190000
 DTEND;TZID=America/Chicago:20270211T210000
@@ -979,7 +1109,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-meangreen-bb-at-uab@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green at UAB
 DTSTART;TZID=America/Chicago:20270211T193000
 DTEND;TZID=America/Chicago:20270211T213000
@@ -990,7 +1120,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-mavs-at-hornets@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Hornets
 DTSTART;TZID=America/Chicago:20270213T140000
 DTEND;TZID=America/Chicago:20270213T160000
@@ -1002,7 +1132,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-14-meangreen-bb-at-tulsa@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green at Tulsa
 DTSTART;TZID=America/Chicago:20270214T140000
 DTEND;TZID=America/Chicago:20270214T160000
@@ -1013,7 +1143,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-15-mavs-vs-76ers@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. 76ers
 DTSTART;TZID=America/Chicago:20270215T133000
 DTEND;TZID=America/Chicago:20270215T153000
@@ -1025,7 +1155,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-mavs-at-magic@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Magic
 DTSTART;TZID=America/Chicago:20270217T180000
 DTEND;TZID=America/Chicago:20270217T200000
@@ -1037,7 +1167,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-meangreen-bb-vs-memphis@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green vs. Memphis
 DTSTART;TZID=America/Chicago:20270217T190000
 DTEND;TZID=America/Chicago:20270217T210000
@@ -1048,7 +1178,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-fcdallas-at-austin-fc@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:FC Dallas at Austin FC
 DTSTART;TZID=America/Chicago:20270220T190000
 DTEND;TZID=America/Chicago:20270220T210000
@@ -1061,7 +1191,7 @@ CATEGORIES:FC Dallas soccer
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-21-meangreen-bb-at-florida-atlantic@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green at Florida Atlantic
 DTSTART;TZID=America/Chicago:20270221T140000
 DTEND;TZID=America/Chicago:20270221T160000
@@ -1072,7 +1202,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-24-meangreen-bb-at-south-florida@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green at South Florida
 DTSTART;TZID=America/Chicago:20270224T190000
 DTEND;TZID=America/Chicago:20270224T210000
@@ -1083,7 +1213,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-25-mavs-at-warriors@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Warriors
 DTSTART;TZID=America/Chicago:20270225T210000
 DTEND;TZID=America/Chicago:20270225T230000
@@ -1095,7 +1225,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-26-mavs-at-trail-blazers@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Trail Blazers
 DTSTART;TZID=America/Chicago:20270226T210000
 DTEND;TZID=America/Chicago:20270226T230000
@@ -1107,7 +1237,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-27-meangreen-bb-vs-utsa@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green vs. UTSA
 DTSTART;TZID=America/Chicago:20270227T170000
 DTEND;TZID=America/Chicago:20270227T190000
@@ -1118,7 +1248,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-27-fcdallas-vs-portland-timbers@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:FC Dallas vs. Portland Timbers
 DTSTART;TZID=America/Chicago:20270227T190000
 DTEND;TZID=America/Chicago:20270227T210000
@@ -1131,7 +1261,7 @@ CATEGORIES:FC Dallas soccer
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-mavs-vs-lakers@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Lakers
 DTSTART;TZID=America/Chicago:20270228T143000
 DTEND;TZID=America/Chicago:20270228T163000
@@ -1143,7 +1273,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-02-meangreen-bb-at-east-carolina@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green at East Carolina
 DTSTART;TZID=America/Chicago:20270302T190000
 DTEND;TZID=America/Chicago:20270302T210000
@@ -1154,7 +1284,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-02-mavs-vs-warriors@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Warriors
 DTSTART;TZID=America/Chicago:20270302T190000
 DTEND;TZID=America/Chicago:20270302T210000
@@ -1166,7 +1296,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-03-fcdallas-vs-la-galaxy@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:FC Dallas vs. LA Galaxy
 DTSTART;TZID=America/Chicago:20270303T190000
 DTEND;TZID=America/Chicago:20270303T210000
@@ -1179,7 +1309,7 @@ CATEGORIES:FC Dallas soccer
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-04-texas-storytelling-festival@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Texas Storytelling Festival
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
@@ -1194,7 +1324,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-04-mavs-vs-knicks@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Knicks
 DTSTART;TZID=America/Chicago:20270304T203000
 DTEND;TZID=America/Chicago:20270304T223000
@@ -1206,7 +1336,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-06-fcdallas-at-san-diego-fc@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:FC Dallas at San Diego FC
 DTSTART;TZID=America/Chicago:20270306T210000
 DTEND;TZID=America/Chicago:20270306T230000
@@ -1219,7 +1349,7 @@ CATEGORIES:FC Dallas soccer
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-07-meangreen-bb-vs-rice@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mean Green vs. Rice
 DTSTART;TZID=America/Chicago:20270307T150000
 DTEND;TZID=America/Chicago:20270307T170000
@@ -1230,7 +1360,7 @@ CATEGORIES:Mean Green basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-08-mavs-at-thunder@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Thunder
 DTSTART;TZID=America/Chicago:20270308T203000
 DTEND;TZID=America/Chicago:20270308T223000
@@ -1242,7 +1372,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-09-mavs-vs-grizzlies@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Grizzlies
 DTSTART;TZID=America/Chicago:20270309T190000
 DTEND;TZID=America/Chicago:20270309T210000
@@ -1254,7 +1384,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-11-mavs-vs-wizards@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Wizards
 DTSTART;TZID=America/Chicago:20270311T190000
 DTEND;TZID=America/Chicago:20270311T210000
@@ -1266,7 +1396,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-13-shamrock-roll@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Shamrock & Roll
 DTSTART;TZID=America/Chicago:20270313T150000
 DTEND;TZID=America/Chicago:20270313T210000
@@ -1280,7 +1410,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-13-fcdallas-vs-colorado-rapids@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:FC Dallas vs. Colorado Rapids
 DTSTART;TZID=America/Chicago:20270313T190000
 DTEND;TZID=America/Chicago:20270313T210000
@@ -1293,7 +1423,7 @@ CATEGORIES:FC Dallas soccer
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-13-mavs-vs-pelicans@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Pelicans
 DTSTART;TZID=America/Chicago:20270313T190000
 DTEND;TZID=America/Chicago:20270313T210000
@@ -1305,7 +1435,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-15-mavs-vs-hawks@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Hawks
 DTSTART;TZID=America/Chicago:20270315T203000
 DTEND;TZID=America/Chicago:20270315T223000
@@ -1317,7 +1447,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-17-mavs-at-thunder@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Thunder
 DTSTART;TZID=America/Chicago:20270317T183000
 DTEND;TZID=America/Chicago:20270317T203000
@@ -1329,7 +1459,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-19-mavs-at-spurs@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Spurs
 DTSTART;TZID=America/Chicago:20270319T190000
 DTEND;TZID=America/Chicago:20270319T210000
@@ -1341,7 +1471,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-20-egg-streme-easter-hunt@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Egg-Streme Easter Hunt
 DTSTART;TZID=America/Chicago:20270320T140000
 DTEND;TZID=America/Chicago:20270320T180000
@@ -1356,7 +1486,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-20-fcdallas-at-real-salt-lake@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:FC Dallas at Real Salt Lake
 DTSTART;TZID=America/Chicago:20270320T200000
 DTEND;TZID=America/Chicago:20270320T220000
@@ -1369,7 +1499,7 @@ CATEGORIES:FC Dallas soccer
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-21-mavs-at-lakers@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Lakers
 DTSTART;TZID=America/Chicago:20270321T210000
 DTEND;TZID=America/Chicago:20270321T230000
@@ -1381,7 +1511,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-22-mavs-at-clippers@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Clippers
 DTSTART;TZID=America/Chicago:20270322T213000
 DTEND;TZID=America/Chicago:20270322T233000
@@ -1393,7 +1523,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-24-mavs-at-timberwolves@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Timberwolves
 DTSTART;TZID=America/Chicago:20270324T190000
 DTEND;TZID=America/Chicago:20270324T210000
@@ -1405,7 +1535,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-25-rangers-at-astros@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers at Astros
 DTSTART;TZID=America/Chicago:20270325T151000
 DTEND;TZID=America/Chicago:20270325T171000
@@ -1416,7 +1546,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-26-rangers-at-astros@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers at Astros
 DTSTART;TZID=America/Chicago:20270326T181000
 DTEND;TZID=America/Chicago:20270326T201000
@@ -1427,7 +1557,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-26-mavs-vs-pelicans@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Pelicans
 DTSTART;TZID=America/Chicago:20270326T190000
 DTEND;TZID=America/Chicago:20270326T210000
@@ -1439,7 +1569,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-27-fcdallas-vs-vancouver-whitecaps-fc@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:FC Dallas vs. Vancouver Whitecaps FC
 DTSTART;TZID=America/Chicago:20270327T190000
 DTEND;TZID=America/Chicago:20270327T210000
@@ -1452,7 +1582,7 @@ CATEGORIES:FC Dallas soccer
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-27-rangers-at-astros@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers at Astros
 DTSTART;TZID=America/Chicago:20270327T191000
 DTEND;TZID=America/Chicago:20270327T211000
@@ -1463,7 +1593,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-28-mavs-at-wizards@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Wizards
 DTSTART;TZID=America/Chicago:20270328T170000
 DTEND;TZID=America/Chicago:20270328T190000
@@ -1475,7 +1605,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-29-mavs-at-bucks@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Bucks
 DTSTART;TZID=America/Chicago:20270329T190000
 DTEND;TZID=America/Chicago:20270329T210000
@@ -1487,7 +1617,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-29-rangers-at-mariners@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers at Mariners
 DTSTART;TZID=America/Chicago:20270329T204000
 DTEND;TZID=America/Chicago:20270329T224000
@@ -1498,7 +1628,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-30-rangers-at-mariners@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers at Mariners
 DTSTART;TZID=America/Chicago:20270330T204000
 DTEND;TZID=America/Chicago:20270330T224000
@@ -1509,7 +1639,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-31-rangers-at-mariners@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers at Mariners
 DTSTART;TZID=America/Chicago:20270331T151000
 DTEND;TZID=America/Chicago:20270331T171000
@@ -1520,7 +1650,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-31-mavs-vs-nuggets@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Nuggets
 DTSTART;TZID=America/Chicago:20270331T203000
 DTEND;TZID=America/Chicago:20270331T223000
@@ -1532,7 +1662,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-01-rangers-vs-athletics@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers vs. Athletics
 DTSTART;TZID=America/Chicago:20270401T161000
 DTEND;TZID=America/Chicago:20270401T181000
@@ -1543,7 +1673,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-02-mavs-vs-kings@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Kings
 DTSTART;TZID=America/Chicago:20270402T190000
 DTEND;TZID=America/Chicago:20270402T210000
@@ -1555,7 +1685,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-02-rangers-vs-athletics@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers vs. Athletics
 DTSTART;TZID=America/Chicago:20270402T191000
 DTEND;TZID=America/Chicago:20270402T211000
@@ -1566,7 +1696,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-03-rangers-vs-athletics@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers vs. Athletics
 DTSTART;TZID=America/Chicago:20270403T181000
 DTEND;TZID=America/Chicago:20270403T201000
@@ -1577,7 +1707,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-03-fcdallas-at-los-angeles-football-club@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:FC Dallas at Los Angeles Football Club
 DTSTART;TZID=America/Chicago:20270403T210000
 DTEND;TZID=America/Chicago:20270403T230000
@@ -1590,7 +1720,7 @@ CATEGORIES:FC Dallas soccer
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-04-rangers-vs-athletics@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers vs. Athletics
 DTSTART;TZID=America/Chicago:20270404T134000
 DTEND;TZID=America/Chicago:20270404T154000
@@ -1601,7 +1731,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-04-mavs-vs-timberwolves@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Timberwolves
 DTSTART;TZID=America/Chicago:20270404T140000
 DTEND;TZID=America/Chicago:20270404T160000
@@ -1613,7 +1743,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-06-rangers-vs-rays@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers vs. Rays
 DTSTART;TZID=America/Chicago:20270406T191000
 DTEND;TZID=America/Chicago:20270406T211000
@@ -1624,7 +1754,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-06-mavs-at-lakers@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Lakers
 DTSTART;TZID=America/Chicago:20270406T210000
 DTEND;TZID=America/Chicago:20270406T230000
@@ -1636,7 +1766,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-07-rangers-vs-rays@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers vs. Rays
 DTSTART;TZID=America/Chicago:20270407T191000
 DTEND;TZID=America/Chicago:20270407T211000
@@ -1647,7 +1777,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-07-mavs-at-trail-blazers@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Trail Blazers
 DTSTART;TZID=America/Chicago:20270407T210000
 DTEND;TZID=America/Chicago:20270407T230000
@@ -1659,7 +1789,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-08-rangers-vs-rays@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers vs. Rays
 DTSTART;TZID=America/Chicago:20270408T134000
 DTEND;TZID=America/Chicago:20270408T154000
@@ -1670,7 +1800,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-09-rangers-at-cubs@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers at Cubs
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
@@ -1681,7 +1811,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-09-mavs-at-kings@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks at Kings
 DTSTART;TZID=America/Chicago:20270409T210000
 DTEND;TZID=America/Chicago:20270409T230000
@@ -1693,7 +1823,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-10-rangers-at-cubs@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers at Cubs
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
@@ -1704,7 +1834,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-10-touch-a-truck@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Touch-A-Truck
 DTSTART;TZID=America/Chicago:20270410T103000
 DTEND;TZID=America/Chicago:20270410T133000
@@ -1718,7 +1848,7 @@ CATEGORIES:Festivals & community
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-10-fcdallas-vs-san-jose-earthquakes@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:FC Dallas vs. San Jose Earthquakes
 DTSTART;TZID=America/Chicago:20270410T190000
 DTEND;TZID=America/Chicago:20270410T210000
@@ -1731,7 +1861,7 @@ CATEGORIES:FC Dallas soccer
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-11-rangers-at-cubs@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers at Cubs
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
@@ -1742,7 +1872,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-11-mavs-vs-grizzlies@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Mavericks vs. Grizzlies
 DTSTART;TZID=America/Chicago:20270411T193000
 DTEND;TZID=America/Chicago:20270411T213000
@@ -1754,7 +1884,7 @@ CATEGORIES:Mavericks basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-13-rangers-at-reds@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers at Reds
 DTSTART;TZID=America/Chicago:20270413T174000
 DTEND;TZID=America/Chicago:20270413T194000
@@ -1765,7 +1895,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-14-rangers-at-reds@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers at Reds
 DTSTART;TZID=America/Chicago:20270414T174000
 DTEND;TZID=America/Chicago:20270414T194000
@@ -1776,7 +1906,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-15-rangers-at-reds@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers at Reds
 DTSTART;TZID=America/Chicago:20270415T114000
 DTEND;TZID=America/Chicago:20270415T134000
@@ -1787,7 +1917,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-16-rangers-vs-cardinals@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers vs. Cardinals
 DTSTART;TZID=America/Chicago:20270416T191000
 DTEND;TZID=America/Chicago:20270416T211000
@@ -1798,7 +1928,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-17-rangers-vs-cardinals@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers vs. Cardinals
 DTSTART;TZID=America/Chicago:20270417T181000
 DTEND;TZID=America/Chicago:20270417T201000
@@ -1809,7 +1939,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-17-fcdallas-at-seattle-sounders-fc@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:FC Dallas at Seattle Sounders FC
 DTSTART;TZID=America/Chicago:20270417T190000
 DTEND;TZID=America/Chicago:20270417T210000
@@ -1822,7 +1952,7 @@ CATEGORIES:FC Dallas soccer
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-18-rangers-vs-cardinals@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers vs. Cardinals
 DTSTART;TZID=America/Chicago:20270418T134000
 DTEND;TZID=America/Chicago:20270418T154000
@@ -1833,7 +1963,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-19-rangers-vs-mariners@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers vs. Mariners
 DTSTART;TZID=America/Chicago:20270419T191000
 DTEND;TZID=America/Chicago:20270419T211000
@@ -1844,7 +1974,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-20-rangers-vs-mariners@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers vs. Mariners
 DTSTART;TZID=America/Chicago:20270420T191000
 DTEND;TZID=America/Chicago:20270420T211000
@@ -1855,7 +1985,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-21-rangers-vs-mariners@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers vs. Mariners
 DTSTART;TZID=America/Chicago:20270421T134000
 DTEND;TZID=America/Chicago:20270421T154000
@@ -1866,7 +1996,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-21-fcdallas-at-sporting-kansas-city@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:FC Dallas at Sporting Kansas City
 DTSTART;TZID=America/Chicago:20270421T190000
 DTEND;TZID=America/Chicago:20270421T210000
@@ -1879,7 +2009,7 @@ CATEGORIES:FC Dallas soccer
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-23-rangers-at-mets@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers at Mets
 DTSTART;TZID=America/Chicago:20270423T181000
 DTEND;TZID=America/Chicago:20270423T201000
@@ -1890,7 +2020,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-24-rangers-at-mets@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers at Mets
 DTSTART;TZID=America/Chicago:20270424T151000
 DTEND;TZID=America/Chicago:20270424T171000
@@ -1901,7 +2031,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-24-fcdallas-vs-houston-dynamo-fc@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:FC Dallas vs. Houston Dynamo FC
 DTSTART;TZID=America/Chicago:20270424T190000
 DTEND;TZID=America/Chicago:20270424T210000
@@ -1914,7 +2044,7 @@ CATEGORIES:FC Dallas soccer
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-25-rangers-at-mets@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers at Mets
 DTSTART;TZID=America/Chicago:20270425T124000
 DTEND;TZID=America/Chicago:20270425T144000
@@ -1925,7 +2055,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-26-rangers-at-nationals@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers at Nationals
 DTSTART;TZID=America/Chicago:20270426T174500
 DTEND;TZID=America/Chicago:20270426T194500
@@ -1936,7 +2066,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-27-rangers-at-nationals@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers at Nationals
 DTSTART;TZID=America/Chicago:20270427T174500
 DTEND;TZID=America/Chicago:20270427T194500
@@ -1947,7 +2077,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-28-rangers-at-nationals@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers at Nationals
 DTSTART;TZID=America/Chicago:20270428T150500
 DTEND;TZID=America/Chicago:20270428T170500
@@ -1958,7 +2088,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-29-rangers-vs-royals@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers vs. Royals
 DTSTART;TZID=America/Chicago:20270429T191000
 DTEND;TZID=America/Chicago:20270429T211000
@@ -1969,7 +2099,7 @@ CATEGORIES:Rangers baseball
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-30-rangers-vs-royals@nb-events
-DTSTAMP:20261124T162720Z
+DTSTAMP:20261125T113552Z
 SUMMARY:Rangers vs. Royals
 DTSTART;TZID=America/Chicago:20270430T191000
 DTEND;TZID=America/Chicago:20270430T211000
