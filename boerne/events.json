@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "timeZone": "America/Chicago",
  "title": "Boerne Event Calendar",
  "city": {
@@ -577,26 +577,18 @@
    "sourceURL": "https://theboernelife.com/events/turkey-camp-at-gina-maries-art-studio/2026-11-23/"
   },
   {
-   "id": "2026-11-24-dynamo-at-san-jose-earthquakes",
-   "category": "dynamo",
-   "title": "Houston Dynamo FC at San Jose Earthquakes",
-   "startDate": "2026-11-24",
-   "startTime": "21:00",
-   "location": "PayPal Park, San Jose",
-   "tag": "Away",
-   "tv": "Apple TV, FS1, Fox Deportes",
-   "sourceURL": "https://mlssoccer.com/news/mls-announces-schedule-for-audi-2026-mls-cup-playoffs-round-one-best-of-3-series"
-  },
-  {
-   "id": "2026-11-24-mavs-at-nuggets",
-   "category": "mavs",
-   "title": "Mavericks at Nuggets",
-   "startDate": "2026-11-24",
-   "startTime": "21:00",
-   "location": "Denver",
-   "tag": "Away",
-   "tv": "NBC",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+   "title": "Thanksgiving Break",
+   "startDate": "2026-11-25",
+   "startTime": "08:00",
+   "endTime": "17:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-11-25-thanksgiving-break"
   },
   {
    "id": "2026-11-25-kids-thanksgiving-craft-morning-at-girls-night-in",
@@ -639,6 +631,20 @@
    "location": "Bulverde Community Park, 29815 Bulverde Lane",
    "description": "Start Thanksgiving morning with a community tradition during the 6th Annual Bulverde Turkey Trot on Thursday, November 26, 2026, at Bulverde Community Park. The annual event brings families, friends, businesses, and c…",
    "sourceURL": "https://theboernelife.com/events/6th-annual-bulverde-turkey-trot-at-bulverde-community-park/"
+  },
+  {
+   "title": "Thanksgiving Break",
+   "startDate": "2026-11-26",
+   "startTime": "08:00",
+   "endTime": "17:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-11-26-thanksgiving-break"
   },
   {
    "id": "2026-11-26-turkey-talk-at-guadalupe-river-state-park",
@@ -721,6 +727,20 @@
    "sourceURL": "https://theboernelife.com/events/opt-outside-day-at-guadalupe-river-state-park-2/"
   },
   {
+   "title": "Thanksgiving Break",
+   "startDate": "2026-11-27",
+   "startTime": "08:00",
+   "endTime": "17:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-11-27-thanksgiving-break"
+  },
+  {
    "id": "2026-11-27-utsa-vs-tulsa",
    "category": "utsa",
    "title": "UTSA vs. Tulsa",
@@ -740,6 +760,34 @@
    "location": "Handmade on Main, 347 N Main St",
    "description": "Browse handmade merchandise and look for holiday gifts and stocking stuffers during this two-day shopping event. The shop will be open November 27 and 28 from 11 am to 9 pm at Handmade on Main.",
    "sourceURL": "https://theboernelife.com/events/plaid-friday-and-small-business-saturday-at-handmade-on-main/"
+  },
+  {
+   "title": "Boerne boys football at Legacy Ranch",
+   "startDate": "2026-11-27",
+   "tag": "Away",
+   "category": "hs-football",
+   "location": "JOHN GUPTON STADIUM",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "13:00",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-11-27-boerne-boys-football-at-legacy-ranch"
+  },
+  {
+   "title": "Champion boys football at Austin-Anderson",
+   "startDate": "2026-11-27",
+   "tag": "Away",
+   "category": "hs-football",
+   "location": "BOB SHELTON STADIUM-HAYS ISD",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "14:00",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-11-27-champion-boys-football-at-austin-anderson"
   },
   {
    "id": "tapatio-springs-2026-11-27-lone-star-showdown-watch-party",
@@ -990,6 +1038,19 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
+   "title": "Champion golf at Tivy Invitational",
+   "startDate": "2026-11-30",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "RIVERHILL COUNTRY CLUB",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-11-30-champion-golf-at-tivy-invitational"
+  },
+  {
    "id": "2026-11-30-rockets-vs-lakers",
    "category": "rockets",
    "title": "Rockets vs. Lakers",
@@ -1034,6 +1095,62 @@
    "sourceURL": "https://theboernelife.com/events/homegrown-holiday-festival-at-boerne-farmers-market/"
   },
   {
+   "title": "Boerne boys basketball at Long Creek",
+   "startDate": "2026-12-01",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "LONG CREEK HIGH SCHOOL",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-01-boerne-boys-basketball-at-long-creek"
+  },
+  {
+   "title": "Boerne girls basketball vs. Antonian College Preparatory",
+   "startDate": "2026-12-01",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Boerne High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-01-boerne-girls-basketball-vs-antonian-college-preparatory"
+  },
+  {
+   "title": "Champion girls basketball at Southside",
+   "startDate": "2026-12-01",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "SOUTHSIDE HIGH SCHOOL",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-01-champion-girls-basketball-at-southside"
+  },
+  {
+   "title": "Champion boys basketball vs. Kerrville-Tivy",
+   "startDate": "2026-12-01",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Champion High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-01-champion-boys-basketball-vs-kerrville-tivy"
+  },
+  {
    "id": "2026-12-01-rockets-vs-raptors",
    "category": "rockets",
    "title": "Rockets vs. Raptors",
@@ -1056,6 +1173,20 @@
    "tv": "ESPN2"
   },
   {
+   "title": "CES Christmas Decoration at the Courthouse",
+   "startDate": "2026-12-02",
+   "startTime": "09:00",
+   "endTime": "10:30",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-02-ces-christmas-decoration-at-the-courthouse"
+  },
+  {
    "id": "2026-12-02-christmas-churches-by-candlelight",
    "category": "holiday",
    "title": "Christmas Churches by Candlelight",
@@ -1065,6 +1196,34 @@
    "location": "First United Methodist Church @ 205 James St, Boerne",
    "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Christmas%20in%20the%20City_wQOY.jpg' /></div><div class='x11i5rnm xat24cr x1mh8g0r x1vvkbs …",
    "sourceURL": "https://events.timely.fun/e6hnx1k2/event/christmas-churches-by-candlelight-2?instance_id=20261202173000"
+  },
+  {
+   "title": "\"A Christmas Carol\" presented by BMSS Theatre",
+   "startDate": "2026-12-02",
+   "startTime": "18:00",
+   "endTime": "20:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-02-a-christmas-carol-presented-by-bmss-theatre"
+  },
+  {
+   "title": "\"A Christmas Carol\" presented by Boerne Middle School South Theatre",
+   "startDate": "2026-12-02",
+   "startTime": "18:00",
+   "endTime": "19:00",
+   "location": "Boerne Middle School South",
+   "sourceURL": "https://bmss.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-south-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-south-ms-2026-12-02-a-christmas-carol-presented-by-boerne-middle-s"
   },
   {
    "id": "2026-12-02-mavs-vs-magic",
@@ -1089,6 +1248,87 @@
    "sourceURL": "https://events.timely.fun/e6hnx1k2/event/12-2-comedy-show-game-night?instance_id=20261202193000"
   },
   {
+   "title": "Boerne girls basketball at Georgetown Tournament",
+   "startDate": "2026-12-03",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Georgetown Tournament",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-03-boerne-girls-basketball-at-georgetown-tournament"
+  },
+  {
+   "title": "Boerne boys basketball at Lorena Tournament",
+   "startDate": "2026-12-03",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "LORENA HIGH SCHOOL",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-03-boerne-boys-basketball-at-lorena-tournament"
+  },
+  {
+   "title": "Champion boys basketball at Border Olympics",
+   "startDate": "2026-12-03",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Border Olympics",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-03-champion-boys-basketball-at-border-olympics"
+  },
+  {
+   "title": "Outstanding Student Reception (Invitation/Students Only)",
+   "startDate": "2026-12-03",
+   "startTime": "07:45",
+   "endTime": "08:30",
+   "location": "Boerne Middle School North",
+   "sourceURL": "https://bmsn.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-north-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-north-ms-2026-12-03-outstanding-student-reception-invitation-stude"
+  },
+  {
+   "title": "Boerne ISD Caroling in the Square",
+   "startDate": "2026-12-03",
+   "startTime": "17:00",
+   "endTime": "18:00",
+   "location": "Capt. Mark Tyler Voss Middle School",
+   "sourceURL": "https://vms.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:voss-ms"
+   ],
+   "audience": "local",
+   "id": "sch-voss-ms-2026-12-03-boerne-isd-caroling-in-the-square"
+  },
+  {
+   "title": "KES Holiday Musical",
+   "startDate": "2026-12-03",
+   "startTime": "17:30",
+   "endTime": "18:30",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-03-kes-holiday-musical"
+  },
+  {
    "id": "2026-12-03-blizzard-of-bows-winter-concert-at-champion-high-school-audi",
    "category": "music",
    "title": "Blizzard of Bows Winter Concert at Champion High School Auditorium",
@@ -1098,6 +1338,48 @@
    "location": "Boerne Champion High School, 201 Charger Blvd",
    "description": "The Champion High School and Boerne High School orchestras perform their winter concert. Admission is free, and concessions will be available from 6 pm to 6:45 pm. The concert begins at 7 pm on Thursday, December 3, 2…",
    "sourceURL": "https://theboernelife.com/events/blizzard-of-bows-winter-concert-at-champion-high-school-auditorium/"
+  },
+  {
+   "title": "VRES 5th grade musical 'Rock and Roll Forever'",
+   "startDate": "2026-12-03",
+   "startTime": "18:00",
+   "endTime": "18:30",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-03-vres-5th-grade-musical-rock-and-roll-forever"
+  },
+  {
+   "title": "Caroling in the Square: BISD Choirs",
+   "startDate": "2026-12-03",
+   "startTime": "18:00",
+   "endTime": "19:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-03-caroling-in-the-square-bisd-choirs"
+  },
+  {
+   "title": "CHS/BHS Orchestras Winter Concert",
+   "startDate": "2026-12-03",
+   "startTime": "19:00",
+   "endTime": "20:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-03-chs-bhs-orchestras-winter-concert"
   },
   {
    "id": "2026-12-03-spurs-vs-raptors",
@@ -1119,6 +1401,83 @@
    "location": "Boerne Community Theatre, 907 E Blanco Rd",
    "description": "Several performances; pick a date and time on the ticket page.",
    "sourceURL": "https://buy.ticketstothecity.com/venue.php?org_id=389"
+  },
+  {
+   "title": "BISD Cookies and Cocoa 2026",
+   "startDate": "2026-12-04",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-04-bisd-cookies-and-cocoa-2026"
+  },
+  {
+   "title": "Boerne boys basketball at Lorena Tournament",
+   "startDate": "2026-12-04",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "LORENA HIGH SCHOOL",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-04-boerne-boys-basketball-at-lorena-tournament"
+  },
+  {
+   "title": "Boerne girls basketball at Georgetown Tournament",
+   "startDate": "2026-12-04",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Georgetown Tournament",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-04-boerne-girls-basketball-at-georgetown-tournament"
+  },
+  {
+   "title": "Boerne swimming & diving at Neisd South Zone Tisca…",
+   "startDate": "2026-12-04",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "Josh Davis Natatorium",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-04-boerne-swimming-diving-at-neisd-south-zone-tisca"
+  },
+  {
+   "title": "Champion boys basketball at Border Olympics",
+   "startDate": "2026-12-04",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Border Olympics",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-04-champion-boys-basketball-at-border-olympics"
+  },
+  {
+   "title": "Champion swimming & diving at South Zone",
+   "startDate": "2026-12-04",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "Josh Davis Natatorium",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-04-champion-swimming-diving-at-south-zone"
   },
   {
    "id": "2026-12-04-boerne-isd-cookies-cocoa-toy-drive-at-boerne-isd-central-off",
@@ -1213,6 +1572,62 @@
    "sourceURL": "https://events.timely.fun/e6hnx1k2/event/boujee-nutcrackers?instance_id=20261204180000"
   },
   {
+   "title": "\"A Christmas Carol\" presented by BMSS Theatre",
+   "startDate": "2026-12-04",
+   "startTime": "18:00",
+   "endTime": "20:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-04-a-christmas-carol-presented-by-bmss-theatre"
+  },
+  {
+   "title": "VMS Fall Musical: \"Finding Neverland\"",
+   "startDate": "2026-12-04",
+   "startTime": "18:00",
+   "endTime": "20:30",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-04-vms-fall-musical-finding-neverland"
+  },
+  {
+   "title": "\"A Christmas Carol\" presented by Boerne Middle School South Theatre",
+   "startDate": "2026-12-04",
+   "startTime": "18:00",
+   "endTime": "19:00",
+   "location": "Boerne Middle School South",
+   "sourceURL": "https://bmss.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-south-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-south-ms-2026-12-04-a-christmas-carol-presented-by-boerne-middle-s"
+  },
+  {
+   "title": "Theatre Fall Musical - Finding Neverland",
+   "startDate": "2026-12-04",
+   "startTime": "18:00",
+   "endTime": "19:30",
+   "location": "Capt. Mark Tyler Voss Middle School",
+   "sourceURL": "https://vms.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:voss-ms"
+   ],
+   "audience": "local",
+   "id": "sch-voss-ms-2026-12-04-theatre-fall-musical-finding-neverland"
+  },
+  {
    "id": "2026-12-05-holiday-hunger-5k-run-walk-at-bulverde-city-park",
    "category": "nature",
    "title": "Holiday Hunger 5K Run & Walk at Bulverde City Park",
@@ -1220,6 +1635,70 @@
    "location": "Bulverde City Park, 29815 Bulverde Lane",
    "description": "Celebrate the holiday season while supporting a meaningful local cause during the Holiday Hunger 5K Run & Walk on Saturday, December 5, 2026, at Bulverde City Park. The 5K raises awareness about hunger and food insecu…",
    "sourceURL": "https://theboernelife.com/events/holiday-hunger-5k-run-walk-at-bulverde-city-park/"
+  },
+  {
+   "title": "Weihnachts Christmas Parade",
+   "startDate": "2026-12-05",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-05-weihnachts-christmas-parade"
+  },
+  {
+   "title": "Boerne girls basketball at Georgetown Tournament",
+   "startDate": "2026-12-05",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Georgetown Tournament",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-05-boerne-girls-basketball-at-georgetown-tournament"
+  },
+  {
+   "title": "Boerne boys basketball at Lorena Tournament",
+   "startDate": "2026-12-05",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "LORENA HIGH SCHOOL",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-05-boerne-boys-basketball-at-lorena-tournament"
+  },
+  {
+   "title": "Champion swimming & diving at South Zone",
+   "startDate": "2026-12-05",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "Josh Davis Natatorium",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-05-champion-swimming-diving-at-south-zone"
+  },
+  {
+   "title": "Champion boys basketball at Border Olympics",
+   "startDate": "2026-12-05",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Border Olympics",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-05-champion-boys-basketball-at-border-olympics"
   },
   {
    "id": "2026-12-05-how-the-grinch-stole-breakfast-at-tapatio-springs",
@@ -1322,6 +1801,20 @@
    "sourceURL": "https://en.wikipedia.org/wiki/2026_Southeastern_Conference_football_season"
   },
   {
+   "title": "Orchestra - Blizzard & Bows Concert @ CHS",
+   "startDate": "2026-12-05",
+   "startTime": "16:00",
+   "endTime": "18:00",
+   "location": "Boerne Middle School North",
+   "sourceURL": "https://bmsn.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-north-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-north-ms-2026-12-05-orchestra-blizzard-bows-concert-chs"
+  },
+  {
    "id": "2026-12-05-first-saturday-on-main-at-hill-country-mile",
    "category": "market",
    "title": "First Saturday on Main at Hill Country Mile",
@@ -1344,6 +1837,48 @@
    "featured": true,
    "outdoor": true,
    "sourceURL": "https://holidaysinboerne.com/"
+  },
+  {
+   "title": "Boerne Dance Weihnachts Parade",
+   "startDate": "2026-12-05",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-05-boerne-dance-weihnachts-parade"
+  },
+  {
+   "title": "VMS Fall Musical: \"Finding Neverland\"",
+   "startDate": "2026-12-05",
+   "startTime": "18:00",
+   "endTime": "20:30",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-05-vms-fall-musical-finding-neverland"
+  },
+  {
+   "title": "Theatre Fall Musical - Finding Neverland",
+   "startDate": "2026-12-05",
+   "startTime": "18:00",
+   "endTime": "19:30",
+   "location": "Capt. Mark Tyler Voss Middle School",
+   "sourceURL": "https://vms.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:voss-ms"
+   ],
+   "audience": "local",
+   "id": "sch-voss-ms-2026-12-05-theatre-fall-musical-finding-neverland"
   },
   {
    "id": "2026-12-06-rejoice-christmas-worship-concert-at-first-baptist-church-bo",
@@ -1399,6 +1934,32 @@
    "tv": "NBC"
   },
   {
+   "title": "Boerne golf at Holiday Classic-Toys For Tots",
+   "startDate": "2026-12-07",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "Fair Oaks CC",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-07-boerne-golf-at-holiday-classic-toys-for-tots"
+  },
+  {
+   "title": "Champion golf at Holiday Classic - Toys For Tots",
+   "startDate": "2026-12-07",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "Fair Oaks CC",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-07-champion-golf-at-holiday-classic-toys-for-tots"
+  },
+  {
    "id": "2026-12-07-movie-monday-rise-of-the-guardians-at-patrick-heath-public-l",
    "category": "movies",
    "title": "Movie Monday! – Rise of the Guardians at Patrick Heath Public Library",
@@ -1421,6 +1982,34 @@
    "sourceURL": "https://theboernelife.com/events/annual-boerne-chanukah-celebration-at-boerne-main-plaza/"
   },
   {
+   "title": "BMSN Bands Beginner Holiday Concert",
+   "startDate": "2026-12-07",
+   "startTime": "18:00",
+   "endTime": "20:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-07-bmsn-bands-beginner-holiday-concert"
+  },
+  {
+   "title": "Charger Band Holiday Concert 1-Jazz, Winterguard, Chamber Music",
+   "startDate": "2026-12-07",
+   "startTime": "18:30",
+   "endTime": "20:30",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-07-charger-band-holiday-concert-1-jazz-winterguard-chambe"
+  },
+  {
    "id": "2026-12-07-cowboys-at-seahawks",
    "category": "cowboys",
    "title": "Cowboys at Seahawks",
@@ -1433,6 +2022,33 @@
    "description": "Monday Night Football."
   },
   {
+   "title": "Boerne girls basketball vs. OPEN",
+   "startDate": "2026-12-08",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Boerne High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-08-boerne-girls-basketball-vs-open"
+  },
+  {
+   "title": "Winter WonderBAND",
+   "startDate": "2026-12-08",
+   "startTime": "17:00",
+   "endTime": "19:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-08-winter-wonderband"
+  },
+  {
    "id": "2026-12-08-a-walk-in-bethlehem-at-st-helena-s-episcopal-church",
    "category": "fest",
    "title": "A Walk in Bethlehem at St. Helena’s Episcopal Church",
@@ -1441,6 +2057,76 @@
    "location": "St. Helena’s Episcopal Church, 410 N Main St",
    "description": "Step into a re-creation of Bethlehem, where visitors encounter townspeople, guards, Mary and Joseph, an angel, a star and the Magi as the story of Jesus’ birth unfolds. The experience takes place December 8 and 9, wit…",
    "sourceURL": "https://theboernelife.com/events/a-walk-in-bethlehem-at-st-helenas-episcopal-church-2/"
+  },
+  {
+   "title": "Cub Choir Concert",
+   "startDate": "2026-12-08",
+   "startTime": "18:00",
+   "endTime": "20:00",
+   "location": "Cibolo Creek Elementary",
+   "sourceURL": "https://cces.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:cibolo-creek-es"
+   ],
+   "audience": "local",
+   "id": "sch-cibolo-creek-es-2026-12-08-cub-choir-concert"
+  },
+  {
+   "title": "BHS Band Winter Concert",
+   "startDate": "2026-12-08",
+   "startTime": "18:30",
+   "endTime": "20:30",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-08-bhs-band-winter-concert"
+  },
+  {
+   "title": "Boerne boys basketball vs. Wimberley",
+   "startDate": "2026-12-08",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Boerne High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-08-boerne-boys-basketball-vs-wimberley"
+  },
+  {
+   "title": "Champion girls basketball at Seguin",
+   "startDate": "2026-12-08",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Seguin High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-08-champion-girls-basketball-at-seguin"
+  },
+  {
+   "title": "Charger Band Concert #2-Concert Bands",
+   "startDate": "2026-12-08",
+   "startTime": "19:00",
+   "endTime": "20:30",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-08-charger-band-concert-2-concert-bands"
   },
   {
    "id": "2026-12-08-horns-bb-vs-jackson-state",
@@ -1464,6 +2150,85 @@
    "startTime": "19:00"
   },
   {
+   "title": "Champion boys basketball at Sam Houston",
+   "startDate": "2026-12-08",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "SAM HOUSTON HIGH SCHOOL",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "19:30",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-08-champion-boys-basketball-at-sam-houston"
+  },
+  {
+   "title": "BMSS Band Beginner Concert",
+   "startDate": "2026-12-10",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-10-bmss-band-beginner-concert"
+  },
+  {
+   "title": "Boerne boys basketball at Saisd Tournament",
+   "startDate": "2026-12-10",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Saisd Tournament",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-10-boerne-boys-basketball-at-saisd-tournament"
+  },
+  {
+   "title": "Spanish Spelling B (Time TBD)",
+   "startDate": "2026-12-10",
+   "location": "Boerne Middle School North",
+   "sourceURL": "https://bmsn.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-north-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-north-ms-2026-12-10-spanish-spelling-b-time-tbd"
+  },
+  {
+   "title": "Boerne swimming & diving at Nisd Relay Meet",
+   "startDate": "2026-12-10",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "NORTHSIDE NATATORIUM",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "09:00",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-10-boerne-swimming-diving-at-nisd-relay-meet"
+  },
+  {
+   "title": "FORES Choir Winter Concert",
+   "startDate": "2026-12-10",
+   "startTime": "17:00",
+   "endTime": "17:30",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-10-fores-choir-winter-concert"
+  },
+  {
    "id": "2026-12-10-frost-boerne-holiday-open-house",
    "category": "holiday",
    "title": "Frost Boerne Holiday Open House",
@@ -1473,6 +2238,20 @@
    "location": "Boerne Financial Center, 1300 S Main St",
    "description": "Join us at our Boerne Financial Center for a festive evening with your friends at Frost. We’ll have cookies and a special guest, Santa Claus. Be sure to invite your family and friends. This event is free and open to t…",
    "sourceURL": "https://theboernelife.com/events/frost-boerne-holiday-open-house/"
+  },
+  {
+   "title": "HES Polar Express Night",
+   "startDate": "2026-12-10",
+   "startTime": "17:30",
+   "endTime": "18:30",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-10-hes-polar-express-night"
   },
   {
    "id": "2026-12-10-hill-country-poets-monthly-open-mic-at-the-boerne-bookshop",
@@ -1497,6 +2276,34 @@
    "sourceURL": "https://events.timely.fun/e6hnx1k2/event/rustic-christmas-trees?instance_id=20261210180000"
   },
   {
+   "title": "VRES Choir Winter Concert",
+   "startDate": "2026-12-10",
+   "startTime": "18:00",
+   "endTime": "18:30",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-10-vres-choir-winter-concert"
+  },
+  {
+   "title": "VWES 4th grade musical",
+   "startDate": "2026-12-10",
+   "startTime": "18:00",
+   "endTime": "19:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-10-vwes-4th-grade-musical"
+  },
+  {
    "id": "2026-12-11-kinder-fest-weekend-on-the-hill-country-mile",
    "category": "holiday",
    "title": "Kinder Fest Weekend on the Hill Country Mile",
@@ -1506,6 +2313,58 @@
    "description": "Celebrate the start of Christmas break with a family weekend in downtown Boerne. Kids can wear festive outfits and enjoy a Cookie Crawl, Santa Scavenger Hunt, Christmas Market Days shopping, live ice carving and photo…",
    "sourceURL": "https://theboernelife.com/events/kinder-fest-weekend-on-the-hill-country-mile/",
    "featured": true
+  },
+  {
+   "title": "HS Region Orchestra Clinic & Concert",
+   "startDate": "2026-12-11",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-11-hs-region-orchestra-clinic-concert"
+  },
+  {
+   "title": "Boerne boys basketball at Saisd Tournament",
+   "startDate": "2026-12-11",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Saisd Tournament",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-11-boerne-boys-basketball-at-saisd-tournament"
+  },
+  {
+   "title": "Champion swimming & diving at Swisd Invitational",
+   "startDate": "2026-12-11",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "SOUTHWEST ISD AQUATIC CENTER",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-11-champion-swimming-diving-at-swisd-invitational"
+  },
+  {
+   "title": "Blizzard of Bows Outreach Performance for 5th Grade",
+   "startDate": "2026-12-11",
+   "startTime": "10:00",
+   "endTime": "11:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-11-blizzard-of-bows-outreach-performance-for-5th-grade"
   },
   {
    "id": "2026-12-11-utsa-bb-vs-denver",
@@ -1529,6 +2388,62 @@
    "sourceURL": "https://theboernelife.com/events/christmas-in-the-park-at-guadalupe-river-state-park-2/2026-12-11/"
   },
   {
+   "title": "VMS Fall Musical: \"Finding Neverland\"",
+   "startDate": "2026-12-11",
+   "startTime": "18:00",
+   "endTime": "20:30",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-11-vms-fall-musical-finding-neverland"
+  },
+  {
+   "title": "Champion girls soccer at Brandeis",
+   "startDate": "2026-12-11",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "GUSTAFSON-NORTHSIDE STADIUM",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "18:00",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-11-champion-girls-soccer-at-brandeis"
+  },
+  {
+   "title": "Theatre Fall Musical - Finding Neverland",
+   "startDate": "2026-12-11",
+   "startTime": "18:00",
+   "endTime": "19:30",
+   "location": "Capt. Mark Tyler Voss Middle School",
+   "sourceURL": "https://vms.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:voss-ms"
+   ],
+   "audience": "local",
+   "id": "sch-voss-ms-2026-12-11-theatre-fall-musical-finding-neverland"
+  },
+  {
+   "title": "Boerne girls basketball vs. Madison",
+   "startDate": "2026-12-11",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Boerne High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-11-boerne-girls-basketball-vs-madison"
+  },
+  {
    "id": "2026-12-11-ugly-sweater-party-at-lost-oak-cellars",
    "category": "music",
    "title": "Ugly Sweater Party at Lost Oak Cellars",
@@ -1538,6 +2453,59 @@
    "location": "Lost Oak Cellars, 111 Rosewood Ave",
    "description": "Break out a festive sweater for an evening of holiday music, Lost Oak wines and warm mulled wine. Guests can enter the ugly sweater contest for a chance to win a prize. The party is free to attend and takes place Frid…",
    "sourceURL": "https://theboernelife.com/events/ugly-sweater-party-at-lost-oak-cellars-2/"
+  },
+  {
+   "title": "Boerne girls soccer vs. Fredericksburg",
+   "startDate": "2026-12-11",
+   "tag": "Home",
+   "category": "hs-soccer",
+   "location": "Boerne ISD Stadium",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "19:00",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-11-boerne-girls-soccer-vs-fredericksburg"
+  },
+  {
+   "title": "Champion boys soccer vs. Medina Valley",
+   "startDate": "2026-12-11",
+   "tag": "Home",
+   "category": "hs-soccer",
+   "location": "Champion High School Stadium",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "19:15",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-11-champion-boys-soccer-vs-medina-valley"
+  },
+  {
+   "title": "HS Region Orchestra Clinic & Concert",
+   "startDate": "2026-12-12",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-12-hs-region-orchestra-clinic-concert"
+  },
+  {
+   "title": "Boerne boys basketball at Saisd Tournament",
+   "startDate": "2026-12-12",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Saisd Tournament",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-12-boerne-boys-basketball-at-saisd-tournament"
   },
   {
    "id": "2026-12-12-jingle-all-the-way-5k-10k-fun-run-at-patrick-heath-public-am",
@@ -1632,6 +2600,34 @@
    "sourceURL": "https://theboernelife.com/events/christmas-in-the-park-at-guadalupe-river-state-park-2/2026-12-12/"
   },
   {
+   "title": "VMS Fall Musical: \"Finding Neverland\"",
+   "startDate": "2026-12-12",
+   "startTime": "18:00",
+   "endTime": "20:30",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-12-vms-fall-musical-finding-neverland"
+  },
+  {
+   "title": "Theatre Fall Musical - Finding Neverland",
+   "startDate": "2026-12-12",
+   "startTime": "18:00",
+   "endTime": "19:30",
+   "location": "Capt. Mark Tyler Voss Middle School",
+   "sourceURL": "https://vms.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:voss-ms"
+   ],
+   "audience": "local",
+   "id": "sch-voss-ms-2026-12-12-theatre-fall-musical-finding-neverland"
+  },
+  {
    "id": "2026-12-12-live-music-saturday-josh-flores-at-lost-oak-cellars",
    "category": "music",
    "title": "Live Music Saturday: Josh Flores at Lost Oak Cellars",
@@ -1643,6 +2639,20 @@
    "sourceURL": "https://theboernelife.com/events/live-music-saturday-josh-flores-at-lost-oak-cellars/"
   },
   {
+   "title": "Boerne boys soccer vs. Alumni Game",
+   "startDate": "2026-12-12",
+   "tag": "Home",
+   "category": "hs-soccer",
+   "location": "Boerne ISD Stadium",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "19:00",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-12-boerne-boys-soccer-vs-alumni-game"
+  },
+  {
    "id": "2026-12-13-paws-and-paths-exploring-the-bauer-unit-at-guadalupe-river-s",
    "category": "pets",
    "title": "Paws and Paths: Exploring the Bauer Unit at Guadalupe River State Park",
@@ -1652,6 +2662,17 @@
    "location": "Guadalupe River State Park, 3350 Park Road 31",
    "description": "Explore the natural beauty of the Bauer Unit with a guided dog walk led by park volunteer Ed and B.A.R.K. Ranger Baxter. This approximately two-mile hike offers an opportunity to enjoy the outdoors with your canine co…",
    "sourceURL": "https://theboernelife.com/events/paws-and-paths-exploring-the-bauer-unit-at-guadalupe-river-state-park-2/2026-12-13/"
+  },
+  {
+   "id": "2026-12-13-westover-hills-boerne-holiday-open-house",
+   "category": "holiday",
+   "title": "Westover Hills Boerne Holiday Open House",
+   "startDate": "2026-12-13",
+   "startTime": "09:00",
+   "endTime": "11:00",
+   "location": "AMC Boerne 11 @ 205 Old San Antonio Road, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/1x1%20cookie%20decorating_g218.png' /></div><p><span>Westover Hills Church is launching a ne…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/westover-hills-boerne-holiday-open-house?instance_id=20261213090000"
   },
   {
    "id": "2026-12-13-texans-at-commanders",
@@ -1709,6 +2730,48 @@
    "tv": "DAZN"
   },
   {
+   "title": "BMSN Band Advanced Bands Holiday Concert",
+   "startDate": "2026-12-14",
+   "startTime": "18:00",
+   "endTime": "20:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-14-bmsn-band-advanced-bands-holiday-concert"
+  },
+  {
+   "title": "Musical Revue",
+   "startDate": "2026-12-14",
+   "startTime": "18:00",
+   "endTime": "20:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-14-musical-revue"
+  },
+  {
+   "title": "Band - Advanced Concert",
+   "startDate": "2026-12-14",
+   "startTime": "18:00",
+   "endTime": "19:00",
+   "location": "Boerne Middle School North",
+   "sourceURL": "https://bmsn.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-north-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-north-ms-2026-12-14-band-advanced-concert"
+  },
+  {
    "id": "2026-12-14-mavs-vs-bucks",
    "category": "mavs",
    "title": "Mavericks vs. Bucks",
@@ -1731,6 +2794,154 @@
    "tv": "Space City Home Network"
   },
   {
+   "title": "MS Blizzard of Bows Orchestra Concert (BMSN, BMSS, VMS)",
+   "startDate": "2026-12-15",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-15-ms-blizzard-of-bows-orchestra-concert-bmsn-bmss-vms"
+  },
+  {
+   "title": "BMSS Band Advanced Concert",
+   "startDate": "2026-12-15",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-15-bmss-band-advanced-concert"
+  },
+  {
+   "title": "PTO Cookies & Coffee",
+   "startDate": "2026-12-15",
+   "location": "Boerne Middle School North",
+   "sourceURL": "https://bmsn.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-north-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-north-ms-2026-12-15-pto-cookies-coffee"
+  },
+  {
+   "title": "FORES 5th Grade Winter Performance",
+   "startDate": "2026-12-15",
+   "startTime": "17:00",
+   "endTime": "17:45",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-15-fores-5th-grade-winter-performance"
+  },
+  {
+   "title": "Voss Beginning Band Winter Concert",
+   "startDate": "2026-12-15",
+   "startTime": "17:45",
+   "endTime": "18:15",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-15-voss-beginning-band-winter-concert"
+  },
+  {
+   "title": "Beginning Band Winter Concert",
+   "startDate": "2026-12-15",
+   "startTime": "17:45",
+   "endTime": "19:00",
+   "location": "Capt. Mark Tyler Voss Middle School",
+   "sourceURL": "https://vms.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:voss-ms"
+   ],
+   "audience": "local",
+   "id": "sch-voss-ms-2026-12-15-beginning-band-winter-concert"
+  },
+  {
+   "title": "BHS/BMSN Combined Winter Concert",
+   "startDate": "2026-12-15",
+   "startTime": "18:00",
+   "endTime": "19:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-15-bhs-bmsn-combined-winter-concert"
+  },
+  {
+   "title": "Orchestra Concert @ BMSN",
+   "startDate": "2026-12-15",
+   "startTime": "18:00",
+   "endTime": "19:00",
+   "location": "Boerne Middle School North",
+   "sourceURL": "https://bmsn.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-north-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-north-ms-2026-12-15-orchestra-concert-bmsn"
+  },
+  {
+   "title": "Choir Concert",
+   "startDate": "2026-12-15",
+   "startTime": "18:00",
+   "endTime": "19:00",
+   "location": "Boerne Middle School North",
+   "sourceURL": "https://bmsn.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-north-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-north-ms-2026-12-15-choir-concert"
+  },
+  {
+   "title": "Boerne girls basketball vs. Harlandale",
+   "startDate": "2026-12-15",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Boerne High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-15-boerne-girls-basketball-vs-harlandale"
+  },
+  {
+   "title": "Champion girls basketball vs. John Jay",
+   "startDate": "2026-12-15",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Champion High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-15-champion-girls-basketball-vs-john-jay"
+  },
+  {
    "id": "2026-12-15-utsa-bb-vs-our-lady-of-the-lake",
    "category": "utsa-bb",
    "title": "UTSA vs. Our Lady of the Lake",
@@ -1739,6 +2950,62 @@
    "tag": "Home",
    "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
    "startTime": "18:30"
+  },
+  {
+   "title": "Boerne girls soccer at Davenport",
+   "startDate": "2026-12-15",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "DAVENPORT HIGH SCHOOL",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "19:00",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-15-boerne-girls-soccer-at-davenport"
+  },
+  {
+   "title": "Champion boys soccer at Roosevelt",
+   "startDate": "2026-12-15",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "BLOSSOM ATHLETIC COMPLEX",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "19:00",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-15-champion-boys-soccer-at-roosevelt"
+  },
+  {
+   "title": "Champion boys basketball at Clemens",
+   "startDate": "2026-12-15",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "CLEMENS HIGH SCHOOL",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "19:00",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-15-champion-boys-basketball-at-clemens"
+  },
+  {
+   "title": "Champion girls soccer at Johnson",
+   "startDate": "2026-12-15",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "JOHNSON HIGH SCHOOL",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "19:00",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-15-champion-girls-soccer-at-johnson"
   },
   {
    "id": "2026-12-15-spurs-at-cavaliers",
@@ -1750,6 +3017,33 @@
    "tag": "Away",
    "tv": "NBC",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "title": "Midterm Exams",
+   "startDate": "2026-12-16",
+   "endDate": "2026-12-18",
+   "location": "Capt. Mark Tyler Voss Middle School",
+   "sourceURL": "https://vms.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:voss-ms"
+   ],
+   "audience": "local",
+   "id": "sch-voss-ms-2026-12-16-midterm-exams"
+  },
+  {
+   "title": "Choir Winter Concert",
+   "startDate": "2026-12-16",
+   "startTime": "18:00",
+   "endTime": "19:00",
+   "location": "Capt. Mark Tyler Voss Middle School",
+   "sourceURL": "https://vms.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:voss-ms"
+   ],
+   "audience": "local",
+   "id": "sch-voss-ms-2026-12-16-choir-winter-concert"
   },
   {
    "id": "2026-12-16-spurs-at-raptors",
@@ -1796,6 +3090,32 @@
    "tv": "ESPN2"
   },
   {
+   "title": "Class Holiday Parties",
+   "startDate": "2026-12-17",
+   "location": "Cibolo Creek Elementary",
+   "sourceURL": "https://cces.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:cibolo-creek-es"
+   ],
+   "audience": "local",
+   "id": "sch-cibolo-creek-es-2026-12-17-class-holiday-parties"
+  },
+  {
+   "title": "5th Grade Business Fair",
+   "startDate": "2026-12-17",
+   "startTime": "08:00",
+   "endTime": "11:00",
+   "location": "Cibolo Creek Elementary",
+   "sourceURL": "https://cces.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:cibolo-creek-es"
+   ],
+   "audience": "local",
+   "id": "sch-cibolo-creek-es-2026-12-17-5th-grade-business-fair"
+  },
+  {
    "id": "2026-12-17-christine-crowley-s-retirement-reception-at-boerne-community",
    "category": "fest",
    "title": "Christine Crowley’s Retirement Reception at Boerne Community Theatre",
@@ -1816,6 +3136,188 @@
    "tag": "Away",
    "tv": "NBA TV",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "title": "Voss Advanced Bands Winter Concert",
+   "startDate": "2026-12-17",
+   "startTime": "18:15",
+   "endTime": "19:45",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-17-voss-advanced-bands-winter-concert"
+  },
+  {
+   "title": "Advanced Band Winter Concert",
+   "startDate": "2026-12-17",
+   "startTime": "18:30",
+   "endTime": "19:30",
+   "location": "Capt. Mark Tyler Voss Middle School",
+   "sourceURL": "https://vms.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:voss-ms"
+   ],
+   "audience": "local",
+   "id": "sch-voss-ms-2026-12-17-advanced-band-winter-concert"
+  },
+  {
+   "title": "Early Release - Students & Staff",
+   "startDate": "2026-12-18",
+   "startTime": "07:00",
+   "endTime": "11:35",
+   "location": "Cibolo Creek Elementary",
+   "sourceURL": "https://cces.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:cibolo-creek-es"
+   ],
+   "audience": "local",
+   "id": "sch-cibolo-creek-es-2026-12-18-early-release-students-staff"
+  },
+  {
+   "title": "Elementary Early Release Day",
+   "startDate": "2026-12-18",
+   "startTime": "07:35",
+   "endTime": "11:35",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-18-elementary-early-release-day"
+  },
+  {
+   "title": "Nine Weeks Ends",
+   "startDate": "2026-12-18",
+   "startTime": "08:00",
+   "endTime": "17:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-18-nine-weeks-ends"
+  },
+  {
+   "title": "Middle & High School Early Release Day",
+   "startDate": "2026-12-18",
+   "startTime": "08:30",
+   "endTime": "12:35",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2026-12-18-middle-high-school-early-release-day"
+  },
+  {
+   "title": "Boerne boys soccer at LEE",
+   "startDate": "2026-12-18",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "BLOSSOM ATHLETIC COMPLEX",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "14:00",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-18-boerne-boys-soccer-at-lee"
+  },
+  {
+   "title": "Champion girls soccer vs. Champion Jv",
+   "startDate": "2026-12-18",
+   "tag": "Home",
+   "category": "hs-soccer",
+   "location": "Champion High School Stadium",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "14:00",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-18-champion-girls-soccer-vs-champion-jv"
+  },
+  {
+   "title": "Boerne girls soccer at Lockhart",
+   "startDate": "2026-12-18",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "LOCKHART HIGH SCHOOL",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "16:00",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-18-boerne-girls-soccer-at-lockhart"
+  },
+  {
+   "title": "Champion boys soccer at Veterans Memorial",
+   "startDate": "2026-12-18",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "VETERANS MEMORIAL HIGH SCHOOL",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "17:15",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-18-champion-boys-soccer-at-veterans-memorial"
+  },
+  {
+   "title": "Champion girls basketball at Harlandale",
+   "startDate": "2026-12-18",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "HARLANDALE ISD MULTI-CENTER",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "17:30",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-18-champion-girls-basketball-at-harlandale"
+  },
+  {
+   "title": "Boerne boys basketball vs. Eagle Pass Winn",
+   "startDate": "2026-12-18",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Boerne High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-18-boerne-boys-basketball-vs-eagle-pass-winn"
+  },
+  {
+   "title": "Champion boys basketball vs. Brandeis",
+   "startDate": "2026-12-18",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Champion High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-18-champion-boys-basketball-vs-brandeis"
   },
   {
    "id": "2026-12-18-spurs-vs-bulls",
@@ -1953,6 +3455,34 @@
    "tv": "DAZN"
   },
   {
+   "title": "Boerne boys soccer at Memorial",
+   "startDate": "2026-12-21",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "VETERANS STADIUM",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "12:00",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-21-boerne-boys-soccer-at-memorial"
+  },
+  {
+   "title": "Champion boys basketball vs. Harlan",
+   "startDate": "2026-12-21",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Champion High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "12:00",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-21-champion-boys-basketball-vs-harlan"
+  },
+  {
    "id": "2026-12-21-horns-bb-vs-prairie-view-a-m",
    "category": "horns-bb",
    "title": "Texas vs. Prairie View A&M",
@@ -1975,6 +3505,20 @@
    "tv": "DAZN"
   },
   {
+   "title": "Boerne girls basketball vs. South San",
+   "startDate": "2026-12-22",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Boerne High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "12:00",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-22-boerne-girls-basketball-vs-south-san"
+  },
+  {
    "id": "2026-12-22-utsa-bb-vs-huston-tillotson",
    "category": "utsa-bb",
    "title": "UTSA vs. Huston-Tillotson",
@@ -1983,6 +3527,20 @@
    "tag": "Home",
    "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
    "startTime": "12:00"
+  },
+  {
+   "title": "Boerne boys basketball at South San",
+   "startDate": "2026-12-22",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "South San Athletic Complex",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "12:30",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-22-boerne-boys-basketball-at-south-san"
   },
   {
    "id": "2026-12-22-mavs-at-warriors",
@@ -2118,6 +3676,136 @@
    "description": "Sunday Night Football."
   },
   {
+   "title": "Boerne boys soccer at Alamo Heights Bruce Fink…",
+   "startDate": "2026-12-28",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Alamo Heights Bruce Fink…",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-28-boerne-boys-soccer-at-alamo-heights-bruce-fink"
+  },
+  {
+   "title": "Boerne girls basketball vs. Boerne Isd Holiday Tournament",
+   "startDate": "2026-12-28",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Boerne High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-28-boerne-girls-basketball-vs-boerne-isd-holiday-tournamen"
+  },
+  {
+   "title": "Boerne boys basketball vs. Boerne Isd Holiday Tournament",
+   "startDate": "2026-12-28",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Boerne High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-28-boerne-boys-basketball-vs-boerne-isd-holiday-tournament"
+  },
+  {
+   "title": "Champion girls basketball vs. Boerne Isd Holiday Tournament",
+   "startDate": "2026-12-28",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Champion High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-28-champion-girls-basketball-vs-boerne-isd-holiday-tourn"
+  },
+  {
+   "title": "Champion boys basketball vs. Boerne Isd Holiday Tournament",
+   "startDate": "2026-12-28",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Champion High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-28-champion-boys-basketball-vs-boerne-isd-holiday-tourna"
+  },
+  {
+   "title": "Boerne boys soccer at Alamo Heights Bruce Fink…",
+   "startDate": "2026-12-29",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Alamo Heights Bruce Fink…",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-29-boerne-boys-soccer-at-alamo-heights-bruce-fink"
+  },
+  {
+   "title": "Boerne girls basketball vs. Boerne Isd Holiday Tournament",
+   "startDate": "2026-12-29",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Boerne High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-29-boerne-girls-basketball-vs-boerne-isd-holiday-tournamen"
+  },
+  {
+   "title": "Boerne boys basketball vs. Boerne Isd Holiday Tournament",
+   "startDate": "2026-12-29",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Boerne High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-29-boerne-boys-basketball-vs-boerne-isd-holiday-tournament"
+  },
+  {
+   "title": "Champion boys basketball vs. Boerne Isd Holiday Tournament",
+   "startDate": "2026-12-29",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Champion High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-29-champion-boys-basketball-vs-boerne-isd-holiday-tourna"
+  },
+  {
+   "title": "Champion girls basketball vs. Boerne Isd Holiday Tournament",
+   "startDate": "2026-12-29",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Champion High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-29-champion-girls-basketball-vs-boerne-isd-holiday-tourn"
+  },
+  {
    "id": "2026-12-29-horns-bb-vs-east-texas-a-m",
    "category": "horns-bb",
    "title": "Texas vs. East Texas A&M",
@@ -2172,6 +3860,19 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "title": "Boerne boys soccer at Alamo Heights Bruce Fink…",
+   "startDate": "2026-12-30",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Alamo Heights Bruce Fink…",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-30-boerne-boys-soccer-at-alamo-heights-bruce-fink"
+  },
+  {
    "id": "2026-12-30-rockets-at-warriors",
    "category": "rockets",
    "title": "Rockets at Warriors",
@@ -2181,6 +3882,33 @@
    "tag": "Away",
    "tv": "NBA TV",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "title": "Boerne girls soccer at Northside Isd Tournament",
+   "startDate": "2026-12-31",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Northside Isd Tournament",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2026-12-31-boerne-girls-soccer-at-northside-isd-tournament"
+  },
+  {
+   "title": "Champion girls basketball at South San",
+   "startDate": "2026-12-31",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "South San Athletic Complex",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "11:30",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2026-12-31-champion-girls-basketball-at-south-san"
   },
   {
    "id": "2026-12-31-spurs-at-hornets",
@@ -2215,6 +3943,19 @@
    "sourceURL": "https://theboernelife.com/events/new-years-eve-party-with-kat-dawn-small-town-trouble-at-salvador-dobbs/"
   },
   {
+   "title": "Boerne girls soccer at Northside Isd Tournament",
+   "startDate": "2027-01-01",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Northside Isd Tournament",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-01-boerne-girls-soccer-at-northside-isd-tournament"
+  },
+  {
    "id": "2027-01-01-self-guided-first-day-nature-hikes-at-guadalupe-river-state-",
    "category": "nature",
    "title": "Self-Guided First Day Nature Hikes at Guadalupe River State Park",
@@ -2224,6 +3965,20 @@
    "location": "Guadalupe River State Park, 3350 Park Road 31",
    "description": "Celebrate the new year with a self-guided hike on trails at Guadalupe River State Park, including the Bauer Unit. Choose a route at your own pace, and ask staff for recommendations. After your hike, stop by park headq…",
    "sourceURL": "https://theboernelife.com/events/self-guided-first-day-nature-hikes-at-guadalupe-river-state-park/"
+  },
+  {
+   "title": "Boerne girls basketball at Mccollum",
+   "startDate": "2027-01-01",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "HARLANDALE ISD MULTI-CENTER",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "11:30",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-01-boerne-girls-basketball-at-mccollum"
   },
   {
    "id": "2027-01-01-first-day-guided-hike-at-old-tunnel-state-park",
@@ -2248,17 +4003,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "2027-01-01-mavs-at-rockets",
-   "category": "mavs",
-   "title": "Mavericks at Rockets",
-   "startDate": "2027-01-01",
-   "startTime": "19:30",
-   "location": "Houston",
-   "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
-   "tv": "MavsTV+ or League Pass"
-  },
-  {
    "id": "2027-01-01-rockets-vs-mavericks",
    "category": "rockets",
    "title": "Rockets vs. Mavericks",
@@ -2270,6 +4014,44 @@
    "tv": "Space City Home Network"
   },
   {
+   "id": "2027-01-01-mavs-at-rockets",
+   "category": "mavs",
+   "title": "Mavericks at Rockets",
+   "startDate": "2027-01-01",
+   "startTime": "19:30",
+   "location": "Houston",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
+  },
+  {
+   "title": "Boerne girls soccer at Northside Isd Tournament",
+   "startDate": "2027-01-02",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Northside Isd Tournament",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-02-boerne-girls-soccer-at-northside-isd-tournament"
+  },
+  {
+   "title": "Champion boys basketball vs. South San",
+   "startDate": "2027-01-02",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Champion High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "13:00",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-02-champion-boys-basketball-vs-south-san"
+  },
+  {
    "id": "2027-01-02-utsa-bb-at-temple",
    "category": "utsa-bb",
    "title": "UTSA at Temple",
@@ -2278,6 +4060,20 @@
    "tag": "Away",
    "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
    "startTime": "13:00"
+  },
+  {
+   "title": "Boerne boys basketball vs. Mccollum",
+   "startDate": "2027-01-02",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Boerne High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "14:00",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-02-boerne-boys-basketball-vs-mccollum"
   },
   {
    "id": "2027-01-02-horns-bb-vs-florida",
@@ -2334,6 +4130,20 @@
    "tv": "Space City Home Network"
   },
   {
+   "title": "Boerne girls soccer vs. Bastrop",
+   "startDate": "2027-01-04",
+   "tag": "Home",
+   "category": "hs-soccer",
+   "location": "Boerne ISD Stadium",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "13:00",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-04-boerne-girls-soccer-vs-bastrop"
+  },
+  {
    "id": "2027-01-04-mavs-at-pelicans",
    "category": "mavs",
    "title": "Mavericks at Pelicans",
@@ -2354,6 +4164,88 @@
    "sourceURL": "https://www.houstontexans.com/schedule/",
    "startTime": "19:15",
    "tv": "ESPN"
+  },
+  {
+   "title": "Student Holiday/Teacher Exchange",
+   "startDate": "2027-01-05",
+   "location": "Cibolo Creek Elementary",
+   "sourceURL": "https://cces.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:cibolo-creek-es"
+   ],
+   "audience": "local",
+   "id": "sch-cibolo-creek-es-2027-01-05-student-holiday-teacher-exchange"
+  },
+  {
+   "title": "Boerne boys basketball at Alamo Heights",
+   "startDate": "2027-01-05",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "ALAMO HEIGHTS HIGH SCHOOL",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-05-boerne-boys-basketball-at-alamo-heights"
+  },
+  {
+   "title": "Boerne girls basketball vs. Alamo Heights",
+   "startDate": "2027-01-05",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Boerne High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-05-boerne-girls-basketball-vs-alamo-heights"
+  },
+  {
+   "title": "Champion boys basketball at Mccollum",
+   "startDate": "2027-01-05",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "HARLANDALE ISD MULTI-CENTER",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-05-champion-boys-basketball-at-mccollum"
+  },
+  {
+   "title": "Champion girls basketball vs. Mccollum",
+   "startDate": "2027-01-05",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Champion High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-05-champion-girls-basketball-vs-mccollum"
+  },
+  {
+   "title": "Champion boys soccer at Madison",
+   "startDate": "2027-01-05",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "COMALANDER STADIUM",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "19:00",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-05-champion-boys-soccer-at-madison"
   },
   {
    "id": "2027-01-05-rockets-vs-timberwolves",
@@ -2388,6 +4280,60 @@
    "tv": "DAZN"
   },
   {
+   "title": "Boerne girls soccer at Georgetown Tournament",
+   "startDate": "2027-01-07",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Georgetown Tournament",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-07-boerne-girls-soccer-at-georgetown-tournament"
+  },
+  {
+   "title": "Champion boys soccer at Harlandale Tournament",
+   "startDate": "2027-01-07",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Harlandale Tournament",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-07-champion-boys-soccer-at-harlandale-tournament"
+  },
+  {
+   "title": "Boerne boys soccer at Georgetown Governors Cup",
+   "startDate": "2027-01-07",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Georgetown Governors Cup",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "16:20",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-07-boerne-boys-soccer-at-georgetown-governors-cup"
+  },
+  {
+   "title": "Champion girls soccer at A+ Academy",
+   "startDate": "2027-01-07",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "BENBROOK HIGH SCHOOL",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "17:40",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-07-champion-girls-soccer-at-a-academy"
+  },
+  {
    "id": "2027-01-07-utsa-bb-vs-tulsa",
    "category": "utsa-bb",
    "title": "UTSA vs. Tulsa",
@@ -2418,6 +4364,130 @@
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "title": "Boerne girls soccer at Georgetown Tournament",
+   "startDate": "2027-01-08",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Georgetown Tournament",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-08-boerne-girls-soccer-at-georgetown-tournament"
+  },
+  {
+   "title": "Champion boys soccer at Harlandale Tournament",
+   "startDate": "2027-01-08",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Harlandale Tournament",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-08-champion-boys-soccer-at-harlandale-tournament"
+  },
+  {
+   "title": "Boerne swimming & diving at Nisd Half And Half Meet",
+   "startDate": "2027-01-08",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "NORTHSIDE NATATORIUM",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "11:00",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-08-boerne-swimming-diving-at-nisd-half-and-half-meet"
+  },
+  {
+   "title": "Champion girls soccer at Dunbar High School",
+   "startDate": "2027-01-08",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "BENBROOK HIGH SCHOOL",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "11:50",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-08-champion-girls-soccer-at-dunbar-high-school"
+  },
+  {
+   "title": "Boerne boys soccer at Georgetown Governors Cup",
+   "startDate": "2027-01-08",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Georgetown Governors Cup",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "17:00",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-08-boerne-boys-soccer-at-georgetown-governors-cup"
+  },
+  {
+   "title": "Boerne boys basketball at Champion",
+   "startDate": "2027-01-08",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Boerne Champion High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-08-boerne-boys-basketball-at-champion"
+  },
+  {
+   "title": "Boerne girls basketball vs. Champion",
+   "startDate": "2027-01-08",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Boerne High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-08-boerne-girls-basketball-vs-champion"
+  },
+  {
+   "title": "Champion girls basketball at Boerne",
+   "startDate": "2027-01-08",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Boerne High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-08-champion-girls-basketball-at-boerne"
+  },
+  {
+   "title": "Champion boys basketball vs. Boerne",
+   "startDate": "2027-01-08",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Champion High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-08-champion-boys-basketball-vs-boerne"
   },
   {
    "id": "2027-01-08-spurs-vs-grizzlies",
@@ -2451,6 +4521,32 @@
    "sourceURL": "https://theboernelife.com/events/river-road-run-half-10-miler-skydome-10k-5k-05k-at-comfort-park/"
   },
   {
+   "title": "Boerne girls soccer at Georgetown Tournament",
+   "startDate": "2027-01-09",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Georgetown Tournament",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-09-boerne-girls-soccer-at-georgetown-tournament"
+  },
+  {
+   "title": "Champion boys soccer at Harlandale Tournament",
+   "startDate": "2027-01-09",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Harlandale Tournament",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-09-champion-boys-soccer-at-harlandale-tournament"
+  },
+  {
    "id": "2027-01-09-boerne-market-days",
    "category": "market",
    "title": "Boerne Market Days",
@@ -2466,6 +4562,34 @@
    "sourceURL": "https://business.boerne.org/events"
   },
   {
+   "title": "Champion girls soccer at Benbrook High School",
+   "startDate": "2027-01-09",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "BENBROOK HIGH SCHOOL",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "10:30",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-09-champion-girls-soccer-at-benbrook-high-school"
+  },
+  {
+   "title": "Boerne swimming & diving at Nisd Half And Half Meet",
+   "startDate": "2027-01-09",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "NORTHSIDE NATATORIUM",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "11:00",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-09-boerne-swimming-diving-at-nisd-half-and-half-meet"
+  },
+  {
    "id": "2027-01-09-horns-bb-at-ole-miss",
    "category": "horns-bb",
    "title": "Texas at Ole Miss",
@@ -2475,6 +4599,20 @@
    "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
    "startTime": "11:00",
    "tv": "ESPNU"
+  },
+  {
+   "title": "Boerne boys soccer at Georgetown Governors Cup",
+   "startDate": "2027-01-09",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Georgetown Governors Cup",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "17:00",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-09-boerne-boys-soccer-at-georgetown-governors-cup"
   },
   {
    "id": "2027-01-09-rockets-at-nets",
@@ -2531,6 +4669,44 @@
    "tv": "MavsTV+ or League Pass"
   },
   {
+   "title": "PTO Luncheon",
+   "startDate": "2027-01-11",
+   "location": "Boerne Middle School North",
+   "sourceURL": "https://bmsn.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-north-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-north-ms-2027-01-11-pto-luncheon"
+  },
+  {
+   "title": "Student Holiday/Staff Work Day",
+   "startDate": "2027-01-11",
+   "location": "Cibolo Creek Elementary",
+   "sourceURL": "https://cces.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:cibolo-creek-es"
+   ],
+   "audience": "local",
+   "id": "sch-cibolo-creek-es-2027-01-11-student-holiday-staff-work-day"
+  },
+  {
+   "title": "Staff Work Day/Student Holiday",
+   "startDate": "2027-01-11",
+   "startTime": "08:00",
+   "endTime": "17:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2027-01-11-staff-work-day-student-holiday"
+  },
+  {
    "id": "2027-01-11-rockets-at-celtics",
    "category": "rockets",
    "title": "Rockets at Celtics",
@@ -2540,6 +4716,89 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "title": "Boerne girls basketball at John Jay",
+   "startDate": "2027-01-12",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "PAUL TAYLOR GYM",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-12-boerne-girls-basketball-at-john-jay"
+  },
+  {
+   "title": "Nine Weeks Begins",
+   "startDate": "2027-01-12",
+   "startTime": "08:00",
+   "endTime": "17:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2027-01-12-nine-weeks-begins"
+  },
+  {
+   "title": "Boerne girls soccer at Lake Travis",
+   "startDate": "2027-01-12",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Lake Travis High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "18:15",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-12-boerne-girls-soccer-at-lake-travis"
+  },
+  {
+   "title": "Boerne boys basketball vs. John Jay",
+   "startDate": "2027-01-12",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Boerne High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-12-boerne-boys-basketball-vs-john-jay"
+  },
+  {
+   "title": "Champion boys basketball at Alamo Heights",
+   "startDate": "2027-01-12",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "ALAMO HEIGHTS HIGH SCHOOL",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-12-champion-boys-basketball-at-alamo-heights"
+  },
+  {
+   "title": "Champion girls basketball vs. Alamo Heights",
+   "startDate": "2027-01-12",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Champion High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-12-champion-girls-basketball-vs-alamo-heights"
   },
   {
    "id": "2027-01-12-mavs-at-grizzlies",
@@ -2584,6 +4843,33 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "title": "Champion boys soccer at Legacy Ranch Tournament",
+   "startDate": "2027-01-14",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Legacy Ranch Tournament",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-14-champion-boys-soccer-at-legacy-ranch-tournament"
+  },
+  {
+   "title": "Champion girls soccer at Flour Bluff",
+   "startDate": "2027-01-14",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "SOUTHWEST HIGH SCHOOL",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "11:00",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-14-champion-girls-soccer-at-flour-bluff"
+  },
+  {
    "id": "2027-01-14-spurs-vs-pelicans-nba-paris-game",
    "category": "spurs",
    "title": "Spurs vs. Pelicans (NBA Paris Game)",
@@ -2606,6 +4892,116 @@
    "tv": "MavsTV+ or League Pass"
   },
   {
+   "title": "Champion girls soccer at Game 2 Dependent On W",
+   "startDate": "2027-01-15",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "SOUTHWEST HIGH SCHOOL",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-15-champion-girls-soccer-at-game-2-dependent-on-w"
+  },
+  {
+   "title": "Champion boys soccer at Legacy Ranch Tournament",
+   "startDate": "2027-01-15",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Legacy Ranch Tournament",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-15-champion-boys-soccer-at-legacy-ranch-tournament"
+  },
+  {
+   "title": "Boerne girls basketball at Harlandale",
+   "startDate": "2027-01-15",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "HARLANDALE ISD MULTI-CENTER",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-15-boerne-girls-basketball-at-harlandale"
+  },
+  {
+   "title": "Boerne boys basketball vs. Harlandale",
+   "startDate": "2027-01-15",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Boerne High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-15-boerne-boys-basketball-vs-harlandale"
+  },
+  {
+   "title": "Champion girls basketball at John Jay",
+   "startDate": "2027-01-15",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "PAUL TAYLOR GYM",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-15-champion-girls-basketball-at-john-jay"
+  },
+  {
+   "title": "Champion boys basketball vs. John Jay",
+   "startDate": "2027-01-15",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Champion High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-15-champion-boys-basketball-vs-john-jay"
+  },
+  {
+   "title": "Boerne girls soccer at Veterans Memorial",
+   "startDate": "2027-01-15",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "VETERANS MEMORIAL HIGH SCHOOL",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "19:00",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-15-boerne-girls-soccer-at-veterans-memorial"
+  },
+  {
+   "title": "Boerne boys soccer vs. Clark",
+   "startDate": "2027-01-15",
+   "tag": "Home",
+   "category": "hs-soccer",
+   "location": "Boerne ISD Stadium",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "19:00",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-15-boerne-boys-soccer-vs-clark"
+  },
+  {
    "id": "2027-01-15-rockets-vs-wizards",
    "category": "rockets",
    "title": "Rockets vs. Wizards",
@@ -2615,6 +5011,68 @@
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "title": "South Texas Honor Band Clinic/Concert",
+   "startDate": "2027-01-16",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2027-01-16-south-texas-honor-band-clinic-concert"
+  },
+  {
+   "title": "Champion girls soccer at Game 3 Dependent On W",
+   "startDate": "2027-01-16",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "SOUTHWEST HIGH SCHOOL",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-16-champion-girls-soccer-at-game-3-dependent-on-w"
+  },
+  {
+   "title": "Champion boys soccer at Legacy Ranch Tournament",
+   "startDate": "2027-01-16",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Legacy Ranch Tournament",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-16-champion-boys-soccer-at-legacy-ranch-tournament"
+  },
+  {
+   "title": "All Region Band Clinic/Concert @ BMSN",
+   "startDate": "2027-01-16",
+   "location": "Boerne Middle School North",
+   "sourceURL": "https://bmsn.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-north-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-north-ms-2027-01-16-all-region-band-clinic-concert-bmsn"
+  },
+  {
+   "title": "South Texas Honor Band Clinic and Concert",
+   "startDate": "2027-01-16",
+   "location": "Capt. Mark Tyler Voss Middle School",
+   "sourceURL": "https://vms.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:voss-ms"
+   ],
+   "audience": "local",
+   "id": "sch-voss-ms-2027-01-16-south-texas-honor-band-clinic-and-concert"
   },
   {
    "id": "2027-01-16-horns-bb-vs-oklahoma",
@@ -2681,6 +5139,20 @@
    "startTime": "11:00"
   },
   {
+   "title": "Boerne boys basketball vs. John Paul Ii",
+   "startDate": "2027-01-18",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Boerne High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-18-boerne-boys-basketball-vs-john-paul-ii"
+  },
+  {
    "id": "2027-01-18-rockets-at-grizzlies",
    "category": "rockets",
    "title": "Rockets at Grizzlies",
@@ -2701,6 +5173,48 @@
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
    "tv": "MavsTV+ or League Pass"
+  },
+  {
+   "title": "Boerne girls soccer vs. Judson",
+   "startDate": "2027-01-19",
+   "tag": "Home",
+   "category": "hs-soccer",
+   "location": "Boerne ISD Stadium",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-19-boerne-girls-soccer-vs-judson"
+  },
+  {
+   "title": "Champion girls basketball vs. Harlandale",
+   "startDate": "2027-01-19",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Champion High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-19-champion-girls-basketball-vs-harlandale"
+  },
+  {
+   "title": "Champion boys basketball at Harlandale",
+   "startDate": "2027-01-19",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "HARLANDALE ISD MULTI-CENTER",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "19:00",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-19-champion-boys-basketball-at-harlandale"
   },
   {
    "id": "2027-01-19-mavs-vs-hornets",
@@ -2757,6 +5271,71 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
+   "title": "Champion Theatre: West Side Story - All-School Musical",
+   "startDate": "2027-01-21",
+   "startTime": "19:00",
+   "endTime": "21:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2027-01-21-champion-theatre-west-side-story-all-school-musical"
+  },
+  {
+   "title": "Champion swimming & diving at District Meet",
+   "startDate": "2027-01-22",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "ALAMO HEIGHTS NATATORIUM",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-22-champion-swimming-diving-at-district-meet"
+  },
+  {
+   "title": "Orchestra - All Region Clinic and Concert @ Taft HS",
+   "startDate": "2027-01-22",
+   "location": "Boerne Middle School North",
+   "sourceURL": "https://bmsn.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-north-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-north-ms-2027-01-22-orchestra-all-region-clinic-and-concert-taft-h"
+  },
+  {
+   "title": "Second 9 Weeks All \"A\" Honor Roll Treat (during all lunches)",
+   "startDate": "2027-01-22",
+   "location": "Boerne Middle School North",
+   "sourceURL": "https://bmsn.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-north-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-north-ms-2027-01-22-second-9-weeks-all-a-honor-roll-treat-during-a"
+  },
+  {
+   "title": "Boerne swimming & diving at District 26-5A Championships",
+   "startDate": "2027-01-22",
+   "tag": "Away",
+   "category": "hs-sports",
+   "location": "ALAMO HEIGHTS NATATORIUM",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "11:30",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-22-boerne-swimming-diving-at-district-26-5a-championships"
+  },
+  {
    "id": "2027-01-22-rockets-at-hornets",
    "category": "rockets",
    "title": "Rockets at Hornets",
@@ -2766,6 +5345,104 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "title": "Boerne girls basketball at South San",
+   "startDate": "2027-01-22",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "South San Athletic Complex",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-22-boerne-girls-basketball-at-south-san"
+  },
+  {
+   "title": "Boerne girls soccer at Harlandale",
+   "startDate": "2027-01-22",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "HARLANDALE MEMORIAL STADIUM",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-22-boerne-girls-soccer-at-harlandale"
+  },
+  {
+   "title": "Boerne boys soccer vs. Harlandale",
+   "startDate": "2027-01-22",
+   "tag": "Home",
+   "category": "hs-soccer",
+   "location": "Boerne ISD Stadium",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-22-boerne-boys-soccer-vs-harlandale"
+  },
+  {
+   "title": "Boerne boys basketball vs. South San",
+   "startDate": "2027-01-22",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Boerne High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-22-boerne-boys-basketball-vs-south-san"
+  },
+  {
+   "title": "Champion girls soccer vs. John Jay",
+   "startDate": "2027-01-22",
+   "tag": "Home",
+   "category": "hs-soccer",
+   "location": "Champion High School Stadium",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-22-champion-girls-soccer-vs-john-jay"
+  },
+  {
+   "title": "Champion Theatre: West Side Story - All-School Musical",
+   "startDate": "2027-01-22",
+   "startTime": "19:00",
+   "endTime": "21:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2027-01-22-champion-theatre-west-side-story-all-school-musical"
+  },
+  {
+   "title": "Champion boys soccer at John Jay",
+   "startDate": "2027-01-22",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "GUSTAFSON-NORTHSIDE STADIUM",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "19:00",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-22-champion-boys-soccer-at-john-jay"
   },
   {
    "id": "2027-01-22-mavs-at-pelicans",
@@ -2790,6 +5467,18 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
+   "title": "TECA Color Guard Contest @ Sotomayor HS",
+   "startDate": "2027-01-23",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2027-01-23-teca-color-guard-contest-sotomayor-hs"
+  },
+  {
    "id": "2027-01-23-utsa-bb-vs-south-florida",
    "category": "utsa-bb",
    "title": "UTSA vs. South Florida",
@@ -2808,6 +5497,20 @@
    "tag": "Home",
    "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
    "startTime": "17:00"
+  },
+  {
+   "title": "Champion Theatre: West Side Story - All-School Musical",
+   "startDate": "2027-01-23",
+   "startTime": "19:00",
+   "endTime": "21:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2027-01-23-champion-theatre-west-side-story-all-school-musical"
   },
   {
    "id": "2027-01-23-mavs-vs-cavaliers",
@@ -2843,6 +5546,20 @@
    "tv": "Space City Home Network"
   },
   {
+   "title": "Champion Theatre: West Side Story - All-School Musical",
+   "startDate": "2027-01-24",
+   "startTime": "19:00",
+   "endTime": "21:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2027-01-24-champion-theatre-west-side-story-all-school-musical"
+  },
+  {
    "id": "2027-01-25-mavs-at-bulls",
    "category": "mavs",
    "title": "Mavericks at Bulls",
@@ -2852,6 +5569,20 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
    "tv": "MavsTV+ or League Pass"
+  },
+  {
+   "title": "Rising 6th Grade Parent Night",
+   "startDate": "2027-01-26",
+   "startTime": "17:00",
+   "endTime": "18:30",
+   "location": "Capt. Mark Tyler Voss Middle School",
+   "sourceURL": "https://vms.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:voss-ms"
+   ],
+   "audience": "local",
+   "id": "sch-voss-ms-2027-01-26-rising-6th-grade-parent-night"
   },
   {
    "id": "2027-01-26-spurs-vs-rockets",
@@ -2874,6 +5605,20 @@
    "tag": "Away",
    "tv": "NBC",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "title": "School Spelling Bee",
+   "startDate": "2027-01-27",
+   "startTime": "08:30",
+   "endTime": "10:30",
+   "location": "Cibolo Creek Elementary",
+   "sourceURL": "https://cces.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:cibolo-creek-es"
+   ],
+   "audience": "local",
+   "id": "sch-cibolo-creek-es-2027-01-27-school-spelling-bee"
   },
   {
    "id": "2027-01-27-mavs-at-raptors",
@@ -2920,6 +5665,19 @@
    "tv": "Space City Home Network"
   },
   {
+   "title": "HS Region 29 Band Clinic and Concert",
+   "startDate": "2027-01-28",
+   "endDate": "2027-01-29",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2027-01-28-hs-region-29-band-clinic-and-concert"
+  },
+  {
    "id": "2027-01-28-utsa-bb-vs-north-texas",
    "category": "utsa-bb",
    "title": "UTSA vs. North Texas",
@@ -2938,6 +5696,19 @@
    "location": "8th Street Market, 523 8th Street",
    "description": "Select dates Jan 29 to Jan 31, times vary. Check the source for each day.",
    "sourceURL": "https://theboernelife.com/events/revive-refresh-renew-sale-at-the-8th-street-market/2027-01-29/"
+  },
+  {
+   "title": "MS Region Orchestra Clinic and Concert",
+   "startDate": "2027-01-29",
+   "endDate": "2027-01-30",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2027-01-29-ms-region-orchestra-clinic-and-concert"
   },
   {
    "id": "2027-01-29-mavs-vs-pistons",
@@ -2983,6 +5754,20 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
+   "title": "BHS Winter Formal",
+   "startDate": "2027-01-30",
+   "startTime": "20:00",
+   "endTime": "23:00",
+   "location": "Boerne High School",
+   "sourceURL": "https://bhs.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-30-bhs-winter-formal"
+  },
+  {
    "id": "2027-01-31-utsa-bb-at-wichita-state",
    "category": "utsa-bb",
    "title": "UTSA at Wichita State",
@@ -2991,17 +5776,6 @@
    "tag": "Away",
    "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
    "startTime": "13:00"
-  },
-  {
-   "id": "2027-01-31-mavs-vs-rockets",
-   "category": "mavs",
-   "title": "Mavericks vs. Rockets",
-   "startDate": "2027-01-31",
-   "startTime": "19:30",
-   "location": "American Airlines Center, Dallas",
-   "tag": "Home",
-   "tv": "NBC",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "id": "2027-01-31-rockets-at-mavericks",
@@ -3015,6 +5789,17 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "id": "2027-01-31-mavs-vs-rockets",
+   "category": "mavs",
+   "title": "Mavericks vs. Rockets",
+   "startDate": "2027-01-31",
+   "startTime": "19:30",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
    "id": "2027-02-01-spurs-at-warriors",
    "category": "spurs",
    "title": "Spurs at Warriors",
@@ -3024,6 +5809,34 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
    "tv": "DAZN"
+  },
+  {
+   "title": "FORES - Rising 6th Grade Tours",
+   "startDate": "2027-02-02",
+   "startTime": "09:00",
+   "endTime": "11:00",
+   "location": "Capt. Mark Tyler Voss Middle School",
+   "sourceURL": "https://vms.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:voss-ms"
+   ],
+   "audience": "local",
+   "id": "sch-voss-ms-2027-02-02-fores-rising-6th-grade-tours"
+  },
+  {
+   "title": "Rising 6th Grade Parent Night (Auditorium)",
+   "startDate": "2027-02-02",
+   "startTime": "18:00",
+   "endTime": "19:00",
+   "location": "Boerne Middle School North",
+   "sourceURL": "https://bmsn.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-north-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-north-ms-2027-02-02-rising-6th-grade-parent-night-auditorium"
   },
   {
    "id": "2027-02-02-mavs-vs-raptors",
@@ -3046,6 +5859,20 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/",
    "tv": "DAZN"
+  },
+  {
+   "title": "Herff and Cibolo Creek Rising 6th Grade Tours",
+   "startDate": "2027-02-03",
+   "startTime": "09:00",
+   "endTime": "11:00",
+   "location": "Capt. Mark Tyler Voss Middle School",
+   "sourceURL": "https://vms.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:voss-ms"
+   ],
+   "audience": "local",
+   "id": "sch-voss-ms-2027-02-03-herff-and-cibolo-creek-rising-6th-grade-tours"
   },
   {
    "id": "2027-02-03-rockets-vs-jazz",
@@ -3100,6 +5927,42 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "title": "Champion Charms Host MA Dance Competition",
+   "startDate": "2027-02-06",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2027-02-06-champion-charms-host-ma-dance-competition"
+  },
+  {
+   "title": "TECA Color Guard Contest @ Wagner HS",
+   "startDate": "2027-02-06",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2027-02-06-teca-color-guard-contest-wagner-hs"
+  },
+  {
+   "title": "Shining Stars Dance Competition @ CHS",
+   "startDate": "2027-02-06",
+   "location": "Boerne Middle School North",
+   "sourceURL": "https://bmsn.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-north-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-north-ms-2027-02-06-shining-stars-dance-competition-chs"
   },
   {
    "id": "2027-02-06-boerne-home-outdoor-living-show",
@@ -3178,6 +6041,32 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "title": "Orchestra Pre-UIL Concert @ CHS (Time TBD)",
+   "startDate": "2027-02-09",
+   "location": "Boerne Middle School North",
+   "sourceURL": "https://bmsn.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-north-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-north-ms-2027-02-09-orchestra-pre-uil-concert-chs-time-tbd"
+  },
+  {
+   "title": "Boerne ISD Orchestras Pre-UIL Concert & Clinic",
+   "startDate": "2027-02-09",
+   "startTime": "16:45",
+   "endTime": "19:45",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2027-02-09-boerne-isd-orchestras-pre-uil-concert-clinic"
   },
   {
    "id": "2027-02-09-horns-bb-vs-alabama",
@@ -3279,6 +6168,30 @@
    "tv": "Space City Home Network"
   },
   {
+   "title": "Bisd Uil One-Act Play Clinic",
+   "startDate": "2027-02-13",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2027-02-13-bisd-uil-one-act-play-clinic"
+  },
+  {
+   "title": "Shining Stars Dance Competition -Crowdpleasers (Seguin)",
+   "startDate": "2027-02-13",
+   "location": "Boerne Middle School North",
+   "sourceURL": "https://bmsn.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-north-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-north-ms-2027-02-13-shining-stars-dance-competition-crowdpleasers-"
+  },
+  {
    "id": "2027-02-13-boerne-market-days",
    "category": "market",
    "title": "Boerne Market Days",
@@ -3356,6 +6269,18 @@
    "tag": "Home",
    "tv": "NBA TV",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "title": "Student Holiday/Teacher Exchange",
+   "startDate": "2027-02-15",
+   "location": "Cibolo Creek Elementary",
+   "sourceURL": "https://cces.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:cibolo-creek-es"
+   ],
+   "audience": "local",
+   "id": "sch-cibolo-creek-es-2027-02-15-student-holiday-teacher-exchange"
   },
   {
    "id": "2027-02-15-mavs-vs-76ers",
@@ -3455,6 +6380,75 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
+   "title": "Shining Stars Competition -Showmakers @ O'Connor High School",
+   "startDate": "2027-02-19",
+   "endDate": "2027-02-20",
+   "location": "Boerne Middle School North",
+   "sourceURL": "https://bmsn.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-north-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-north-ms-2027-02-19-shining-stars-competition-showmakers-o-connor-"
+  },
+  {
+   "title": "BMSN Spring Musical",
+   "startDate": "2027-02-19",
+   "startTime": "18:00",
+   "endTime": "19:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2027-02-19-bmsn-spring-musical"
+  },
+  {
+   "title": "Musical Public Performance",
+   "startDate": "2027-02-19",
+   "startTime": "18:00",
+   "endTime": "19:00",
+   "location": "Boerne Middle School North",
+   "sourceURL": "https://bmsn.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-north-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-north-ms-2027-02-19-musical-public-performance"
+  },
+  {
+   "title": "BMSN Spring Musical",
+   "startDate": "2027-02-20",
+   "startTime": "14:00",
+   "endTime": "15:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2027-02-20-bmsn-spring-musical"
+  },
+  {
+   "title": "Musical Public Performance",
+   "startDate": "2027-02-20",
+   "startTime": "14:00",
+   "endTime": "15:00",
+   "location": "Boerne Middle School North",
+   "sourceURL": "https://bmsn.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-north-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-north-ms-2027-02-20-musical-public-performance"
+  },
+  {
    "id": "2027-02-20-dynamo-vs-sporting-kansas-city",
    "category": "dynamo",
    "title": "Houston Dynamo FC vs. Sporting Kansas City",
@@ -3518,6 +6512,44 @@
    "tag": "Away",
    "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
    "startTime": "14:00"
+  },
+  {
+   "title": "HS & MS Full Orchestra UIL",
+   "startDate": "2027-02-23",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2027-02-23-hs-ms-full-orchestra-uil"
+  },
+  {
+   "title": "Panoramic Pictures",
+   "startDate": "2027-02-23",
+   "location": "Boerne Middle School North",
+   "sourceURL": "https://bmsn.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-north-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-north-ms-2027-02-23-panoramic-pictures"
+  },
+  {
+   "title": "BMSN Pre UIL Choir Concert",
+   "startDate": "2027-02-23",
+   "startTime": "18:00",
+   "endTime": "19:00",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2027-02-23-bmsn-pre-uil-choir-concert"
   },
   {
    "id": "2027-02-24-horns-bb-at-mississippi-state",
@@ -3788,6 +6820,17 @@
    "tag": "Home",
    "tv": "ESPN",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "id": "2027-03-06-power-of-the-past",
+   "category": "fest",
+   "title": "Power Of The Past",
+   "startDate": "2027-03-06",
+   "startTime": "10:00",
+   "endTime": "16:00",
+   "location": "The AgriCultural Museum and Arts Center @ 102 City Park Road, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/PowerPastCarSquarePhotoSM_KWZ4.jpg' /></div><p><span class='x193iq5w xeuugli x13faqbe x1vvkb…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/power-of-the-past?instance_id=20270306100000"
   },
   {
    "id": "2027-03-06-horns-bb-at-texas-a-m",
@@ -4107,17 +7150,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "2027-03-19-mavs-at-spurs",
-   "category": "mavs",
-   "title": "Mavericks at Spurs",
-   "startDate": "2027-03-19",
-   "startTime": "19:00",
-   "location": "San Antonio",
-   "tag": "Away",
-   "tv": "NBA TV",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
-  },
-  {
    "id": "2027-03-19-rockets-at-pelicans",
    "category": "rockets",
    "title": "Rockets at Pelicans",
@@ -4127,6 +7159,17 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "id": "2027-03-19-mavs-at-spurs",
+   "category": "mavs",
+   "title": "Mavericks at Spurs",
+   "startDate": "2027-03-19",
+   "startTime": "19:00",
+   "location": "San Antonio",
+   "tag": "Away",
+   "tv": "NBA TV",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
   },
   {
    "id": "2027-03-20-music-in-the-cave-spring-equinox",
@@ -4598,6 +7641,17 @@
    "tv": "DAZN"
   },
   {
+   "id": "2027-04-03-spring-antique-tractor-pull",
+   "category": "market",
+   "title": "Spring Antique Tractor Pull",
+   "startDate": "2027-04-03",
+   "startTime": "10:00",
+   "endTime": "16:00",
+   "location": "The AgriCultural Museum and Arts Center @ 102 City Park Road, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/victoriapullingsquare_tzEn.jpg' /></div><p>Come watch antique tractors compete to pull the h…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/spring-antique-tractor-pull?instance_id=20270403100000"
+  },
+  {
    "id": "2027-04-03-rangers-vs-athletics",
    "category": "rangers",
    "title": "Rangers vs. Athletics",
@@ -4983,17 +8037,6 @@
    "tv": "DAZN"
   },
   {
-   "id": "2027-04-11-mavs-vs-grizzlies",
-   "category": "mavs",
-   "title": "Mavericks vs. Grizzlies",
-   "startDate": "2027-04-11",
-   "startTime": "19:30",
-   "location": "American Airlines Center, Dallas",
-   "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
-   "tv": "MavsTV+ or League Pass"
-  },
-  {
    "id": "2027-04-11-rockets-at-timberwolves",
    "category": "rockets",
    "title": "Rockets at Timberwolves",
@@ -5003,6 +8046,17 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "id": "2027-04-11-mavs-vs-grizzlies",
+   "category": "mavs",
+   "title": "Mavericks vs. Grizzlies",
+   "startDate": "2027-04-11",
+   "startTime": "19:30",
+   "location": "American Airlines Center, Dallas",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-04-13-rangers-at-reds",
@@ -5209,15 +8263,6 @@
    "startTime": "20:38"
   },
   {
-   "id": "2027-04-21-astros-at-angels",
-   "category": "astros",
-   "title": "Astros at Angels",
-   "startDate": "2027-04-21",
-   "location": "Angel Stadium, Anaheim",
-   "tag": "Away",
-   "sourceURL": "https://www.mlb.com/astros/schedule"
-  },
-  {
    "id": "2027-04-21-rangers-vs-mariners",
    "category": "rangers",
    "title": "Rangers vs. Mariners",
@@ -5248,6 +8293,16 @@
    "tag": "Away",
    "tv": "Apple TV",
    "sourceURL": "https://www.fcdallas.com/news/fc-dallas-announces-2027-mls-sprint-season-schedule"
+  },
+  {
+   "id": "2027-04-21-astros-at-angels",
+   "category": "astros",
+   "title": "Astros at Angels",
+   "startDate": "2027-04-21",
+   "location": "Angel Stadium, Anaheim",
+   "tag": "Away",
+   "sourceURL": "https://www.mlb.com/astros/schedule",
+   "startTime": "20:38"
   },
   {
    "id": "2027-04-23-rangers-at-mets",
@@ -5467,7 +8522,120 @@
    "sourceURL": "https://theboernelife.com/things-to-do-in-boerne-this-week/"
   }
  ],
- "notices": [],
+ "notices": [
+  {
+   "id": "boerne-pet-49781799",
+   "kind": "pets",
+   "title": "Adoptable: Jacques, 2-year-old miniature pinscher/chihuahua",
+   "detail": "Male dog available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
+   "level": "info",
+   "url": "https://www.adoptapet.com/pet/49781799-boerne-texas-miniature-pinscher-chihuahua-mix",
+   "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
+   "until": "2026-11-26",
+   "asOf": "2026-11-25",
+   "collector": "civic"
+  },
+  {
+   "id": "boerne-pet-49967396",
+   "kind": "pets",
+   "title": "Adoptable: Freddy, American Staffordshire Terrier/Labrador…",
+   "detail": "Male dog available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
+   "level": "info",
+   "url": "https://www.adoptapet.com/pet/49967396-boerne-texas-american-staffordshire-terrier-labrador-retriever-mix",
+   "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
+   "until": "2026-11-26",
+   "asOf": "2026-11-25",
+   "collector": "civic"
+  },
+  {
+   "id": "boerne-pet-50029178",
+   "kind": "pets",
+   "title": "Adoptable: Caramel, adult poodle (toy or tea cup)",
+   "detail": "Female dog available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
+   "level": "info",
+   "url": "https://www.adoptapet.com/pet/50029178-boerne-texas-poodle-toy-or-tea-cup-mix",
+   "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
+   "until": "2026-11-26",
+   "asOf": "2026-11-25",
+   "collector": "civic"
+  },
+  {
+   "id": "boerne-opening-iron-star-excavation-clearing-2026-12-01",
+   "kind": "opening",
+   "title": "Ribbon cutting: Iron Star Excavation & Clearing",
+   "detail": "Greater Boerne Chamber ribbon cutting Tue Dec 1 at 11:30 AM, 121 S Main St, Boerne.",
+   "level": "info",
+   "url": "https://business.boerne.org/events/details/ribbon-cutting-for-iron-star-excavation-clearing-35923",
+   "source": "Greater Boerne Chamber of Commerce",
+   "until": "2026-12-01",
+   "asOf": "2026-11-25",
+   "collector": "civic"
+  },
+  {
+   "id": "boerne-opening-trophy-properties-2026-12-03",
+   "kind": "opening",
+   "title": "Ribbon cutting: Trophy Properties",
+   "detail": "Greater Boerne Chamber ribbon cutting Thu Dec 3 at 11:30 AM, 214 S Plant Ave, Boerne.",
+   "level": "info",
+   "url": "https://business.boerne.org/events/details/ribbon-cutting-for-trophy-properties-35924",
+   "source": "Greater Boerne Chamber of Commerce",
+   "until": "2026-12-03",
+   "asOf": "2026-11-25",
+   "collector": "civic"
+  },
+  {
+   "id": "boerne-school-boerne-isd-planned-2026-11-25",
+   "kind": "school",
+   "title": "No school Nov 25 to 27 (Boerne ISD)",
+   "detail": "Boerne ISD calendar: no school Nov 25 to 27. (Thanksgiving Break)",
+   "level": "info",
+   "url": "https://www.boerneisd.net/",
+   "source": "Boerne ISD",
+   "asOf": "2026-11-25",
+   "until": "2026-11-27",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "collector": "schools_trash"
+  },
+  {
+   "id": "boerne-trash-news-holiday-trash-and-recycling-schedule-for-boerne-wm",
+   "kind": "trash",
+   "title": "Holiday trash and recycling schedule for Boerne WM customers",
+   "detail": "Collections will be delayed by one day for Thanksgiving, Christmas, and New Year’s Day.",
+   "level": "info",
+   "url": "https://myboernenews.com/holiday-trash-and-recycling-schedule-for-boerne-wm-customers/",
+   "source": "City of Boerne",
+   "asOf": "2026-11-25",
+   "until": "2026-12-03",
+   "collector": "schools_trash"
+  },
+  {
+   "id": "boerne-water-stage",
+   "kind": "water",
+   "title": "Boerne Stage 2 watering rules",
+   "detail": "Sprinklers one day a week by address (0-1 Mon, 2-3 Tue, 4-5 Wed, 6-7 Thu, 8-9 Fri), 7am-11am or 7pm-11pm; no weekends; hand watering any time. In effect since August 7, 2023.",
+   "level": "warn",
+   "url": "https://www.ci.boerne.tx.us/1947/Water-Restrictions",
+   "source": "City of Boerne (Boerne Utilities)",
+   "asOf": "2026-11-25",
+   "waterDays": {
+    "0": "Monday",
+    "1": "Monday",
+    "2": "Tuesday",
+    "3": "Tuesday",
+    "4": "Wednesday",
+    "5": "Wednesday",
+    "6": "Thursday",
+    "7": "Thursday",
+    "8": "Friday",
+    "9": "Friday"
+   },
+   "waterHours": "7am-11am or 7pm-11pm",
+   "collector": "utilities"
+  }
+ ],
  "offers": [
   {
    "id": "sample-cafe-dickens",
