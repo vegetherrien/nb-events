@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "timeZone": "America/Chicago",
  "title": "Boerne Event Calendar",
  "city": {
@@ -577,20 +577,6 @@
    "sourceURL": "https://theboernelife.com/events/turkey-camp-at-gina-maries-art-studio/2026-11-23/"
   },
   {
-   "title": "Thanksgiving Break",
-   "startDate": "2026-11-25",
-   "startTime": "08:00",
-   "endTime": "17:00",
-   "location": "All campuses",
-   "sourceURL": "https://www.boerneisd.net/",
-   "category": "school",
-   "tags": [
-    "district:boerne-isd"
-   ],
-   "audience": "local",
-   "id": "sch-boerne-isd-2026-11-25-thanksgiving-break"
-  },
-  {
    "id": "2026-11-25-kids-thanksgiving-craft-morning-at-girls-night-in",
    "category": "market",
    "title": "Kids Thanksgiving Craft Morning at Girls Night In",
@@ -600,28 +586,6 @@
    "location": "Girls Night In, 170 S Main St, Suite 202",
    "description": "Children ages 7 and up can enjoy two hours of hands-on crafting and take home their own creations. All supplies are included. The workshop takes place Wednesday, November 25, 2026, from 9 am to 11 am at Girls Night In…",
    "sourceURL": "https://theboernelife.com/events/kids-thanksgiving-craft-morning-at-girls-night-in/"
-  },
-  {
-   "id": "2026-11-25-rockets-vs-suns",
-   "category": "rockets",
-   "title": "Rockets vs. Suns",
-   "startDate": "2026-11-25",
-   "startTime": "19:30",
-   "location": "Toyota Center, Houston",
-   "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
-   "tv": "Space City Home Network"
-  },
-  {
-   "id": "2026-11-25-spurs-at-trail-blazers",
-   "category": "spurs",
-   "title": "Spurs at Trail Blazers",
-   "startDate": "2026-11-25",
-   "startTime": "21:00",
-   "location": "Moda Center at the Rose Quarter, Portland",
-   "tag": "Away",
-   "tv": "ESPN",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2026-11-26-6th-annual-bulverde-turkey-trot-at-bulverde-community-park",
@@ -2115,6 +2079,16 @@
    "id": "sch-champion-hs-2026-12-08-champion-girls-basketball-at-seguin"
   },
   {
+   "id": "2026-12-08-utsa-bb-at-smu",
+   "category": "utsa-bb",
+   "title": "UTSA at SMU",
+   "startDate": "2026-12-08",
+   "location": "Dallas, Texas",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
+  },
+  {
    "title": "Charger Band Concert #2-Concert Bands",
    "startDate": "2026-12-08",
    "startTime": "19:00",
@@ -2138,16 +2112,6 @@
    "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
    "startTime": "19:00",
    "tv": "SEC Network+"
-  },
-  {
-   "id": "2026-12-08-utsa-bb-at-smu",
-   "category": "utsa-bb",
-   "title": "UTSA at SMU",
-   "startDate": "2026-12-08",
-   "location": "Dallas, Texas",
-   "tag": "Away",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "19:00"
   },
   {
    "title": "Champion boys basketball at Sam Houston",
@@ -2914,6 +2878,16 @@
    "id": "sch-boerne-ms-north-ms-2026-12-15-choir-concert"
   },
   {
+   "id": "2026-12-15-utsa-bb-vs-our-lady-of-the-lake",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Our Lady of the Lake",
+   "startDate": "2026-12-15",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "18:30"
+  },
+  {
    "title": "Boerne girls basketball vs. Harlandale",
    "startDate": "2026-12-15",
    "tag": "Home",
@@ -2940,16 +2914,6 @@
    ],
    "audience": "local",
    "id": "sch-champion-hs-2026-12-15-champion-girls-basketball-vs-john-jay"
-  },
-  {
-   "id": "2026-12-15-utsa-bb-vs-our-lady-of-the-lake",
-   "category": "utsa-bb",
-   "title": "UTSA vs. Our Lady of the Lake",
-   "startDate": "2026-12-15",
-   "location": "Convocation Center, San Antonio",
-   "tag": "Home",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "18:30"
   },
   {
    "title": "Boerne girls soccer at Davenport",
@@ -3077,6 +3041,17 @@
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "id": "2026-12-16-dobb-s-annual-ugly-sweater",
+   "category": "fest",
+   "title": "Dobb's Annual Ugly Sweater",
+   "startDate": "2026-12-16",
+   "startTime": "20:00",
+   "endTime": "23:59",
+   "location": "Salvador Dobbs @ 512 River Road, Boerne",
+   "description": "<div class='ai1ec-event-avatar alignleft timely'><img src='https://timelyapp-prod.s3.us-west-2.amazonaws.com/images/54730033/Ugly%20Christmas%20Sweater_Dd9n.png' /></div><p>It’s that time again—dust off that festive f…",
+   "sourceURL": "https://events.timely.fun/e6hnx1k2/event/dobbs-annual-ugly-sweater-karaoke-2?instance_id=20261216200000"
   },
   {
    "id": "2026-12-16-horns-bb-vs-memphis",
@@ -3505,6 +3480,16 @@
    "tv": "DAZN"
   },
   {
+   "id": "2026-12-22-utsa-bb-vs-huston-tillotson",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Huston-Tillotson",
+   "startDate": "2026-12-22",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "12:00"
+  },
+  {
    "title": "Boerne girls basketball vs. South San",
    "startDate": "2026-12-22",
    "tag": "Home",
@@ -3517,16 +3502,6 @@
    ],
    "audience": "local",
    "id": "sch-boerne-hs-2026-12-22-boerne-girls-basketball-vs-south-san"
-  },
-  {
-   "id": "2026-12-22-utsa-bb-vs-huston-tillotson",
-   "category": "utsa-bb",
-   "title": "UTSA vs. Huston-Tillotson",
-   "startDate": "2026-12-22",
-   "location": "Convocation Center, San Antonio",
-   "tag": "Home",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "12:00"
   },
   {
    "title": "Boerne boys basketball at South San",
@@ -3806,6 +3781,16 @@
    "id": "sch-champion-hs-2026-12-29-champion-girls-basketball-vs-boerne-isd-holiday-tourn"
   },
   {
+   "id": "2026-12-29-utsa-bb-at-minnesota",
+   "category": "utsa-bb",
+   "title": "UTSA at Minnesota",
+   "startDate": "2026-12-29",
+   "location": "Minneapolis, Minn.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
+  },
+  {
    "id": "2026-12-29-horns-bb-vs-east-texas-a-m",
    "category": "horns-bb",
    "title": "Texas vs. East Texas A&M",
@@ -3815,16 +3800,6 @@
    "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
    "startTime": "19:00",
    "tv": "SEC Network+"
-  },
-  {
-   "id": "2026-12-29-utsa-bb-at-minnesota",
-   "category": "utsa-bb",
-   "title": "UTSA at Minnesota",
-   "startDate": "2026-12-29",
-   "location": "Minneapolis, Minn.",
-   "tag": "Away",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "19:00"
   },
   {
    "id": "2026-12-29-spurs-at-grizzlies",
@@ -4003,17 +3978,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "2027-01-01-rockets-vs-mavericks",
-   "category": "rockets",
-   "title": "Rockets vs. Mavericks",
-   "startDate": "2027-01-01",
-   "startTime": "19:30",
-   "location": "Toyota Center, Houston",
-   "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
-   "tv": "Space City Home Network"
-  },
-  {
    "id": "2027-01-01-mavs-at-rockets",
    "category": "mavs",
    "title": "Mavericks at Rockets",
@@ -4023,6 +3987,17 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
    "tv": "MavsTV+ or League Pass"
+  },
+  {
+   "id": "2027-01-01-rockets-vs-mavericks",
+   "category": "rockets",
+   "title": "Rockets vs. Mavericks",
+   "startDate": "2027-01-01",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "title": "Boerne girls soccer at Northside Isd Tournament",
@@ -4038,6 +4013,16 @@
    "id": "sch-boerne-hs-2027-01-02-boerne-girls-soccer-at-northside-isd-tournament"
   },
   {
+   "id": "2027-01-02-utsa-bb-at-temple",
+   "category": "utsa-bb",
+   "title": "UTSA at Temple",
+   "startDate": "2027-01-02",
+   "location": "Philadelphia, Pa.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "13:00"
+  },
+  {
    "title": "Champion boys basketball vs. South San",
    "startDate": "2027-01-02",
    "tag": "Home",
@@ -4050,16 +4035,6 @@
    ],
    "audience": "local",
    "id": "sch-champion-hs-2027-01-02-champion-boys-basketball-vs-south-san"
-  },
-  {
-   "id": "2027-01-02-utsa-bb-at-temple",
-   "category": "utsa-bb",
-   "title": "UTSA at Temple",
-   "startDate": "2027-01-02",
-   "location": "Philadelphia, Pa.",
-   "tag": "Away",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "13:00"
   },
   {
    "title": "Boerne boys basketball vs. Mccollum",
@@ -5778,17 +5753,6 @@
    "startTime": "13:00"
   },
   {
-   "id": "2027-01-31-rockets-at-mavericks",
-   "category": "rockets",
-   "title": "Rockets at Mavericks",
-   "startDate": "2027-01-31",
-   "startTime": "19:30",
-   "location": "Dallas",
-   "tag": "Away",
-   "tv": "NBC",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
-  },
-  {
    "id": "2027-01-31-mavs-vs-rockets",
    "category": "mavs",
    "title": "Mavericks vs. Rockets",
@@ -5798,6 +5762,17 @@
    "tag": "Home",
    "tv": "NBC",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-01-31-rockets-at-mavericks",
+   "category": "rockets",
+   "title": "Rockets at Mavericks",
+   "startDate": "2027-01-31",
+   "startTime": "19:30",
+   "location": "Dallas",
+   "tag": "Away",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "id": "2027-02-01-spurs-at-warriors",
@@ -6552,6 +6527,30 @@
    "id": "sch-boerne-isd-2027-02-23-bmsn-pre-uil-choir-concert"
   },
   {
+   "title": "Spring Picture Day",
+   "startDate": "2027-02-24",
+   "location": "Boerne Middle School North",
+   "sourceURL": "https://bmsn.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-north-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-north-ms-2027-02-24-spring-picture-day"
+  },
+  {
+   "title": "Panoramic Pictures Sales (During all lunches)",
+   "startDate": "2027-02-24",
+   "location": "Boerne Middle School North",
+   "sourceURL": "https://bmsn.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-north-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-north-ms-2027-02-24-panoramic-pictures-sales-during-all-lunches"
+  },
+  {
    "id": "2027-02-24-horns-bb-at-mississippi-state",
    "category": "horns-bb",
    "title": "Texas at Mississippi State",
@@ -7150,17 +7149,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "2027-03-19-rockets-at-pelicans",
-   "category": "rockets",
-   "title": "Rockets at Pelicans",
-   "startDate": "2027-03-19",
-   "startTime": "19:00",
-   "location": "New Orleans",
-   "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
-   "tv": "Space City Home Network"
-  },
-  {
    "id": "2027-03-19-mavs-at-spurs",
    "category": "mavs",
    "title": "Mavericks at Spurs",
@@ -7170,6 +7158,17 @@
    "tag": "Away",
    "tv": "NBA TV",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-19-rockets-at-pelicans",
+   "category": "rockets",
+   "title": "Rockets at Pelicans",
+   "startDate": "2027-03-19",
+   "startTime": "19:00",
+   "location": "New Orleans",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-03-20-music-in-the-cave-spring-equinox",
@@ -8037,17 +8036,6 @@
    "tv": "DAZN"
   },
   {
-   "id": "2027-04-11-rockets-at-timberwolves",
-   "category": "rockets",
-   "title": "Rockets at Timberwolves",
-   "startDate": "2027-04-11",
-   "startTime": "19:30",
-   "location": "Minneapolis",
-   "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
-   "tv": "Space City Home Network"
-  },
-  {
    "id": "2027-04-11-mavs-vs-grizzlies",
    "category": "mavs",
    "title": "Mavericks vs. Grizzlies",
@@ -8057,6 +8045,17 @@
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
    "tv": "MavsTV+ or League Pass"
+  },
+  {
+   "id": "2027-04-11-rockets-at-timberwolves",
+   "category": "rockets",
+   "title": "Rockets at Timberwolves",
+   "startDate": "2027-04-11",
+   "startTime": "19:30",
+   "location": "Minneapolis",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-04-13-rangers-at-reds",
@@ -8524,39 +8523,51 @@
  ],
  "notices": [
   {
-   "id": "boerne-pet-49781799",
-   "kind": "pets",
-   "title": "Adoptable: Jacques, 2-year-old miniature pinscher/chihuahua",
-   "detail": "Male dog available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
+   "id": "boerne-road-dickens-on-main-road-closures--2026-11-26",
+   "kind": "road",
+   "title": "Street closure Thu Nov 26: Dickens on Main Road Closures…",
+   "detail": "Thu Nov 26: Home Alert Center Alert ◄ Back November 26, 2026 8:00 AM Dickens on Main Road Closures and Parking Dickens on Main is scheduled for Friday, November 27 and Saturday, November 28.",
    "level": "info",
-   "url": "https://www.adoptapet.com/pet/49781799-boerne-texas-miniature-pinscher-chihuahua-mix",
-   "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
+   "url": "https://www.ci.boerne.tx.us/AlertCenter.aspx?AID=55",
+   "source": "City of Boerne",
    "until": "2026-11-26",
-   "asOf": "2026-11-25",
+   "asOf": "2026-11-26",
    "collector": "civic"
   },
   {
-   "id": "boerne-pet-49967396",
+   "id": "boerne-pet-50066971",
    "kind": "pets",
-   "title": "Adoptable: Freddy, American Staffordshire Terrier/Labrador…",
-   "detail": "Male dog available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
+   "title": "Adoptable: Megatron, 1-month-old Domestic Shorthair",
+   "detail": "Male cat available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
    "level": "info",
-   "url": "https://www.adoptapet.com/pet/49967396-boerne-texas-american-staffordshire-terrier-labrador-retriever-mix",
+   "url": "https://www.adoptapet.com/pet/50066971-boerne-texas-cat",
    "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
-   "until": "2026-11-26",
-   "asOf": "2026-11-25",
+   "until": "2026-11-27",
+   "asOf": "2026-11-26",
    "collector": "civic"
   },
   {
-   "id": "boerne-pet-50029178",
+   "id": "boerne-pet-50068802",
    "kind": "pets",
-   "title": "Adoptable: Caramel, adult poodle (toy or tea cup)",
-   "detail": "Female dog available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
+   "title": "Adoptable: Bumblebee, 1-month-old Domestic Shorthair",
+   "detail": "Male cat available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
    "level": "info",
-   "url": "https://www.adoptapet.com/pet/50029178-boerne-texas-poodle-toy-or-tea-cup-mix",
+   "url": "https://www.adoptapet.com/pet/50068802-boerne-texas-cat",
    "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
-   "until": "2026-11-26",
-   "asOf": "2026-11-25",
+   "until": "2026-11-27",
+   "asOf": "2026-11-26",
+   "collector": "civic"
+  },
+  {
+   "id": "boerne-pet-50081266",
+   "kind": "pets",
+   "title": "Adoptable: Jewel, 4-month-old Domestic Shorthair",
+   "detail": "Female cat available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
+   "level": "info",
+   "url": "https://www.adoptapet.com/pet/50081266-boerne-texas-cat",
+   "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
+   "until": "2026-11-27",
+   "asOf": "2026-11-26",
    "collector": "civic"
   },
   {
@@ -8568,7 +8579,7 @@
    "url": "https://business.boerne.org/events/details/ribbon-cutting-for-iron-star-excavation-clearing-35923",
    "source": "Greater Boerne Chamber of Commerce",
    "until": "2026-12-01",
-   "asOf": "2026-11-25",
+   "asOf": "2026-11-26",
    "collector": "civic"
   },
   {
@@ -8580,18 +8591,18 @@
    "url": "https://business.boerne.org/events/details/ribbon-cutting-for-trophy-properties-35924",
    "source": "Greater Boerne Chamber of Commerce",
    "until": "2026-12-03",
-   "asOf": "2026-11-25",
+   "asOf": "2026-11-26",
    "collector": "civic"
   },
   {
-   "id": "boerne-school-boerne-isd-planned-2026-11-25",
+   "id": "boerne-school-boerne-isd-planned-2026-11-26",
    "kind": "school",
-   "title": "No school Nov 25 to 27 (Boerne ISD)",
-   "detail": "Boerne ISD calendar: no school Nov 25 to 27. (Thanksgiving Break)",
+   "title": "No school Nov 26 to 27 (Boerne ISD)",
+   "detail": "Boerne ISD calendar: no school Nov 26 to 27. (Thanksgiving Break)",
    "level": "info",
    "url": "https://www.boerneisd.net/",
    "source": "Boerne ISD",
-   "asOf": "2026-11-25",
+   "asOf": "2026-11-26",
    "until": "2026-11-27",
    "tags": [
     "district:boerne-isd"
@@ -8607,7 +8618,7 @@
    "level": "info",
    "url": "https://myboernenews.com/holiday-trash-and-recycling-schedule-for-boerne-wm-customers/",
    "source": "City of Boerne",
-   "asOf": "2026-11-25",
+   "asOf": "2026-11-26",
    "until": "2026-12-03",
    "collector": "schools_trash"
   },
@@ -8615,24 +8626,11 @@
    "id": "boerne-water-stage",
    "kind": "water",
    "title": "Boerne Stage 2 watering rules",
-   "detail": "Sprinklers one day a week by address (0-1 Mon, 2-3 Tue, 4-5 Wed, 6-7 Thu, 8-9 Fri), 7am-11am or 7pm-11pm; no weekends; hand watering any time. In effect since August 7, 2023.",
+   "detail": "Boerne Utilities customers are in Stage 2 water restrictions. See the city's page for your watering day and hours.",
    "level": "warn",
    "url": "https://www.ci.boerne.tx.us/1947/Water-Restrictions",
    "source": "City of Boerne (Boerne Utilities)",
-   "asOf": "2026-11-25",
-   "waterDays": {
-    "0": "Monday",
-    "1": "Monday",
-    "2": "Tuesday",
-    "3": "Tuesday",
-    "4": "Wednesday",
-    "5": "Wednesday",
-    "6": "Thursday",
-    "7": "Thursday",
-    "8": "Friday",
-    "9": "Friday"
-   },
-   "waterHours": "7am-11am or 7pm-11pm",
+   "asOf": "2026-11-26",
    "collector": "utilities"
   }
  ],
