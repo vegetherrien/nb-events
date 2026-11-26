@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "timeZone": "America/Chicago",
  "title": "Corinth Event Calendar",
  "city": {
@@ -389,7 +389,8 @@
   },
   {
    "title": "Thanksgiving Break",
-   "startDate": "2026-11-25",
+   "startDate": "2026-11-26",
+   "endDate": "2026-11-27",
    "location": "All campuses",
    "sourceURL": "https://guyerhs.dentonisd.org/",
    "category": "school",
@@ -397,11 +398,11 @@
     "district:denton-isd"
    ],
    "audience": "local",
-   "id": "sch-denton-isd-2026-11-25-thanksgiving-break"
+   "id": "sch-denton-isd-2026-11-26-thanksgiving-break"
   },
   {
    "title": "Thanksgiving Holiday Break",
-   "startDate": "2026-11-25",
+   "startDate": "2026-11-26",
    "location": "McNair Elementary",
    "sourceURL": "https://mcnaires.dentonisd.org/",
    "category": "school",
@@ -409,29 +410,7 @@
     "school:mcnair-es"
    ],
    "audience": "local",
-   "id": "sch-mcnair-es-2026-11-25-thanksgiving-holiday-break"
-  },
-  {
-   "id": "2026-11-25-rockets-vs-suns",
-   "category": "rockets",
-   "title": "Rockets vs. Suns",
-   "startDate": "2026-11-25",
-   "startTime": "19:30",
-   "location": "Toyota Center, Houston",
-   "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
-   "tv": "Space City Home Network"
-  },
-  {
-   "id": "2026-11-25-spurs-at-trail-blazers",
-   "category": "spurs",
-   "title": "Spurs at Trail Blazers",
-   "startDate": "2026-11-25",
-   "startTime": "21:00",
-   "location": "Moda Center at the Rose Quarter, Portland",
-   "tag": "Away",
-   "tv": "ESPN",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+   "id": "sch-mcnair-es-2026-11-26-thanksgiving-holiday-break"
   },
   {
    "id": "2026-11-26-horns-bb-vs-georgetown",
@@ -443,17 +422,6 @@
    "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
    "startTime": "13:30",
    "tv": "FS1"
-  },
-  {
-   "id": "2026-11-26-cowboys-vs-eagles",
-   "category": "cowboys",
-   "title": "Cowboys vs. Eagles",
-   "startDate": "2026-11-26",
-   "location": "AT&T Stadium, Arlington",
-   "tag": "Home",
-   "sourceURL": "https://www.dallascowboys.com/schedule/",
-   "startTime": "15:30",
-   "tv": "FOX"
   },
   {
    "id": "2026-11-27-germany-s-great-bavarian-circus",
@@ -482,18 +450,6 @@
    "location": "Bearded Monk, 122 E. McKinney St., Denton",
    "description": "It’s Black Friday and we’re inviting you to our community dinner! We’ll order some brisket and turkey to set the QUEERSgiving Table. Comment on the Facebook event (link below) with the dish you want to share with ever…",
    "sourceURL": "https://www.discoverdenton.com/event/queersgiving-community-potluck/12521/"
-  },
-  {
-   "title": "Thanksgiving Break",
-   "startDate": "2026-11-27",
-   "location": "Guyer High School",
-   "sourceURL": "https://guyerhs.dentonisd.org/",
-   "category": "school",
-   "tags": [
-    "school:guyer-hs"
-   ],
-   "audience": "local",
-   "id": "sch-guyer-hs-2026-11-27-thanksgiving-break"
   },
   {
    "id": "2026-11-27-meangreen-bb-vs-north-dakota-state",
@@ -1575,6 +1531,20 @@
    "featured": true
   },
   {
+   "title": "Jingle Bell Jog",
+   "startDate": "2026-12-12",
+   "startTime": "09:00",
+   "endTime": "11:00",
+   "location": "Nelson Elementary",
+   "sourceURL": "https://nelsones.dentonisd.org/",
+   "category": "school",
+   "tags": [
+    "school:nelson-es"
+   ],
+   "audience": "local",
+   "id": "sch-nelson-es-2026-12-12-jingle-bell-jog"
+  },
+  {
    "id": "2026-12-12-horns-bb-vs-miami-fla",
    "category": "horns-bb",
    "title": "Texas vs. Miami (Fla.)",
@@ -2159,26 +2129,14 @@
   {
    "title": "Winter Break",
    "startDate": "2026-12-21",
-   "location": "Crownover Middle School",
-   "sourceURL": "https://crownoverms.dentonisd.org/",
+   "location": "All campuses",
+   "sourceURL": "https://guyerhs.dentonisd.org/",
    "category": "school",
    "tags": [
-    "school:crownover-ms"
+    "district:denton-isd"
    ],
    "audience": "local",
-   "id": "sch-crownover-ms-2026-12-21-winter-break"
-  },
-  {
-   "title": "Winter Break",
-   "startDate": "2026-12-21",
-   "location": "Hawk Elementary",
-   "sourceURL": "https://hawkes.dentonisd.org/",
-   "category": "school",
-   "tags": [
-    "school:hawk-es"
-   ],
-   "audience": "local",
-   "id": "sch-hawk-es-2026-12-21-winter-break"
+   "id": "sch-denton-isd-2026-12-21-winter-break"
   },
   {
    "id": "2026-12-21-horns-bb-vs-prairie-view-a-m",
@@ -2579,17 +2537,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "2027-01-01-rockets-vs-mavericks",
-   "category": "rockets",
-   "title": "Rockets vs. Mavericks",
-   "startDate": "2027-01-01",
-   "startTime": "19:30",
-   "location": "Toyota Center, Houston",
-   "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
-   "tv": "Space City Home Network"
-  },
-  {
    "id": "2027-01-01-mavs-at-rockets",
    "category": "mavs",
    "title": "Mavericks at Rockets",
@@ -2599,6 +2546,17 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
    "tv": "KFAA 29 or MavsTV+"
+  },
+  {
+   "id": "2027-01-01-rockets-vs-mavericks",
+   "category": "rockets",
+   "title": "Rockets vs. Mavericks",
+   "startDate": "2027-01-01",
+   "startTime": "19:30",
+   "location": "Toyota Center, Houston",
+   "tag": "Home",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "title": "Winter Break",
@@ -3830,6 +3788,34 @@
    "id": "sch-lake-dallas-hs-2027-01-25-ldhs-marching-madness"
   },
   {
+   "title": "Lake Dallas boys soccer at Aubrey",
+   "startDate": "2027-01-25",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Aubrey High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
+   "startTime": "18:00",
+   "tags": [
+    "school:lake-dallas-hs"
+   ],
+   "audience": "local",
+   "id": "sch-lake-dallas-hs-2027-01-25-lake-dallas-boys-soccer-at-aubrey"
+  },
+  {
+   "title": "Lake Dallas girls soccer vs. Aubrey",
+   "startDate": "2027-01-25",
+   "tag": "Home",
+   "category": "hs-soccer",
+   "location": "LDHS Falcon Stadium",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
+   "startTime": "18:00",
+   "tags": [
+    "school:lake-dallas-hs"
+   ],
+   "audience": "local",
+   "id": "sch-lake-dallas-hs-2027-01-25-lake-dallas-girls-soccer-vs-aubrey"
+  },
+  {
    "id": "2027-01-25-mavs-at-bulls",
    "category": "mavs",
    "title": "Mavericks at Bulls",
@@ -4031,17 +4017,6 @@
    "startTime": "15:00"
   },
   {
-   "id": "2027-01-31-rockets-at-mavericks",
-   "category": "rockets",
-   "title": "Rockets at Mavericks",
-   "startDate": "2027-01-31",
-   "startTime": "19:30",
-   "location": "Dallas",
-   "tag": "Away",
-   "tv": "NBC",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
-  },
-  {
    "id": "2027-01-31-mavs-vs-rockets",
    "category": "mavs",
    "title": "Mavericks vs. Rockets",
@@ -4051,6 +4026,17 @@
    "tag": "Home",
    "tv": "NBC",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-01-31-rockets-at-mavericks",
+   "category": "rockets",
+   "title": "Rockets at Mavericks",
+   "startDate": "2027-01-31",
+   "startTime": "19:30",
+   "location": "Dallas",
+   "tag": "Away",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "id": "2027-02-01-spurs-at-warriors",
@@ -5358,17 +5344,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "2027-03-19-rockets-at-pelicans",
-   "category": "rockets",
-   "title": "Rockets at Pelicans",
-   "startDate": "2027-03-19",
-   "startTime": "19:00",
-   "location": "New Orleans",
-   "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
-   "tv": "Space City Home Network"
-  },
-  {
    "id": "2027-03-19-mavs-at-spurs",
    "category": "mavs",
    "title": "Mavericks at Spurs",
@@ -5378,6 +5353,17 @@
    "tag": "Away",
    "tv": "NBA TV",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-19-rockets-at-pelicans",
+   "category": "rockets",
+   "title": "Rockets at Pelicans",
+   "startDate": "2027-03-19",
+   "startTime": "19:00",
+   "location": "New Orleans",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-03-20-egg-streme-easter-hunt",
@@ -6225,17 +6211,6 @@
    "tv": "DAZN"
   },
   {
-   "id": "2027-04-11-rockets-at-timberwolves",
-   "category": "rockets",
-   "title": "Rockets at Timberwolves",
-   "startDate": "2027-04-11",
-   "startTime": "19:30",
-   "location": "Minneapolis",
-   "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
-   "tv": "Space City Home Network"
-  },
-  {
    "id": "2027-04-11-mavs-vs-grizzlies",
    "category": "mavs",
    "title": "Mavericks vs. Grizzlies",
@@ -6245,6 +6220,17 @@
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
    "tv": "KFAA 29 or MavsTV+"
+  },
+  {
+   "id": "2027-04-11-rockets-at-timberwolves",
+   "category": "rockets",
+   "title": "Rockets at Timberwolves",
+   "startDate": "2027-04-11",
+   "startTime": "19:30",
+   "location": "Minneapolis",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-04-13-rangers-at-reds",
@@ -6695,81 +6681,17 @@
  ],
  "notices": [
   {
-   "id": "corinth-school-denton-isd-planned-2026-11-25",
+   "id": "corinth-school-denton-isd-planned-2026-11-26",
    "kind": "school",
-   "title": "No school Nov 25 (Denton ISD)",
-   "detail": "Denton ISD calendar: no school Nov 25. (Thanksgiving Break)",
+   "title": "No school Nov 26 to 27 (Denton ISD)",
+   "detail": "Denton ISD calendar: no school Nov 26 to 27. (Thanksgiving Break)",
    "level": "info",
    "url": "https://guyerhs.dentonisd.org/",
    "source": "Denton ISD",
-   "asOf": "2026-11-25",
-   "until": "2026-11-25",
+   "asOf": "2026-11-26",
+   "until": "2026-11-27",
    "tags": [
     "district:denton-isd"
-   ],
-   "audience": "local",
-   "collector": "schools_trash"
-  },
-  {
-   "id": "corinth-school-corinth-es-planned-2026-11-25",
-   "kind": "school",
-   "title": "No school Nov 25 to 27 (Corinth ES)",
-   "detail": "Corinth ES calendar: no school Nov 25 to 27. (District Closed- Fall Break)",
-   "level": "info",
-   "url": "https://ce.ldisd.net/",
-   "source": "Corinth ES campus calendar",
-   "asOf": "2026-11-25",
-   "until": "2026-11-27",
-   "tags": [
-    "school:corinth-es"
-   ],
-   "audience": "local",
-   "collector": "schools_trash"
-  },
-  {
-   "id": "corinth-school-guyer-hs-planned-2026-11-27",
-   "kind": "school",
-   "title": "No school Nov 27 (Guyer HS)",
-   "detail": "Guyer HS calendar: no school Nov 27. (Thanksgiving Break)",
-   "level": "info",
-   "url": "https://guyerhs.dentonisd.org/",
-   "source": "Guyer HS campus calendar",
-   "asOf": "2026-11-25",
-   "until": "2026-11-27",
-   "tags": [
-    "school:guyer-hs"
-   ],
-   "audience": "local",
-   "collector": "schools_trash"
-  },
-  {
-   "id": "corinth-school-lake-dallas-es-planned-2026-11-25",
-   "kind": "school",
-   "title": "No school Nov 25 to 27 (Lake Dallas ES)",
-   "detail": "Lake Dallas ES calendar: no school Nov 25 to 27. (LDE Student Holiday/No School)",
-   "level": "info",
-   "url": "https://lde.ldisd.net/",
-   "source": "Lake Dallas ES campus calendar",
-   "asOf": "2026-11-25",
-   "until": "2026-11-27",
-   "tags": [
-    "school:lake-dallas-es"
-   ],
-   "audience": "local",
-   "collector": "schools_trash"
-  },
-  {
-   "id": "corinth-school-lake-dallas-hs-planned-2026-11-25",
-   "kind": "school",
-   "title": "No school Nov 25 to 27 (Lake Dallas HS)",
-   "detail": "Lake Dallas HS calendar: no school Nov 25 to 27. (District Closed (Thanksgiving Break))",
-   "level": "info",
-   "url": "https://ldhs.ldisd.net/",
-   "source": "Lake Dallas HS campus calendar",
-   "asOf": "2026-11-25",
-   "until": "2026-11-27",
-   "tags": [
-    "school:lake-dallas-hs"
    ],
    "audience": "local",
    "collector": "schools_trash"
@@ -6782,7 +6704,7 @@
    "level": "info",
    "url": "https://www.corinthtx.gov/3258/Water-Conservation-and-Drought-Contingen",
    "source": "Upper Trinity Regional Water District",
-   "asOf": "2026-11-25",
+   "asOf": "2026-11-26",
    "collector": "utilities"
   }
  ],
