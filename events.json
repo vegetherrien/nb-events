@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "timeZone": "America/Chicago",
  "title": "New Braunfels Event Calendar",
  "city": {
@@ -1701,30 +1701,6 @@
    "sourceURL": "https://www.visitnbtx.com/events/new-braunfels-farmers-markets-holiday-market-2"
   },
   {
-   "title": "New Braunfels boys basketball at Canyon Lake CLHS Hawks",
-   "startDate": "2026-11-25",
-   "tag": "Away",
-   "category": "hs-basketball",
-   "location": "Canyon Lake HS",
-   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
-   "startTime": "11:30",
-   "tags": [
-    "school:new-braunfels-hs"
-   ],
-   "audience": "local",
-   "id": "sch-new-braunfels-hs-2026-11-25-new-braunfels-boys-basketball-at-canyon-lake-clh"
-  },
-  {
-   "id": "2026-11-25-txst-bb-vs-alcorn-state",
-   "category": "txst-bb",
-   "title": "Bobcats vs. Alcorn State",
-   "startDate": "2026-11-25",
-   "location": "Ruston, La.",
-   "tag": "Neutral site",
-   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
-   "startTime": "16:00"
-  },
-  {
    "id": "2026-11-25-21st-annual-sisoian-turkey-fry-drive",
    "category": "market",
    "title": "21st Annual Sisoian Turkey Fry & Drive",
@@ -1755,17 +1731,6 @@
    "sourceURL": "https://www.visitnbtx.com/events/lederhosen-junkies-30"
   },
   {
-   "id": "2026-11-25-rockets-vs-suns",
-   "category": "rockets",
-   "title": "Rockets vs. Suns",
-   "startDate": "2026-11-25",
-   "startTime": "19:30",
-   "location": "Toyota Center, Houston",
-   "tag": "Home",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
-   "tv": "Space City Home Network"
-  },
-  {
    "id": "2026-11-25-shinyribs",
    "category": "music",
    "title": "Shinyribs",
@@ -1774,17 +1739,6 @@
    "location": "Gruene Hall, 1281 Gruene Rd",
    "description": "Doors: 7pm Opener: Scott Strickland 8pm Shinyribs: 9pm",
    "sourceURL": "https://gruenehall.com/event/shinyribs-6/"
-  },
-  {
-   "id": "2026-11-25-spurs-at-trail-blazers",
-   "category": "spurs",
-   "title": "Spurs at Trail Blazers",
-   "startDate": "2026-11-25",
-   "startTime": "21:00",
-   "location": "Moda Center at the Rose Quarter, Portland",
-   "tag": "Away",
-   "tv": "ESPN",
-   "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
    "id": "2026-11-26-gruene-turkey-trot-5k-kids-turkey-chase",
@@ -2236,20 +2190,6 @@
    "tv": "MavsTV+ or League Pass"
   },
   {
-   "title": "SE First Grade Field to Magik Theater",
-   "startDate": "2026-12-01",
-   "startTime": "09:00",
-   "endTime": "14:00",
-   "location": "Seele Elementary",
-   "sourceURL": "https://nbisd.org/se/",
-   "category": "school",
-   "tags": [
-    "school:seele-es"
-   ],
-   "audience": "local",
-   "id": "sch-seele-es-2026-12-01-se-first-grade-field-to-magik-theater"
-  },
-  {
    "title": "3rd Grade Cemex Field Trip",
    "startDate": "2026-12-01",
    "startTime": "09:00",
@@ -2262,6 +2202,20 @@
    ],
    "audience": "local",
    "id": "sch-seele-es-2026-12-01-3rd-grade-cemex-field-trip"
+  },
+  {
+   "title": "SE First Grade Field to Magik Theater",
+   "startDate": "2026-12-01",
+   "startTime": "09:00",
+   "endTime": "14:00",
+   "location": "Seele Elementary",
+   "sourceURL": "https://nbisd.org/se/",
+   "category": "school",
+   "tags": [
+    "school:seele-es"
+   ],
+   "audience": "local",
+   "id": "sch-seele-es-2026-12-01-se-first-grade-field-to-magik-theater"
   },
   {
    "id": "2026-12-01-slim-bawb",
@@ -3592,6 +3546,16 @@
    "id": "sch-canyon-ms-2026-12-08-advanced-band-christmas-concert"
   },
   {
+   "id": "2026-12-08-utsa-bb-at-smu",
+   "category": "utsa-bb",
+   "title": "UTSA at SMU",
+   "startDate": "2026-12-08",
+   "location": "Dallas, Texas",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
+  },
+  {
    "title": "Canyon boys basketball vs. Carrizo Springs Wildcat Basketball",
    "startDate": "2026-12-08",
    "tag": "Home",
@@ -3639,16 +3603,6 @@
    "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
    "startTime": "19:00",
    "tv": "SEC Network+"
-  },
-  {
-   "id": "2026-12-08-utsa-bb-at-smu",
-   "category": "utsa-bb",
-   "title": "UTSA at SMU",
-   "startDate": "2026-12-08",
-   "location": "Dallas, Texas",
-   "tag": "Away",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "19:00"
   },
   {
    "title": "Davenport girls basketball at Liberal Arts and Science Academy…",
@@ -4644,6 +4598,16 @@
    "id": "sch-garden-ridge-es-2026-12-15-3rd-grade-performance-light-up-the-world"
   },
   {
+   "id": "2026-12-15-utsa-bb-vs-our-lady-of-the-lake",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Our Lady of the Lake",
+   "startDate": "2026-12-15",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "18:30"
+  },
+  {
    "title": "New Braunfels boys basketball at Buda Johnson",
    "startDate": "2026-12-15",
    "tag": "Away",
@@ -4669,16 +4633,6 @@
    ],
    "audience": "local",
    "id": "sch-canyon-ms-2026-12-15-beginner-band-christmas-concert"
-  },
-  {
-   "id": "2026-12-15-utsa-bb-vs-our-lady-of-the-lake",
-   "category": "utsa-bb",
-   "title": "UTSA vs. Our Lady of the Lake",
-   "startDate": "2026-12-15",
-   "location": "Convocation Center, San Antonio",
-   "tag": "Home",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "18:30"
   },
   {
    "title": "New Braunfels girls basketball vs. Long Creek",
@@ -5838,6 +5792,16 @@
    "id": "sch-long-creek-hs-2026-12-22-long-creek-girls-basketball-vs-smithson-valley-rang"
   },
   {
+   "id": "2026-12-22-utsa-bb-vs-huston-tillotson",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Huston-Tillotson",
+   "startDate": "2026-12-22",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "12:00"
+  },
+  {
    "title": "New Braunfels girls basketball at MacArthuur",
    "startDate": "2026-12-22",
    "tag": "Away",
@@ -5850,16 +5814,6 @@
    ],
    "audience": "local",
    "id": "sch-new-braunfels-hs-2026-12-22-new-braunfels-girls-basketball-at-macarthuur"
-  },
-  {
-   "id": "2026-12-22-utsa-bb-vs-huston-tillotson",
-   "category": "utsa-bb",
-   "title": "UTSA vs. Huston-Tillotson",
-   "startDate": "2026-12-22",
-   "location": "Convocation Center, San Antonio",
-   "tag": "Home",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "12:00"
   },
   {
    "title": "New Braunfels boys basketball vs. MacArthur",
@@ -6171,6 +6125,16 @@
    "id": "sch-canyon-hs-2026-12-29-canyon-girls-basketball-vs-gonzales-lady-apaches"
   },
   {
+   "id": "2026-12-29-utsa-bb-at-minnesota",
+   "category": "utsa-bb",
+   "title": "UTSA at Minnesota",
+   "startDate": "2026-12-29",
+   "location": "Minneapolis, Minn.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
+  },
+  {
    "id": "2026-12-29-horns-bb-vs-east-texas-a-m",
    "category": "horns-bb",
    "title": "Texas vs. East Texas A&M",
@@ -6180,16 +6144,6 @@
    "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
    "startTime": "19:00",
    "tv": "SEC Network+"
-  },
-  {
-   "id": "2026-12-29-utsa-bb-at-minnesota",
-   "category": "utsa-bb",
-   "title": "UTSA at Minnesota",
-   "startDate": "2026-12-29",
-   "location": "Minneapolis, Minn.",
-   "tag": "Away",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "19:00"
   },
   {
    "id": "2026-12-29-spurs-at-grizzlies",
@@ -6361,6 +6315,16 @@
    "sourceURL": "https://www.visitnbtx.com/events/first-friday"
   },
   {
+   "id": "2027-01-01-dynamite-el-dorado",
+   "category": "music",
+   "title": "Dynamite El Dorado",
+   "startDate": "2027-01-01",
+   "startTime": "17:00",
+   "endTime": "20:00",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "sourceURL": "https://gruenehall.com/event/dynamite-el-dorado/"
+  },
+  {
    "id": "2027-01-01-art-haus-in-downtown-nb",
    "category": "market",
    "title": "ART HAUS in Downtown NB",
@@ -6369,6 +6333,17 @@
    "endTime": "21:00",
    "location": "Downtown New Braunfels",
    "sourceURL": "https://www.visitnbtx.com/events/art-haus-in-downtown-nb"
+  },
+  {
+   "id": "2027-01-01-mavs-at-rockets",
+   "category": "mavs",
+   "title": "Mavericks at Rockets",
+   "startDate": "2027-01-01",
+   "startTime": "19:30",
+   "location": "Houston",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
+   "tv": "MavsTV+ or League Pass"
   },
   {
    "id": "2027-01-01-rockets-vs-mavericks",
@@ -6382,15 +6357,14 @@
    "tv": "Space City Home Network"
   },
   {
-   "id": "2027-01-01-mavs-at-rockets",
-   "category": "mavs",
-   "title": "Mavericks at Rockets",
+   "id": "2027-01-01-red-iron-push",
+   "category": "music",
+   "title": "Red Iron Push",
    "startDate": "2027-01-01",
-   "startTime": "19:30",
-   "location": "Houston",
-   "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
-   "tv": "MavsTV+ or League Pass"
+   "startTime": "20:00",
+   "endTime": "23:00",
+   "location": "Gruene Hall, 1281 Gruene Rd",
+   "sourceURL": "https://gruenehall.com/event/red-iron-push-26/"
   },
   {
    "title": "New Braunfels girls soccer at SCUC Tournament",
@@ -7531,6 +7505,21 @@
    "audience": "local"
   },
   {
+   "id": "2027-01-11-design-review-and-compliance-workshop",
+   "category": "hood",
+   "title": "Design Review and Compliance Workshop",
+   "startDate": "2027-01-11",
+   "startTime": "10:00",
+   "endTime": "11:00",
+   "location": "Veramendi Welcome Center",
+   "description": "Planning a new fence, patio, pergola, or paint color? Join the Veramendi management team for a walkthrough of the Design Review process and the community’s design guidelines. We’ll cover which projects need approval, …",
+   "sourceURL": "https://lifeatveramendi.org/event/design-review-and-compliance-workshop/",
+   "tags": [
+    "community:veramendi"
+   ],
+   "audience": "local"
+  },
+  {
    "id": "2027-01-11-rockets-at-celtics",
    "category": "rockets",
    "title": "Rockets at Celtics",
@@ -7540,6 +7529,21 @@
    "tag": "Away",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
    "tv": "Space City Home Network"
+  },
+  {
+   "id": "2027-01-12-design-review-and-compliance-workshop",
+   "category": "hood",
+   "title": "Design Review and Compliance Workshop",
+   "startDate": "2027-01-12",
+   "startTime": "17:00",
+   "endTime": "18:00",
+   "location": "Veramendi Welcome Center",
+   "description": "Planning a new fence, patio, pergola, or paint color? Join the Veramendi management team for a walkthrough of the Design Review process and the community’s design guidelines. We’ll cover which projects need approval, …",
+   "sourceURL": "https://lifeatveramendi.org/event/design-review-and-compliance-workshop-2/",
+   "tags": [
+    "community:veramendi"
+   ],
+   "audience": "local"
   },
   {
    "title": "Choir Concert",
@@ -7745,6 +7749,16 @@
    "id": "sch-long-creek-hs-2027-01-13-long-creek-wrestling-vs-new-braunfels"
   },
   {
+   "id": "2027-01-13-utsa-bb-at-charlotte",
+   "category": "utsa-bb",
+   "title": "UTSA at Charlotte",
+   "startDate": "2027-01-13",
+   "location": "Charlotte, N.C.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "18:00"
+  },
+  {
    "title": "New Braunfels wrestling at Long Creek LC",
    "startDate": "2027-01-13",
    "tag": "Away",
@@ -7757,16 +7771,6 @@
    ],
    "audience": "local",
    "id": "sch-new-braunfels-hs-2027-01-13-new-braunfels-wrestling-at-long-creek-lc"
-  },
-  {
-   "id": "2027-01-13-utsa-bb-at-charlotte",
-   "category": "utsa-bb",
-   "title": "UTSA at Charlotte",
-   "startDate": "2027-01-13",
-   "location": "Charlotte, N.C.",
-   "tag": "Away",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "18:00"
   },
   {
    "id": "2027-01-13-rockets-at-thunder",
@@ -9408,17 +9412,6 @@
    "startTime": "13:00"
   },
   {
-   "id": "2027-01-31-rockets-at-mavericks",
-   "category": "rockets",
-   "title": "Rockets at Mavericks",
-   "startDate": "2027-01-31",
-   "startTime": "19:30",
-   "location": "Dallas",
-   "tag": "Away",
-   "tv": "NBC",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
-  },
-  {
    "id": "2027-01-31-mavs-vs-rockets",
    "category": "mavs",
    "title": "Mavericks vs. Rockets",
@@ -9428,6 +9421,17 @@
    "tag": "Home",
    "tv": "NBC",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-01-31-rockets-at-mavericks",
+   "category": "rockets",
+   "title": "Rockets at Mavericks",
+   "startDate": "2027-01-31",
+   "startTime": "19:30",
+   "location": "Dallas",
+   "tag": "Away",
+   "tv": "NBC",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
   },
   {
    "id": "2027-02-01-spurs-at-warriors",
@@ -10209,16 +10213,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "2027-02-18-txst-bb-vs-fresno-state",
-   "category": "txst-bb",
-   "title": "Bobcats vs. Fresno State",
-   "startDate": "2027-02-18",
-   "location": "Strahan Arena, San Marcos",
-   "tag": "Home",
-   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
-   "startTime": "19:00"
-  },
-  {
    "id": "2027-02-18-utsa-bb-at-tulane",
    "category": "utsa-bb",
    "title": "UTSA at Tulane",
@@ -10226,6 +10220,16 @@
    "location": "New Orleans, La.",
    "tag": "Away",
    "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
+  },
+  {
+   "id": "2027-02-18-txst-bb-vs-fresno-state",
+   "category": "txst-bb",
+   "title": "Bobcats vs. Fresno State",
+   "startDate": "2027-02-18",
+   "location": "Strahan Arena, San Marcos",
+   "tag": "Home",
+   "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
    "startTime": "19:00"
   },
   {
@@ -11183,17 +11187,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "2027-03-19-rockets-at-pelicans",
-   "category": "rockets",
-   "title": "Rockets at Pelicans",
-   "startDate": "2027-03-19",
-   "startTime": "19:00",
-   "location": "New Orleans",
-   "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
-   "tv": "Space City Home Network"
-  },
-  {
    "id": "2027-03-19-mavs-at-spurs",
    "category": "mavs",
    "title": "Mavericks at Spurs",
@@ -11203,6 +11196,17 @@
    "tag": "Away",
    "tv": "NBA TV",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/"
+  },
+  {
+   "id": "2027-03-19-rockets-at-pelicans",
+   "category": "rockets",
+   "title": "Rockets at Pelicans",
+   "startDate": "2027-03-19",
+   "startTime": "19:00",
+   "location": "New Orleans",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-03-20-castell-st-market",
@@ -12155,17 +12159,6 @@
    "tv": "DAZN"
   },
   {
-   "id": "2027-04-11-rockets-at-timberwolves",
-   "category": "rockets",
-   "title": "Rockets at Timberwolves",
-   "startDate": "2027-04-11",
-   "startTime": "19:30",
-   "location": "Minneapolis",
-   "tag": "Away",
-   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
-   "tv": "Space City Home Network"
-  },
-  {
    "id": "2027-04-11-mavs-vs-grizzlies",
    "category": "mavs",
    "title": "Mavericks vs. Grizzlies",
@@ -12175,6 +12168,17 @@
    "tag": "Home",
    "sourceURL": "https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/",
    "tv": "MavsTV+ or League Pass"
+  },
+  {
+   "id": "2027-04-11-rockets-at-timberwolves",
+   "category": "rockets",
+   "title": "Rockets at Timberwolves",
+   "startDate": "2027-04-11",
+   "startTime": "19:30",
+   "location": "Minneapolis",
+   "tag": "Away",
+   "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/",
+   "tv": "Space City Home Network"
   },
   {
    "id": "2027-04-13-rangers-at-reds",
@@ -12753,50 +12757,50 @@
  ],
  "notices": [
   {
-   "id": "nb-pet-76878",
+   "id": "nb-pet-78080",
    "kind": "pets",
-   "title": "Adoptable: Guppy, baby Domestic Short Hair",
+   "title": "Adoptable: Hank, baby Domestic Short Hair",
    "detail": "Cat available for adoption at HSNBA, 3353 Morningside Dr. Photos and adoption steps are on the listing.",
    "level": "info",
-   "url": "https://hsnba.org/listing/76878-guppy-hsc20261915/",
+   "url": "https://hsnba.org/listing/78080-hank-abaddon-cfc20261934/",
    "source": "Humane Society of the New Braunfels Area",
-   "until": "2026-11-26",
-   "asOf": "2026-11-25",
+   "until": "2026-11-27",
+   "asOf": "2026-11-26",
    "collector": "civic"
   },
   {
-   "id": "nb-pet-77910",
+   "id": "nb-pet-78081",
    "kind": "pets",
-   "title": "Adoptable: Pip, young adult Domestic Short Hair",
+   "title": "Adoptable: Katherine, baby Domestic Short Hair",
    "detail": "Cat available for adoption at HSNBA, 3353 Morningside Dr. Photos and adoption steps are on the listing.",
    "level": "info",
-   "url": "https://hsnba.org/listing/77910-pip-cfc20261913/",
+   "url": "https://hsnba.org/listing/78081-katherine-cfc20261935/",
    "source": "Humane Society of the New Braunfels Area",
-   "until": "2026-11-26",
-   "asOf": "2026-11-25",
+   "until": "2026-11-27",
+   "asOf": "2026-11-26",
    "collector": "civic"
   },
   {
-   "id": "nb-pet-77922",
+   "id": "nb-pet-78083",
    "kind": "pets",
-   "title": "Adoptable: Floppy, young adult Domestic Short Hair",
+   "title": "Adoptable: Toad, baby Domestic Short Hair",
    "detail": "Cat available for adoption at HSNBA, 3353 Morningside Dr. Photos and adoption steps are on the listing.",
    "level": "info",
-   "url": "https://hsnba.org/listing/77922-floppy-nbc202612522/",
+   "url": "https://hsnba.org/listing/78083-toad-nathan-cfc20261937/",
    "source": "Humane Society of the New Braunfels Area",
-   "until": "2026-11-26",
-   "asOf": "2026-11-25",
+   "until": "2026-11-27",
+   "asOf": "2026-11-26",
    "collector": "civic"
   },
   {
-   "id": "new-braunfels-school-comal-isd-planned-2026-11-25",
+   "id": "new-braunfels-school-comal-isd-planned-2026-11-26",
    "kind": "school",
-   "title": "No school Nov 25 to 27 (Comal ISD)",
-   "detail": "Comal ISD calendar: no school Nov 25 to 27. (Thanksgiving Break)",
+   "title": "No school Nov 26 to 27 (Comal ISD)",
+   "detail": "Comal ISD calendar: no school Nov 26 to 27. (Thanksgiving Break)",
    "level": "info",
    "url": "https://www.comalisd.org/apps/events/46144257/",
    "source": "Comal ISD",
-   "asOf": "2026-11-25",
+   "asOf": "2026-11-26",
    "until": "2026-11-27",
    "tags": [
     "district:comal-isd"
@@ -12805,14 +12809,14 @@
    "collector": "schools_trash"
   },
   {
-   "id": "new-braunfels-school-nbisd-planned-2026-11-25",
+   "id": "new-braunfels-school-nbisd-planned-2026-11-26",
    "kind": "school",
-   "title": "No school Nov 25 to 30 (NBISD)",
-   "detail": "NBISD calendar: no school Nov 25 to 30. (Thanksgiving Break (no school); Student Holiday / Staff Professional Development)",
+   "title": "No school Nov 26 to 30 (NBISD)",
+   "detail": "NBISD calendar: no school Nov 26 to 30. (Thanksgiving Break (no school); Student Holiday / Staff Professional Development)",
    "level": "info",
    "url": "https://nbisd.org/wp-content/uploads/2026/03/26-27-School-Calendar-English-1-30-26-9-weeks.pdf",
    "source": "NBISD",
-   "asOf": "2026-11-25",
+   "asOf": "2026-11-26",
    "until": "2026-11-30",
    "tags": [
     "district:nbisd"
@@ -12828,7 +12832,7 @@
    "level": "info",
    "url": "https://www.newbraunfels.gov/3974/Holiday-Trash-Recycling",
    "source": "City of New Braunfels Solid Waste",
-   "asOf": "2026-11-25",
+   "asOf": "2026-11-26",
    "until": "2026-11-27",
    "tags": [
     "trash:6",
@@ -12846,7 +12850,7 @@
    "level": "warn",
    "url": "https://www.nbutexas.com/current-drought-stage/",
    "source": "New Braunfels Utilities",
-   "asOf": "2026-11-25",
+   "asOf": "2026-11-26",
    "waterDays": {
     "0": "Monday",
     "1": "Monday",
