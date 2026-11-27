@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "timeZone": "America/Chicago",
  "title": "New Braunfels Event Calendar",
  "city": {
@@ -1752,41 +1752,6 @@
    "sourceURL": "https://www.comalcopsforkids.com/"
   },
   {
-   "id": "2026-11-26-utsa-bb-vs-army",
-   "category": "utsa-bb",
-   "title": "UTSA vs. Army",
-   "startDate": "2026-11-26",
-   "location": "Convocation Center, San Antonio",
-   "tag": "Home",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "11:00"
-  },
-  {
-   "id": "2026-11-26-horns-bb-vs-georgetown",
-   "category": "horns-bb",
-   "title": "Texas vs. Georgetown",
-   "startDate": "2026-11-26",
-   "location": "San Diego, California",
-   "tag": "Neutral site",
-   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
-   "startTime": "13:30",
-   "tv": "FS1"
-  },
-  {
-   "id": "2026-11-26-cowboys-vs-eagles-thanksgiving",
-   "category": "cowboys",
-   "title": "Cowboys vs. Eagles (Thanksgiving)",
-   "startDate": "2026-11-26",
-   "location": "AT&T Stadium, Arlington",
-   "tag": "Home",
-   "sourceURL": "https://www.dallascowboys.com/schedule/",
-   "startTime": "15:30",
-   "tv": "FOX",
-   "featured": true,
-   "description": "The Thanksgiving Day game.",
-   "shortTitle": "Cowboys vs. Eagles"
-  },
-  {
    "id": "gruene-2026-11-27-photos-with-cowboy-kringle",
    "category": "holiday",
    "title": "Photos with Cowboy Kringle",
@@ -1843,6 +1808,17 @@
    ],
    "audience": "local",
    "id": "sch-canyon-lake-hs-2026-11-27-canyon-lake-boys-football-at-davenport"
+  },
+  {
+   "id": "2026-11-27-horns-bb-vs-saint-mary-s",
+   "category": "horns-bb",
+   "title": "Texas vs. Saint Mary's",
+   "startDate": "2026-11-27",
+   "location": "San Diego, California",
+   "tag": "Neutral site",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "16:00",
+   "tv": "FOX"
   },
   {
    "id": "2026-11-27-tiffiny-dawn-at-krause-s-cafe",
@@ -3546,16 +3522,6 @@
    "id": "sch-canyon-ms-2026-12-08-advanced-band-christmas-concert"
   },
   {
-   "id": "2026-12-08-utsa-bb-at-smu",
-   "category": "utsa-bb",
-   "title": "UTSA at SMU",
-   "startDate": "2026-12-08",
-   "location": "Dallas, Texas",
-   "tag": "Away",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "19:00"
-  },
-  {
    "title": "Canyon boys basketball vs. Carrizo Springs Wildcat Basketball",
    "startDate": "2026-12-08",
    "tag": "Home",
@@ -3603,6 +3569,16 @@
    "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
    "startTime": "19:00",
    "tv": "SEC Network+"
+  },
+  {
+   "id": "2026-12-08-utsa-bb-at-smu",
+   "category": "utsa-bb",
+   "title": "UTSA at SMU",
+   "startDate": "2026-12-08",
+   "location": "Dallas, Texas",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
   },
   {
    "title": "Davenport girls basketball at Liberal Arts and Science Academy…",
@@ -4598,16 +4574,6 @@
    "id": "sch-garden-ridge-es-2026-12-15-3rd-grade-performance-light-up-the-world"
   },
   {
-   "id": "2026-12-15-utsa-bb-vs-our-lady-of-the-lake",
-   "category": "utsa-bb",
-   "title": "UTSA vs. Our Lady of the Lake",
-   "startDate": "2026-12-15",
-   "location": "Convocation Center, San Antonio",
-   "tag": "Home",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "18:30"
-  },
-  {
    "title": "New Braunfels boys basketball at Buda Johnson",
    "startDate": "2026-12-15",
    "tag": "Away",
@@ -4633,6 +4599,16 @@
    ],
    "audience": "local",
    "id": "sch-canyon-ms-2026-12-15-beginner-band-christmas-concert"
+  },
+  {
+   "id": "2026-12-15-utsa-bb-vs-our-lady-of-the-lake",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Our Lady of the Lake",
+   "startDate": "2026-12-15",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "18:30"
   },
   {
    "title": "New Braunfels girls basketball vs. Long Creek",
@@ -5792,16 +5768,6 @@
    "id": "sch-long-creek-hs-2026-12-22-long-creek-girls-basketball-vs-smithson-valley-rang"
   },
   {
-   "id": "2026-12-22-utsa-bb-vs-huston-tillotson",
-   "category": "utsa-bb",
-   "title": "UTSA vs. Huston-Tillotson",
-   "startDate": "2026-12-22",
-   "location": "Convocation Center, San Antonio",
-   "tag": "Home",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "12:00"
-  },
-  {
    "title": "New Braunfels girls basketball at MacArthuur",
    "startDate": "2026-12-22",
    "tag": "Away",
@@ -5814,6 +5780,16 @@
    ],
    "audience": "local",
    "id": "sch-new-braunfels-hs-2026-12-22-new-braunfels-girls-basketball-at-macarthuur"
+  },
+  {
+   "id": "2026-12-22-utsa-bb-vs-huston-tillotson",
+   "category": "utsa-bb",
+   "title": "UTSA vs. Huston-Tillotson",
+   "startDate": "2026-12-22",
+   "location": "Convocation Center, San Antonio",
+   "tag": "Home",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "12:00"
   },
   {
    "title": "New Braunfels boys basketball vs. MacArthur",
@@ -6125,16 +6101,6 @@
    "id": "sch-canyon-hs-2026-12-29-canyon-girls-basketball-vs-gonzales-lady-apaches"
   },
   {
-   "id": "2026-12-29-utsa-bb-at-minnesota",
-   "category": "utsa-bb",
-   "title": "UTSA at Minnesota",
-   "startDate": "2026-12-29",
-   "location": "Minneapolis, Minn.",
-   "tag": "Away",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "19:00"
-  },
-  {
    "id": "2026-12-29-horns-bb-vs-east-texas-a-m",
    "category": "horns-bb",
    "title": "Texas vs. East Texas A&M",
@@ -6144,6 +6110,16 @@
    "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
    "startTime": "19:00",
    "tv": "SEC Network+"
+  },
+  {
+   "id": "2026-12-29-utsa-bb-at-minnesota",
+   "category": "utsa-bb",
+   "title": "UTSA at Minnesota",
+   "startDate": "2026-12-29",
+   "location": "Minneapolis, Minn.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
   },
   {
    "id": "2026-12-29-spurs-at-grizzlies",
@@ -7749,16 +7725,6 @@
    "id": "sch-long-creek-hs-2027-01-13-long-creek-wrestling-vs-new-braunfels"
   },
   {
-   "id": "2027-01-13-utsa-bb-at-charlotte",
-   "category": "utsa-bb",
-   "title": "UTSA at Charlotte",
-   "startDate": "2027-01-13",
-   "location": "Charlotte, N.C.",
-   "tag": "Away",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "18:00"
-  },
-  {
    "title": "New Braunfels wrestling at Long Creek LC",
    "startDate": "2027-01-13",
    "tag": "Away",
@@ -7771,6 +7737,16 @@
    ],
    "audience": "local",
    "id": "sch-new-braunfels-hs-2027-01-13-new-braunfels-wrestling-at-long-creek-lc"
+  },
+  {
+   "id": "2027-01-13-utsa-bb-at-charlotte",
+   "category": "utsa-bb",
+   "title": "UTSA at Charlotte",
+   "startDate": "2027-01-13",
+   "location": "Charlotte, N.C.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
+   "startTime": "18:00"
   },
   {
    "id": "2027-01-13-rockets-at-thunder",
@@ -9154,6 +9130,132 @@
    "tv": "MavsTV+ or League Pass"
   },
   {
+   "title": "Davenport girls basketball vs. Kerrville Tivy Antlers",
+   "startDate": "2027-01-26",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Davenport High Main Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=6779&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:davenport-hs"
+   ],
+   "audience": "local",
+   "id": "sch-davenport-hs-2027-01-26-davenport-girls-basketball-vs-kerrville-tivy-antlers"
+  },
+  {
+   "title": "Canyon Lake girls basketball vs. Bandera",
+   "startDate": "2027-01-26",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Canyon Lake Main Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=656&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:canyon-lake-hs"
+   ],
+   "audience": "local",
+   "id": "sch-canyon-lake-hs-2027-01-26-canyon-lake-girls-basketball-vs-bandera"
+  },
+  {
+   "title": "New Braunfels boys basketball at MacArthur",
+   "startDate": "2027-01-26",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "MacArthur HS",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "startTime": "18:45",
+   "tags": [
+    "school:new-braunfels-hs"
+   ],
+   "audience": "local",
+   "id": "sch-new-braunfels-hs-2027-01-26-new-braunfels-boys-basketball-at-macarthur"
+  },
+  {
+   "title": "New Braunfels girls basketball vs. MacArthur",
+   "startDate": "2027-01-26",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "NBHS Competition Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "startTime": "18:45",
+   "tags": [
+    "school:new-braunfels-hs"
+   ],
+   "audience": "local",
+   "id": "sch-new-braunfels-hs-2027-01-26-new-braunfels-girls-basketball-vs-macarthur"
+  },
+  {
+   "title": "Long Creek boys basketball vs. Smithson Valley Rangers",
+   "startDate": "2027-01-26",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Long Creek High School",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
+   "startTime": "18:45",
+   "tags": [
+    "school:long-creek-hs"
+   ],
+   "audience": "local",
+   "id": "sch-long-creek-hs-2027-01-26-long-creek-boys-basketball-vs-smithson-valley-range"
+  },
+  {
+   "title": "Long Creek girls basketball at Smithson Valley Rangers",
+   "startDate": "2027-01-26",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Smithson Valley HS",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
+   "startTime": "18:45",
+   "tags": [
+    "school:long-creek-hs"
+   ],
+   "audience": "local",
+   "id": "sch-long-creek-hs-2027-01-26-long-creek-girls-basketball-at-smithson-valley-rang"
+  },
+  {
+   "title": "Canyon girls basketball vs. San Marcos Lady Rattlers",
+   "startDate": "2027-01-26",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Cougar Den",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
+   "startTime": "19:00",
+   "tags": [
+    "school:canyon-hs"
+   ],
+   "audience": "local",
+   "id": "sch-canyon-hs-2027-01-26-canyon-girls-basketball-vs-san-marcos-lady-rattlers"
+  },
+  {
+   "title": "Canyon boys basketball at San Marcos Rattlers",
+   "startDate": "2027-01-26",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "San Marcos Rattlers",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
+   "startTime": "19:00",
+   "tags": [
+    "school:canyon-hs"
+   ],
+   "audience": "local",
+   "id": "sch-canyon-hs-2027-01-26-canyon-boys-basketball-at-san-marcos-rattlers"
+  },
+  {
+   "title": "Canyon boys soccer vs. San Marcos Rattlers",
+   "startDate": "2027-01-26",
+   "tag": "Home",
+   "category": "hs-soccer",
+   "location": "Cougar Stadium",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=9A2BC5C8-0EE5-45D9-8A26-0970995E25C8&S=657&Mt=0",
+   "startTime": "19:00",
+   "tags": [
+    "school:canyon-hs"
+   ],
+   "audience": "local",
+   "id": "sch-canyon-hs-2027-01-26-canyon-boys-soccer-vs-san-marcos-rattlers"
+  },
+  {
    "id": "2027-01-26-spurs-vs-rockets",
    "category": "spurs",
    "title": "Spurs vs. Rockets",
@@ -9174,6 +9276,62 @@
    "tag": "Away",
    "tv": "NBC",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "title": "New Braunfels boys soccer at Long Creek LC",
+   "startDate": "2027-01-26",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "Long Creek LC",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "startTime": "19:15",
+   "tags": [
+    "school:new-braunfels-hs"
+   ],
+   "audience": "local",
+   "id": "sch-new-braunfels-hs-2027-01-26-new-braunfels-boys-soccer-at-long-creek-lc"
+  },
+  {
+   "title": "New Braunfels girls soccer vs. Long Creek LC",
+   "startDate": "2027-01-26",
+   "tag": "Home",
+   "category": "hs-soccer",
+   "location": "Unicorn Stadium",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=2647",
+   "startTime": "19:15",
+   "tags": [
+    "school:new-braunfels-hs"
+   ],
+   "audience": "local",
+   "id": "sch-new-braunfels-hs-2027-01-26-new-braunfels-girls-soccer-vs-long-creek-lc"
+  },
+  {
+   "title": "Long Creek boys soccer vs. New Braunfels New Braunfels JVA",
+   "startDate": "2027-01-26",
+   "tag": "Home",
+   "category": "hs-soccer",
+   "location": "Dragon Stadium",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
+   "startTime": "19:15",
+   "tags": [
+    "school:long-creek-hs"
+   ],
+   "audience": "local",
+   "id": "sch-long-creek-hs-2027-01-26-long-creek-boys-soccer-vs-new-braunfels-new-braunfe"
+  },
+  {
+   "title": "Long Creek girls soccer at New Braunfels New",
+   "startDate": "2027-01-26",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "New Braunfels HS",
+   "sourceURL": "https://app.rankone.com/Schedules/iCalFeed.aspx?P=0&D=00A83BA0-61D5-48DF-9AF9-48E7C4B9A71C&S=7400",
+   "startTime": "19:15",
+   "tags": [
+    "school:long-creek-hs"
+   ],
+   "audience": "local",
+   "id": "sch-long-creek-hs-2027-01-26-long-creek-girls-soccer-at-new-braunfels-new"
   },
   {
    "id": "2027-01-27-mavs-at-raptors",
@@ -10213,16 +10371,6 @@
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
   },
   {
-   "id": "2027-02-18-utsa-bb-at-tulane",
-   "category": "utsa-bb",
-   "title": "UTSA at Tulane",
-   "startDate": "2027-02-18",
-   "location": "New Orleans, La.",
-   "tag": "Away",
-   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
-   "startTime": "19:00"
-  },
-  {
    "id": "2027-02-18-txst-bb-vs-fresno-state",
    "category": "txst-bb",
    "title": "Bobcats vs. Fresno State",
@@ -10230,6 +10378,16 @@
    "location": "Strahan Arena, San Marcos",
    "tag": "Home",
    "sourceURL": "https://txst.com/sports/mens-basketball/schedule",
+   "startTime": "19:00"
+  },
+  {
+   "id": "2027-02-18-utsa-bb-at-tulane",
+   "category": "utsa-bb",
+   "title": "UTSA at Tulane",
+   "startDate": "2027-02-18",
+   "location": "New Orleans, La.",
+   "tag": "Away",
+   "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
    "startTime": "19:00"
   },
   {
@@ -10469,6 +10627,60 @@
    "tag": "Home",
    "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
    "startTime": "19:00"
+  },
+  {
+   "title": "2nd Grade Field Trip The Meadows Center",
+   "startDate": "2027-02-25",
+   "location": "Carl Schurz Elementary",
+   "sourceURL": "https://nbisd.org/cse/",
+   "category": "school",
+   "tags": [
+    "school:carl-schurz-es"
+   ],
+   "audience": "local",
+   "id": "sch-carl-schurz-es-2027-02-25-2nd-grade-field-trip-the-meadows-center"
+  },
+  {
+   "title": "ASVAB @ Library",
+   "startDate": "2027-02-25",
+   "startTime": "09:00",
+   "endTime": "12:30",
+   "location": "Long Creek High School",
+   "sourceURL": "https://nbisd.org/lchs/",
+   "category": "school",
+   "tags": [
+    "school:long-creek-hs"
+   ],
+   "audience": "local",
+   "id": "sch-long-creek-hs-2027-02-25-asvab-library"
+  },
+  {
+   "title": "SE Kinder Field Trip to Children's Museum",
+   "startDate": "2027-02-25",
+   "startTime": "10:00",
+   "endTime": "14:00",
+   "location": "Seele Elementary",
+   "sourceURL": "https://nbisd.org/se/",
+   "category": "school",
+   "tags": [
+    "school:seele-es"
+   ],
+   "audience": "local",
+   "id": "sch-seele-es-2027-02-25-se-kinder-field-trip-to-children-s-museum"
+  },
+  {
+   "title": "KRE-Kinder Music Program \"Bunches of Bunnies\"",
+   "startDate": "2027-02-25",
+   "startTime": "17:30",
+   "endTime": "18:15",
+   "location": "Klein Road Elementary",
+   "sourceURL": "https://nbisd.org/kre/",
+   "category": "school",
+   "tags": [
+    "school:klein-road-es"
+   ],
+   "audience": "local",
+   "id": "sch-klein-road-es-2027-02-25-kre-kinder-music-program-bunches-of-bunnies"
   },
   {
    "id": "2027-02-25-txst-bb-vs-gonzaga",
@@ -12757,50 +12969,50 @@
  ],
  "notices": [
   {
-   "id": "nb-pet-78080",
+   "id": "nb-pet-78084",
    "kind": "pets",
-   "title": "Adoptable: Hank, baby Domestic Short Hair",
-   "detail": "Cat available for adoption at HSNBA, 3353 Morningside Dr. Photos and adoption steps are on the listing.",
+   "title": "Adoptable: Gingerbread, young adult chow chow",
+   "detail": "Dog available for adoption at HSNBA, 3353 Morningside Dr. Photos and adoption steps are on the listing.",
    "level": "info",
-   "url": "https://hsnba.org/listing/78080-hank-abaddon-cfc20261934/",
+   "url": "https://hsnba.org/listing/78084-gingerbread-cfd20261938/",
    "source": "Humane Society of the New Braunfels Area",
-   "until": "2026-11-27",
-   "asOf": "2026-11-26",
+   "until": "2026-11-28",
+   "asOf": "2026-11-27",
    "collector": "civic"
   },
   {
-   "id": "nb-pet-78081",
+   "id": "nb-pet-78085",
    "kind": "pets",
-   "title": "Adoptable: Katherine, baby Domestic Short Hair",
+   "title": "Adoptable: SaltGrass, young adult Domestic Short Hair",
    "detail": "Cat available for adoption at HSNBA, 3353 Morningside Dr. Photos and adoption steps are on the listing.",
    "level": "info",
-   "url": "https://hsnba.org/listing/78081-katherine-cfc20261935/",
+   "url": "https://hsnba.org/listing/78085-saltgrass-nfc202612293/",
    "source": "Humane Society of the New Braunfels Area",
-   "until": "2026-11-27",
-   "asOf": "2026-11-26",
+   "until": "2026-11-28",
+   "asOf": "2026-11-27",
    "collector": "civic"
   },
   {
-   "id": "nb-pet-78083",
+   "id": "nb-pet-78086",
    "kind": "pets",
-   "title": "Adoptable: Toad, baby Domestic Short Hair",
-   "detail": "Cat available for adoption at HSNBA, 3353 Morningside Dr. Photos and adoption steps are on the listing.",
+   "title": "Adoptable: Sourdough, adult chow chow/pomeranian",
+   "detail": "Dog available for adoption at HSNBA, 3353 Morningside Dr. Photos and adoption steps are on the listing.",
    "level": "info",
-   "url": "https://hsnba.org/listing/78083-toad-nathan-cfc20261937/",
+   "url": "https://hsnba.org/listing/78086-sourdough-cfd20261939/",
    "source": "Humane Society of the New Braunfels Area",
-   "until": "2026-11-27",
-   "asOf": "2026-11-26",
+   "until": "2026-11-28",
+   "asOf": "2026-11-27",
    "collector": "civic"
   },
   {
-   "id": "new-braunfels-school-comal-isd-planned-2026-11-26",
+   "id": "new-braunfels-school-comal-isd-planned-2026-11-27",
    "kind": "school",
-   "title": "No school Nov 26 to 27 (Comal ISD)",
-   "detail": "Comal ISD calendar: no school Nov 26 to 27. (Thanksgiving Break)",
+   "title": "No school Nov 27 (Comal ISD)",
+   "detail": "Comal ISD calendar: no school Nov 27. (Thanksgiving Break)",
    "level": "info",
    "url": "https://www.comalisd.org/apps/events/46144257/",
    "source": "Comal ISD",
-   "asOf": "2026-11-26",
+   "asOf": "2026-11-27",
    "until": "2026-11-27",
    "tags": [
     "district:comal-isd"
@@ -12809,14 +13021,14 @@
    "collector": "schools_trash"
   },
   {
-   "id": "new-braunfels-school-nbisd-planned-2026-11-26",
+   "id": "new-braunfels-school-nbisd-planned-2026-11-27",
    "kind": "school",
-   "title": "No school Nov 26 to 30 (NBISD)",
-   "detail": "NBISD calendar: no school Nov 26 to 30. (Thanksgiving Break (no school); Student Holiday / Staff Professional Development)",
+   "title": "No school Nov 27 to 30 (NBISD)",
+   "detail": "NBISD calendar: no school Nov 27 to 30. (Thanksgiving Break (no school); Student Holiday / Staff Professional Development)",
    "level": "info",
    "url": "https://nbisd.org/wp-content/uploads/2026/03/26-27-School-Calendar-English-1-30-26-9-weeks.pdf",
    "source": "NBISD",
-   "asOf": "2026-11-26",
+   "asOf": "2026-11-27",
    "until": "2026-11-30",
    "tags": [
     "district:nbisd"
@@ -12832,7 +13044,7 @@
    "level": "info",
    "url": "https://www.newbraunfels.gov/3974/Holiday-Trash-Recycling",
    "source": "City of New Braunfels Solid Waste",
-   "asOf": "2026-11-26",
+   "asOf": "2026-11-27",
    "until": "2026-11-27",
    "tags": [
     "trash:6",
@@ -12850,7 +13062,7 @@
    "level": "warn",
    "url": "https://www.nbutexas.com/current-drought-stage/",
    "source": "New Braunfels Utilities",
-   "asOf": "2026-11-26",
+   "asOf": "2026-11-27",
    "waterDays": {
     "0": "Monday",
     "1": "Monday",
