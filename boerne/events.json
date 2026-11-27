@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "timeZone": "America/Chicago",
  "title": "Boerne Event Calendar",
  "city": {
@@ -597,20 +597,6 @@
    "sourceURL": "https://theboernelife.com/events/6th-annual-bulverde-turkey-trot-at-bulverde-community-park/"
   },
   {
-   "title": "Thanksgiving Break",
-   "startDate": "2026-11-26",
-   "startTime": "08:00",
-   "endTime": "17:00",
-   "location": "All campuses",
-   "sourceURL": "https://www.boerneisd.net/",
-   "category": "school",
-   "tags": [
-    "district:boerne-isd"
-   ],
-   "audience": "local",
-   "id": "sch-boerne-isd-2026-11-26-thanksgiving-break"
-  },
-  {
    "id": "2026-11-26-turkey-talk-at-guadalupe-river-state-park",
    "category": "fest",
    "title": "Turkey Talk at Guadalupe River State Park",
@@ -641,31 +627,6 @@
    "tag": "Home",
    "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
    "startTime": "11:00"
-  },
-  {
-   "id": "2026-11-26-horns-bb-vs-georgetown",
-   "category": "horns-bb",
-   "title": "Texas vs. Georgetown",
-   "startDate": "2026-11-26",
-   "location": "San Diego, California",
-   "tag": "Neutral site",
-   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
-   "startTime": "13:30",
-   "tv": "FS1"
-  },
-  {
-   "id": "2026-11-26-cowboys-vs-eagles-thanksgiving",
-   "category": "cowboys",
-   "title": "Cowboys vs. Eagles (Thanksgiving)",
-   "startDate": "2026-11-26",
-   "location": "AT&T Stadium, Arlington",
-   "tag": "Home",
-   "sourceURL": "https://www.dallascowboys.com/schedule/",
-   "startTime": "15:30",
-   "tv": "FOX",
-   "featured": true,
-   "description": "The Thanksgiving Day game.",
-   "shortTitle": "Cowboys vs. Eagles"
   },
   {
    "id": "2026-11-27-dickens-on-main",
@@ -752,6 +713,17 @@
    ],
    "audience": "local",
    "id": "sch-champion-hs-2026-11-27-champion-boys-football-at-austin-anderson"
+  },
+  {
+   "id": "2026-11-27-horns-bb-vs-saint-mary-s",
+   "category": "horns-bb",
+   "title": "Texas vs. Saint Mary's",
+   "startDate": "2026-11-27",
+   "location": "San Diego, California",
+   "tag": "Neutral site",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "16:00",
+   "tv": "FOX"
   },
   {
    "id": "tapatio-springs-2026-11-27-lone-star-showdown-watch-party",
@@ -959,6 +931,15 @@
    "sourceURL": "https://www.fcdallas.com/news/fc-dallas-kickoff-times-and-dates-set-for-audi-2026-mls-cup-playoffs-round-one-best-of-3-series-against-the-portland-timbers"
   },
   {
+   "id": "2026-11-29-holiday-sips-at-devino-cellars",
+   "category": "holiday",
+   "title": "Holiday Sips at DeVino Cellars",
+   "startDate": "2026-11-29",
+   "location": "DeVino Cellars, 1109 S Main St",
+   "description": "The holiday season is underway at DeVino Cellars, offering a relaxing way to wind down after a busy Thanksgiving weekend. On Sunday, November 29, 2026, guests can stop by for a glass of wine, browse a selection of bot…",
+   "sourceURL": "https://theboernelife.com/events/holiday-sips-at-devino-cellars/"
+  },
+  {
    "id": "2026-11-29-texans-vs-ravens",
    "category": "texans",
    "title": "Texans vs. Ravens",
@@ -1000,6 +981,17 @@
    "tag": "Home",
    "tv": "NBA TV",
    "sourceURL": "https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/"
+  },
+  {
+   "id": "2026-11-29-lighting-of-the-trees",
+   "category": "holiday",
+   "title": "Lighting of the Trees",
+   "startDate": "2026-11-29",
+   "startTime": "18:00",
+   "endTime": "19:30",
+   "location": "1910 Church, 130 Sisterdale Rd",
+   "description": "Join us for one of our favorite holiday traditions, the Annual Lighting of the Trees! This Sunday, November 29th from 6–7:30pm, our campus will come alive with the sights and sounds of Christmas. Bring the whole famil…",
+   "sourceURL": "https://theboernelife.com/events/lighting-of-the-trees/"
   },
   {
    "title": "Champion golf at Tivy Invitational",
@@ -1057,6 +1049,17 @@
    "location": "Boerne Farmers’ Market, 157 S Main St",
    "description": "Boerne Farmers’ Market celebrates the season with a family-friendly holiday festival featuring live music, photos with Santa, a bounce house, children’s Christmas crafts, hot cocoa and cookies. The event takes place T…",
    "sourceURL": "https://theboernelife.com/events/homegrown-holiday-festival-at-boerne-farmers-market/"
+  },
+  {
+   "id": "2026-12-01-merry-bright-at-kendall-county-sheriff-s-office",
+   "category": "fest",
+   "title": "Merry & Bright at Kendall County Sheriff’s Office",
+   "startDate": "2026-12-01",
+   "startTime": "18:00",
+   "endTime": "21:00",
+   "location": "Kendall County Sheriff’s Office, 6 Staudt St.",
+   "description": "The holiday season gets a festive start with Merry & Bright, a community Christmas celebration hosted by the Kendall County Blue Santa Elves. Taking place on Tuesday, December 1, 2026, at 6 pm, the event will kick off…",
+   "sourceURL": "https://theboernelife.com/events/merry-bright-at-kendall-county-sheriffs-office/"
   },
   {
    "title": "Boerne boys basketball at Long Creek",
@@ -5546,6 +5549,19 @@
    "tv": "MavsTV+ or League Pass"
   },
   {
+   "title": "Boerne boys basketball at Mccollum",
+   "startDate": "2027-01-26",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "HARLANDALE ISD MULTI-CENTER",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-26-boerne-boys-basketball-at-mccollum"
+  },
+  {
    "title": "Rising 6th Grade Parent Night",
    "startDate": "2027-01-26",
    "startTime": "17:00",
@@ -5558,6 +5574,90 @@
    ],
    "audience": "local",
    "id": "sch-voss-ms-2027-01-26-rising-6th-grade-parent-night"
+  },
+  {
+   "title": "Boerne girls basketball vs. Mccollum",
+   "startDate": "2027-01-26",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Boerne High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-26-boerne-girls-basketball-vs-mccollum"
+  },
+  {
+   "title": "Champion boys soccer at Harlandale",
+   "startDate": "2027-01-26",
+   "tag": "Away",
+   "category": "hs-soccer",
+   "location": "HARLANDALE MEMORIAL STADIUM",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-26-champion-boys-soccer-at-harlandale"
+  },
+  {
+   "title": "Champion boys basketball at South San",
+   "startDate": "2027-01-26",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "SOUTH SAN HIGH SCHOOL",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-26-champion-boys-basketball-at-south-san"
+  },
+  {
+   "title": "Champion girls soccer vs. Harlandale",
+   "startDate": "2027-01-26",
+   "tag": "Home",
+   "category": "hs-soccer",
+   "location": "Champion High School Stadium",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-26-champion-girls-soccer-vs-harlandale"
+  },
+  {
+   "title": "Champion girls basketball vs. South San",
+   "startDate": "2027-01-26",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "Champion High School Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5305&Mt=0",
+   "startTime": "18:30",
+   "tags": [
+    "school:champion-hs"
+   ],
+   "audience": "local",
+   "id": "sch-champion-hs-2027-01-26-champion-girls-basketball-vs-south-san"
+  },
+  {
+   "title": "Boerne girls soccer vs. Medina Valley",
+   "startDate": "2027-01-26",
+   "tag": "Home",
+   "category": "hs-soccer",
+   "location": "Boerne ISD Stadium",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=01118F4F-56CF-4098-98B8-373A1B3CC6C5&S=5304&Mt=0",
+   "startTime": "19:00",
+   "tags": [
+    "school:boerne-hs"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-hs-2027-01-26-boerne-girls-soccer-vs-medina-valley"
   },
   {
    "id": "2027-01-26-spurs-vs-rockets",
@@ -6569,6 +6669,30 @@
    "tag": "Home",
    "sourceURL": "https://goutsa.com/sports/mens-basketball/schedule",
    "startTime": "19:00"
+  },
+  {
+   "title": "CES 2nd Grade Musical-\"It's A Hit!\" 8:00 AM & 5:30 PM",
+   "startDate": "2027-02-25",
+   "location": "All campuses",
+   "sourceURL": "https://www.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "district:boerne-isd"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-isd-2027-02-25-ces-2nd-grade-musical-it-s-a-hit-8-00-am-5-30-pm"
+  },
+  {
+   "title": "Panoramic Pictures Sales (During all lunches)",
+   "startDate": "2027-02-25",
+   "location": "Boerne Middle School North",
+   "sourceURL": "https://bmsn.boerneisd.net/",
+   "category": "school",
+   "tags": [
+    "school:boerne-ms-north-ms"
+   ],
+   "audience": "local",
+   "id": "sch-boerne-ms-north-ms-2027-02-25-panoramic-pictures-sales-during-all-lunches"
   },
   {
    "id": "2027-02-25-mavs-at-warriors",
@@ -8517,57 +8641,57 @@
   {
    "category": "music",
    "title": "Live music around Boerne",
-   "detail": "Most weeks at Dodging Duck Brewhaus, Valeria, Cibolo Creek Brewing, Pinchy’s Lobster & Raw Bar, Tapatio Springs, 259 Brantley’s Bistro & Bar, Bevy Hotel and AgriCultural Museum and Arts Center, and more. See The Boerne Life for the week's lineup.",
+   "detail": "Most weeks at Dodging Duck Brewhaus, Cibolo Creek Brewing, Pinchy’s Lobster & Raw Bar, Valeria, Tapatio Springs, 259 Brantley’s Bistro & Bar, Bevy Hotel and AgriCultural Museum and Arts Center, and more. See The Boerne Life for the week's lineup.",
    "sourceURL": "https://theboernelife.com/things-to-do-in-boerne-this-week/"
   }
  ],
  "notices": [
   {
-   "id": "boerne-road-dickens-on-main-road-closures--2026-11-26",
+   "id": "boerne-road-dickens-on-main-road-closures--2026-11-27",
    "kind": "road",
-   "title": "Street closure Thu Nov 26: Dickens on Main Road Closures…",
-   "detail": "Thu Nov 26: Home Alert Center Alert ◄ Back November 26, 2026 8:00 AM Dickens on Main Road Closures and Parking Dickens on Main is scheduled for Friday, November 27 and Saturday, November 28.",
+   "title": "Street closure Fri Nov 27: Dickens on Main Road Closures…",
+   "detail": "Fri Nov 27: Home Alert Center Alert ◄ Back November 26, 2026 8:00 AM Dickens on Main Road Closures and Parking Dickens on Main is scheduled for Friday, November 27 and Saturday, November 28.",
    "level": "info",
    "url": "https://www.ci.boerne.tx.us/AlertCenter.aspx?AID=55",
    "source": "City of Boerne",
-   "until": "2026-11-26",
-   "asOf": "2026-11-26",
-   "collector": "civic"
-  },
-  {
-   "id": "boerne-pet-50066971",
-   "kind": "pets",
-   "title": "Adoptable: Megatron, 1-month-old Domestic Shorthair",
-   "detail": "Male cat available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
-   "level": "info",
-   "url": "https://www.adoptapet.com/pet/50066971-boerne-texas-cat",
-   "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
    "until": "2026-11-27",
-   "asOf": "2026-11-26",
+   "asOf": "2026-11-27",
    "collector": "civic"
   },
   {
-   "id": "boerne-pet-50068802",
+   "id": "boerne-pet-50107514",
    "kind": "pets",
-   "title": "Adoptable: Bumblebee, 1-month-old Domestic Shorthair",
-   "detail": "Male cat available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
-   "level": "info",
-   "url": "https://www.adoptapet.com/pet/50068802-boerne-texas-cat",
-   "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
-   "until": "2026-11-27",
-   "asOf": "2026-11-26",
-   "collector": "civic"
-  },
-  {
-   "id": "boerne-pet-50081266",
-   "kind": "pets",
-   "title": "Adoptable: Jewel, 4-month-old Domestic Shorthair",
+   "title": "Adoptable: Venus, adult Domestic Shorthair",
    "detail": "Female cat available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
    "level": "info",
-   "url": "https://www.adoptapet.com/pet/50081266-boerne-texas-cat",
+   "url": "https://www.adoptapet.com/pet/50107514-boerne-texas-cat",
    "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
-   "until": "2026-11-27",
-   "asOf": "2026-11-26",
+   "until": "2026-11-28",
+   "asOf": "2026-11-27",
+   "collector": "civic"
+  },
+  {
+   "id": "boerne-pet-50107515",
+   "kind": "pets",
+   "title": "Adoptable: Ivy, adult Domestic Shorthair",
+   "detail": "Female cat available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
+   "level": "info",
+   "url": "https://www.adoptapet.com/pet/50107515-boerne-texas-cat",
+   "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
+   "until": "2026-11-28",
+   "asOf": "2026-11-27",
+   "collector": "civic"
+  },
+  {
+   "id": "boerne-pet-50112520",
+   "kind": "pets",
+   "title": "Adoptable: Billy, 2-month-old Domestic Shorthair",
+   "detail": "Male cat available for adoption at City of Boerne Animal Shelter, 330 S. Esser Rd. Photos and adoption steps are on the listing.",
+   "level": "info",
+   "url": "https://www.adoptapet.com/pet/50112520-boerne-texas-cat",
+   "source": "City of Boerne Animal Shelter (Adopt-a-Pet)",
+   "until": "2026-11-28",
+   "asOf": "2026-11-27",
    "collector": "civic"
   },
   {
@@ -8579,7 +8703,7 @@
    "url": "https://business.boerne.org/events/details/ribbon-cutting-for-iron-star-excavation-clearing-35923",
    "source": "Greater Boerne Chamber of Commerce",
    "until": "2026-12-01",
-   "asOf": "2026-11-26",
+   "asOf": "2026-11-27",
    "collector": "civic"
   },
   {
@@ -8591,18 +8715,18 @@
    "url": "https://business.boerne.org/events/details/ribbon-cutting-for-trophy-properties-35924",
    "source": "Greater Boerne Chamber of Commerce",
    "until": "2026-12-03",
-   "asOf": "2026-11-26",
+   "asOf": "2026-11-27",
    "collector": "civic"
   },
   {
-   "id": "boerne-school-boerne-isd-planned-2026-11-26",
+   "id": "boerne-school-boerne-isd-planned-2026-11-27",
    "kind": "school",
-   "title": "No school Nov 26 to 27 (Boerne ISD)",
-   "detail": "Boerne ISD calendar: no school Nov 26 to 27. (Thanksgiving Break)",
+   "title": "No school Nov 27 (Boerne ISD)",
+   "detail": "Boerne ISD calendar: no school Nov 27. (Thanksgiving Break)",
    "level": "info",
    "url": "https://www.boerneisd.net/",
    "source": "Boerne ISD",
-   "asOf": "2026-11-26",
+   "asOf": "2026-11-27",
    "until": "2026-11-27",
    "tags": [
     "district:boerne-isd"
@@ -8618,7 +8742,7 @@
    "level": "info",
    "url": "https://myboernenews.com/holiday-trash-and-recycling-schedule-for-boerne-wm-customers/",
    "source": "City of Boerne",
-   "asOf": "2026-11-26",
+   "asOf": "2026-11-27",
    "until": "2026-12-03",
    "collector": "schools_trash"
   },
@@ -8626,11 +8750,24 @@
    "id": "boerne-water-stage",
    "kind": "water",
    "title": "Boerne Stage 2 watering rules",
-   "detail": "Boerne Utilities customers are in Stage 2 water restrictions. See the city's page for your watering day and hours.",
+   "detail": "Sprinklers one day a week by address (0-1 Mon, 2-3 Tue, 4-5 Wed, 6-7 Thu, 8-9 Fri), 7am-11am or 7pm-11pm; no weekends; hand watering any time. In effect since August 7, 2023.",
    "level": "warn",
    "url": "https://www.ci.boerne.tx.us/1947/Water-Restrictions",
    "source": "City of Boerne (Boerne Utilities)",
-   "asOf": "2026-11-26",
+   "asOf": "2026-11-27",
+   "waterDays": {
+    "0": "Monday",
+    "1": "Monday",
+    "2": "Tuesday",
+    "3": "Tuesday",
+    "4": "Wednesday",
+    "5": "Wednesday",
+    "6": "Thursday",
+    "7": "Thursday",
+    "8": "Friday",
+    "9": "Friday"
+   },
+   "waterHours": "7am-11am or 7pm-11pm",
    "collector": "utilities"
   }
  ],
