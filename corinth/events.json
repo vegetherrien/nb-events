@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "timeZone": "America/Chicago",
  "title": "Corinth Event Calendar",
  "city": {
@@ -388,42 +388,6 @@
    "id": "sch-lake-dallas-es-2026-11-23-lde-student-holiday-no-school"
   },
   {
-   "title": "Thanksgiving Break",
-   "startDate": "2026-11-26",
-   "endDate": "2026-11-27",
-   "location": "All campuses",
-   "sourceURL": "https://guyerhs.dentonisd.org/",
-   "category": "school",
-   "tags": [
-    "district:denton-isd"
-   ],
-   "audience": "local",
-   "id": "sch-denton-isd-2026-11-26-thanksgiving-break"
-  },
-  {
-   "title": "Thanksgiving Holiday Break",
-   "startDate": "2026-11-26",
-   "location": "McNair Elementary",
-   "sourceURL": "https://mcnaires.dentonisd.org/",
-   "category": "school",
-   "tags": [
-    "school:mcnair-es"
-   ],
-   "audience": "local",
-   "id": "sch-mcnair-es-2026-11-26-thanksgiving-holiday-break"
-  },
-  {
-   "id": "2026-11-26-horns-bb-vs-georgetown",
-   "category": "horns-bb",
-   "title": "Texas vs. Georgetown",
-   "startDate": "2026-11-26",
-   "location": "San Diego, California",
-   "tag": "Neutral site",
-   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
-   "startTime": "13:30",
-   "tv": "FS1"
-  },
-  {
    "id": "2026-11-27-germany-s-great-bavarian-circus",
    "category": "arts",
    "title": "Germany's Great Bavarian Circus",
@@ -450,6 +414,41 @@
    "location": "Bearded Monk, 122 E. McKinney St., Denton",
    "description": "It’s Black Friday and we’re inviting you to our community dinner! We’ll order some brisket and turkey to set the QUEERSgiving Table. Comment on the Facebook event (link below) with the dish you want to share with ever…",
    "sourceURL": "https://www.discoverdenton.com/event/queersgiving-community-potluck/12521/"
+  },
+  {
+   "title": "Thanksgiving Break",
+   "startDate": "2026-11-27",
+   "location": "All campuses",
+   "sourceURL": "https://guyerhs.dentonisd.org/",
+   "category": "school",
+   "tags": [
+    "district:denton-isd"
+   ],
+   "audience": "local",
+   "id": "sch-denton-isd-2026-11-27-thanksgiving-break"
+  },
+  {
+   "title": "Thanksgiving Holiday Break",
+   "startDate": "2026-11-27",
+   "location": "McNair Elementary",
+   "sourceURL": "https://mcnaires.dentonisd.org/",
+   "category": "school",
+   "tags": [
+    "school:mcnair-es"
+   ],
+   "audience": "local",
+   "id": "sch-mcnair-es-2026-11-27-thanksgiving-holiday-break"
+  },
+  {
+   "id": "2026-11-27-horns-bb-vs-saint-mary-s",
+   "category": "horns-bb",
+   "title": "Texas vs. Saint Mary's",
+   "startDate": "2026-11-27",
+   "location": "San Diego, California",
+   "tag": "Neutral site",
+   "sourceURL": "https://texaslonghorns.com/sports/mens-basketball/schedule",
+   "startTime": "16:00",
+   "tv": "FOX"
   },
   {
    "id": "2026-11-27-meangreen-bb-vs-north-dakota-state",
@@ -1651,6 +1650,18 @@
    "location": "Golden Triangle Mall, 2201 S. Interstate 35 E., Denton",
    "description": "Holiday Magic, Music & Giving! Get ready to jingle all the way into the holiday spirit! The Trammell Group proudly presents \"Jingle Tales V,\" a festive, family-friendly celebration filled with holiday music, heartwarm…",
    "sourceURL": "https://www.discoverdenton.com/event/the-trammell-group-presents%3a-jingle-tales/12541/"
+  },
+  {
+   "title": "Grinch Day",
+   "startDate": "2026-12-15",
+   "location": "Nelson Elementary",
+   "sourceURL": "https://nelsones.dentonisd.org/",
+   "category": "school",
+   "tags": [
+    "school:nelson-es"
+   ],
+   "audience": "local",
+   "id": "sch-nelson-es-2026-12-15-grinch-day"
   },
   {
    "title": "Theater Troupe Cocao & Carols",
@@ -3827,6 +3838,34 @@
    "tv": "KFAA 29 or MavsTV+"
   },
   {
+   "title": "Guyer girls basketball at Little Elm Lady Lobos",
+   "startDate": "2027-01-26",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Little Elm High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=730FD002-2D34-4C63-8FFD-03CCDD940EFB&S=54&Mt=0",
+   "startTime": "18:00",
+   "tags": [
+    "school:guyer-hs"
+   ],
+   "audience": "local",
+   "id": "sch-guyer-hs-2027-01-26-guyer-girls-basketball-at-little-elm-lady-lobos"
+  },
+  {
+   "title": "Lake Dallas girls basketball vs. Ponder",
+   "startDate": "2027-01-26",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "LDHS Competition Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
+   "startTime": "18:15",
+   "tags": [
+    "school:lake-dallas-hs"
+   ],
+   "audience": "local",
+   "id": "sch-lake-dallas-hs-2027-01-26-lake-dallas-girls-basketball-vs-ponder"
+  },
+  {
    "id": "2027-01-26-spurs-vs-rockets",
    "category": "spurs",
    "title": "Spurs vs. Rockets",
@@ -3847,6 +3886,34 @@
    "tag": "Away",
    "tv": "NBC",
    "sourceURL": "https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/"
+  },
+  {
+   "title": "Guyer boys basketball at Little Elm Lobos",
+   "startDate": "2027-01-26",
+   "tag": "Away",
+   "category": "hs-basketball",
+   "location": "Little Elm High School",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=730FD002-2D34-4C63-8FFD-03CCDD940EFB&S=54&Mt=0",
+   "startTime": "19:15",
+   "tags": [
+    "school:guyer-hs"
+   ],
+   "audience": "local",
+   "id": "sch-guyer-hs-2027-01-26-guyer-boys-basketball-at-little-elm-lobos"
+  },
+  {
+   "title": "Lake Dallas boys basketball vs. Ponder",
+   "startDate": "2027-01-26",
+   "tag": "Home",
+   "category": "hs-basketball",
+   "location": "LDHS Competition Gym",
+   "sourceURL": "https://app.rankone.com/Schedules/View_Schedule_All_Web.aspx?P=0&D=49C22C3B-F8C8-4316-BB3C-D8F9A4CBD557&S=1245&Mt=0",
+   "startTime": "19:30",
+   "tags": [
+    "school:lake-dallas-hs"
+   ],
+   "audience": "local",
+   "id": "sch-lake-dallas-hs-2027-01-26-lake-dallas-boys-basketball-vs-ponder"
   },
   {
    "title": "Boosterthon Indoor Glow Run Day",
@@ -4774,6 +4841,20 @@
    "tag": "Away",
    "sourceURL": "https://meangreensports.com/sports/mens-basketball/schedule",
    "startTime": "19:00"
+  },
+  {
+   "title": "LDE PTA Apex Fun Run",
+   "startDate": "2027-02-25",
+   "startTime": "08:00",
+   "endTime": "15:30",
+   "location": "Lake Dallas Elementary",
+   "sourceURL": "https://lde.ldisd.net/",
+   "category": "school",
+   "tags": [
+    "school:lake-dallas-es"
+   ],
+   "audience": "local",
+   "id": "sch-lake-dallas-es-2027-02-25-lde-pta-apex-fun-run"
   },
   {
    "id": "2027-02-25-mavs-at-warriors",
@@ -6681,14 +6762,14 @@
  ],
  "notices": [
   {
-   "id": "corinth-school-denton-isd-planned-2026-11-26",
+   "id": "corinth-school-denton-isd-planned-2026-11-27",
    "kind": "school",
-   "title": "No school Nov 26 to 27 (Denton ISD)",
-   "detail": "Denton ISD calendar: no school Nov 26 to 27. (Thanksgiving Break)",
+   "title": "No school Nov 27 (Denton ISD)",
+   "detail": "Denton ISD calendar: no school Nov 27. (Thanksgiving Break)",
    "level": "info",
    "url": "https://guyerhs.dentonisd.org/",
    "source": "Denton ISD",
-   "asOf": "2026-11-26",
+   "asOf": "2026-11-27",
    "until": "2026-11-27",
    "tags": [
     "district:denton-isd"
@@ -6704,7 +6785,7 @@
    "level": "info",
    "url": "https://www.corinthtx.gov/3258/Water-Conservation-and-Drought-Contingen",
    "source": "Upper Trinity Regional Water District",
-   "asOf": "2026-11-26",
+   "asOf": "2026-11-27",
    "collector": "utilities"
   }
  ],
